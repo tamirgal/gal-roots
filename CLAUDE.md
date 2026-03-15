@@ -39,7 +39,7 @@ gal-roots/
 │   ├── link_places.py         ← links place names in People/ notes → Places/ wikilinks
 │   └── dedup_pictures.py      ← iCloud duplicate cleaner
 └── website/                   ← Quartz static site framework
-    ├── content/               ← synced from obsidian/ at build time (NOT in git)
+    ├── content/               ← synced from obsidian/ at build time (tracked in git)
     ├── public/                ← built output (NOT in git, NOT gitignored*)
     ├── quartz/                ← Quartz framework + customisations
     └── quartz.config.ts
@@ -206,7 +206,7 @@ research_level: 2
 The vault is published as a static website using [Quartz](https://quartz.jzhao.xyz/).
 Quartz lives at `~/git/gal-roots/website/`.
 
-**IMPORTANT:** `website/content/` must NOT be in `.gitignore` — Quartz uses globby's `isGitIgnored()` to scan files, and if `content/` is git-ignored, Quartz silently finds 0 files. `content/` is simply left untracked.
+**IMPORTANT:** `website/content/` must NOT be in `.gitignore` — Quartz uses globby's `isGitIgnored()` to scan files, and if `content/` is git-ignored, Quartz silently finds 0 files. `content/` is tracked in git and kept in sync with `obsidian/` by running `build_website.sh` locally before committing.
 
 ### Full regeneration (migration + website)
 
