@@ -27,7 +27,7 @@ I began in May 2002. Starting with about a dozen families, today this folder con
 
 Each time I read it, I feel the need to correct, to add a picture, some comments, and other forgotten details. So, my dears, if you find some errors or mistakes, or even if you want to modify and add some comments, or anything else, please don't hesitate — contact me!
 
-> Elie Patan · 55 Jabotinsky St., Ramat-Gan, Israel
+> Elie Patan · 55 Jabotinsky St., [[Places/Ramat Gan]], [[Places/Israel]]
 > Tel: +972-3-7511025 · Email: sf_epatan@bezeqint.net
 
 ---
@@ -50,7 +50,7 @@ J'ai commencé au mois de mai 2002. Commençant avec à peine une dizaine de fam
 
 Chaque fois que je visite le site, je sens le besoin de corriger, d'y ajouter certains détails oubliés. Si vous trouvez des erreurs ou si vous voulez ajouter des photos, ou vos opinions et commentaires, n'hésitez pas à me contacter.
 
-> Elie Patan · 55 rue Jabotinsky, Ramat-Gan, Israël
+> Elie Patan · 55 rue Jabotinsky, [[Places/Ramat Gan]], [[Places/Israel|Israël]]
 > Tél : +972-3-7511025 · Email : sf_epatan@bezeqint.net
 
 ---

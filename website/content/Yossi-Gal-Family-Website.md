@@ -9,7 +9,7 @@ tags: [document, introduction, ygtree]
 
 ## Shalom and Welcome
 
-My name is [[People/Joseph-Goldstein-Gal|Joseph Goldstein Gal]], known as Yossi. I'm the son of [[People/Moshe-Goldstein|Moshe Goldstein]] from Uzhgorod (Ungvar) and [[People/Chaya-Farkas-Goldstein|Chaya Farkas]] from Tyachiv (Técső). I'm also related through my grandmothers to the Klein family from Uzhgorod and the Aharon family from Tyachiv.
+My name is [[People/Joseph-Goldstein-Gal|Joseph Goldstein Gal]], known as Yossi. I'm the son of [[People/Moshe-Goldstein|Moshe Goldstein]] from [[Places/Uzhgorod|Uzhgorod (Ungvar)]] and [[People/Chaya-Farkas-Goldstein|Chaya Farkas]] from [[Places/Tyachiv|Tyachiv (Técső)]]. I'm also related through my grandmothers to the Klein family from [[Places/Uzhgorod]] and the Aharon family from [[Places/Tyachiv]].
 
 This is our first attempt to collect and record information about our families and ancestors. We would like to use the Internet to collect and share information among ourselves.
 
