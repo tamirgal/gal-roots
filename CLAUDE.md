@@ -4,7 +4,9 @@
 
 This is the **Charted Roots project** for the Gal-Patan family tree (~960 people). It contains the Obsidian vault, migration scripts, and Quartz static website, all under one git repository.
 
-Root: `~/git/gal-roots/`
+- **GitHub repo:** https://github.com/tamirgal/gal-roots
+- **Live website:** https://tamirgal.github.io/gal-roots
+- **Local root:** `~/git/gal-roots/`
 
 ---
 
@@ -12,14 +14,16 @@ Root: `~/git/gal-roots/`
 
 ```
 gal-roots/
+├── .github/workflows/deploy.yml  ← GitHub Actions: build + deploy to Pages on push
 ├── obsidian/                  ← Obsidian vault (migration output)
 │   ├── People/                ← ~958 person notes
 │   ├── attachments/
 │   │   ├── pictures/          ← photos from epatan + ygtree
 │   │   └── docs/              ← linked documents
-│   ├── Charted Roots/         ← Charted Roots plugin data
+│   ├── index.md               ← website home page (canonical source)
 │   ├── Elie-Patan-Family-Website.md
-│   └── Yossi-Gal-Family-Website.md
+│   ├── Yossi-Gal-Family-Website.md
+│   └── Charted Roots/         ← Charted Roots plugin data (gitignored)
 ├── scripts/                   ← migration + maintenance scripts
 │   ├── migration/
 │   │   ├── migrate_cr.py      ← orchestrator
@@ -30,13 +34,16 @@ gal-roots/
 │   │   ├── parsers.py
 │   │   ├── writers_cr.py
 │   │   └── merge_config.json
+│   ├── build_website.sh       ← syncs obsidian/ + builds Quartz
 │   └── dedup_pictures.py      ← iCloud duplicate cleaner
-└── website/                   ← Quartz static site
+└── website/                   ← Quartz static site framework
     ├── content/               ← synced from obsidian/ at build time (NOT in git)
-    ├── public/                ← built output (NOT in git)
+    ├── public/                ← built output (NOT in git, NOT gitignored*)
     ├── quartz/                ← Quartz framework + customisations
     └── quartz.config.ts
 ```
+
+\* `website/content/` must NOT be gitignored — see Quartz notes below.
 
 ---
 
@@ -288,6 +295,29 @@ find obsidian/People -name "* 3.md" -delete
 ```
 
 **Note:** Re-running the full migration clears all notes including iCloud duplicates, so dedup is only needed when skipping a full re-migration.
+
+---
+
+## GitHub deployment
+
+**Repo:** https://github.com/tamirgal/gal-roots
+**Live site:** https://tamirgal.github.io/gal-roots
+
+The site is deployed automatically via GitHub Actions on every push to `main`.
+Workflow: `.github/workflows/deploy.yml`
+
+### How it works
+1. GitHub runner checks out the repo
+2. Runs `npm ci` in `website/`
+3. Runs `scripts/build_website.sh` (syncs `obsidian/` → `website/content/`, builds Quartz)
+4. Uploads `website/public/` as a Pages artifact and deploys it
+
+The built files never touch the git repo — they're served directly from GitHub's CDN.
+Deployments are visible at: https://github.com/tamirgal/gal-roots/deployments
+
+### Triggering a deploy
+- **Automatic:** any push to `main`
+- **Manual:** GitHub → Actions → "Build and deploy website" → Run workflow
 
 ---
 
