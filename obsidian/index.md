@@ -9,4 +9,4 @@ Welcome to the Gal family genealogy site.
 - [[Elie-Patan-Family-Website|Elie Patan Family Tree]]
 - [[Yossi-Gal-Family-Website|Yossi Gal Family Tree]]
 
-Browse [[People]] to explore all family members.
+Browse [People](People/) to explore all family members.
