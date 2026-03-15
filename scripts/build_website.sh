@@ -9,6 +9,7 @@ SITE="$ROOT/website"
 CONTENT="$SITE/content"
 
 echo "Syncing content..."
+mkdir -p "$CONTENT"
 rm -rf "$CONTENT/People" "$CONTENT/attachments" "$CONTENT/Places"
 rsync -a "$VAULT/People/"       "$CONTENT/People/"
 rsync -a "$VAULT/attachments/"  "$CONTENT/attachments/"
