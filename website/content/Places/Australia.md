@@ -1,0 +1,4 @@
+---
+name: Australia
+type: place
+---

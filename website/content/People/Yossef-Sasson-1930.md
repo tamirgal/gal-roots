@@ -1,0 +1,20 @@
+---
+cr_id: ind00143
+name: Yossef Sasson
+father: "[[People/David-Sasson]]"
+father_id: ind00122
+mother: "[[People/Sarah-Ambar-Sasson]]"
+mother_id: ind00142
+born: "1930"
+sex: male
+research_level: 1
+---
+
+## Family
+
+**Father:** [[People/David-Sasson|David Sasson]]
+**Mother:** [[People/Sarah-Ambar-Sasson|Sarah Ambar Sasson]]
+**Siblings:** [[People/Rahel-Sasson-1922|Rahel Sasson]], [[People/Khalifa-Sasson-1924|Khalifa Sasson]], [[People/Abraham-Sasson|Abraham Sasson]]
+
+## Biography
+

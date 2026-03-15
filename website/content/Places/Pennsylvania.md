@@ -1,0 +1,4 @@
+---
+name: Pennsylvania
+type: place
+---

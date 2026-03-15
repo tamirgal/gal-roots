@@ -1,0 +1,4 @@
+---
+name: Herzliya
+type: place
+---

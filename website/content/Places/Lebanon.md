@@ -1,0 +1,4 @@
+---
+name: Lebanon
+type: place
+---

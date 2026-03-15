@@ -1,0 +1,4 @@
+---
+name: Budapest
+type: place
+---

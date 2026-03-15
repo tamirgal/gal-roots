@@ -1,0 +1,4 @@
+---
+name: Uzhgorod
+type: place
+---

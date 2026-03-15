@@ -1,0 +1,4 @@
+---
+name: Cyprus
+type: place
+---

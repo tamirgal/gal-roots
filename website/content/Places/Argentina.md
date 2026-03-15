@@ -1,0 +1,4 @@
+---
+name: Argentina
+type: place
+---

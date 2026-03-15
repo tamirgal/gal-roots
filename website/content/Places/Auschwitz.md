@@ -1,0 +1,4 @@
+---
+name: Auschwitz
+type: place
+---

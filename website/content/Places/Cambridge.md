@@ -1,0 +1,4 @@
+---
+name: Cambridge
+type: place
+---

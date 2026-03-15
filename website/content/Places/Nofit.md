@@ -1,0 +1,4 @@
+---
+name: Nofit
+type: place
+---

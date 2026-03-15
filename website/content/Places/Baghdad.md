@@ -1,0 +1,4 @@
+---
+name: Baghdad
+type: place
+---

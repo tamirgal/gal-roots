@@ -1,0 +1,4 @@
+---
+name: Luxor
+type: place
+---

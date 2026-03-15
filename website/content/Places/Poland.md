@@ -1,0 +1,4 @@
+---
+name: Poland
+type: place
+---
