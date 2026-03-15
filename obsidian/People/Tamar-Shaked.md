@@ -23,7 +23,7 @@ research_level: 2
 **Siblings:** [[People/Maya-Shaked-Rabi|Maya Shaked Rabi]], [[People/Ayala-Shaked|Ayala Shaked]]
 
 ## Biography
-Tamar was born in Haifa (Israel) and lives in Timrat, Israel. She is currently an officer in the IDF (Israeli Defens Forces).
+Tamar was born in [[Places/Haifa]] (Israel) and lives in [[Places/Timrat]], Israel. She is currently an officer in the IDF (Israeli Defens Forces).
 
 ## Photos
 

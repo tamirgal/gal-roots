@@ -33,7 +33,7 @@ research_level: 2
 **Children:** [[People/Guily-Goldmann|Guily Goldmann]], [[People/Roni-Goldmann|Roni Goldmann]]
 
 ## Biography
-Rahel Abadi, married to Yonathan Goldmann in Israel, 5 September 1961.
+Rahel Abadi, married to Yonathan Goldmann in [[Places/Israel]], 5 September 1961.
 
 ## Photos
 

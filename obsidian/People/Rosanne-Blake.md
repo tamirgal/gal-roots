@@ -31,7 +31,7 @@ research_level: 1
 ![[attachments/pictures/blak_rosanne.jpg]]
 
 ![[attachments/pictures/blake_rosie_birthday.jpg]]
-*Welcome party for Rosie in Israel - December 2002, with the Goldsteins*
+*Welcome party for Rosie in [[Places/Israel]] - December 2002, with the Goldsteins*
 
 ![[attachments/pictures/blake_rosie_with_gals.jpg]]
 *December 2002 - Rosie visiting the Gal/Goldstein family*

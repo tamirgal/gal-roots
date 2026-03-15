@@ -1,0 +1,4 @@
+---
+name: Egypt
+type: place
+---

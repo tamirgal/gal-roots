@@ -48,7 +48,7 @@ research_level: 1
 ![[attachments/pictures/blake_rachel.jpg]]
 
 ![[attachments/pictures/london1.jpg]]
-*A toast for the 50th anniversary of Mickey and Chaya Gildstein, Aug 1996, in London*
+*A toast for the 50th anniversary of Mickey and Chaya Gildstein, Aug 1996, in [[Places/London]]*
 
 ![[attachments/pictures/london2.jpg]]
 

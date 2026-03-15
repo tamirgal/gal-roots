@@ -42,7 +42,7 @@ research_level: 2
 **Children:** [[People/Moshe-Rosenthal|Moshe Rosenthal]], [[People/Shoshana-Rosenthal|Shoshana Rosenthal]], [[People/Joseph-Rosenthal|Joseph Rosenthal]], [[People/Yona-Rosenthal|Yona Rosenthal]], [[People/Ronnie-Rosenthal|Ronnie Rosenthal]]
 
 ## Biography
-Dvora Bronstein, emigrated to Israel with her brother Yacov, before World War 2, by the " Hashomer Hatzayir." She lives with her family in Haifa.
+Dvora Bronstein, emigrated to [[Places/Israel]] with her brother Yacov, before World War 2, by the " Hashomer Hatzayir." She lives with her family in [[Places/Haifa]].
 
 ## Photos
 
@@ -55,4 +55,4 @@ Dvora Bronstein, emigrated to Israel with her brother Yacov, before World War 2,
 ![[attachments/pictures/goldstein_rosenthal_haifa1949.jpg]]
 
 ![[attachments/pictures/mariage_yossi_aviva_5.jpg]]
-*At the wedding of Yossi Gal and Aviva Patan in Tel Aviv, 6 August 1974.On the right, Dvora Rosenthal*
+*At the wedding of Yossi Gal and Aviva Patan in [[Places/Tel Aviv]], 6 August 1974.On the right, Dvora Rosenthal*

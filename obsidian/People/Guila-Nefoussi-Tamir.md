@@ -28,4 +28,4 @@ research_level: 2
 **Children:** [[People/Oren-Tamir|Oren Tamir]], [[People/Noy-Tamir|Noy Tamir]]
 
 ## Biography
-Guila Nefoussi, married to Nahoum Tamir in Israel, in 1992.
+Guila Nefoussi, married to Nahoum Tamir in [[Places/Israel]], in 1992.

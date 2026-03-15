@@ -37,7 +37,7 @@ research_level: 2
 **Children:** [[People/Caren-Beth-Peaceman-Cowan|Caren Beth Peaceman Cowan]], [[People/Alan-Mark-Peaceman|Alan Mark Peaceman]]
 
 ## Biography
-Born in NY and lives in Huston, Texas
+Born in NY and lives in Huston, [[Places/Texas]]
 
 ## Photos
 

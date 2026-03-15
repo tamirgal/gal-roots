@@ -1,0 +1,4 @@
+---
+name: Safed
+type: place
+---

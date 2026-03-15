@@ -33,7 +33,7 @@ research_level: 2
 **Children:** [[People/Nouri-Levy|Nouri Levy]], [[People/Nagy-Levy|Nagy Levy]], [[People/Hanina-Levy|Hanina Levy]], [[People/Loula-Levy|Loula Levy]], [[People/Nathan-Nazem-Levy|Nathan (Nazem) Levy]], [[People/Lea-Levy|Lea Levy]]
 
 ## Biography
-Ezra Levy, born in Bagdad (Iraq), married to Aziza Abed. They have 6 children
+Ezra Levy, born in [[Places/Baghdad]] ([[Places/Iraq]]), married to Aziza Abed. They have 6 children
 
 ## Photos
 

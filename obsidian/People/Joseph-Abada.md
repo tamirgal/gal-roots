@@ -34,14 +34,14 @@ research_level: 2
 **Children:** [[People/Rina-Abada-Guttmann|Rina Abada Guttmann]]
 
 ## Biography
-Joseph Abada , married to Olga, in Israel in August 1964
+Joseph Abada , married to Olga, in [[Places/Israel]] in August 1964
 
 ## Photos
 
 ![[attachments/pictures/Abada Joseph.jpg]]
 
 ![[attachments/pictures/Abada Joseph2.jpg]]
-*Photo de Joseph, prise en Egypte, avant sa Aliya en Israel.*
+*Photo de Joseph, prise en [[Places/Egypt]], avant sa Aliya en [[Places/Israel]].*
 
 ![[attachments/pictures/mariage Abada Joseph.jpg]]
 

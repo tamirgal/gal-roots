@@ -38,7 +38,7 @@ research_level: 2
 **Siblings:** [[People/Meyer-Sasson|Meyer Sasson]], [[People/Hamama-Sasson-Israel|Hamama Sasson Israel]], [[People/Jacques-Sasson-Saison|Jacques Sasson Saison]], [[People/Victoria-Sasson-Patan|Victoria Sasson Patan]], [[People/Esther-Sasson-Cohen|Esther Sasson Cohen]]
 
 ## Biography
-ALBERT (Abraham) SASSON, born in Louxor, the 24th of October 1909…Married to Emilie Cohen in Cairo on the 28th of February 1937. He worked as a teacher of Mathematics, in the government schools, till his retirement. They have no children. In 1982, he left Egypt with his wife, and emigrated to Israel, and lived in the city of Holon, where he died on the 28th of January 1993, aged 83 years
+ALBERT (Abraham) SASSON, born in [[Places/Luxor]], the 24th of October 1909…Married to Emilie Cohen in [[Places/Cairo]] on the 28th of February 1937. He worked as a teacher of Mathematics, in the government schools, till his retirement. They have no children. In 1982, he left [[Places/Egypt]] with his wife, and emigrated to [[Places/Israel]], and lived in the city of [[Places/Holon]], where he died on the 28th of January 1993, aged 83 years
 
 ## Photos
 

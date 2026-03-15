@@ -29,14 +29,14 @@ research_level: 2
 **Siblings:** [[People/Tamar-Shaked|Tamar Shaked]], [[People/Ayala-Shaked|Ayala Shaked]]
 
 ## Biography
-Maya is born in Haifa (Israel)
+Maya is born in [[Places/Haifa]] (Israel)
 
 ## Photos
 
 ![[attachments/pictures/shaked_maya.jpg]]
 
 ![[attachments/pictures/shaked_maya__mexico.jpg]]
-*Maya was born in Haifa. She is currently studying Biology in Rehovot Israel at the Weizman institute for her master degree*
+*Maya was born in [[Places/Haifa]]. She is currently studying Biology in Rehovot Israel at the Weizman institute for her master degree*
 
 ![[attachments/pictures/shaked_maya_mexico_flowers.jpg]]
 

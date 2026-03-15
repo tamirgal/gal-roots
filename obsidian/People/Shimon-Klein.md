@@ -28,4 +28,4 @@ research_level: 2
 **Children:** [[People/Thomas-Klein-Clyne|Thomas Klein Clyne]], [[People/Louis-Klein|Louis Klein]]
 
 ## Biography
-Lived and died in Uzhgorod. At certain time was the under-secretary of the Jewish Organization in Uzhgorod.
+Lived and died in [[Places/Uzhgorod]]. At certain time was the under-secretary of the Jewish Organization in [[Places/Uzhgorod]].

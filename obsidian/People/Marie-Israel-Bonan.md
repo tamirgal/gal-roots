@@ -42,12 +42,12 @@ research_level: 2
 **Children:** [[People/Leon-Oni-Bonan|Leon Oni Bonan]], [[People/Israel-Isi-Bonan|Israel Isi Bonan]], [[People/Celine-Bonan-Eliahou|Celine Bonan Eliahou]]
 
 ## Biography
-Marie Israel, nee a Assiout, mariee en 1939 a Isaac (Zaki) Bonnan au Caire Egypte. Ils eurent 3 enfants. Dans les annees 60, elle emigra aux USA, avec son mari et ses enfants.
+Marie Israel, nee a [[Places/Assiut]], mariee en 1939 a Isaac (Zaki) Bonnan au [[Places/Cairo]] [[Places/Egypt]]. Ils eurent 3 enfants. Dans les annees 60, elle emigra aux [[Places/USA]], avec son mari et ses enfants.
 
 ## Photos
 
 ![[attachments/pictures/Marie Bonnan.jpg]]
-*Photo de Marie Bonnan,lors de sa visite en Israel en Aout 1974, avec Pauline,pour le mariage de Vicky Patan.*
+*Photo de Marie Bonnan,lors de sa visite en [[Places/Israel]] en Aout 1974, avec Pauline,pour le mariage de Vicky Patan.*
 
 ![[attachments/pictures/Bonan Marie Zaki 2.jpg]]
 
@@ -62,6 +62,6 @@ Marie Israel, nee a Assiout, mariee en 1939 a Isaac (Zaki) Bonnan au Caire Egypt
 ![[attachments/pictures/Bonan wedding.jpg]]
 
 ![[attachments/pictures/Elie Isaac Marie Bonan.jpg]]
-*Marie Bonan , with her cousins Elie and Isaac Patan, during the wedding of Aviva Patan, daughter of Elie,...Tel-Aviv August 1974*
+*Marie Bonan , with her cousins Elie and Isaac Patan, during the wedding of Aviva Patan, daughter of Elie,...[[Places/Tel Aviv]] August 1974*
 
 ![[attachments/pictures/mariage Marie Zaki Bonan.jpg]]

@@ -46,14 +46,14 @@ research_level: 2
 **Children:** [[People/Shahar-Gal|Shahar Gal]], [[People/Yael-Gal|Yael Gal]], [[People/Ori-Gal|Ori Gal]]
 
 ## Biography
-Born in Haifa, Israel and raised in Nofit. He graduated high School and was drafted to the IDF where he served for 3 years as a Sergeant at the Engineering Corps. After his military service, he took the time traveling the world for a while, visiting South America for 7 months. After he got back home, he studied in the "Technion" (Haifa), the Israel Institute of Technologies and graduated in Electrical engineering as well as in Physics. During his study he continued his hobby of traveling and backpacking around the world visiting New Zealand, Cuba, Ireland, Mexico, Morocco, Ethiopia, Tanzania. After a few years of work in Intel (Haifa), he decided to go back to school, and joined the PhD program in computational neuroscience (commonly known as "Brain Science") at the Hebrew University in Jerusalem. On 21st of August 2008, he married Adi Dolev in Kibbutz Hatzerim. Together they traveled to Scotland, Canary Islands (where he proposed to Adi) and spent their honeymoon in Costa Rica. On 25th of October 2009 they had their beautiful first daughter: Shahar.
+Born in [[Places/Haifa]], Israel and raised in [[Places/Nofit]]. He graduated high School and was drafted to the IDF where he served for 3 years as a Sergeant at the Engineering Corps. After his military service, he took the time traveling the world for a while, visiting South America for 7 months. After he got back home, he studied in the "Technion" ([[Places/Haifa]]), the Israel Institute of Technologies and graduated in Electrical engineering as well as in Physics. During his study he continued his hobby of traveling and backpacking around the world visiting New Zealand, Cuba, Ireland, Mexico, Morocco, Ethiopia, Tanzania. After a few years of work in Intel ([[Places/Haifa]]), he decided to go back to school, and joined the PhD program in computational neuroscience (commonly known as "Brain Science") at the Hebrew University in [[Places/Jerusalem]]. On 21st of August 2008, he married Adi Dolev in Kibbutz Hatzerim. Together they traveled to Scotland, Canary Islands (where he proposed to Adi) and spent their honeymoon in Costa Rica. On 25th of October 2009 they had their beautiful first daughter: Shahar.
 
 ## Photos
 
 ![[attachments/pictures/asaf_1.jpg]]
 
 ![[attachments/pictures/nofit_1988.jpg]]
-*Nofit is a small and beutiful place to live in, built on a mountain in the Zebulon valley, near Haifa.Photo souvenir during its construction,... with Nona and Nono ... April 1988*
+*[[Places/Nofit]] is a small and beutiful place to live in, built on a mountain in the Zebulon valley, near [[Places/Haifa]].Photo souvenir during its construction,... with Nona and Nono ... April 1988*
 
 ![[attachments/pictures/passport_asaf_1.jpg]]
 
@@ -79,6 +79,6 @@ Born in Haifa, Israel and raised in Nofit. He graduated high School and was draf
 *Honeymoon in CostaRica*
 
 ![[attachments/pictures/genophotos_adiasaf_019.jpg]]
-*The family in Nofit ... Pessah 2010*
+*The family in [[Places/Nofit]] ... Pessah 2010*
 
 ![[attachments/pictures/gal_adi_asaf_shahar_yael_07.jpg]]

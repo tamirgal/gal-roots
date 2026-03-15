@@ -47,4 +47,4 @@ research_level: 1
 ![[attachments/pictures/mariage David Mary Cohen.jpg]]
 
 ![[attachments/pictures/Mary mimi clemence.jpg]]
-*In the gardens of Kasr El Nil,... Cairo Egypt.*
+*In the gardens of Kasr El Nil,... [[Places/Cairo]] [[Places/Egypt]].*

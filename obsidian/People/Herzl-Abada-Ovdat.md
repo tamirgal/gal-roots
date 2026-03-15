@@ -34,7 +34,7 @@ research_level: 2
 **Children:** [[People/Reut-Ovdat-Harari|Reut (Ovdat) Harari]], [[People/Omrie-Ovdat|Omrie Ovdat]]
 
 ## Biography
-Born in Israel , 9 September 1954
+Born in [[Places/Israel]] , 9 September 1954
 
 ## Photos
 

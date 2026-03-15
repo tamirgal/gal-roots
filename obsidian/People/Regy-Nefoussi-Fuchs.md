@@ -36,12 +36,12 @@ research_level: 2
 **Children:** [[People/Lyat-Fuchs-Kalo|Lyat Fuchs Kalo]], [[People/Shay-Fuchs|Shay Fuchs]], [[People/Lirone-Fuchs|Lirone Fuchs]]
 
 ## Biography
-Regy (Ruty) Nefoussi, married to Moshe Fuchs in Israel in 1973.
+Regy (Ruty) Nefoussi, married to Moshe Fuchs in [[Places/Israel]] in 1973.
 
 ## Photos
 
 ![[attachments/pictures/Fuchs Regy.jpg]]
-*Regy a la BatMitzva de Mary Patan, a Carmiel, Avril 2002.*
+*Regy a la BatMitzva de Mary Patan, a [[Places/Karmiel]], Avril 2002.*
 
 ![[attachments/pictures/Titi-Sami-Regy 1963.jpg]]
 *3 cousins,...en 1963, a Kiryat-Hayim, chez Liliane et Nisso Abada.*

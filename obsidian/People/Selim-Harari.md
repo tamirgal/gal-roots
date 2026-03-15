@@ -14,4 +14,4 @@ research_level: 2
 **Spouse:** [[People/Simha-Ambar-Harari|Simha Ambar Harari]]
 
 ## Biography
-Selim Harari is born in Syria, in 1885
+Selim Harari is born in [[Places/Syria]], in 1885

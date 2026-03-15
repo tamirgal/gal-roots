@@ -28,7 +28,7 @@ research_level: 2
 **Children:** [[People/Rachel-Abadi-Goldmann|Rachel Abadi Goldmann]], [[People/Meyer-Abadi|Meyer Abadi]]
 
 ## Biography
-Wedding of Robert Abadi and Alice Abada in 1939, in Cairo Egypt. In 1957, they emigrated in Israel.
+Wedding of Robert Abadi and Alice Abada in 1939, in [[Places/Cairo]] [[Places/Egypt]]. In 1957, they emigrated in [[Places/Israel]].
 
 ## Photos
 

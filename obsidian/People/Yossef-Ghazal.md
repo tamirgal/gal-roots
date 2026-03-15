@@ -16,4 +16,4 @@ research_level: 0
 **Siblings:** [[People/Touna-Ghazal-Halawani|Touna Ghazal Halawani]]
 
 ## Biography
-Yossef Ghazal, born and married in Egypt,... emigrated in Israel. Then, after some years, emigrated to Panama.
+Yossef Ghazal, born and married in [[Places/Egypt]],... emigrated in [[Places/Israel]]. Then, after some years, emigrated to [[Places/Panama]].

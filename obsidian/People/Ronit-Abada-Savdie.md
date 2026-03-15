@@ -41,7 +41,7 @@ research_level: 1
 ## Photos
 
 ![[attachments/pictures/Ronit Soly.jpg]]
-*Soly Savdie et Ronit Abada,maries a Haifa, en Decembre 1991 par une nuit orgeuse et pluvieuse...Eze maboul... ! Mazal Tov,...*
+*Soly Savdie et Ronit Abada,maries a [[Places/Haifa]], en Decembre 1991 par une nuit orgeuse et pluvieuse...Eze maboul... ! Mazal Tov,...*
 
 ![[attachments/pictures/Ronit Soly2.jpg]]
 *MABROUK ... !pour le jeune couple.*

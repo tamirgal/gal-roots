@@ -28,7 +28,7 @@ research_level: 2
 **Children:** [[People/Sapir-Itshaki|Sapir Itshaki]], [[People/Eyal-Itshaki|Eyal Itshaki]]
 
 ## Biography
-Sharon Albanay, married in Israel to Erez Itshaki, on 1 October 1995.
+Sharon Albanay, married in [[Places/Israel]] to Erez Itshaki, on 1 October 1995.
 
 ## Photos
 

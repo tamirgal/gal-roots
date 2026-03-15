@@ -26,7 +26,7 @@ research_level: 2
 **Children:** [[People/Robert-Reuben-Shammass-Shemesh|Robert Reuben Shammass (Shemesh)]], [[People/Joseph-Peppo-Shammass-Shemesh|Joseph Peppo Shammass (Shemesh)]]
 
 ## Biography
-Aharon Shammass (Shemesh, is born in Iraq, in 1885, married and died in Cairo.
+Aharon Shammass (Shemesh, is born in [[Places/Iraq]], in 1885, married and died in [[Places/Cairo]].
 
 ## Photos
 

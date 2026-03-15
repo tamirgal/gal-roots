@@ -27,7 +27,7 @@ research_level: 2
 **Spouse:** [[People/David-Mizrahi|David Mizrahi]]
 
 ## Biography
-Mireille Cohenca, mariee en Israel a Mizrahi. Elle travaille a la police des frontieres.
+Mireille Cohenca, mariee en [[Places/Israel]] a Mizrahi. Elle travaille a la police des frontieres.
 
 ## Photos
 

@@ -22,7 +22,7 @@ research_level: 2
 **Siblings:** [[People/Yuval-Shimon|Yuval Shimon]], [[People/Ofir-Shimon|Ofir Shimon]]
 
 ## Biography
-Noam Shimon is born in Naharia, Israel on : 14 January 2002
+Noam Shimon is born in [[Places/Nahariya]], Israel on : 14 January 2002
 
 ## Photos
 

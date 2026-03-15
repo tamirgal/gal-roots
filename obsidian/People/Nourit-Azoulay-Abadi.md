@@ -29,7 +29,7 @@ research_level: 2
 **Children:** [[People/Eliran-Abadi|Eliran Abadi]], [[People/Nathanel-Abadi|Nathanel Abadi]], [[People/Avihu-Abadi|Avihu Abadi]]
 
 ## Biography
-Wedding of Nourit Azoulay and Meyer Abadi in Israel 4 November 1987
+Wedding of Nourit Azoulay and Meyer Abadi in [[Places/Israel]] 4 November 1987
 
 ## Photos
 

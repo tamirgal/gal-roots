@@ -30,4 +30,4 @@ research_level: 2
 **Children:** [[People/Amir-Niv|Amir Niv]], [[People/Shemer-Niv|Shemer Niv]], [[People/Keren-Niv-Bornstein|Keren Niv Bornstein]]
 
 ## Biography
-Elie Niv, married to Ruty Matatiahou in Israel , in 1965
+Elie Niv, married to Ruty Matatiahou in [[Places/Israel]] , in 1965

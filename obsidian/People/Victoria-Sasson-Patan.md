@@ -46,7 +46,7 @@ research_level: 2
 **Children:** [[People/Elie-Patan|Elie Patan]], [[People/Isaac-Patan|Isaac Patan]], [[People/Miriam-Patan-Ravia|Miriam Patan Ravia]]
 
 ## Biography
-Victoria Patan, Born in Louxor the same day when news came, announcing the death of queen Victoria. So my grandma said: A queen is dead, and my princess is born. And they called her Victoria. Married to Ezra Patan in Cairo (Sept 1927) ... Widow in 1938... In 1957 immigrated to Israel with her 3 children and 3 grandchildren. She died in Israel, October 1983, aged 82. (Elie Patan).
+Victoria Patan, Born in [[Places/Luxor]] the same day when news came, announcing the death of queen Victoria. So my grandma said: A queen is dead, and my princess is born. And they called her Victoria. Married to Ezra Patan in [[Places/Cairo]] (Sept 1927) ... Widow in 1938... In 1957 immigrated to [[Places/Israel]] with her 3 children and 3 grandchildren. She died in [[Places/Israel]], October 1983, aged 82. (Elie Patan).
 
 ## Photos
 
@@ -60,7 +60,7 @@ Victoria Patan, Born in Louxor the same day when news came, announcing the death
 *Photo souvenir de la jeune et nouvelle famille PATAN, en 1929. Mon jeune frere Isaac est encore bebe de quelques mois. (picture shot date 1929)*
 
 ![[attachments/pictures/ElieIsaac1934.JPG]]
-*Photo souvenir avec maman et Isaac, au Caire 1934...les chaises et table en osier,...A remarquer la gargoulette et son couvercle en cuivre brillant, de forme conique. La gargoulette en ceramique poreuse ,servait a raffraichir l'eau avant l'arrivee des refrigerateurs.(Elie Patan) (picture shot date 1934)*
+*Photo souvenir avec maman et Isaac, au [[Places/Cairo]] 1934...les chaises et table en osier,...A remarquer la gargoulette et son couvercle en cuivre brillant, de forme conique. La gargoulette en ceramique poreuse ,servait a raffraichir l'eau avant l'arrivee des refrigerateurs.(Elie Patan) (picture shot date 1934)*
 
 ![[attachments/pictures/Victoria 1981.jpg]]
 *Les dernieres annees, Victoria se deplacait entre ses 3 enfants,..Elie, Isaac et Mimi,...Ici en 1981 , toujours souriante, dans la cuisine de son fils Elie. Photo prise par son petitfils : Cesy.*

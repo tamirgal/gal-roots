@@ -32,7 +32,7 @@ research_level: 2
 **Children:** [[People/Jacques-Bonan|Jacques Bonan]], [[People/Marc-Bonan|Marc Bonan]]
 
 ## Biography
-I was born in Botosani, Romania (January 19 1950) In 1962 , I immigrated to the USA, with my parents , Sully Blanar and Anie Blanar (nee Reichman) We had to leave under duress, after the Communist government took all our wealth and jailed my father for a couple of years. Married to Israel Bonan , March 15 1975
+I was born in Botosani, [[Places/Romania]] (January 19 1950) In 1962 , I immigrated to the [[Places/USA]], with my parents , Sully Blanar and Anie Blanar (nee Reichman) We had to leave under duress, after the Communist government took all our wealth and jailed my father for a couple of years. Married to [[Places/Israel]] Bonan , March 15 1975
 
 ## Photos
 

@@ -23,7 +23,7 @@ research_level: 2
 **Siblings:** [[People/Sophie-Fifi-Sasson|Sophie Fifi Sasson]], [[People/Esther-Sasson-ind00489|Esther Sasson]]
 
 ## Biography
-David Sasson, ne au Caire, marie en Israel et habitant Ashkelon.
+David Sasson, ne au [[Places/Cairo]], marie en [[Places/Israel]] et habitant Ashkelon.
 
 ## Photos
 

@@ -28,7 +28,7 @@ research_level: 2
 **Siblings:** [[People/Yael-Gal|Yael Gal]], [[People/Ori-Gal|Ori Gal]]
 
 ## Biography
-Born in Haifa (Israel) 25 October 2009
+Born in [[Places/Haifa]] (Israel) 25 October 2009
 
 ## Photos
 
@@ -42,7 +42,7 @@ Born in Haifa (Israel) 25 October 2009
 *the bath*
 
 ![[attachments/pictures/genophotos_adiasaf_019.jpg]]
-*The family in Nofit ... Pessah 2010*
+*The family in [[Places/Nofit]] ... Pessah 2010*
 
 ![[attachments/pictures/genophotos_adiasaf_020.jpg]]
 *Shahar is 2 days old*
@@ -51,4 +51,4 @@ Born in Haifa (Israel) 25 October 2009
 *At last I have a sister to tove and kiss*
 
 ![[attachments/pictures/gal_adi_asaf_shahar_yael_07.jpg]]
-*The Gal family at home in Binyamina*
+*The Gal family at home in [[Places/Binyamina]]*

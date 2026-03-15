@@ -38,7 +38,7 @@ research_level: 2
 **Children:** [[People/Rebecca-Mintz|Rebecca Mintz]], [[People/Leah-Mintz|Leah Mintz]]
 
 ## Biography
-Solange,... born in Cairo (Egypt), September 30 , 1952 . She immigrated to the USA with her parents in December 1961. Married to Paul Mintz on August 26, 1984, in bridgewater, New Jersey.
+Solange,... born in [[Places/Cairo]] ([[Places/Egypt]]), September 30 , 1952 . She immigrated to the [[Places/USA]] with her parents in December 1961. Married to Paul Mintz on August 26, 1984, in bridgewater, [[Places/New Jersey]].
 
 ## Photos
 

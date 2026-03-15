@@ -17,4 +17,4 @@ research_level: 2
 **Siblings:** [[People/Chana-Klein|Chana Klein]], [[People/Esther-Klein|Esther Klein]], [[People/Sarah-Klein-1928|Sarah Klein]]
 
 ## Biography
-Mordechay emigrated to Israel. Married , lived and died in Beer-Sheva He has children,... but no data about them
+Mordechay emigrated to [[Places/Israel]]. Married , lived and died in Beer-Sheva He has children,... but no data about them

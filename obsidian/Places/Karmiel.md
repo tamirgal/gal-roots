@@ -1,0 +1,4 @@
+---
+name: Karmiel
+type: place
+---

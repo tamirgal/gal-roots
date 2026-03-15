@@ -25,7 +25,7 @@ research_level: 2
 **Children:** [[People/Joseph-Goldstein|Joseph Goldstein]], [[People/Paul-Polie-Goldstein|Paul (Polie) Goldstein]]
 
 ## Biography
-Lived and died in Ungvar. We don't really know her real name ("Savta" means gandmother in Hebrew). She became a wedow and remarried again with Avraham-Izhak Klein. Later on, her son joseph Married Avraham-Izhak's daughter, Antonia.
+Lived and died in [[Places/Uzhgorod]]. We don't really know her real name ("Savta" means gandmother in Hebrew). She became a wedow and remarried again with Avraham-Izhak Klein. Later on, her son joseph Married Avraham-Izhak's daughter, Antonia.
 
 ## Photos
 

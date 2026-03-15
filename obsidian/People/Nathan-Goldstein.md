@@ -26,7 +26,7 @@ research_level: 2
 **Siblings:** [[People/Moshe-Miki-Goldstein|Moshe (Miki) Goldstein]], [[People/Baruch-Goldstein|Baruch Goldstein]]
 
 ## Biography
-Nathan Goldstein, born in the village of Uzhorod (Czechoslovakia). Durindg world war 2, he was deported with all jews of his village, to Nazi extermination camp in Aushwitz, where he died in 1944.
+Nathan Goldstein, born in the village of [[Places/Uzhgorod]] ([[Places/Czechoslovakia]]). Durindg world war 2, he was deported with all jews of his village, to Nazi extermination camp in [[Places/Auschwitz]], where he died in 1944.
 
 ## Photos
 

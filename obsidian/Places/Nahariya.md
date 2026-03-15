@@ -1,0 +1,4 @@
+---
+name: Nahariya
+type: place
+---

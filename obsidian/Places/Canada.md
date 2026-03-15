@@ -1,0 +1,4 @@
+---
+name: Canada
+type: place
+---

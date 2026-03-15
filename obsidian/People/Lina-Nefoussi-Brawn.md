@@ -36,11 +36,11 @@ research_level: 2
 **Children:** [[People/Nir-Brawn|Nir Brawn]], [[People/Iris-Brawn-Leker|Iris Brawn Leker]], [[People/Sharon-Brawn|Sharon Brawn]]
 
 ## Biography
-Lina Nefoussi married to Hayim Brawn, in Israel in 1962
+Lina Nefoussi married to Hayim Brawn, in [[Places/Israel]] in 1962
 
 ## Photos
 
 ![[attachments/pictures/portrait Lina.jpg]]
 
 ![[attachments/pictures/Nefoussi Lina.jpg]]
-*Photo pendant le service militaire en Israel.*
+*Photo pendant le service militaire en [[Places/Israel]].*

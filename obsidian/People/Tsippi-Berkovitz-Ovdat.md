@@ -30,7 +30,7 @@ research_level: 2
 **Children:** [[People/Tamar-Ovdat|Tamar Ovdat]], [[People/Yael-Ovdat|Yael Ovdat]], [[People/Oded-Ovdat|Oded Ovdat]]
 
 ## Biography
-Tsippi and Avner married in Israel 6 July 1978
+Tsippi and Avner married in [[Places/Israel]] 6 July 1978
 
 ## Photos
 

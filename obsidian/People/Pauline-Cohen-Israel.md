@@ -40,7 +40,7 @@ research_level: 2
 **Children:** [[People/Aimee-Israel-Pelletier|Aimee Israel Pelletier]], [[People/Solange-Israel-Mintz|Solange Israel Mintz]], [[People/Ytshak-Israel|Ytshak Israel]], [[People/Solomon-Israel|Solomon Israel]]
 
 ## Biography
-Pauline , ... born April 21, 1923 in Cairo (Egypt),...married to Shaoul in February 21, 1948, in Cairo. They emigrated to the USA, with their family in, December 1961.
+Pauline , ... born April 21, 1923 in [[Places/Cairo]] ([[Places/Egypt]]),...married to Shaoul in February 21, 1948, in [[Places/Cairo]]. They emigrated to the [[Places/USA]], with their family in, December 1961.
 
 ## Photos
 
@@ -56,7 +56,7 @@ Pauline , ... born April 21, 1923 in Cairo (Egypt),...married to Shaoul in Febru
 *Some photos of my family,...*
 
 ![[attachments/pictures/Mary Pauline 1974.jpg]]
-*Photo souvenir de Pauline et Mary Patan en Israel , lors du mariage de Vicky (Aviva) Patan a Tel-Aviven Aout 1974*
+*Photo souvenir de Pauline et Mary Patan en [[Places/Israel]] , lors du mariage de Vicky (Aviva) Patan a Tel-Aviven Aout 1974*
 
 ![[attachments/pictures/Mandara 1954.jpg]]
 

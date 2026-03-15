@@ -39,4 +39,4 @@ Ma photo le jour du mariage.
 *Juliette - ma photo , le jour de mariage*
 
 ![[attachments/pictures/Mariage DavidJuliette.jpg]]
-*Wedding photo of David Abadaand Juliette Pariente, in Cairo Egypt24 octobre 1943*
+*Wedding photo of David Abadaand Juliette Pariente, in [[Places/Cairo]] Egypt24 octobre 1943*

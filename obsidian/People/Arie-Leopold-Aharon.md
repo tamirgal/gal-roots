@@ -38,7 +38,7 @@ research_level: 2
 **Children:** [[People/Leo-Aharon|Leo Aharon]], [[People/Peter-Aharon|Peter Aharon]], [[People/Suzan-Aharon-Reinolds|Suzan Aharon Reinolds]], [[People/Monique-Aharon-Preiss|Monique Aharon Preiss]]
 
 ## Biography
-During World war 2, Arie (Leo) joined the Czecho-Slovakian , then the Soviet Red army,... he was decorated. At the end of the war, he emigrated to Melborne, Australia.
+During World war 2, Arie (Leo) joined the Czecho-Slovakian , then the Soviet Red army,... he was decorated. At the end of the war, he emigrated to Melborne, [[Places/Australia]].
 
 ## Photos
 

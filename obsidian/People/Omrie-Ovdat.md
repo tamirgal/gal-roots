@@ -22,7 +22,7 @@ research_level: 2
 **Siblings:** [[People/Reut-Ovdat-Harari|Reut (Ovdat) Harari]]
 
 ## Biography
-Born in Israel , 29 May 1985
+Born in [[Places/Israel]] , 29 May 1985
 
 ## Photos
 

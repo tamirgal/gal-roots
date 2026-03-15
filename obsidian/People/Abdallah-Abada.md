@@ -37,7 +37,7 @@ research_level: 2
 **Children:** [[People/Esther-Abada-ind00359|Esther Abada]], [[People/Renee-Abada|Renee Abada]], [[People/Lucy-Abada|Lucy Abada]], [[People/Lolla-Abada|Lolla Abada]]
 
 ## Biography
-Les racines de la famille Abada, remontent a Bagdad, capitale d'Iraq, En cette fin du 19 eme siecle , tout le moyen orient faisait partie de l'empire Ottoman.C'est alors que Yehezkel Abada, sa femme et ses 7 enfants, tous des garcons, emigrerent vers l'Egypte, via le Liban et la Palestine. Ils s'etablirent a Tanta, ville dans le delta Egyptien au nord du Caire. Abdallah Abada , 5 eme garcon, se maria au Caire, avec Fortuna, et eurent 4 filles. Abdallah etait directeur d'une filiale, de la Banque "Ahli" a Tanta.
+Les racines de la famille Abada, remontent a [[Places/Baghdad]], capitale d'[[Places/Iraq]], En cette fin du 19 eme siecle , tout le moyen orient faisait partie de l'empire Ottoman.C'est alors que Yehezkel Abada, sa femme et ses 7 enfants, tous des garcons, emigrerent vers l'[[Places/Egypt]], via le Liban et la [[Places/Palestine]]. Ils s'etablirent a Tanta, ville dans le delta Egyptien au nord du [[Places/Cairo]]. Abdallah Abada , 5 eme garcon, se maria au [[Places/Cairo]], avec Fortuna, et eurent 4 filles. Abdallah etait directeur d'une filiale, de la Banque "Ahli" a Tanta.
 
 ## Photos
 

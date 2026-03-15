@@ -33,7 +33,7 @@ research_level: 2
 **Children:** [[People/Guy-Glassberg|Guy Glassberg]], [[People/Tal-Glassberg|Tal Glassberg]]
 
 ## Biography
-Ofer is a Veterinar and works at Inpulse Dynamics in Haifa.
+Ofer is a Veterinar and works at Inpulse Dynamics in [[Places/Haifa]].
 
 ## Photos
 

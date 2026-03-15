@@ -41,12 +41,12 @@ research_level: 2
 **Children:** [[People/Mary-Patan|Mary Patan]], [[People/Omri-Patan|Omri Patan]], [[People/Noam-Patan|Noam Patan]], [[People/Maayane-Patan|Maayane Patan]]
 
 ## Biography
-Wedding of Rahel Talker and Sami Patan, in Tel-Aviv, Israel 11 October 1988
+Wedding of Rahel Talker and Sami Patan, in [[Places/Tel Aviv]], Israel 11 October 1988
 
 ## Photos
 
 ![[attachments/pictures/Rahel 1.jpg]]
-*September 2001Rosh Hashana at Nofit.*
+*September 2001Rosh Hashana at [[Places/Nofit]].*
 
 ![[attachments/pictures/Sami Rahel2.jpg]]
 *Home with my Sari,...Just after wedding ceremony .*
@@ -55,7 +55,7 @@ Wedding of Rahel Talker and Sami Patan, in Tel-Aviv, Israel 11 October 1988
 *We have two girls.*
 
 ![[attachments/pictures/Copy of Rahel speech 5.jpg]]
-*Mary's BatMitzva....April 2002 ,... In our garden in Carmiel.*
+*Mary's BatMitzva....April 2002 ,... In our garden in [[Places/Karmiel]].*
 
 ![[attachments/pictures/Rosh hashana8.jpg]]
-*Rosh hashana at the Gals,...Nofit , september 2001*
+*Rosh hashana at the Gals,...[[Places/Nofit]] , september 2001*

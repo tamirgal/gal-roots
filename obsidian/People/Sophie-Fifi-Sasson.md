@@ -22,7 +22,7 @@ research_level: 2
 **Siblings:** [[People/David-Deddy-Sasson|David Deddy Sasson]], [[People/Esther-Sasson-ind00489|Esther Sasson]]
 
 ## Biography
-Sophie (Fifi) Sasson, nee au Caire, et decedee en Israel
+Sophie (Fifi) Sasson, nee au [[Places/Cairo]], et decedee en [[Places/Israel]]
 
 ## Photos
 

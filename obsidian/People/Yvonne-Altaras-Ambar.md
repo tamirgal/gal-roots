@@ -14,4 +14,4 @@ research_level: 2
 **Spouse:** [[People/Ezra-Ambar|Ezra Ambar]]
 
 ## Biography
-Yvonne Altaras, is born in Aleppo,Syria, in 1902.
+Yvonne Altaras, is born in [[Places/Aleppo]],[[Places/Syria]], in 1902.

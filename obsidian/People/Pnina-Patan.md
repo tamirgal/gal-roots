@@ -27,7 +27,7 @@ research_level: 2
 **Children:** [[People/Assaf-Patan|Assaf Patan]], [[People/Aviv-Patan|Aviv Patan]]
 
 ## Biography
-Pnina is born the 29 January 1964 in Jerusalem , Israel and married to Rafi Patan on 8-8-1988
+Pnina is born the 29 January 1964 in [[Places/Jerusalem]] , Israel and married to Rafi Patan on 8-8-1988
 
 ## Photos
 

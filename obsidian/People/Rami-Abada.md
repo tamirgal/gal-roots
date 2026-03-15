@@ -16,4 +16,4 @@ research_level: 0
 **Siblings:** [[People/Moshe-Abada-ind00495|Moshe Abada]], [[People/Yacov-Abada-ind00494|Yacov Abada]], [[People/Yehezkel-Heizy-Abada|Yehezkel Heizy Abada]]
 
 ## Biography
-marie et habite a Ramat-Gan
+marie et habite a [[Places/Ramat Gan]]

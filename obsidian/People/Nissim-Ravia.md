@@ -39,15 +39,15 @@ research_level: 2
 **Children:** [[People/Hayim-Ravia|Hayim Ravia]], [[People/Ilana-Ravia-Messoubi|Ilana Ravia Messoubi]]
 
 ## Biography
-NISSIM RAVIA, born in Cairo, the 11th of February 1932… Immigrated in Israel, with his family in 1949. After his military service, graduated from the Israeli University in Tel-Aviv,(Economics), worked some years in important auditor offices and then opened his own private auditing office Married to Miriam Patan in Tel-Aviv, on 27th September 1959…
+NISSIM RAVIA, born in [[Places/Cairo]], the 11th of February 1932… Immigrated in [[Places/Israel]], with his family in 1949. After his military service, graduated from the Israeli University in [[Places/Tel Aviv]],(Economics), worked some years in important auditor offices and then opened his own private auditing office Married to Miriam Patan in [[Places/Tel Aviv]], on 27th September 1959…
 
 ## Photos
 
 ![[attachments/pictures/Nissin Mikhal.jpg]]
-*A l'hopital, lors de la naissance de ma petite fille Tamar, a Jerusalem Mai 2002.*
+*A l'hopital, lors de la naissance de ma petite fille Tamar, a [[Places/Jerusalem]] Mai 2002.*
 
 ![[attachments/pictures/Ravia hanouka 2002.jpg]]
-*Chez nous a Ramat-Gan,..Allumage des bougies de Hannouka.Decembre 2002.*
+*Chez nous a [[Places/Ramat Gan]],..Allumage des bougies de Hannouka.Decembre 2002.*
 
 ![[attachments/pictures/Together 1.JPG]]
 *Photo reunissant toute la famille,..Photo montage par Elie Patan*
@@ -58,7 +58,7 @@ NISSIM RAVIA, born in Cairo, the 11th of February 1932… Immigrated in Israel, 
 *With my brothers and sisters, and school medals on our chests. I'm the second from left ...(first bottom row)*
 
 ![[attachments/pictures/Ravia family Cairo.jpg]]
-*La famille Ravia , ...au grand complet,..Photo prise au Caire, en 1940 environ,..*
+*La famille Ravia , ...au grand complet,..Photo prise au [[Places/Cairo]], en 1940 environ,..*
 
 ![[attachments/pictures/mariage Mimi Nissim 3.jpg]]
 *Notre mariage,... c'etait en Septembre 1959.*

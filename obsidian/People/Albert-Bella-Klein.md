@@ -39,7 +39,7 @@ research_level: 2
 **Children:** [[People/Gabriel-Klein-1949|Gabriel Klein]], [[People/Andrei-Klein|Andrei Klein]]
 
 ## Biography
-Born in Ungvar (Racotsi st.) in 1918 and studied in the local Hungarian primary school (4 years). He then continued for another 4 years in a Czech school and became a trainee in Drags and pharmaceutical business. WWII started and the Hungarian took over again, after good years with the Czechs who were rulling the territory since the end of WWI. Although the Hungarian were co-operating with the Nazi Germans, they did not send the jews to concetration camps. Instead, they have created what called "The Workers Battalion" and jews had a special regiment there. They were sent to the east front under terrible conditions and many of them did not durvive and died, either by the cold and hunger, or by the Russion bombs. In early 1944, Bella was "recruited" to this battalion and was sent to the Russion front. Together with others, they have decided to run away and to join the Russions against Germany and Hungary, but the Russions were suspicious and decided to send them all to a golag in Siberia. Bella was released at the end of 1945 and returned back home to Uzhgorod. By that time, Uzhgorod was part of Ukraine/USSR and there was no way out to join his Brother Andy (England) or his Sister Edith (USA). In 1970, Bella got his visa and took his family to NYC. His Son Gaby, wanted to go to Israel and he did so after one year in the US and few years later, in 1975, Bella and his wife Agi joined their children in Israel and lived in Naharia. Bella died in 1981.
+Born in [[Places/Uzhgorod]] (Racotsi st.) in 1918 and studied in the local Hungarian primary school (4 years). He then continued for another 4 years in a Czech school and became a trainee in Drags and pharmaceutical business. WWII started and the Hungarian took over again, after good years with the Czechs who were rulling the territory since the end of WWI. Although the Hungarian were co-operating with the Nazi Germans, they did not send the jews to concetration camps. Instead, they have created what called "The Workers Battalion" and jews had a special regiment there. They were sent to the east front under terrible conditions and many of them did not durvive and died, either by the cold and hunger, or by the Russion bombs. In early 1944, Bella was "recruited" to this battalion and was sent to the Russion front. Together with others, they have decided to run away and to join the Russions against Germany and [[Places/Hungary]], but the Russions were suspicious and decided to send them all to a golag in Siberia. Bella was released at the end of 1945 and returned back home to [[Places/Uzhgorod]]. By that time, [[Places/Uzhgorod]] was part of Ukraine/USSR and there was no way out to join his Brother Andy (England) or his Sister Edith ([[Places/USA]]). In 1970, Bella got his visa and took his family to NYC. His Son Gaby, wanted to go to [[Places/Israel]] and he did so after one year in the US and few years later, in 1975, Bella and his wife Agi joined their children in [[Places/Israel]] and lived in [[Places/Nahariya]]. Bella died in 1981.
 
 ## Photos
 
@@ -52,9 +52,9 @@ Born in Ungvar (Racotsi st.) in 1918 and studied in the local Hungarian primary 
 ![[attachments/pictures/peaceman_klein.jpg]]
 
 ![[attachments/pictures/klein_family.jpg]]
-*The Family of Moshe Israel Klein in Uzhgorod, from left: Moshe-Israel, Bella, Paula, Ondrej, Edith, Gabriel*
+*The Family of Moshe Israel Klein in [[Places/Uzhgorod]], from left: Moshe-Israel, Bella, Paula, Ondrej, Edith, Gabriel*
 
 ![[attachments/pictures/bella___ondrej.jpg]]
-*Bella and Brother Ondrej praying at the Wailing Wall, Jerusalem.*
+*Bella and Brother Ondrej praying at the Wailing Wall, [[Places/Jerusalem]].*
 
 ![[attachments/pictures/passeport_klein_bella.jpg]]

@@ -26,7 +26,7 @@ research_level: 2
 **Siblings:** [[People/Shaked-Gal|Shaked Gal]], [[People/Mika-Gal|Mika Gal]]
 
 ## Biography
-Nadav Gal ,... born in Haifa , Israel date : 21.April 2014 hour : 23.41 weight:: 3.488 kgs
+Nadav Gal ,... born in [[Places/Haifa]] , Israel date : 21.April 2014 hour : 23.41 weight:: 3.488 kgs
 
 ## Photos
 

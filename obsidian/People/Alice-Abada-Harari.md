@@ -47,7 +47,7 @@ research_level: 1
 ![[attachments/pictures/Abada Alice.jpg]]
 
 ![[attachments/pictures/Mary Alice cousines.jpg]]
-*Les cousines, Alice et Mary Abada, au Caire (Egypte).*
+*Les cousines, Alice et Mary Abada, au [[Places/Cairo]] ([[Places/Egypt]]).*
 
 ![[attachments/pictures/Harari Alice.jpg]]
 

@@ -26,4 +26,4 @@ research_level: 2
 **Children:** [[People/Tal-Kalo|Tal Kalo]]
 
 ## Biography
-Lyat Fuchs , married to Dror Kalo in Israel , in 1997.
+Lyat Fuchs , married to Dror Kalo in [[Places/Israel]] , in 1997.

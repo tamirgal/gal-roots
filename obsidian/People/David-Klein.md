@@ -37,7 +37,7 @@ research_level: 2
 **Children:** [[People/Harriett-Klein-Peaceman|Harriett Klein Peaceman]], [[People/Ruth-Klein-Peaceman|Ruth Klein Peaceman]], [[People/Phyllis-Hirschman-Newmark|Phyllis Hirschman Newmark]]
 
 ## Biography
-David was born in Ungvar. At the age of 8, his mother died and couple of years later his father, Avraham-Izhak Klein remarried again. At the age of 14, young David decided to leave home and was sent to New-York to establish new life. He was helped there by relatives of his mother. He married with Clara, had 3 daughters. He lived in NY all his life till he died at the age of 84.
+David was born in [[Places/Uzhgorod]]. At the age of 8, his mother died and couple of years later his father, Avraham-Izhak Klein remarried again. At the age of 14, young David decided to leave home and was sent to New-York to establish new life. He was helped there by relatives of his mother. He married with Clara, had 3 daughters. He lived in NY all his life till he died at the age of 84.
 
 ## Photos
 

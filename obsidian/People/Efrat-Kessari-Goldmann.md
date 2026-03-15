@@ -21,4 +21,4 @@ research_level: 2
 **Children:** [[People/Paz-Goldmann|Paz Goldmann]], [[People/Lital-Goldmann|Lital Goldmann]]
 
 ## Biography
-Efrat Kessari married to Roni Goldmann, in Israel, 22 November 1995 , and divorced in June 1999.
+Efrat Kessari married to Roni Goldmann, in [[Places/Israel]], 22 November 1995 , and divorced in June 1999.

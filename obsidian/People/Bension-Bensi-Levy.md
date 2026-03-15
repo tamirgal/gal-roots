@@ -39,6 +39,6 @@ research_level: 1
 *Au mariage de Rina Abada ,...Le 26 fevrier 1989 .*
 
 ![[attachments/pictures/LilNisso fmll3.jpg]]
-*A la Bat-Mitzva de Mary Patan,a Carmiel,... Avril 2002 .*
+*A la Bat-Mitzva de Mary Patan,a [[Places/Karmiel]],... Avril 2002 .*
 
 ![[attachments/pictures/CV Bension Levy.jpg]]

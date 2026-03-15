@@ -14,4 +14,4 @@ research_level: 2
 **Spouse:** [[People/Rachel-Ambar-Levy|Rachel Ambar Levy]]
 
 ## Biography
-Marco (Leon) Levy, is born in Bulgaria, in 1882, married to Rachel Ambar in Cairo, and died in 1949 in Cairo.
+Marco (Leon) Levy, is born in [[Places/Bulgaria]], in 1882, married to Rachel Ambar in [[Places/Cairo]], and died in 1949 in [[Places/Cairo]].

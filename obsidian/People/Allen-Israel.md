@@ -38,7 +38,7 @@ research_level: 1
 ## Photos
 
 ![[attachments/pictures/Cairo Zoo 3.jpg]]
-*Sailing on the lake,.. in Cairo Zoo*
+*Sailing on the lake,.. in [[Places/Cairo]] Zoo*
 
 ![[attachments/pictures/Cairo Zoo 2.jpg]]
 
@@ -49,7 +49,7 @@ research_level: 1
 *My Bar-Mitzva,... with my family.*
 
 ![[attachments/pictures/Mandara 1954-1.jpg]]
-*I don't remember, but it seems to be true,...I was on the beach at Alexandria,...!*
+*I don't remember, but it seems to be true,...I was on the beach at [[Places/Alexandria]],...!*
 
 ![[attachments/pictures/Mandara 1954-2.jpg]]
 *What a nice smiling gang,...*

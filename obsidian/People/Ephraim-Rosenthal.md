@@ -45,4 +45,4 @@ research_level: 1
 ![[attachments/pictures/goldstein_rosenthal_haifa1949.jpg]]
 
 ![[attachments/pictures/mariage_yossi_aviva_6.jpg]]
-*At the wedding of Yossi Gal and Aviva Patan in Tel Aviv, 6 August 1974.On the left, Ephraim Rosenthal witness,*
+*At the wedding of Yossi Gal and Aviva Patan in [[Places/Tel Aviv]], 6 August 1974.On the left, Ephraim Rosenthal witness,*

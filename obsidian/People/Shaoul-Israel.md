@@ -42,7 +42,7 @@ research_level: 2
 **Children:** [[People/Aimee-Israel-Pelletier|Aimee Israel Pelletier]], [[People/Solange-Israel-Mintz|Solange Israel Mintz]], [[People/Ytshak-Israel|Ytshak Israel]], [[People/Solomon-Israel|Solomon Israel]]
 
 ## Biography
-Shaoul ,... born February 22 ,1918 in Assiout (Egypt),...married to Pauline Cohen in February 21, 1948, in Cairo. They emigrated to the USA, with their family in, December 1961.
+Shaoul ,... born February 22 ,1918 in [[Places/Assiut]] ([[Places/Egypt]]),...married to Pauline Cohen in February 21, 1948, in [[Places/Cairo]]. They emigrated to the [[Places/USA]], with their family in, December 1961.
 
 ## Photos
 

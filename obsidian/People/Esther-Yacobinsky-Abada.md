@@ -28,7 +28,7 @@ research_level: 2
 **Children:** [[People/Einav-Abada-Avieli|Einav Abada Avieli]], [[People/Adi-Abada|Adi Abada]], [[People/Omer-Abada|Omer Abada]]
 
 ## Biography
-Wedding of Esther Yacobinsky, and Yacov Abada, in Israel 10 December 1972
+Wedding of Esther Yacobinsky, and Yacov Abada, in [[Places/Israel]] 10 December 1972
 
 ## Photos
 

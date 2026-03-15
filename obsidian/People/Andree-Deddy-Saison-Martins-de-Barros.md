@@ -45,10 +45,10 @@ research_level: 1
 ![[attachments/pictures/Saison Deddy 1962.jpg]]
 
 ![[attachments/pictures/Saison Deddy 1964.jpg]]
-*Photo souvenir lors de mon premier voyage en Israel en 1964,...A la plage de Herzlia avec la famille Patan : Aviva, Sami, Mary, et Cesy en l'arriere.*
+*Photo souvenir lors de mon premier voyage en [[Places/Israel]] en 1964,...A la plage de Herzlia avec la famille Patan : Aviva, Sami, Mary, et Cesy en l'arriere.*
 
 ![[attachments/pictures/Sasson Jacques family.jpg]]
-*Uns annee apres notre arrivee en France.*
+*Uns annee apres notre arrivee en [[Places/France]].*
 
 ![[attachments/pictures/Deddy.jpg]]
 *Deddy devant un des tableaux de son mari Andre Martins de Barros.*

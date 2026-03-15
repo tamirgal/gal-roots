@@ -28,9 +28,9 @@ research_level: 2
 **Children:** [[People/Ravit-Harari-Caspi|Ravit Harari Caspi]], [[People/Erane-Harari|Erane Harari]], [[People/Rinat-Harari|Rinat Harari]]
 
 ## Biography
-Wedding of Rafi Harari and Miriam Abada in Israel 4 June 1970
+Wedding of Rafi Harari and Miriam Abada in [[Places/Israel]] 4 June 1970
 
 ## Photos
 
 ![[attachments/pictures/Harari Rafi.jpg]]
-*Rafi, a la batMitzva de Mary Patan, a Carmiel, Avril 2002*
+*Rafi, a la batMitzva de Mary Patan, a [[Places/Karmiel]], Avril 2002*

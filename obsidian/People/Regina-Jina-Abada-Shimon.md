@@ -40,7 +40,7 @@ research_level: 2
 **Children:** [[People/Chaim-Shimon|Chaim Shimon]], [[People/Liat-Shimon-Kokhavi|Liat (Shimon) Kokhavi]], [[People/Keren-Shimon-Haiman|Keren (Shimon) Haiman]], [[People/Maya-Shimon-Davida|Maya (Shimon) Davida]], [[People/Shani-Shimon|Shani Shimon]]
 
 ## Biography
-Regina (Abada) Shimon is born in Haifa. Israel on 7 May 1951 Married to Shimon Amir, in Bat-Galim, Haifa, Israel - date:16-11-1970
+Regina (Abada) Shimon is born in [[Places/Haifa]]. Israel on 7 May 1951 Married to Shimon Amir, in [[Places/Bat Galim]], [[Places/Haifa]], Israel - date:16-11-1970
 
 ## Photos
 

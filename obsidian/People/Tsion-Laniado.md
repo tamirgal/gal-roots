@@ -26,7 +26,7 @@ research_level: 2
 **Children:** [[People/Shirah-Laniado|Shirah Laniado]], [[People/Yoss-Laniado|Yoss Laniado]]
 
 ## Biography
-Tsion Lagnado, married to Esther (Etty) Cohen, in Israel, on the 4 July 1989.
+Tsion Lagnado, married to Esther (Etty) Cohen, in [[Places/Israel]], on the 4 July 1989.
 
 ## Photos
 

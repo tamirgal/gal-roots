@@ -28,7 +28,7 @@ research_level: 2
 **Children:** [[People/Alexandre-Eliahou|Alexandre Eliahou]], [[People/Ludivine-Eliahou|Ludivine Eliahou]]
 
 ## Biography
-Danielle Obadia, nee a Biskra en Algerie le 17.12.1945 , mariee a Shaoul Eliahou le 28.12.1975, a la Synaguogue de La Duchere, a Lyon , France.
+Danielle Obadia, nee a Biskra en Algerie le 17.12.1945 , mariee a Shaoul Eliahou le 28.12.1975, a la Synaguogue de La Duchere, a Lyon , [[Places/France]].
 
 ## Photos
 

@@ -36,7 +36,7 @@ research_level: 2
 **Children:** [[People/Tamara-J-Ovdat-Lesser|Tamara J. Ovdat Lesser]], [[People/Alan-D-Ovdat|Alan D. Ovdat]]
 
 ## Biography
-Born in Cairo (Egypt) on 13 September 1944, I emigrated to Israel in 1949 with all my family. After my military service, I voyaged to Canada, where I got a business degree and an accounting diploma from CONCORDIA UNIVERSITY in Montreal (Canada). Married to Beverly M. Snarch in Montreal on 13 September 1971 (on my birthday). We moved to California (USA) in April 1978. After many years with financial reporting and analysis, I ended up in Real Estate and managing my own investments.
+Born in [[Places/Cairo]] ([[Places/Egypt]]) on 13 September 1944, I emigrated to [[Places/Israel]] in 1949 with all my family. After my military service, I voyaged to [[Places/Canada]], where I got a business degree and an accounting diploma from CONCORDIA UNIVERSITY in [[Places/Montreal]] ([[Places/Canada]]). Married to Beverly M. Snarch in [[Places/Montreal]] on 13 September 1971 (on my birthday). We moved to [[Places/California]] ([[Places/USA]]) in April 1978. After many years with financial reporting and analysis, I ended up in Real Estate and managing my own investments.
 
 ## Photos
 

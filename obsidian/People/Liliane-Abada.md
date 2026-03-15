@@ -43,12 +43,12 @@ research_level: 2
 **Children:** [[People/Esther-Titi-Abada-Levy|Esther (Titi) Abada Levy]], [[People/Avi-Abada|Avi Abada]]
 
 ## Biography
-Je suis nee a Port-Said (Egypte), le 3 Septembre 1935. Mon enfance se passa a Ismaylia, ou mes parents dirigeaient un hotel modeste, le "Windsor",... plutot reconnu comme l'hotel de Mme Esther. Les hotes etaient surtout des commercants juifs,... mais aussi des anglais et australiens , qui sejournaient dans cette zone militaire du canal de Suez pendant la periode de la 2eme guerre mondiale. A la suite d'une penible maladie, ma maman mourut en 1948, a l'age de 39 ans, alors que moi l'ainee, je n'avais pas 13 ans. Avec ma soeur Louna, nous avons passe 2 annees dans un couvent catholique pour orphelins, a Port-Said,.. le "Saint Vincent de Paul". Mon pere se remaria avec Daisy Seroussi, et nous sommes retournees vivre a Ismaylia avec la famille. En 1956, je me suis mariee avec mon cousin Ernest (Nisso). Nous habitions au Caire, tout pres de sa famille. Tout etait bien, la vie semblait calme. Fin 1956, les evenements de la guerre de Suez, vinrent ebranler et changer nos programmes et notre destin. L'hotel fut sequestre, mon pere et la famille furent internes, avec tous les juifs de la zone du canal de Suez. J'etais enceinte, et Nisso dut s'occuper de la liquidation et la vente hative de nos biens. C'est ainsi que nous avons quitte l'Egypte en vitesse par le premier navire, (debut 1957), en vue de notre immgration en Israel, ou nous avons recommence notre nouvelle vie.
+Je suis nee a Port-Said ([[Places/Egypt]]), le 3 Septembre 1935. Mon enfance se passa a Ismaylia, ou mes parents dirigeaient un hotel modeste, le "Windsor",... plutot reconnu comme l'hotel de Mme Esther. Les hotes etaient surtout des commercants juifs,... mais aussi des anglais et australiens , qui sejournaient dans cette zone militaire du canal de Suez pendant la periode de la 2eme guerre mondiale. A la suite d'une penible maladie, ma maman mourut en 1948, a l'age de 39 ans, alors que moi l'ainee, je n'avais pas 13 ans. Avec ma soeur Louna, nous avons passe 2 annees dans un couvent catholique pour orphelins, a Port-Said,.. le "Saint Vincent de Paul". Mon pere se remaria avec Daisy Seroussi, et nous sommes retournees vivre a Ismaylia avec la famille. En 1956, je me suis mariee avec mon cousin Ernest (Nisso). Nous habitions au [[Places/Cairo]], tout pres de sa famille. Tout etait bien, la vie semblait calme. Fin 1956, les evenements de la guerre de Suez, vinrent ebranler et changer nos programmes et notre destin. L'hotel fut sequestre, mon pere et la famille furent internes, avec tous les juifs de la zone du canal de Suez. J'etais enceinte, et Nisso dut s'occuper de la liquidation et la vente hative de nos biens. C'est ainsi que nous avons quitte l'[[Places/Egypt]] en vitesse par le premier navire, (debut 1957), en vue de notre immgration en [[Places/Israel]], ou nous avons recommence notre nouvelle vie.
 
 ## Photos
 
 ![[attachments/pictures/ChezLiliane.JPG]]
-*Chez nous a Haifa...Fevrier 1999*
+*Chez nous a [[Places/Haifa]]...Fevrier 1999*
 
 ![[attachments/pictures/Galilee01.jpg]]
 *Parmis tant d'excursions... !que nous avons fait ensembleavec Mary, Elie et les gosses.En galilee en Aout 1964*
@@ -57,7 +57,7 @@ Je suis nee a Port-Said (Egypte), le 3 Septembre 1935. Mon enfance se passa a Is
 *Notre photo de mariage*
 
 ![[attachments/pictures/Juin 2002.jpg]]
-*Photo souvenir lors de la visite d'Arlette et Salvo en Israel.Juin 2002.*
+*Photo souvenir lors de la visite d'Arlette et Salvo en [[Places/Israel]].Juin 2002.*
 
 ![[attachments/pictures/Abada Liliane passport.jpg]]
 

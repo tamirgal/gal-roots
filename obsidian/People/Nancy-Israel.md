@@ -20,7 +20,7 @@ research_level: 2
 **Spouse:** [[People/Solomon-Israel|Solomon Israel]]
 
 ## Biography
-Nancy,...born in Montreal, Quebec (Canada). Married to Solomon on May 28, 2000 , in Dallas , Texas.
+Nancy,...born in [[Places/Montreal]], [[Places/Quebec]] ([[Places/Canada]]). Married to Solomon on May 28, 2000 , in [[Places/Dallas]] , [[Places/Texas]].
 
 ## Photos
 

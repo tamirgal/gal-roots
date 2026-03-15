@@ -27,7 +27,7 @@ research_level: 2
 **Children:** [[People/Pauline-Pelletier|Pauline Pelletier]], [[People/Chloe-Madeleine-Pelletier|Chloe Madeleine Pelletier]]
 
 ## Biography
-Philippe Pelletier, born in Salem, Massachussetts, September 21, 1947. His parents are : Joseph Theodore Pelletier, born in Brunswick (Canada), and Madeleine Boucher, born in Salem Massachussetts. Brothers and sisters : Roland, Laurel, Marc and Patrick
+Philippe Pelletier, born in Salem, Massachussetts, September 21, 1947. His parents are : Joseph Theodore Pelletier, born in Brunswick ([[Places/Canada]]), and Madeleine Boucher, born in Salem Massachussetts. Brothers and sisters : Roland, Laurel, Marc and Patrick
 
 ## Photos
 

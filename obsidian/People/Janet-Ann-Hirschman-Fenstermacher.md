@@ -37,7 +37,7 @@ research_level: 2
 **Children:** [[People/Amy-Claire-Fenstermacher|Amy Claire Fenstermacher]], [[People/Lucas-Daniel-Fenstermacher|Lucas Daniel Fenstermacher]], [[People/Samuel-Mark-Fenstermacher|Samuel Mark Fenstermacher]]
 
 ## Biography
-Janet was born and raised in Maplewood, New Jersey. Attended Tufts College of Engineering for undergraduate study in chemical engineering and got a M.S. in chemical engineering at Rutgers University in New Jersey. Later on Janet received her doctorate in chemical engineering in 1991. Since 1989 Janet worked in the industry before she decided in 1997 that she needed to be home with the kids for awhile. Later on Janet decided it was time to prepare for the career that she always wanted and has gotten a teaching certificate. Since 2001, Janet is teaching at the local high school.
+Janet was born and raised in Maplewood, [[Places/New Jersey]]. Attended Tufts College of Engineering for undergraduate study in chemical engineering and got a M.S. in chemical engineering at Rutgers University in [[Places/New Jersey]]. Later on Janet received her doctorate in chemical engineering in 1991. Since 1989 Janet worked in the industry before she decided in 1997 that she needed to be home with the kids for awhile. Later on Janet decided it was time to prepare for the career that she always wanted and has gotten a teaching certificate. Since 2001, Janet is teaching at the local high school.
 
 ## Photos
 

@@ -32,7 +32,7 @@ research_level: 2
 **Children:** [[People/Rony-Yehoshua-Yohay|Rony Yehoshua Yohay]], [[People/Moshe-Yohay|Moshe Yohay]], [[People/Esther-Esty-Yohay-Rahamim|Esther (Esty) Yohay Rahamim]]
 
 ## Biography
-Yossef Yohay, ne en 1931, a Zagazig , ville Egyptienne au nord du delta du Nil.. En 1956, il se marie au Caire avec Edith Abada. Terminant ses etudes a la faculte de pharmacie du Caire, il travaille comme pharmacien. En 1957, a la suite de la guerre de Suez, le couple quitte l'Egypte , emigre en Israel, et s'installe a Bne-Brak. Yossef travaille , toujours pharmacien a la "Koupat Holim", tout pres de sa maison. Ils ont 3 enfants. En 1991, il succombe et meurt subitement d'une crise cardiaque.
+Yossef Yohay, ne en 1931, a Zagazig , ville Egyptienne au nord du delta du Nil.. En 1956, il se marie au [[Places/Cairo]] avec Edith Abada. Terminant ses etudes a la faculte de pharmacie du [[Places/Cairo]], il travaille comme pharmacien. En 1957, a la suite de la guerre de Suez, le couple quitte l'[[Places/Egypt]] , emigre en [[Places/Israel]], et s'installe a Bne-Brak. Yossef travaille , toujours pharmacien a la "Koupat Holim", tout pres de sa maison. Ils ont 3 enfants. En 1991, il succombe et meurt subitement d'une crise cardiaque.
 
 ## Photos
 

@@ -27,7 +27,7 @@ research_level: 2
 **Children:** [[People/Yuval-Elias|Yuval Elias]], [[People/Oren-Elias|Oren Elias]]
 
 ## Biography
-Born and lives in Haifa, Israel. Studied Chemistry . Got his PhD from the Technion in Haifa. Lectures in Haifa, California and Singapore.
+Born and lives in [[Places/Haifa]], Israel. Studied Chemistry . Got his PhD from the Technion in [[Places/Haifa]]. Lectures in [[Places/Haifa]], [[Places/California]] and Singapore.
 
 ## Photos
 

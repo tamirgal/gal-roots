@@ -37,7 +37,7 @@ research_level: 2
 **Children:** [[People/Moshe-Abada-ind00495|Moshe Abada]], [[People/Yacov-Abada-ind00494|Yacov Abada]], [[People/Yehezkel-Heizy-Abada|Yehezkel Heizy Abada]], [[People/Rami-Abada|Rami Abada]]
 
 ## Biography
-David, Doudou comme on l'appelle, est ne au Caire en 1923. et se marie avec Juliette Hanan au Caire en 1955. Il travaillait a Fayed, dans la zone du canal de Suez,... L'armee anglaise y avait une quantite innombrable d'entrepots , ou elle emmagasinait tout ce dont elle avait besoin pendant la 2 eme guerre mondiale 1939-1945. Elle avait grandement besoin de main d'oeuvre civile , locale , pour gerer tout ce complexe, avant sa liquidation definitive . Apres la guerre de Suez, ils emigrent vers Israel en 1957, et s'installent a Ofakim. Doudou y travaillait comme secretaire de l'ecole "Eshel Hannassi". Ils ont 4 enfants, tous nes en Israel, et 17 petits enfants. Doudou mourut en 1988.
+David, Doudou comme on l'appelle, est ne au [[Places/Cairo]] en 1923. et se marie avec Juliette Hanan au [[Places/Cairo]] en 1955. Il travaillait a Fayed, dans la zone du canal de Suez,... L'armee anglaise y avait une quantite innombrable d'entrepots , ou elle emmagasinait tout ce dont elle avait besoin pendant la 2 eme guerre mondiale 1939-1945. Elle avait grandement besoin de main d'oeuvre civile , locale , pour gerer tout ce complexe, avant sa liquidation definitive . Apres la guerre de Suez, ils emigrent vers [[Places/Israel]] en 1957, et s'installent a Ofakim. Doudou y travaillait comme secretaire de l'ecole "Eshel Hannassi". Ils ont 4 enfants, tous nes en [[Places/Israel]], et 17 petits enfants. Doudou mourut en 1988.
 
 ## Photos
 

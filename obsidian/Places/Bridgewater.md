@@ -1,0 +1,4 @@
+---
+name: Bridgewater
+type: place
+---

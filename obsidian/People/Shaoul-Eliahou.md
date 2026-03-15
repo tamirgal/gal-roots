@@ -38,7 +38,7 @@ research_level: 2
 **Children:** [[People/Alexandre-Eliahou|Alexandre Eliahou]], [[People/Ludivine-Eliahou|Ludivine Eliahou]]
 
 ## Biography
-Shaoul Eliahou , ne au Caire (Egypte) le 4.7.194O , marie a Danielle Obadia le 28.12.1975, a la Synaguogue de La Duchere , Lyon , France.
+Shaoul Eliahou , ne au [[Places/Cairo]] ([[Places/Egypt]]) le 4.7.194O , marie a Danielle Obadia le 28.12.1975, a la Synaguogue de La Duchere , Lyon , [[Places/France]].
 
 ## Photos
 
@@ -46,7 +46,7 @@ Shaoul Eliahou , ne au Caire (Egypte) le 4.7.194O , marie a Danielle Obadia le 2
 *Shaoul Eliahou , 12 ans.*
 
 ![[attachments/pictures/Eliahou Shaoul maiage copy.jpg]]
-*Photo souvenir du mariage de Shaoul Eliahou et Danielle Obadia, le 28.12.1975, a la Synaguogue de La Duchere , Lyon , France*
+*Photo souvenir du mariage de Shaoul Eliahou et Danielle Obadia, le 28.12.1975, a la Synaguogue de La Duchere , Lyon , [[Places/France]]*
 
 ![[attachments/pictures/Eliahou Shaoul.jpg]]
 

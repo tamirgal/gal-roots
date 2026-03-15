@@ -37,17 +37,17 @@ research_level: 2
 **Children:** [[People/Zvi-Hava|Zvi Hava]], [[People/David-Hava|David Hava]], [[People/Yehouda-Hava|Yehouda Hava]]
 
 ## Biography
-Flora Abed, born in Bagdad (Iraq) Married in Iraq to Nissim Hava. She emigrated to Israel in 1950, with her family.
+Flora Abed, born in [[Places/Baghdad]] ([[Places/Iraq]]) Married in [[Places/Iraq]] to Nissim Hava. She emigrated to [[Places/Israel]] in 1950, with her family.
 
 ## Photos
 
 ![[attachments/pictures/Passport Abed Flora 2.jpg]]
 
 ![[attachments/pictures/1947 Flora Abed.jpg]]
-*October 1947.Photo souvenir from Flora Abed in Basra, Iraq, to her aunt Victoria Patan in Cairo Egypt.*
+*October 1947.Photo souvenir from Flora Abed in Basra, [[Places/Iraq]], to her aunt Victoria Patan in [[Places/Cairo]] [[Places/Egypt]].*
 
 ![[attachments/pictures/1947 Flora Nissim.jpg]]
-*Bagdag, 6 october 1947.Flora Abed and Nissim Hava.Picture sent from Bagdad to aunt Victoria Patan in Cairo, Egypt.*
+*[[Places/Baghdad]], 6 october 1947.Flora Abed and Nissim Hava.Picture sent from [[Places/Baghdad]] to aunt Victoria Patan in [[Places/Cairo]], [[Places/Egypt]].*
 
 ![[attachments/pictures/Passport Abed Flora 1.jpg]]
-*Flora Abed - Bagdad 1938*
+*Flora Abed - [[Places/Baghdad]] 1938*

@@ -25,7 +25,7 @@ research_level: 2
 **Siblings:** [[People/Assaf-Patan|Assaf Patan]]
 
 ## Biography
-Aviv Patan is born in Assaf-Harofey Hospital in Israel.
+Aviv Patan is born in Assaf-Harofey Hospital in [[Places/Israel]].
 
 ## Photos
 

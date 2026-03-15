@@ -26,4 +26,4 @@ research_level: 2
 **Children:** [[People/Gal-Brawn|Gal Brawn]]
 
 ## Biography
-Sharon Brawn , married to Hagit Wissotsky, in Israel in 1995 .
+Sharon Brawn , married to Hagit Wissotsky, in [[Places/Israel]] in 1995 .

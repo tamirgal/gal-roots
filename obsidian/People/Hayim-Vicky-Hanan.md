@@ -35,7 +35,7 @@ research_level: 2
 **Children:** [[People/Yacov-Hanan|Yacov Hanan]], [[People/Moshe-Hanan|Moshe Hanan]]
 
 ## Biography
-Born in Egypt, 17 December 1932. Son of Yacov and Esther Hanan. In 1950 the family emigrated to Israel where they lived in a new agricultural settlement called "Beit-Zait", It is a splendid place , in the heart of the beautiful mountains surrounding Jerusalem. On 4 September 1951, married to Rosette Cohen, they continue to live in Beit Zait,... 2 sons were born, Yacov and Moshe,.. After Rosette's death in 1965, Hayim remarried to Andree Yakoel in 1968,... she died in 1993.
+Born in [[Places/Egypt]], 17 December 1932. Son of Yacov and Esther Hanan. In 1950 the family emigrated to [[Places/Israel]] where they lived in a new agricultural settlement called "[[Places/Beit Zait]]", It is a splendid place , in the heart of the beautiful mountains surrounding [[Places/Jerusalem]]. On 4 September 1951, married to Rosette Cohen, they continue to live in [[Places/Beit Zait]],... 2 sons were born, Yacov and Moshe,.. After Rosette's death in 1965, Hayim remarried to Andree Yakoel in 1968,... she died in 1993.
 
 ## Photos
 
@@ -45,7 +45,7 @@ Born in Egypt, 17 December 1932. Son of Yacov and Esther Hanan. In 1950 the fami
 *Au mariage de Moshe Hanan*
 
 ![[attachments/pictures/Cohen Sasson Hanan.jpg]]
-*Excursion avec la famille Sasson, dans les montagnes de Jerusalem.*
+*Excursion avec la famille Sasson, dans les montagnes de [[Places/Jerusalem]].*
 
 ![[attachments/pictures/Hanan Rosy Vicky 1.jpg]]
 

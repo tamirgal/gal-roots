@@ -31,7 +31,7 @@ research_level: 2
 **Children:** [[People/Chaim-Shimon|Chaim Shimon]], [[People/Liat-Shimon-Kokhavi|Liat (Shimon) Kokhavi]], [[People/Keren-Shimon-Haiman|Keren (Shimon) Haiman]], [[People/Maya-Shimon-Davida|Maya (Shimon) Davida]], [[People/Shani-Shimon|Shani Shimon]]
 
 ## Biography
-Shimon Amir is born in Mosul, Iraq on September 1945 Immigrated to Israel in 1948 with all his family Married to Regina Abada, in Bat-Galim, Haifa, Israel - date:16-11-1970 Died in Karmiel on 11-3-1999
+Shimon Amir is born in [[Places/Mosul]], [[Places/Iraq]] on September 1945 Immigrated to [[Places/Israel]] in 1948 with all his family Married to Regina Abada, in [[Places/Bat Galim]], [[Places/Haifa]], Israel - date:16-11-1970 Died in [[Places/Karmiel]] on 11-3-1999
 
 ## Photos
 

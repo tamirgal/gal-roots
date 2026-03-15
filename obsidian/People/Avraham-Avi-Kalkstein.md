@@ -24,7 +24,7 @@ research_level: 2
 **Siblings:** [[People/Ronit-Kalkstein-Shaked|Ronit Kalkstein Shaked]]
 
 ## Biography
-Born in Haifa , 23.october 1951,... He lives in NY, USA.
+Born in [[Places/Haifa]] , 23.october 1951,... He lives in NY, [[Places/USA]].
 
 ## Photos
 

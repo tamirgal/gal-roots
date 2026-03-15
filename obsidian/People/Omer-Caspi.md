@@ -14,4 +14,4 @@ research_level: 2
 **Spouse:** [[People/Ravit-Harari-Caspi|Ravit Harari Caspi]]
 
 ## Biography
-Wedding of Omer Caspi and Ravit Harari in Israel 26 August 2001
+Wedding of Omer Caspi and Ravit Harari in [[Places/Israel]] 26 August 2001

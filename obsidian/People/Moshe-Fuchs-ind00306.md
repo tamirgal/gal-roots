@@ -27,9 +27,9 @@ research_level: 2
 **Children:** [[People/Lyat-Fuchs-Kalo|Lyat Fuchs Kalo]], [[People/Shay-Fuchs|Shay Fuchs]], [[People/Lirone-Fuchs|Lirone Fuchs]]
 
 ## Biography
-Moshe Fuchs , married to Regy (Ruty) Nefoussi in Israel , in 1973.
+Moshe Fuchs , married to Regy (Ruty) Nefoussi in [[Places/Israel]] , in 1973.
 
 ## Photos
 
 ![[attachments/pictures/Fuchs Moshe.jpg]]
-*Moshe a la BatMitzva de Mary Patan, a Carmiel, Avril 2002.*
+*Moshe a la BatMitzva de Mary Patan, a [[Places/Karmiel]], Avril 2002.*

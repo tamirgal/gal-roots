@@ -38,7 +38,7 @@ research_level: 1
 ![[attachments/pictures/Israel Germaine.jpg]]
 
 ![[attachments/pictures/Israel Joseph Germaine.jpg]]
-*Joe and Germaine Israel,Some years after emigration, in the USA.... Souvenir from Alain's Bar-Mitzva.*
+*Joe and Germaine Israel,Some years after emigration, in the [[Places/USA]].... Souvenir from Alain's Bar-Mitzva.*
 
 ![[attachments/pictures/Bonan mariage Izy.jpg]]
 *At the wedding of Sorana and Izy Bonan.*
@@ -47,4 +47,4 @@ research_level: 1
 *At Alain's Bar-Mitzva*
 
 ![[attachments/pictures/Mandara 1954-1.jpg]]
-*Alexandria,... on the beach,...*
+*[[Places/Alexandria]],... on the beach,...*

@@ -38,7 +38,7 @@ research_level: 2
 **Children:** [[People/David-Daoud-Abed|David (Daoud) Abed]], [[People/Aziza-Abed-Levy|Aziza (Abed) Levy]], [[People/Ezra-Patan|Ezra Patan]], [[People/Aharon-Abed|Aharon Abed]], [[People/Abraham-Abed|Abraham Abed]], [[People/Nina-Abed|Nina Abed]], [[People/Hatoune-Abed-Halztshy|Hatoune Abed Halztshy]], [[People/Heila-Abed|Heila Abed]]
 
 ## Biography
-Eliahou Abed: Born, lived and died in Bagdad (Iraq). Married to Massouda Touek . He had a textile commerce in Bagdad אליהו עאבד , נולד, חי, ונפטר בבגדד, עירק . נשוי ל מסעודה טויק היה לו הנות לסחר בבדים וטקסטיל
+Eliahou Abed: Born, lived and died in [[Places/Baghdad]] ([[Places/Iraq]]). Married to Massouda Touek . He had a textile commerce in [[Places/Baghdad]] אליהו עאבד , נולד, חי, ונפטר בבגדד, עירק . נשוי ל מסעודה טויק היה לו הנות לסחר בבדים וטקסטיל
 
 ## Photos
 

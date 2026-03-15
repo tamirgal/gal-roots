@@ -39,18 +39,18 @@ research_level: 2
 **Children:** [[People/Shaoul-Abada-1962|Shaoul Abada]], [[People/Ronit-Abada-Savdie|Ronit Abada Savdie]]
 
 ## Biography
-Photo prise chez Sami et Rahel Patan a Carmiel,... Avril 2002 .
+Photo prise chez Sami et Rahel Patan a [[Places/Karmiel]],... Avril 2002 .
 
 ## Photos
 
 ![[attachments/pictures/Portrait Ginette.jpg]]
-*Photo prise chez Sami et Rahel Patan a Carmiel,... Avril 2002 .*
+*Photo prise chez Sami et Rahel Patan a [[Places/Karmiel]],... Avril 2002 .*
 
 ![[attachments/pictures/Ginette  et Soly.jpg]]
-*Souvenir a Ramat-Gan , lors d'une visite chez Mary et Elie en Aout 1963 . Avec Soly, mon fils aine .*
+*Souvenir a [[Places/Ramat Gan]] , lors d'une visite chez Mary et Elie en Aout 1963 . Avec Soly, mon fils aine .*
 
 ![[attachments/pictures/Ginette et Momo 2.jpg]]
-*Avec mon frere Momo,... Il avait 5 ans, et moi 7 . Photo prise a la piscine du National sporting club du Caire*
+*Avec mon frere Momo,... Il avait 5 ans, et moi 7 . Photo prise a la piscine du National sporting club du [[Places/Cairo]]*
 
 ![[attachments/pictures/Ginette et Momo 3.jpg]]
 *Avec mon frere Momo... Souvenir de notre enfance .*

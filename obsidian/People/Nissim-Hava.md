@@ -28,12 +28,12 @@ research_level: 2
 **Children:** [[People/Zvi-Hava|Zvi Hava]], [[People/David-Hava|David Hava]], [[People/Yehouda-Hava|Yehouda Hava]]
 
 ## Biography
-Nissim Hava, born in Iraq. Married in Iraq to Flora Abed He emigrated to Israel in 1950 with his family.
+Nissim Hava, born in [[Places/Iraq]]. Married in [[Places/Iraq]] to Flora Abed He emigrated to [[Places/Israel]] in 1950 with his family.
 
 ## Photos
 
 ![[attachments/pictures/Passport Hava Nissim.jpg]]
-*Nissim Hava, Bagdad 6 october 1947*
+*Nissim Hava, [[Places/Baghdad]] 6 october 1947*
 
 ![[attachments/pictures/1947 Flora Nissim.jpg]]
-*Bagdag, 6 october 1947.Flora Abed and Nissim Hava.*
+*[[Places/Baghdad]], 6 october 1947.Flora Abed and Nissim Hava.*

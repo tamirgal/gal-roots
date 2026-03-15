@@ -27,7 +27,7 @@ research_level: 2
 **Siblings:** [[People/Shaked-Gal|Shaked Gal]], [[People/Nadav-Gal|Nadav Gal]]
 
 ## Biography
-Mika Gal Birth date - Wednesday 5 July 2017 Birth time - 14.00 hour P.M. Birth place - Rambam Hospital Birth town - Haifa (Israel) Weight - 3.5 kgs
+Mika Gal Birth date - Wednesday 5 July 2017 Birth time - 14.00 hour P.M. Birth place - Rambam Hospital Birth town - [[Places/Haifa]] (Israel) Weight - 3.5 kgs
 
 ## Photos
 

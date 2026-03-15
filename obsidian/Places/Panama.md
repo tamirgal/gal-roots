@@ -1,0 +1,4 @@
+---
+name: Panama
+type: place
+---

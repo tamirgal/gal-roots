@@ -18,4 +18,4 @@ research_level: 0
 **Children:** [[People/Tal-Kalo|Tal Kalo]]
 
 ## Biography
-Dror Kalo, married to Lyat Fuchs in Israel , in 1997.
+Dror Kalo, married to Lyat Fuchs in [[Places/Israel]] , in 1997.

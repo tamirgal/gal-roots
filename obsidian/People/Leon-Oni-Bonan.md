@@ -40,12 +40,12 @@ research_level: 2
 **Children:** [[People/Michelle-Bonan-Hamill|Michelle Bonan Hamill]], [[People/David-Bonan|David Bonan]]
 
 ## Biography
-Born in Cairo , Egypt - September 22 , 1942 Married to Agnes August 22 , 1971 .
+Born in [[Places/Cairo]] , [[Places/Egypt]] - September 22 , 1942 Married to Agnes August 22 , 1971 .
 
 ## Photos
 
 ![[attachments/pictures/Bonan Oni.jpg]]
-*Souvenir with uncle Albert Sasson and Emilie Sasson, during their visit in the USA.*
+*Souvenir with uncle Albert Sasson and Emilie Sasson, during their visit in the [[Places/USA]].*
 
 ![[attachments/pictures/Bonan Sasson USA1975-2.jpg]]
 

@@ -26,7 +26,7 @@ research_level: 2
 **Siblings:** [[People/Helene-Abada-Sasson|Helene Abada Sasson]], [[People/Esther-Abada|Esther Abada]], [[People/David-Doudou-Abada|David Doudou Abada]], [[People/Claire-Abada-Cohenca|Claire Abada Cohenca]], [[People/Yehezkel-Ernest-Abada|Yehezkel Ernest Abada]], [[People/Victor-Abada|Victor Abada]], [[People/Edith-Ida-Abada-Yohay|Edith (Ida) Abada Yohay]], [[People/Felix-Abada|Felix Abada]]
 
 ## Biography
-Jacques Abada, est ne au Caire en 1929., et s'est marie en 1949 , avec Rachel. Il travaillait comme chauffeur de taxi. En 1957, le couple emigre pour Israel, ou Jacques travaille aussi comme chauffeur de taxi. Ils habitaient a Bat-Yam, et n'ont pas eu d'enfants. Jacques est mort en 1968.
+Jacques Abada, est ne au [[Places/Cairo]] en 1929., et s'est marie en 1949 , avec Rachel. Il travaillait comme chauffeur de taxi. En 1957, le couple emigre pour [[Places/Israel]], ou Jacques travaille aussi comme chauffeur de taxi. Ils habitaient a Bat-Yam, et n'ont pas eu d'enfants. Jacques est mort en 1968.
 
 ## Photos
 

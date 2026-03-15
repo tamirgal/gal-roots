@@ -23,7 +23,7 @@ research_level: 2
 **Siblings:** [[People/Hayim-Abada|Hayim Abada]], [[People/Farha-Abada-ind00512|Farha Abada]]
 
 ## Biography
-Touna et sa soeur Farha, resterent en Egypte et fonderent chacune sa famille. Apres la mort de leur pere, et le voyage definitif de leur frere Hayim pour Israel, elles resterent en Egypte. Meme apres l'emigration de leur maman Regina pour Israel, elles sont restees en Egypte, et les relations avec elles sont rompues.
+Touna et sa soeur Farha, resterent en [[Places/Egypt]] et fonderent chacune sa famille. Apres la mort de leur pere, et le voyage definitif de leur frere Hayim pour [[Places/Israel]], elles resterent en [[Places/Egypt]]. Meme apres l'emigration de leur maman Regina pour [[Places/Israel]], elles sont restees en [[Places/Egypt]], et les relations avec elles sont rompues.
 
 ## Photos
 

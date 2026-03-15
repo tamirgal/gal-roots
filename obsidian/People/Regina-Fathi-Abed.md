@@ -26,7 +26,7 @@ research_level: 2
 **Children:** [[People/Flora-Abed-Hava|Flora (Abed) Hava]], [[People/Anouar-Abed-Patan-Aviad|Anouar (Abed-Patan) Aviad]]
 
 ## Biography
-Regina Abed (born Fathi), born and lived in Bagdag, Iraq. Married to Abraham Abed. In 1950 the family emigrated to Israel
+Regina Abed (born Fathi), born and lived in [[Places/Baghdad]], [[Places/Iraq]]. Married to Abraham Abed. In 1950 the family emigrated to [[Places/Israel]]
 
 ## Photos
 

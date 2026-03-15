@@ -22,7 +22,7 @@ research_level: 2
 **Siblings:** [[People/Noam-Shimon|Noam Shimon]], [[People/Ofir-Shimon|Ofir Shimon]]
 
 ## Biography
-Yuval Shimon is born in Haifa, Israel on 25-7-2005
+Yuval Shimon is born in [[Places/Haifa]], Israel on 25-7-2005
 
 ## Photos
 

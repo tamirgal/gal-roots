@@ -30,4 +30,4 @@ research_level: 2
 **Children:** [[People/Royi-Leker|Royi Leker]], [[People/Guy-Leker|Guy Leker]], [[People/Tal-Leker|Tal Leker]]
 
 ## Biography
-Iris Brawn, married to Noam Leker in Israel, in 1986.
+Iris Brawn, married to Noam Leker in [[Places/Israel]], in 1986.

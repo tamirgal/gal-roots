@@ -1,0 +1,4 @@
+---
+name: Newark
+type: place
+---

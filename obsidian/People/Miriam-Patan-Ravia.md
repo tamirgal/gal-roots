@@ -40,7 +40,7 @@ research_level: 2
 **Children:** [[People/Hayim-Ravia|Hayim Ravia]], [[People/Ilana-Ravia-Messoubi|Ilana Ravia Messoubi]]
 
 ## Biography
-MIRIAM RAVIA, born in Cairo, the 18th of November 1933… She was graduated from the English mission college in Cairo. In 1957, after the Suez canal war, she immigrated with all the family to Israel. Married in Tel-Aviv to Nissim Ravia, on 27th September 1959. Worked as an English secretary in different offices in Tel-Aviv.
+MIRIAM RAVIA, born in [[Places/Cairo]], the 18th of November 1933… She was graduated from the English mission college in [[Places/Cairo]]. In 1957, after the Suez canal war, she immigrated with all the family to [[Places/Israel]]. Married in [[Places/Tel Aviv]] to Nissim Ravia, on 27th September 1959. Worked as an English secretary in different offices in [[Places/Tel Aviv]].
 
 ## Photos
 

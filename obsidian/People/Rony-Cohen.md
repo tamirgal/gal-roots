@@ -35,7 +35,7 @@ research_level: 2
 **Children:** [[People/Unknown-ind00566|Unknown ind00566]]
 
 ## Biography
-Rony Cohen, is born in Israel. After finishing his military service, he joingned his parents in London, where his father was working as an accountant of the EL-Al company. Married to Kiera Stephens. The wedding ceremony took place in the UK. - 10 September 2004. Now they live in Tel-Aviv.
+Rony Cohen, is born in [[Places/Israel]]. After finishing his military service, he joingned his parents in [[Places/London]], where his father was working as an accountant of the EL-Al company. Married to Kiera Stephens. The wedding ceremony took place in the UK. - 10 September 2004. Now they live in [[Places/Tel Aviv]].
 
 ## Photos
 

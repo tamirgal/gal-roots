@@ -37,7 +37,7 @@ research_level: 2
 **Children:** [[People/Corinne-Irene-Lackner|Corinne Irene Lackner]], [[People/David-Grant-Lackner|David Grant Lackner]]
 
 ## Biography
-Lives in New-Jersy, USA.
+Lives in New-Jersy, [[Places/USA]].
 
 ## Photos
 

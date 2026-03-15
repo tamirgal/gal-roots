@@ -26,4 +26,4 @@ research_level: 2
 **Children:** [[People/Rotem-Bornstein|Rotem Bornstein]]
 
 ## Biography
-Keren Niv, married to Amir Bornstein in Israel, in 1998
+Keren Niv, married to Amir Bornstein in [[Places/Israel]], in 1998

@@ -39,7 +39,7 @@ research_level: 2
 **Children:** [[People/Ilan-Patan|Ilan Patan]], [[People/Raphael-Rafi-Patan|Raphael (Rafi) Patan]]
 
 ## Biography
-PATAN ISAAC, born in Cairo, 28th June 1929…Graduated from the Cairo University (Chemistry, pharmacy). In 1957, after the Suez canal war, he immigrated with all the family to Israel. Married in Tel-Aviv to Ady Kremer, on 17th January 1960. Worked as a chemist in the "Koupat Holim" (the national health institution). Then he directed his own pharmacy. On the 22nd of March 1995, he died suddenly in his pharmacy, aged 66 years old.
+PATAN ISAAC, born in [[Places/Cairo]], 28th June 1929…Graduated from the [[Places/Cairo]] University (Chemistry, pharmacy). In 1957, after the Suez canal war, he immigrated with all the family to [[Places/Israel]]. Married in [[Places/Tel Aviv]] to Ady Kremer, on 17th January 1960. Worked as a chemist in the "Koupat Holim" (the national health institution). Then he directed his own pharmacy. On the 22nd of March 1995, he died suddenly in his pharmacy, aged 66 years old.
 
 ## Photos
 

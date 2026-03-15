@@ -1,0 +1,4 @@
+---
+name: Timrat
+type: place
+---

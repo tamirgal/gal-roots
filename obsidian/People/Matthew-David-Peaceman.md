@@ -35,7 +35,7 @@ research_level: 2
 **Children:** [[People/Hannah-Lisa-Peaceman|Hannah Lisa Peaceman]], [[People/Joshua-Henry-Peaceman|Joshua Henry Peaceman]]
 
 ## Biography
-Matthew Peaceman born and raised in New York, studied modern and baroque oboe with Henry Schuman and Marc Schachman at the Aaron Copland School of Music of the City University of New York where he received both the Bachelor of Music and Master of Arts degrees. Since 1980, Mr. Peaceman has lived in Europe where he performs extensively as a soloist with a wide variety of baroque orchestras and chamber ensembles. He has made recordings for radio and can be heard on compact disc. He holds master classes in baroque performance practice and is a member of the faculty in baroque and modern oboe at the Peter-Cornelius Conservatory in Mainz, Germany. He is the author of the book: "Technical Exercises for Baroque Oboe"
+Matthew Peaceman born and raised in [[Places/New York]], studied modern and baroque oboe with Henry Schuman and Marc Schachman at the Aaron Copland School of Music of the City University of [[Places/New York]] where he received both the Bachelor of Music and Master of Arts degrees. Since 1980, Mr. Peaceman has lived in Europe where he performs extensively as a soloist with a wide variety of baroque orchestras and chamber ensembles. He has made recordings for radio and can be heard on compact disc. He holds master classes in baroque performance practice and is a member of the faculty in baroque and modern oboe at the Peter-Cornelius Conservatory in Mainz, Germany. He is the author of the book: "Technical Exercises for Baroque Oboe"
 
 ## Photos
 

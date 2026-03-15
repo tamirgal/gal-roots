@@ -53,7 +53,7 @@ research_level: 2
 **Children:** [[People/David-Cohen|David Cohen]], [[People/Rosette-Rosy-Cohen-Hanan|Rosette (Rosy) Cohen Hanan]], [[People/Mireille-Cohen|Mireille Cohen]], [[People/Itshak-Zako-Cohen|Itshak (Zako) Cohen]], [[People/Vicky-Cohen-Itshaki|Vicky Cohen Itshaki]]
 
 ## Biography
-Born in Louxor, married to Maurice Cohen, in Cairo, 22.2.1931. They lived in Heliopolis,Cairo. They had a store of houseware goods. In 1950 the family emigrated to Israel with their 5 children, lived in "BetZait", an agricultural settlement near Jerusalem, In the sixties, the family moved to Holon, where she died 30 September 1992, aged 87 years old. (Elie Patan)
+Born in [[Places/Luxor]], married to Maurice Cohen, in [[Places/Cairo]], 22.2.1931. They lived in [[Places/Heliopolis]],[[Places/Cairo]]. They had a store of houseware goods. In 1950 the family emigrated to [[Places/Israel]] with their 5 children, lived in "BetZait", an agricultural settlement near [[Places/Jerusalem]], In the sixties, the family moved to [[Places/Holon]], where she died 30 September 1992, aged 87 years old. (Elie Patan)
 
 ## Photos
 
@@ -84,7 +84,7 @@ Born in Louxor, married to Maurice Cohen, in Cairo, 22.2.1931. They lived in Hel
 ![[attachments/pictures/Cohen Esther Moshe 2.jpg]]
 
 ![[attachments/pictures/Cohen family Aliya.jpg]]
-*Leaving Egypt, we arrived in Italy.There, we were gathered with other families, for preparing our Aliyah to Israel, fulfilling our zionist aspirations to live in the promised land.*
+*Leaving [[Places/Egypt]], we arrived in [[Places/Italy]].There, we were gathered with other families, for preparing our Aliyah to [[Places/Israel]], fulfilling our zionist aspirations to live in the promised land.*
 
 ![[attachments/pictures/Sasson Esther2.jpg]]
-*Esther Sasson, young girl. Cairo , Egypt.*
+*Esther Sasson, young girl. [[Places/Cairo]] , [[Places/Egypt]].*

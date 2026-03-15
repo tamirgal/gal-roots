@@ -33,7 +33,7 @@ research_level: 2
 **Siblings:** [[People/Moshe-Israel-Klein|Moshe Israel Klein]], [[People/Antonia-Klein-Goldstein|Antonia Klein Goldstein]], [[People/David-Klein|David Klein]], [[People/Roza-Rezsi-Klein-Der|Roza (Rezsi) Klein Der]], [[People/Bernard-Klein|Bernard Klein]]
 
 ## Biography
-Yehuda (Lotzi) Klein was born in 1907. His mother died during his delivery,... and he was raised by his sister Antonia,... When Antonia got married, he grew as a brother of the Goldstein sons. He was an active zionist , in the Hashomer Hatzayir and made Aliya to Israel before World war 2. He lived in kibutz Kfar-Glickson, where he met his wife Rachel Hirsh. She was the eldest sister of Yacov Hirsh, husband of Tsipora Farkash. Later on they moved to another Kibutz, Usha, near Haifa. In 1951, they decided to emigrate to Sydney (Australia), where he died in 1980.
+Yehuda (Lotzi) Klein was born in 1907. His mother died during his delivery,... and he was raised by his sister Antonia,... When Antonia got married, he grew as a brother of the Goldstein sons. He was an active zionist , in the Hashomer Hatzayir and made Aliya to [[Places/Israel]] before World war 2. He lived in kibutz Kfar-Glickson, where he met his wife Rachel Hirsh. She was the eldest sister of Yacov Hirsh, husband of Tsipora Farkash. Later on they moved to another Kibutz, Usha, near [[Places/Haifa]]. In 1951, they decided to emigrate to [[Places/Sydney]] ([[Places/Australia]]), where he died in 1980.
 
 ## Photos
 
@@ -52,4 +52,4 @@ Yehuda (Lotzi) Klein was born in 1907. His mother died during his delivery,... a
 ![[attachments/pictures/klein_rahel_yehuda.jpg]]
 
 ![[attachments/pictures/mariage_yossi_aviva_4.jpg]]
-*At the wedding of Yossi Gal and Aviva Patan in Tel Aviv, 6 August 1974.On the right, Yehuda Klein*
+*At the wedding of Yossi Gal and Aviva Patan in [[Places/Tel Aviv]], 6 August 1974.On the right, Yehuda Klein*

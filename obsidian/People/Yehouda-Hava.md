@@ -21,7 +21,7 @@ research_level: 2
 **Siblings:** [[People/Zvi-Hava|Zvi Hava]], [[People/David-Hava|David Hava]]
 
 ## Biography
-Yehouda Hava, born in Iraq. In 1950, he emigrated to Israel with his family
+Yehouda Hava, born in [[Places/Iraq]]. In 1950, he emigrated to [[Places/Israel]] with his family
 
 ## Photos
 

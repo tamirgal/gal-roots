@@ -18,4 +18,4 @@ research_level: 0
 **Children:** [[People/Sosik-Zelikovitch|Sosik Zelikovitch]]
 
 ## Biography
-Izaac survived the holocaust and returned to Tyachev. His wife Rachel and daughter perished. He re-married and had 2 daughters. One immigrated to Hungary and the other one with the mother arrived to Israel. Izaac passed away and barried in Tyachev.
+Izaac survived the holocaust and returned to [[Places/Tyachiv]]. His wife Rachel and daughter perished. He re-married and had 2 daughters. One immigrated to [[Places/Hungary]] and the other one with the mother arrived to [[Places/Israel]]. Izaac passed away and barried in [[Places/Tyachiv]].

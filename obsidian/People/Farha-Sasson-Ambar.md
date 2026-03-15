@@ -43,7 +43,7 @@ research_level: 2
 **Children:** [[People/Saada-Ambar-Bolafi|Saada Ambar Bolafi]], [[People/Sasson-Ambar|Sasson Ambar]], [[People/Simha-Ambar-Harari|Simha Ambar Harari]], [[People/Ezra-Ambar|Ezra Ambar]], [[People/Jeanne-Hannah-Ambar-Shammass-Shemesh|Jeanne (Hannah) Ambar Shammass (Shemesh)]], [[People/Rachel-Ambar-Levy|Rachel Ambar Levy]]
 
 ## Biography
-Farha (Freha) Sasson, daughter of Khalifa Sasson and Semha Meyer,is born in Bagdad (Irak) in 1867. This appears from the registration of her family in the registers in the French Embassy in Cairo, the 16 September 1881. See copy of immatriculation document here down in her pictures album. Married to Menashe Ambar, in Cairo, they had 6 children. Her husband Menashe Ambar is a descendant of Reuben Ambar, whose family is registered in "Beth Hatefutsoh", Tel-Aviv, under tree No. 138. Copy of this tree, is in the family documents folder , with Elie Patan.
+Farha (Freha) Sasson, daughter of Khalifa Sasson and Semha Meyer,is born in [[Places/Baghdad]] ([[Places/Iraq]]) in 1867. This appears from the registration of her family in the registers in the French Embassy in [[Places/Cairo]], the 16 September 1881. See copy of immatriculation document here down in her pictures album. Married to Menashe Ambar, in [[Places/Cairo]], they had 6 children. Her husband Menashe Ambar is a descendant of Reuben Ambar, whose family is registered in "Beth Hatefutsoh", [[Places/Tel Aviv]], under tree No. 138. Copy of this tree, is in the family documents folder , with Elie Patan.
 
 ## Photos
 

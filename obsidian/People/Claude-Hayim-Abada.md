@@ -54,9 +54,9 @@ research_level: 1
 ![[attachments/pictures/Abada 4 freres .jpg]]
 
 ![[attachments/pictures/Appetit et debat.jpg]]
-*Photo souvenir en Fevrier 2002, a Carmiel, chez Sami et Rahel Patan.*
+*Photo souvenir en Fevrier 2002, a [[Places/Karmiel]], chez Sami et Rahel Patan.*
 
 ![[attachments/pictures/Malka Hougi & Nisso Claude.jpg]]
-*Souvenir d'une photo prise au Caire avec mon frere Nisso et notre grand-pere Hougi Malka.*
+*Souvenir d'une photo prise au [[Places/Cairo]] avec mon frere Nisso et notre grand-pere Hougi Malka.*
 
 ![[attachments/pictures/Abada Claude (Hayim).jpg]]

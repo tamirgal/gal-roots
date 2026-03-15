@@ -17,4 +17,4 @@ research_level: 2
 **Siblings:** [[People/Aviva-Vicky-Patan-Gal|Aviva (Vicky) Patan Gal]], [[People/Sami-Patan|Sami Patan]]
 
 ## Biography
-Ezra (Cesy) Patan is born in Cairo, Egypt, on the First of January 1953. In 1957, he immigrated with the family to Israel,...in Ramat-Fan.
+Ezra (Cesy) Patan is born in [[Places/Cairo]], [[Places/Egypt]], on the First of January 1953. In 1957, he immigrated with the family to [[Places/Israel]],...in [[Places/Ramat Gan]].

@@ -45,26 +45,26 @@ research_level: 2
 **Children:** [[People/Marlene-Saison-Barouh|Marlene Saison Barouh]], [[People/Andree-Deddy-Saison-Martins-de-Barros|Andree (Deddy) Saison Martins de Barros]], [[People/Isaac-Saison|Isaac Saison]], [[People/Doris-Saison-Remnant|Doris Saison Remnant]]
 
 ## Biography
-Jacques Sasson, ne a Louxor (Egypte) en 1898 . En 1957, il emigre en France avec sa femme Leonie et ses 4 enfants, ou il mourut en 1985. 3 de ses enfants vivent en France avec leurs familles. Seulement Doris, la plus jeune, vit en Grande Bretagne avec sa famille. Jacques mourut le 3 decembre 1985, a l'age de 87 ans.
+Jacques Sasson, ne a [[Places/Luxor]] ([[Places/Egypt]]) en 1898 . En 1957, il emigre en [[Places/France]] avec sa femme Leonie et ses 4 enfants, ou il mourut en 1985. 3 de ses enfants vivent en [[Places/France]] avec leurs familles. Seulement Doris, la plus jeune, vit en Grande Bretagne avec sa famille. Jacques mourut le 3 decembre 1985, a l'age de 87 ans.
 
 ## Photos
 
 ![[attachments/pictures/Jacques Sasson.jpg]]
 
 ![[attachments/pictures/Jacob enregistrement toute la famille.jpg]]
-*Ce document est une copie d'immatriculation No 92, du registre VI , a l'ambassade de France au Caire, attestant l'enregistrement de Jacob Saison et sa famille.*
+*Ce document est une copie d'immatriculation No 92, du registre VI , a l'ambassade de [[Places/France]] au [[Places/Cairo]], attestant l'enregistrement de Jacob Saison et sa famille.*
 
 ![[attachments/pictures/Sasson Jacques family.jpg]]
-*Une annee apres notre arrivee en France.*
+*Une annee apres notre arrivee en [[Places/France]].*
 
 ![[attachments/pictures/Saison Jacques & petitfils.jpg]]
 *Frederic, notre premier petitfils.*
 
 ![[attachments/pictures/SASSON family6.jpg]]
-*C'etait il y a longtemps,...a Louxor en 1919.Mais toujours elegant , et bien habille avec ma cravate papillon,.. un mouchoir de soie blanche saillant de la poche de mon veston, le tarbouche legerement incline sur ma tete,...et mon chasse mouche a la main.*
+*C'etait il y a longtemps,...a [[Places/Luxor]] en 1919.Mais toujours elegant , et bien habille avec ma cravate papillon,.. un mouchoir de soie blanche saillant de la poche de mon veston, le tarbouche legerement incline sur ma tete,...et mon chasse mouche a la main.*
 
 ![[attachments/pictures/SASSON family3.jpg]]
-*Mes parents, mes soeurs et mon petit frere. A Louxor en 1915.*
+*Mes parents, mes soeurs et mon petit frere. A [[Places/Luxor]] en 1915.*
 
 ![[attachments/pictures/Sasson Jacques.jpg]]
 

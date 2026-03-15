@@ -45,7 +45,7 @@ research_level: 2
 **Children:** [[People/Shaked-Gal|Shaked Gal]], [[People/Nadav-Gal|Nadav Gal]], [[People/Mika-Gal|Mika Gal]]
 
 ## Biography
-Tamir Gal was born in Haifa, Israel (16 February 1979), and raised in Nofit. After his military service, he studied Computer Science in the Inter Disciplinary Center Herzlyia. Married to Efrat Gliksman in Nofit on 27 May 2011. He currently lives in Herzliya, and works at Compass-EOS, an Israeli startup developing electro optical communication devices.
+Tamir Gal was born in [[Places/Haifa]], Israel (16 February 1979), and raised in [[Places/Nofit]]. After his military service, he studied Computer Science in the Inter Disciplinary Center [[Places/Herzliya]]. Married to Efrat Gliksman in [[Places/Nofit]] on 27 May 2011. He currently lives in [[Places/Herzliya]], and works at Compass-EOS, an Israeli startup developing electro optical communication devices.
 
 ## Photos
 
@@ -58,24 +58,24 @@ Tamir Gal was born in Haifa, Israel (16 February 1979), and raised in Nofit. Aft
 *Deux freres , ...soldatsNofit 1997 .*
 
 ![[attachments/pictures/Five generations.jpg]]
-*FIVE GENERATIONS FROM MY FATHER'S SIDE.Effectively, till now in 2002, there are five generations, between David & Sheindel Aharon, and my cousin , Gil Kariv, the youngest member of the family, born in Haifa (Israel) in 2001.*
+*FIVE GENERATIONS FROM MY FATHER'S SIDE.Effectively, till now in 2002, there are five generations, between David & Sheindel Aharon, and my cousin , Gil Kariv, the youngest member of the family, born in [[Places/Haifa]] (Israel) in 2001.*
 
 ![[attachments/pictures/nofit_1988.jpg]]
-*Nofit is a small and beutiful place to live in, built on a mountain in the Zebulon valley, near Haifa.Photo souvenir during its construction,...*
+*[[Places/Nofit]] is a small and beutiful place to live in, built on a mountain in the Zebulon valley, near [[Places/Haifa]].Photo souvenir during its construction,...*
 
 ![[attachments/pictures/02_passport_tamir.jpg]]
 *Tamir on his wedding day*
 
 ![[attachments/pictures/2011_05_27_efrat_tamir_wedding__003.jpg]]
-*The wedding ceremony took place in Nofit (27-5-2011)*
+*The wedding ceremony took place in [[Places/Nofit]] (27-5-2011)*
 
 ![[attachments/pictures/2011_05_27_efrat_tamir_wedding__01.jpg]]
 *The wedding invitations,...executed by the family kids,...*
 
 ![[attachments/pictures/2011_05_27_efrat_tamir_wedding__098.jpg]]
-*The wedding ceremony took place in Nofit (27-5-2011)*
+*The wedding ceremony took place in [[Places/Nofit]] (27-5-2011)*
 
 ![[attachments/pictures/2011_05_27_efrat_tamir_wedding__109.jpg]]
-*The wedding ceremony took place in Nofit (27-5-2011)*
+*The wedding ceremony took place in [[Places/Nofit]] (27-5-2011)*
 
 ![[attachments/pictures/7generationshebrew.jpg]]

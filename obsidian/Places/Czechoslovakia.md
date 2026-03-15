@@ -1,0 +1,4 @@
+---
+name: Czechoslovakia
+type: place
+---

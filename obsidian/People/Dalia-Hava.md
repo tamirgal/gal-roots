@@ -28,11 +28,11 @@ research_level: 2
 **Children:** [[People/Ety-Hava|Ety Hava]], [[People/Royi-Hava|Royi Hava]], [[People/Mikhal-Hava|Mikhal Hava]]
 
 ## Biography
-Married in Israel to Zvi Hava
+Married in [[Places/Israel]] to Zvi Hava
 
 ## Photos
 
 ![[attachments/pictures/passport Hava Dalia.jpg]]
 
 ![[attachments/pictures/Hava Zvi and Dalia wedding 2.jpg]]
-*On the wedding day in Tel-Aviv*
+*On the wedding day in [[Places/Tel Aviv]]*

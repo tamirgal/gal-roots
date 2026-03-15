@@ -1,0 +1,4 @@
+---
+name: Cairo
+type: place
+---

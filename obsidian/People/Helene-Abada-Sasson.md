@@ -39,7 +39,7 @@ research_level: 2
 **Children:** [[People/Sophie-Fifi-Sasson|Sophie Fifi Sasson]], [[People/David-Deddy-Sasson|David Deddy Sasson]], [[People/Esther-Sasson-ind00489|Esther Sasson]]
 
 ## Biography
-Helene est nee en 1918, a Tanta, ville Egyptienne au nord du Caire. En 1938, elle se marie au Caire,avec Leon Sasson. Ils avaient un magasin de glaces. Leurs 3 enfants sont nes au Caire. Apres la guerre de Suez, il y avait une tres grande vague d'emigration juive vers Israel, et toute la famille s'y joint et fait la Aliya pour la terre promise. Ils emigrent en 1957, et s'installent a Ashkelon. Helene mourut en 1986
+Helene est nee en 1918, a Tanta, ville Egyptienne au nord du [[Places/Cairo]]. En 1938, elle se marie au [[Places/Cairo]],avec Leon Sasson. Ils avaient un magasin de glaces. Leurs 3 enfants sont nes au [[Places/Cairo]]. Apres la guerre de Suez, il y avait une tres grande vague d'emigration juive vers [[Places/Israel]], et toute la famille s'y joint et fait la Aliya pour la terre promise. Ils emigrent en 1957, et s'installent a Ashkelon. Helene mourut en 1986
 
 ## Photos
 

@@ -23,12 +23,12 @@ research_level: 2
 **Siblings:** [[People/Ginette-Toueg-Abada|Ginette Toueg Abada]]
 
 ## Biography
-Momo Toueg a l'age de 5 ans, au Caire a la piscine du National sporting club .
+Momo Toueg a l'age de 5 ans, au [[Places/Cairo]] a la piscine du National sporting club .
 
 ## Photos
 
 ![[attachments/pictures/Ginette et Momo 2.jpg]]
-*A la piscine du National sporting club du Caire, a l'age de 5 ans,.. avec ma soeur Ginette a l'age de 7 ans.*
+*A la piscine du National sporting club du [[Places/Cairo]], a l'age de 5 ans,.. avec ma soeur Ginette a l'age de 7 ans.*
 
 ![[attachments/pictures/Momo Toueg.jpg]]
-*Momo Toueg a l'age de 5 ans,au Caire a la piscine du Nationalsporting club .*
+*Momo Toueg a l'age de 5 ans,au [[Places/Cairo]] a la piscine du Nationalsporting club .*

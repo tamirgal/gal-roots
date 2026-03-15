@@ -39,7 +39,7 @@ research_level: 2
 **Children:** [[People/Yosseph-Yossi-Itshaki|Yosseph (Yossi) Itshaki]], [[People/Eyaal-Itshaki|Eyaal Itshaki]], [[People/Erez-Itshaki|Erez Itshaki]], [[People/Keren-Itshaki-Guiladi|Keren Itshaki Guiladi]]
 
 ## Biography
-ENGLISH: Elie Itshaki is born in Bagdad (Iraq), on the 27 October 1932. The whole family immigrated to Israel in 1951, Elie has a shop of all kind of electric ware, in the city of Holon. Married to Vicky Cohen on 31 July 1963. Elie died after a long and painful sickness on 31 December 2002 HEBREW
+ENGLISH: Elie Itshaki is born in [[Places/Baghdad]] ([[Places/Iraq]]), on the 27 October 1932. The whole family immigrated to [[Places/Israel]] in 1951, Elie has a shop of all kind of electric ware, in the city of [[Places/Holon]]. Married to Vicky Cohen on 31 July 1963. Elie died after a long and painful sickness on 31 December 2002 HEBREW
 
 ## Photos
 
@@ -52,7 +52,7 @@ ENGLISH: Elie Itshaki is born in Bagdad (Iraq), on the 27 October 1932. The whol
 ![[attachments/pictures/mariage Elie Vicky Itshaki.jpg]]
 
 ![[attachments/pictures/Itshaki family Bagdad.jpg]]
-*Photo souvenir of the Itshaki family in Bagdad (Iraq),...Young Elie Itshaki is between the arms of his father.*
+*Photo souvenir of the Itshaki family in [[Places/Baghdad]] ([[Places/Iraq]]),...Young Elie Itshaki is between the arms of his father.*
 
 ![[attachments/pictures/Itshaki Elie 2.jpg]]
 

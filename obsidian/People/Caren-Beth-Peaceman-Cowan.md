@@ -34,7 +34,7 @@ research_level: 2
 **Children:** [[People/Michael-Aaron-Cowan|Michael Aaron Cowan]], [[People/Steven-Jay-Cowan|Steven Jay Cowan]]
 
 ## Biography
-Lives in Huston, Texas.
+Lives in Huston, [[Places/Texas]].
 
 ## Photos
 

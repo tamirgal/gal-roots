@@ -40,7 +40,7 @@ research_level: 2
 **Children:** [[People/Regina-Jina-Abada-Shimon|Regina (Jina) (Abada) Shimon]], [[People/David-Abada-Ovdat|David (Abada) Ovdat]], [[People/Herzl-Abada-Ovdat|Herzl (Abada) Ovdat]], [[People/Rivka-Abada|Rivka Abada]], [[People/Sarah-Abada-Zeitouni|Sarah (Abada) Zeitouni]], [[People/Yosseph-Yossi-Abada-Ovdat|Yosseph (Yossi Abada) Ovdat]], [[People/Elie-Abada|Elie Abada]], [[People/Marcelle-Abada-Zeitouni|Marcelle (Abada) Zeitouni]]
 
 ## Biography
-Esther nee a Tripoli (Lybie), en 1934. Mariee a Hayim Abada, le 26 juin 1950, ils habitent a Tirat Hacarmel, pres de Haifa. Ils ont 8 enfants,... 22 petitsfils,... et 6 arriere petitsfils,... Apres la mort de son mari en 1968, Esther demenage et habite a "Carmiel".
+Esther nee a Tripoli (Lybie), en 1934. Mariee a Hayim Abada, le 26 juin 1950, ils habitent a Tirat Hacarmel, pres de [[Places/Haifa]]. Ils ont 8 enfants,... 22 petitsfils,... et 6 arriere petitsfils,... Apres la mort de son mari en 1968, Esther demenage et habite a "[[Places/Karmiel]]".
 
 ## Photos
 

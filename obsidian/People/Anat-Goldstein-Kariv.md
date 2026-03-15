@@ -40,7 +40,7 @@ research_level: 2
 **Children:** [[People/Tal-Kariv|Tal Kariv]], [[People/Tom-Kariv|Tom Kariv]], [[People/Ben-Kariv|Ben Kariv]], [[People/Gil-Kariv|Gil Kariv]]
 
 ## Biography
-Anat (Nati ) Goldstein , married to Itay Kariv in Israel , 12-7-1987.
+Anat (Nati ) Goldstein , married to Itay Kariv in [[Places/Israel]] , 12-7-1987.
 
 ## Photos
 
@@ -52,4 +52,4 @@ Anat (Nati ) Goldstein , married to Itay Kariv in Israel , 12-7-1987.
 *Quelle Salade...? !*
 
 ![[attachments/pictures/Five generations.jpg]]
-*Effectively, till now in 2002, there are five generations, between David & Sheindel Aharon, and Gil Kariv, the youngest member of the family, born in Haifa (Israel) in 2001.*
+*Effectively, till now in 2002, there are five generations, between David & Sheindel Aharon, and Gil Kariv, the youngest member of the family, born in [[Places/Haifa]] (Israel) in 2001.*

@@ -33,6 +33,6 @@ research_level: 1
 ## Photos
 
 ![[attachments/pictures/Malka Hougi & Nisso Claude.jpg]]
-*Hougi Malka, le pere de Regine Abada. Photo prise au Caire avec ses petits enfants, Ernest (Nisso) et Claude Abada*
+*Hougi Malka, le pere de Regine Abada. Photo prise au [[Places/Cairo]] avec ses petits enfants, Ernest (Nisso) et Claude Abada*
 
 ![[attachments/pictures/Malka Hougi.jpg]]

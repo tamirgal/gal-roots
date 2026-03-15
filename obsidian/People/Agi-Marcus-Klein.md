@@ -28,7 +28,7 @@ research_level: 2
 **Children:** [[People/Gabriel-Klein-1949|Gabriel Klein]], [[People/Andrei-Klein|Andrei Klein]]
 
 ## Biography
-Currently lives in Naharia, Israel.
+Currently lives in [[Places/Nahariya]], Israel.
 
 ## Photos
 

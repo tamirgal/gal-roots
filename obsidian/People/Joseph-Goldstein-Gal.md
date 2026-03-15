@@ -39,7 +39,7 @@ research_level: 2
 **Children:** [[People/Asaf-Gal|Asaf Gal]], [[People/Tamir-Gal|Tamir Gal]]
 
 ## Biography
-Joseph Goldstein Gal (Yossi), was born and raised in Haifa Israel. After high school, he was drafted to the IDF and served 3 years in the infantry ("Golani"). Yossi studied Applied-Mathematics and Computer Science for 4 years at the HaifaTechnion, Israel Institute of Technology and graduated in 1975. Ever since Yossi worked in the Israeli Hi tech industry as a computers professional and later as a manager and an executive at leading companies like IBM, Elbit, DEC and Cisco Systems. In 2003 he started to work independently as a consultant with young startups and serves as a Director and Chairman for few such companies.
+Joseph Goldstein Gal (Yossi), was born and raised in [[Places/Haifa]] Israel. After high school, he was drafted to the IDF and served 3 years in the infantry ("Golani"). Yossi studied Applied-Mathematics and Computer Science for 4 years at the HaifaTechnion, Israel Institute of Technology and graduated in 1975. Ever since Yossi worked in the Israeli Hi tech industry as a computers professional and later as a manager and an executive at leading companies like IBM, Elbit, DEC and Cisco Systems. In 2003 he started to work independently as a consultant with young startups and serves as a Director and Chairman for few such companies.
 
 ## Photos
 
@@ -57,4 +57,4 @@ Joseph Goldstein Gal (Yossi), was born and raised in Haifa Israel. After high sc
 ![[attachments/pictures/yossi.jpg]]
 
 ![[attachments/pictures/gabislepin_yossigal.jpg]]
-*Together with Gabi Sleppin during her visit in Israel , 2005*
+*Together with Gabi Sleppin during her visit in [[Places/Israel]] , 2005*

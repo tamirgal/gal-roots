@@ -1,0 +1,4 @@
+---
+name: Palestine
+type: place
+---

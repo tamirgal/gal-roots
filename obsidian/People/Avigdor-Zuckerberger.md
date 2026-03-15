@@ -37,7 +37,7 @@ research_level: 2
 **Children:** [[People/Tsipora-Zuckerberger-Glassberg|Tsipora Zuckerberger Glassberg]], [[People/Shabetay-Zuckerberger-Geva|Shabetay Zuckerberger Geva]]
 
 ## Biography
-Victor (Avigdor), came to Israel before World War 2, by the help of the "Hashomer hatzayir".
+Victor (Avigdor), came to [[Places/Israel]] before World War 2, by the help of the "Hashomer hatzayir".
 
 ## Photos
 
@@ -50,4 +50,4 @@ Victor (Avigdor), came to Israel before World War 2, by the help of the "Hashome
 ![[attachments/pictures/victor_chaya_shosh_miriam.jpg]]
 
 ![[attachments/pictures/mariage_yossi_aviva_2.jpg]]
-*At the wedding of Yossi Gal and Aviva Patan in Tel Aviv, 6 August 1974.On the right, Avigdor looking and smiling*
+*At the wedding of Yossi Gal and Aviva Patan in [[Places/Tel Aviv]], 6 August 1974.On the right, Avigdor looking and smiling*

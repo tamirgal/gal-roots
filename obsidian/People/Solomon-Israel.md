@@ -27,7 +27,7 @@ research_level: 2
 **Siblings:** [[People/Aimee-Israel-Pelletier|Aimee Israel Pelletier]], [[People/Solange-Israel-Mintz|Solange Israel Mintz]], [[People/Ytshak-Israel|Ytshak Israel]]
 
 ## Biography
-Solomon,... born in Newark, New Jersey,... married to Nancy on May 28, 2000, in Dallas Texas.
+Solomon,... born in [[Places/Newark]], [[Places/New Jersey]],... married to Nancy on May 28, 2000, in [[Places/Dallas]] [[Places/Texas]].
 
 ## Photos
 

@@ -1,0 +1,4 @@
+---
+name: Jerusalem
+type: place
+---

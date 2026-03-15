@@ -45,7 +45,7 @@ research_level: 1
 ![[attachments/pictures/Wahiche Pauline.jpg]]
 
 ![[attachments/pictures/chez Pauline 1.jpg]]
-*Cette serie de photos souvenir, lors du voyage en France en 1966, de mon cousin Elie Patan et sa femme Mary.C'etait la premiere fois que je les voyais depuis leur depart d'Egypte en 1957.*
+*Cette serie de photos souvenir, lors du voyage en [[Places/France]] en 1966, de mon cousin Elie Patan et sa femme Mary.C'etait la premiere fois que je les voyais depuis leur depart d'[[Places/Egypt]] en 1957.*
 
 ![[attachments/pictures/chez Pauline 4.jpg]]
 

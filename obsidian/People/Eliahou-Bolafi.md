@@ -14,4 +14,4 @@ research_level: 2
 **Spouse:** [[People/Saada-Ambar-Bolafi|Saada Ambar Bolafi]]
 
 ## Biography
-Eliahu Bolafi, born in 1876, in Italy, married to Saada Ambar in Cairo, died in Cairo.
+Eliahu Bolafi, born in 1876, in [[Places/Italy]], married to Saada Ambar in [[Places/Cairo]], died in [[Places/Cairo]].

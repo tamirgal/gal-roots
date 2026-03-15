@@ -19,4 +19,4 @@ research_level: 2
 **Children:** [[People/Gal-Brawn|Gal Brawn]]
 
 ## Biography
-Hagit Wissotsky, married to Sharon Brawn, in Israel in 1995 .
+Hagit Wissotsky, married to Sharon Brawn, in [[Places/Israel]] in 1995 .

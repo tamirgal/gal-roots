@@ -62,6 +62,6 @@ Born in Beer-Sheba, Israel and raised in Kibbutz Hatzerim. Daughter of Tzvi and 
 ![[attachments/pictures/genophotos_adiasaf_016.jpg]]
 
 ![[attachments/pictures/genophotos_adiasaf_019.jpg]]
-*The family in Nofit ... Pessah 2010*
+*The family in [[Places/Nofit]] ... Pessah 2010*
 
 ![[attachments/pictures/genophotos_adiasaf_012.jpg]]

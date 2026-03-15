@@ -36,7 +36,7 @@ research_level: 2
 **Children:** [[People/Noam-Shimon|Noam Shimon]], [[People/Yuval-Shimon|Yuval Shimon]], [[People/Ofir-Shimon|Ofir Shimon]]
 
 ## Biography
-Chaim Shimon is born in Haifa, Israel, on the 30-7-1971. Married to Merav Rappaport in Haifa , Israel, on the 28 february 2001 Lives in Karmiel
+Chaim Shimon is born in [[Places/Haifa]], Israel, on the 30-7-1971. Married to Merav Rappaport in [[Places/Haifa]] , Israel, on the 28 february 2001 Lives in [[Places/Karmiel]]
 
 ## Photos
 

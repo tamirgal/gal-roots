@@ -31,7 +31,7 @@ research_level: 2
 **Children:** [[People/Elie-Eliahou|Elie Eliahou]], [[People/Isaac-Eliahou|Isaac Eliahou]], [[People/Shaoul-Eliahou|Shaoul Eliahou]], [[People/Joseph-Eliahou|Joseph Eliahou]]
 
 ## Biography
-Saleh Eliahou est ne en Iraq en 1896,... Jeune homme il emigre vers l'Egypte, et se marie au Caire , avec Helene Israel, le 27 octobre 1935. Ils habitent Le Caire jusqu'a leur emigration en France en 1961
+Saleh Eliahou est ne en [[Places/Iraq]] en 1896,... Jeune homme il emigre vers l'[[Places/Egypt]], et se marie au [[Places/Cairo]] , avec Helene Israel, le 27 octobre 1935. Ils habitent [[Places/Cairo]] jusqu'a leur emigration en [[Places/France]] en 1961
 
 ## Photos
 

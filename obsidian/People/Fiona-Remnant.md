@@ -27,7 +27,7 @@ research_level: 2
 **Siblings:** [[People/David-Remnant|David Remnant]]
 
 ## Biography
-Fiona, born in Cambridge, 14 April 1975,at 16 h26. Finished her studies in Bath university, (French and italian languages).
+Fiona, born in [[Places/Cambridge]], 14 April 1975,at 16 h26. Finished her studies in Bath university, (French and italian languages).
 
 ## Photos
 

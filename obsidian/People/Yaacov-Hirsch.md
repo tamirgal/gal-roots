@@ -28,7 +28,7 @@ research_level: 2
 **Children:** [[People/Judith-Hirsch-Kneiz|Judith Hirsch Kneiz]], [[People/Irit-Hirsch-Yogev|Irit Hirsch Yogev]]
 
 ## Biography
-Yaakov (Korchi) Born in Roumania, During WW2 , Yaacov was deported to Nazi concentration camps,...he survived the holocaust, ... At the end of the war, he emigrated to Palestine,..Israel. Married in 1946, to Zipora,... They lived in Kibutz Gesher Haziv, where he died in 1981. Major events of his life, are published in a small booklet, full of details about him.
+Yaakov (Korchi) Born in Roumania, During WW2 , Yaacov was deported to Nazi concentration camps,...he survived the holocaust, ... At the end of the war, he emigrated to [[Places/Palestine]],..Israel. Married in 1946, to Zipora,... They lived in [[Places/Kibbutz Gesher Haziv]], where he died in 1981. Major events of his life, are published in a small booklet, full of details about him.
 
 ## Photos
 

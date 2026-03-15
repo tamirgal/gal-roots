@@ -33,7 +33,7 @@ research_level: 2
 **Siblings:** [[People/Moshe-Miki-Goldstein|Moshe (Miki) Goldstein]], [[People/Nathan-Goldstein|Nathan Goldstein]]
 
 ## Biography
-Baruch, also known as Buyu, born in Uzhorod in 1927 , is the youngest son of Joseph and Tobe. Buyu studied in the Hebrew School and the Hebrew Gimnasium. Together with his whole family he was deported to Aucshwitz in 1944 at the age of 17. He survived the camp and went back home with his big brother Moshe but found no survival. He then joined the Jewish brigade, made Aliyah and lived in Haifa. In 1960,he decided to join his uncle, Yehuda (Lotzi) in Sydney Australia where we lives till now.
+Baruch, also known as Buyu, born in [[Places/Uzhgorod]] in 1927 , is the youngest son of Joseph and Tobe. Buyu studied in the Hebrew School and the Hebrew Gimnasium. Together with his whole family he was deported to Aucshwitz in 1944 at the age of 17. He survived the camp and went back home with his big brother Moshe but found no survival. He then joined the Jewish brigade, made Aliyah and lived in [[Places/Haifa]]. In 1960,he decided to join his uncle, Yehuda (Lotzi) in [[Places/Sydney]] [[Places/Australia]] where we lives till now.
 
 ## Photos
 

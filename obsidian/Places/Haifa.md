@@ -1,0 +1,4 @@
+---
+name: Haifa
+type: place
+---

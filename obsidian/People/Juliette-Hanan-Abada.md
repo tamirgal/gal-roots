@@ -24,4 +24,4 @@ research_level: 0
 **Children:** [[People/Moshe-Abada-ind00495|Moshe Abada]], [[People/Yacov-Abada-ind00494|Yacov Abada]], [[People/Yehezkel-Heizy-Abada|Yehezkel Heizy Abada]], [[People/Rami-Abada|Rami Abada]]
 
 ## Biography
-Juliette Hanan, mariee a David Abada au Caire en 1955. En 1957 ils emigrent pour Israel, et s'installent a Ofakim, ou David travaille comme secretaire de l'ecole "Eshel Hannassi" Ils eurent 4 enfants , et 17 petits enfants.
+Juliette Hanan, mariee a David Abada au [[Places/Cairo]] en 1955. En 1957 ils emigrent pour [[Places/Israel]], et s'installent a Ofakim, ou David travaille comme secretaire de l'ecole "Eshel Hannassi" Ils eurent 4 enfants , et 17 petits enfants.

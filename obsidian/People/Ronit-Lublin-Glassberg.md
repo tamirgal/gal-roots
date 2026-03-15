@@ -21,4 +21,4 @@ research_level: 2
 **Children:** [[People/Guy-Glassberg|Guy Glassberg]], [[People/Tal-Glassberg|Tal Glassberg]]
 
 ## Biography
-Ronit, graduated Israel Institute of Technology (Haifa, Isarel) as Computers Engineers and works for Qualcomm.
+Ronit, graduated Israel Institute of Technology ([[Places/Haifa]], Isarel) as Computers Engineers and works for Qualcomm.

@@ -47,4 +47,4 @@ research_level: 1
 ![[attachments/pictures/kaminsky_gabi.jpg]]
 
 ![[attachments/pictures/gabislepin_yossigal.jpg]]
-*Gabi with Yossi Gal at her visit in Israel, 2005*
+*Gabi with Yossi Gal at her visit in [[Places/Israel]], 2005*

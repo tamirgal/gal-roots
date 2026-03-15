@@ -40,7 +40,7 @@ research_level: 2
 **Children:** [[People/Esther-Ety-Abada|Esther Ety Abada]], [[People/Moshe-Abada-ind00505|Moshe Abada]], [[People/Clara-Abada|Clara Abada]], [[People/Orly-Abada-ind00503|Orly Abada]]
 
 ## Biography
-Victor Abada est ne au Caire en1931. Marie a Fortunee Hanan en 1955, au Caire, il travaille comme technicien dans une usine de metallurgie. En 1957, apres la guerre de Suez, ils quittent l'Egypte avec leur premier enfant, et arrivent en Israel a la maabara de Lod. Un certain temps, Victor travaille dans la metallurgie, mais change de profession et travaille a l'hotel Sheraton de Tel-Aviv, jusqu'a sa retraite. Ils habitent a Petah-Tikva, mais demenagent pour Rishon Le Tsion. Trois autres enfants sont nes en Israel.
+Victor Abada est ne au [[Places/Cairo]] en1931. Marie a Fortunee Hanan en 1955, au [[Places/Cairo]], il travaille comme technicien dans une usine de metallurgie. En 1957, apres la guerre de Suez, ils quittent l'[[Places/Egypt]] avec leur premier enfant, et arrivent en [[Places/Israel]] a la maabara de Lod. Un certain temps, Victor travaille dans la metallurgie, mais change de profession et travaille a l'hotel Sheraton de [[Places/Tel Aviv]], jusqu'a sa retraite. Ils habitent a Petah-Tikva, mais demenagent pour Rishon Le Tsion. Trois autres enfants sont nes en [[Places/Israel]].
 
 ## Photos
 

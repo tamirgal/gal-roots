@@ -21,4 +21,4 @@ research_level: 2
 **Siblings:** [[People/Mordechai-Aharon|Mordechai Aharon]], [[People/Henrik-Yeheskel-Aroni|Henrik (Yeheskel) Aroni]], [[People/Herman-Aharon|Herman Aharon]], [[People/Zvi-Miklosh-Aharoni|Zvi Miklosh Aharoni]], [[People/Frida-Aharon|Frida Aharon]], [[People/Elias-Aharon|Elias Aharon]], [[People/Margi-Aharon|Margi Aharon]]
 
 ## Biography
-Lenka, the eldest daughter of Joseph Aharon, got married to Itzhak Dub and moved after him to Chust, another regional city, close by to Tyacev. Both were taken by the Natzis to Auschwitz and died there in 1944.
+Lenka, the eldest daughter of Joseph Aharon, got married to Itzhak Dub and moved after him to Chust, another regional city, close by to Tyacev. Both were taken by the Natzis to [[Places/Auschwitz]] and died there in 1944.

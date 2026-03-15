@@ -30,7 +30,7 @@ research_level: 2
 **Children:** [[People/Kineret-Itshaki|Kineret Itshaki]], [[People/Gal-Itshaki|Gal Itshaki]], [[People/Yuval-Itshaki|Yuval Itshaki]]
 
 ## Biography
-Vered Alfassi, married in Israel to Yosseph Itshaki, on 5 July 1989.
+Vered Alfassi, married in [[Places/Israel]] to Yosseph Itshaki, on 5 July 1989.
 
 ## Photos
 

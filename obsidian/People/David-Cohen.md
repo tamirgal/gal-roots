@@ -42,7 +42,7 @@ research_level: 2
 **Children:** [[People/Moshe-Cohen|Moshe Cohen]], [[People/Esther-Etty-Cohen-Laniado|Esther (Etty) Cohen Laniado]], [[People/Rony-Cohen|Rony Cohen]]
 
 ## Biography
-Born in Cairo 24 October 1932. In December 1949, the family emigrated to Israel where they lived in a new agricultural settlement called "Beit-Zait", It is a splendid place , in the heart of the beautiful mountains surrounding Jerusalem. On 5 July 1954, married to Mary Ruben,... after a while they moved to Holon, where he worked as an accountant Some years later, he worked in El-Al, Tel-Aviv, then transfered to Johannesbourg,..then to Brussels, and now, in London.
+Born in [[Places/Cairo]] 24 October 1932. In December 1949, the family emigrated to [[Places/Israel]] where they lived in a new agricultural settlement called "[[Places/Beit Zait]]", It is a splendid place , in the heart of the beautiful mountains surrounding [[Places/Jerusalem]]. On 5 July 1954, married to Mary Ruben,... after a while they moved to [[Places/Holon]], where he worked as an accountant Some years later, he worked in El-Al, [[Places/Tel Aviv]], then transfered to Johannesbourg,..then to Brussels, and now, in [[Places/London]].
 
 ## Photos
 
@@ -65,4 +65,4 @@ Born in Cairo 24 October 1932. In December 1949, the family emigrated to Israel 
 ![[attachments/pictures/Israel Ezra Rachel.jpg]]
 
 ![[attachments/pictures/Cohen family Aliya.jpg]]
-*Leaving Egypt, we arrived in Italy.There, we were gathered with other families, for preparing our Aliyah to Israel, fulfilling our zionist aspirations to live in the promised land.*
+*Leaving [[Places/Egypt]], we arrived in [[Places/Italy]].There, we were gathered with other families, for preparing our Aliyah to [[Places/Israel]], fulfilling our zionist aspirations to live in the promised land.*

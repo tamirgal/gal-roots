@@ -41,7 +41,7 @@ research_level: 2
 **Children:** [[People/Jacky-Savdie|Jacky Savdie]], [[People/Elise-Savdie-Witukiewicz|Elise Savdie Witukiewicz]], [[People/Soly-Savdie|Soly Savdie]], [[People/Gina-Savdie-Uzan|Gina Savdie Uzan]]
 
 ## Biography
-Arlette, fille de Shaoul et Regina Abada, est nee le 6 Fevrier 1926, a Tanta, vilee situee au Delta du Nil, au nord du Caire. Plus tard la famille demenage vers la capitale Egyptienne. Mariee au Caire, en mars 1950, a Salvator Savdie ,.. Ils ont 4 enfants... En 1957, a la suite de la guerre de Suez, la famille emigre en France , et s'installe a Villiers le Bel, au nord de Paris, ou ils habitent jusqu'a nos jours.
+Arlette, fille de Shaoul et Regina Abada, est nee le 6 Fevrier 1926, a Tanta, vilee situee au Delta du Nil, au nord du [[Places/Cairo]]. Plus tard la famille demenage vers la capitale Egyptienne. Mariee au [[Places/Cairo]], en mars 1950, a Salvator Savdie ,.. Ils ont 4 enfants... En 1957, a la suite de la guerre de Suez, la famille emigre en [[Places/France]] , et s'installe a Villiers le Bel, au nord de Paris, ou ils habitent jusqu'a nos jours.
 
 ## Photos
 

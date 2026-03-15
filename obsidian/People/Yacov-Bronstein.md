@@ -25,4 +25,4 @@ research_level: 0
 **Children:** [[People/Shoshana-Bronstein|Shoshana Bronstein]]
 
 ## Biography
-Yacov Bronstein, emigrated to Israel with his sister Dvora, before World War 2, by the " Hashomer Hatzayir."
+Yacov Bronstein, emigrated to [[Places/Israel]] with his sister Dvora, before World War 2, by the " Hashomer Hatzayir."

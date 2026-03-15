@@ -38,7 +38,7 @@ research_level: 2
 **Children:** [[People/Rony-Yehoshua-Yohay|Rony Yehoshua Yohay]], [[People/Moshe-Yohay|Moshe Yohay]], [[People/Esther-Esty-Yohay-Rahamim|Esther (Esty) Yohay Rahamim]]
 
 ## Biography
-Edith Yohay, nee au Caire en 1933, et mariee a Yossef Yohay en 1956. En 1957, a la suite de la guerre de Suez, le couple quitte l'Egypte , emigre en Israel, et s'installe a Bne-Brak. Yossef travaille , toujours pharmacien a la "Koupat Holim", tout pres de sa maison. Ils ont 3 enfants. En 1991, Yossef meurt subitement d'une crise cardiaque. Edith habite toujours le meme appartement.
+Edith Yohay, nee au [[Places/Cairo]] en 1933, et mariee a Yossef Yohay en 1956. En 1957, a la suite de la guerre de Suez, le couple quitte l'[[Places/Egypt]] , emigre en [[Places/Israel]], et s'installe a Bne-Brak. Yossef travaille , toujours pharmacien a la "Koupat Holim", tout pres de sa maison. Ils ont 3 enfants. En 1991, Yossef meurt subitement d'une crise cardiaque. Edith habite toujours le meme appartement.
 
 ## Photos
 

@@ -33,7 +33,7 @@ research_level: 2
 **Children:** [[People/Shaked-Gal|Shaked Gal]], [[People/Nadav-Gal|Nadav Gal]], [[People/Mika-Gal|Mika Gal]]
 
 ## Biography
-Efrat , (born Glicksman - 19/1/81) in Haifa, Israel and raised in Nofit. After her military service, she studied Occupational Therapy in the Tel-Aviv University. Married to Tamir Gal in Nofit on 27 May 2011. She currently lives in Herzliya, and works as Occupational Therapist for children.
+Efrat , (born Glicksman - 19/1/81) in [[Places/Haifa]], Israel and raised in [[Places/Nofit]]. After her military service, she studied Occupational Therapy in the [[Places/Tel Aviv]] University. Married to Tamir Gal in [[Places/Nofit]] on 27 May 2011. She currently lives in [[Places/Herzliya]], and works as Occupational Therapist for children.
 
 ## Photos
 
@@ -44,7 +44,7 @@ Efrat , (born Glicksman - 19/1/81) in Haifa, Israel and raised in Nofit. After h
 *The weddings invitations,...Executed by the family kids*
 
 ![[attachments/pictures/2011_05_27_efrat_tamir_wedding__003.jpg]]
-*The wedding ceremony took place on the hills of Nofit*
+*The wedding ceremony took place on the hills of [[Places/Nofit]]*
 
 ![[attachments/pictures/2011_05_27_efrat_tamir_wedding__08.jpg]]
 

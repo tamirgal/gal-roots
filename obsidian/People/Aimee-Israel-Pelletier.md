@@ -43,7 +43,7 @@ research_level: 2
 **Children:** [[People/Pauline-Pelletier|Pauline Pelletier]], [[People/Chloe-Madeleine-Pelletier|Chloe Madeleine Pelletier]]
 
 ## Biography
-Aimee, ...born in Cairo (Egypt), December 13, 1948,... she immigrated to the USA, with her parents in December 1961,...married to Philip Pelletier on May 28, 1977, in Bridgewater, New Jersey.
+Aimee, ...born in [[Places/Cairo]] ([[Places/Egypt]]), December 13, 1948,... she immigrated to the [[Places/USA]], with her parents in December 1961,...married to Philip Pelletier on May 28, 1977, in [[Places/Bridgewater]], [[Places/New Jersey]].
 
 ## Photos
 

@@ -1,0 +1,4 @@
+---
+name: USA
+type: place
+---

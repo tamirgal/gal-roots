@@ -25,7 +25,7 @@ research_level: 2
 **Siblings:** [[People/Marc-Bonan|Marc Bonan]]
 
 ## Biography
-I was born in Pennsylvania, USA, (January 30 1976)
+I was born in [[Places/Pennsylvania]], [[Places/USA]], (January 30 1976)
 
 ## Photos
 

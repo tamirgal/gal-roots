@@ -40,7 +40,7 @@ research_level: 2
 **Children:** [[People/Nouri-Levy|Nouri Levy]], [[People/Nagy-Levy|Nagy Levy]], [[People/Hanina-Levy|Hanina Levy]], [[People/Loula-Levy|Loula Levy]], [[People/Nathan-Nazem-Levy|Nathan (Nazem) Levy]], [[People/Lea-Levy|Lea Levy]]
 
 ## Biography
-Aziza Abed, born in Bagdad (Iraq), is the daughter of Eliahou and Massouda Abed. Married to Ezra Levy in Bagdad. They have 6 children. The family emigrated to Israel in 1950
+Aziza Abed, born in [[Places/Baghdad]] ([[Places/Iraq]]), is the daughter of Eliahou and Massouda Abed. Married to Ezra Levy in [[Places/Baghdad]]. They have 6 children. The family emigrated to [[Places/Israel]] in 1950
 
 ## Photos
 

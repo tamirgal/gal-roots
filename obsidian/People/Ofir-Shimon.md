@@ -22,7 +22,7 @@ research_level: 2
 **Siblings:** [[People/Noam-Shimon|Noam Shimon]], [[People/Yuval-Shimon|Yuval Shimon]]
 
 ## Biography
-Ofir Shimon is born in Safed, Israel, on 15-2-2010
+Ofir Shimon is born in [[Places/Safed]], Israel, on 15-2-2010
 
 ## Photos
 

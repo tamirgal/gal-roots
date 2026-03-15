@@ -35,7 +35,7 @@ research_level: 2
 **Children:** [[People/Guila-Nefoussi-Tamir|Guila Nefoussi Tamir]], [[People/Moly-Shmouel-Nefoussi|Moly Shmouel Nefoussi]], [[People/Morane-Nefoussi|Morane Nefoussi]]
 
 ## Biography
-Shaoul Nefoussi, married to Pnina Vine in Israel, in 1970
+Shaoul Nefoussi, married to Pnina Vine in [[Places/Israel]], in 1970
 
 ## Photos
 

@@ -33,7 +33,7 @@ research_level: 2
 **Children:** [[People/Tal-Kariv|Tal Kariv]], [[People/Tom-Kariv|Tom Kariv]], [[People/Ben-Kariv|Ben Kariv]], [[People/Gil-Kariv|Gil Kariv]]
 
 ## Biography
-Itay Kariv , married to Naty Goldstein in Israel , 12-7-1987.
+Itay Kariv , married to Naty Goldstein in [[Places/Israel]] , 12-7-1987.
 
 ## Photos
 

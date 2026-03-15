@@ -41,7 +41,7 @@ research_level: 2
 **Children:** [[People/Allen-Israel|Allen Israel]], [[People/Nadine-Israel|Nadine Israel]], [[People/Leon-Israel|Leon Israel]]
 
 ## Biography
-Joseph Israel, born , educated and married in Egypt. In the early sixties , he emigrated with his family to the USA.
+Joseph Israel, born , educated and married in [[Places/Egypt]]. In the early sixties , he emigrated with his family to the [[Places/USA]].
 
 ## Photos
 

@@ -1,0 +1,4 @@
+---
+name: Syria
+type: place
+---

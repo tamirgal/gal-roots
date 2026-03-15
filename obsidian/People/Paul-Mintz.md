@@ -26,7 +26,7 @@ research_level: 2
 **Children:** [[People/Rebecca-Mintz|Rebecca Mintz]], [[People/Leah-Mintz|Leah Mintz]]
 
 ## Biography
-Paul Mintz,...married to Solange Israel on August 26, 1984, in bridgewater, New Jersey.
+Paul Mintz,...married to Solange Israel on August 26, 1984, in bridgewater, [[Places/New Jersey]].
 
 ## Photos
 

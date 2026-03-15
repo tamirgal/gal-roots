@@ -24,7 +24,7 @@ research_level: 2
 **Siblings:** [[People/David-Cohen|David Cohen]], [[People/Rosette-Rosy-Cohen-Hanan|Rosette (Rosy) Cohen Hanan]], [[People/Itshak-Zako-Cohen|Itshak (Zako) Cohen]], [[People/Vicky-Cohen-Itshaki|Vicky Cohen Itshaki]]
 
 ## Biography
-Born in Cairo (Egypt), 25 July 1936. In December 1949, the family emigrated to Israel where they lived in a new agricultural settlement called "Beit-Zait", It is a splendid place , in the heart of the beautiful mountains surrounding Jerusalem. Some years later, Mireille Cohen died after a long and painful sickness, aged 19.
+Born in [[Places/Cairo]] ([[Places/Egypt]]), 25 July 1936. In December 1949, the family emigrated to [[Places/Israel]] where they lived in a new agricultural settlement called "[[Places/Beit Zait]]", It is a splendid place , in the heart of the beautiful mountains surrounding [[Places/Jerusalem]]. Some years later, Mireille Cohen died after a long and painful sickness, aged 19.
 
 ## Photos
 
@@ -34,4 +34,4 @@ Born in Cairo (Egypt), 25 July 1936. In December 1949, the family emigrated to I
 *Mireille with dad Moshe, grandma Warda, and sisters Rosette and Vicky.Daily life scene in the Moshav (farm).*
 
 ![[attachments/pictures/Cohen family Aliya.jpg]]
-*Leaving Egypt, we arrived in Italy.There, we were gathered with other families, for preparing our Aliyah to Israel, fulfilling our zionist aspirations to live in the promised land.*
+*Leaving [[Places/Egypt]], we arrived in [[Places/Italy]].There, we were gathered with other families, for preparing our Aliyah to [[Places/Israel]], fulfilling our zionist aspirations to live in the promised land.*

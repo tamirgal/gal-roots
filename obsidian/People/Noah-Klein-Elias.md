@@ -37,7 +37,7 @@ research_level: 2
 **Children:** [[People/Yuval-Elias|Yuval Elias]], [[People/Oren-Elias|Oren Elias]]
 
 ## Biography
-Born and lives in Haifa,Israel. Studied Psychology and got her PhD.
+Born and lives in [[Places/Haifa]],Israel. Studied Psychology and got her PhD.
 
 ## Photos
 

@@ -22,4 +22,4 @@ research_level: 0
 **Children:** [[People/Idane-Niv|Idane Niv]], [[People/Sapyr-Niv|Sapyr Niv]], [[People/Shany-Niv|Shany Niv]]
 
 ## Biography
-Osnat Niv , married to Amir Niv in Israel, in 1987
+Osnat Niv , married to Amir Niv in [[Places/Israel]], in 1987

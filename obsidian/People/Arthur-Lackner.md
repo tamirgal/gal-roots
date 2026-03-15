@@ -21,4 +21,4 @@ research_level: 2
 **Children:** [[People/Corinne-Irene-Lackner|Corinne Irene Lackner]], [[People/David-Grant-Lackner|David Grant Lackner]]
 
 ## Biography
-Arthur is a businessman and lives in N.J, USA.
+Arthur is a businessman and lives in N.J, [[Places/USA]].

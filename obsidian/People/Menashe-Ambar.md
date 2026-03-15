@@ -29,4 +29,4 @@ research_level: 2
 **Children:** [[People/Saada-Ambar-Bolafi|Saada Ambar Bolafi]], [[People/Sasson-Ambar|Sasson Ambar]], [[People/Simha-Ambar-Harari|Simha Ambar Harari]], [[People/Ezra-Ambar|Ezra Ambar]], [[People/Jeanne-Hannah-Ambar-Shammass-Shemesh|Jeanne (Hannah) Ambar Shammass (Shemesh)]], [[People/Rachel-Ambar-Levy|Rachel Ambar Levy]]
 
 ## Biography
-Menashe Ambar , born in Bagdad, (Irak), in 1850,is a descendant of Reuben Ambar, whose family is registered in "Beth Hatefutsoh", Tel-Aviv, under tree No. 138. Copy of this tree, is in the family documents folder , with Elie Patan. Menashe Ambar married to Freha (Farha) Sasson, in Cairo, they had 6 children.
+Menashe Ambar , born in [[Places/Baghdad]], ([[Places/Iraq]]), in 1850,is a descendant of Reuben Ambar, whose family is registered in "Beth Hatefutsoh", [[Places/Tel Aviv]], under tree No. 138. Copy of this tree, is in the family documents folder , with Elie Patan. Menashe Ambar married to Freha (Farha) Sasson, in [[Places/Cairo]], they had 6 children.

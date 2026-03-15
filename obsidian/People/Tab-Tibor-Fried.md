@@ -29,7 +29,7 @@ research_level: 2
 **Children:** [[People/David-Fried|David Fried]], [[People/Elie-Fried|Elie Fried]], [[People/Debbie-Fried|Debbie Fried]]
 
 ## Biography
-Tibor Fried (known as Tibi) was born in Budapest on the 10th of April 1939. His mother perished in the holocaust in Auswitz and his Father also deported to Mathousen however he have survived and returned. Tibi and his brother Laszlo (who was born 3/8/1937) left Hungary in 1956 to emigrate to Australia. In Australia, Tibi changed his name to Tab and Laszlo to Less
+Tibor Fried (known as Tibi) was born in [[Places/Budapest]] on the 10th of April 1939. His mother perished in the holocaust in Auswitz and his Father also deported to Mathousen however he have survived and returned. Tibi and his brother Laszlo (who was born 3/8/1937) left [[Places/Hungary]] in 1956 to emigrate to [[Places/Australia]]. In [[Places/Australia]], Tibi changed his name to Tab and Laszlo to Less
 
 ## Photos
 

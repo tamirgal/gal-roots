@@ -38,12 +38,12 @@ research_level: 2
 **Children:** [[People/Gal-Levy|Gal Levy]], [[People/Eyal-Levy|Eyal Levy]]
 
 ## Biography
-Photo pise chez Sami et Rahel a Carmiel ,... Avril 2002 .
+Photo pise chez Sami et Rahel a [[Places/Karmiel]] ,... Avril 2002 .
 
 ## Photos
 
 ![[attachments/pictures/portrait Titi.jpg]]
-*Photo pise chez Sami et Rahel a Carmiel ,... Avril 2002 .*
+*Photo pise chez Sami et Rahel a [[Places/Karmiel]] ,... Avril 2002 .*
 
 ![[attachments/pictures/AviTitiSami 1964.jpg]]
 *Dans les bois de Kiryat Haim...Aout 1964*

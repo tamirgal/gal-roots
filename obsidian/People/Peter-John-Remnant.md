@@ -31,7 +31,7 @@ research_level: 2
 **Children:** [[People/Fiona-Remnant|Fiona Remnant]], [[People/David-Remnant|David Remnant]]
 
 ## Biography
-Peter John Remnant, born in London, UK.. Son of Patrick Tyrell William Remnant,... his grand father was Lord Remnant, ... he was an MP for the Police. Married to Doris Sasson, 15 July 1972 in Hoddeston - UK. He is a mechanical engineer .
+Peter John Remnant, born in [[Places/London]], UK.. Son of Patrick Tyrell William Remnant,... his grand father was Lord Remnant, ... he was an MP for the Police. Married to Doris Sasson, 15 July 1972 in Hoddeston - UK. He is a mechanical engineer .
 
 ## Photos
 
@@ -41,10 +41,10 @@ Peter John Remnant, born in London, UK.. Son of Patrick Tyrell William Remnant,.
 *The Remnant brothers, Peter and Richard,... summer 2001*
 
 ![[attachments/pictures/Remnant trains.jpg]]
-*15th July 2002 - Peter loves steam trains, it is his second wife. So, once in France for the 30th wedding anniversary,spent a little bit of time with his second love.*
+*15th July 2002 - Peter loves steam trains, it is his second wife. So, once in [[Places/France]] for the 30th wedding anniversary,spent a little bit of time with his second love.*
 
 ![[attachments/pictures/Remnant couple2.jpg]]
-*Doris and Peter,...30th wedding Anniversary - week end in France. 15th July 2002.*
+*Doris and Peter,...30th wedding Anniversary - week end in [[Places/France]]. 15th July 2002.*
 
 ![[attachments/pictures/Remnant Peter & Barbara.jpg]]
 *Peter and Barbara*

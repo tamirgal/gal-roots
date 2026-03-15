@@ -40,7 +40,7 @@ research_level: 2
 **Children:** [[People/Yacov-Hanan|Yacov Hanan]], [[People/Moshe-Hanan|Moshe Hanan]]
 
 ## Biography
-Born in Cairo 31 January 1934 In December 1949, the family emigrated to Israel where they lived in a new agricultural settlement called "Beit-Zait", It is a splendid place , in the heart of the beautiful mountains surrounding Jerusalem. On 4 September 1951, married to Hayim Hanan, they continue to live in Beit Zait,... 2 sons were born, Yacov and Moshe,.. Rosy died aged 31 years, after a painful long sickness.
+Born in [[Places/Cairo]] 31 January 1934 In December 1949, the family emigrated to [[Places/Israel]] where they lived in a new agricultural settlement called "[[Places/Beit Zait]]", It is a splendid place , in the heart of the beautiful mountains surrounding [[Places/Jerusalem]]. On 4 September 1951, married to Hayim Hanan, they continue to live in [[Places/Beit Zait]],... 2 sons were born, Yacov and Moshe,.. Rosy died aged 31 years, after a painful long sickness.
 
 ## Photos
 
@@ -60,4 +60,4 @@ Born in Cairo 31 January 1934 In December 1949, the family emigrated to Israel w
 *Rosette with dad Moshe, grandma Warda, and sisters Mireille and Vicky.Daily life scene in the Moshav (farm).*
 
 ![[attachments/pictures/Cohen family Aliya.jpg]]
-*Leaving Egypt, we arrived in Italy.There, we were gathered with other families, for preparing our Aliyah to Israel, fulfilling our zionist aspirations to live in the promised land.*
+*Leaving [[Places/Egypt]], we arrived in [[Places/Italy]].There, we were gathered with other families, for preparing our Aliyah to [[Places/Israel]], fulfilling our zionist aspirations to live in the promised land.*

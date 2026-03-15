@@ -21,4 +21,4 @@ research_level: 2
 **Siblings:** [[People/Erane-Harari|Erane Harari]], [[People/Rinat-Harari|Rinat Harari]]
 
 ## Biography
-Wedding of Ravit Harari and Omer Caspi in Israel 26 August 2001
+Wedding of Ravit Harari and Omer Caspi in [[Places/Israel]] 26 August 2001

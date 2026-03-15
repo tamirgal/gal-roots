@@ -41,7 +41,7 @@ research_level: 2
 **Children:** [[People/Frederic-Barouh|Frederic Barouh]], [[People/Cecille-Barouh-Benezra|Cecille Barouh Benezra]]
 
 ## Biography
-Fille ainee de Jacques et Leonie Sasson (dit Saison), nee au Caire Egypte le 23 Mai 1941. Elle fit ses etudes aux ecoles de la mission laique Francaise au Caire, mais dut les interrompre en Fevrier 1957, date de l'expulsion de la famille, suite de la guerre de Suez. La famille emigra vers Paris,…Marlene travailla aux bureaux des magasins du "Printemps", et en 1963 , devint secretaire de Direction. Mariee avec Maurice Barouh en Juillet 1963, ils ont deux enfants : Frederic et Cecile . La famille vit a Lesigny , pres de Paris. En 1997, 40 ans apres, au cours d'un voyage en Egypte pour un retour aux sources familiales, elle visite "Louxor", la ville de ses ancetres , mondialement connue pour ses antiquites pharaoniques fabuleuses.
+Fille ainee de Jacques et Leonie Sasson (dit Saison), nee au [[Places/Cairo]] [[Places/Egypt]] le 23 Mai 1941. Elle fit ses etudes aux ecoles de la mission laique Francaise au [[Places/Cairo]], mais dut les interrompre en Fevrier 1957, date de l'expulsion de la famille, suite de la guerre de Suez. La famille emigra vers Paris,…Marlene travailla aux bureaux des magasins du "Printemps", et en 1963 , devint secretaire de Direction. Mariee avec Maurice Barouh en Juillet 1963, ils ont deux enfants : Frederic et Cecile . La famille vit a Lesigny , pres de Paris. En 1997, 40 ans apres, au cours d'un voyage en [[Places/Egypt]] pour un retour aux sources familiales, elle visite "[[Places/Luxor]]", la ville de ses ancetres , mondialement connue pour ses antiquites pharaoniques fabuleuses.
 
 ## Photos
 

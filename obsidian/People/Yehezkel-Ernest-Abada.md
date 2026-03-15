@@ -41,7 +41,7 @@ research_level: 2
 **Children:** [[People/Esther-Touti-Abada|Esther Touti Abada]], [[People/Viviane-Abada|Viviane Abada]], [[People/Moshe-Maurice-Abada|Moshe Maurice Abada]], [[People/Robert-Roby-Abada|Robert Roby Abada]], [[People/Albert-Abraham-Abada|Albert Abraham Abada]]
 
 ## Biography
-Yehezkel (Ernest) Abada, est ne au Caire en 1927. Marie au Caire avec Claire Mekayess en 1950, ... Il travaillait a Fayed, dans la zone du canal de Suez,... L'armee anglaise y avait une quantite innombrable d'entrepots , ou elle emmagasinait tout ce dont elle avait besoin pendant la 2 eme guerre mondiale 1919-1945. Elle avait grandement besoin de main d'oeuvre civile , locale , pour gerer tout ce complexe, avant sa liquidation definitive . Apres la guerre de Suez, ils emigrent vers Israel en 1957, avec leurs 4 enfants nes au Caire, et s'installent a Haifa ou est ne leur 5 eme enfant. Yehezkel meurt en 1963.
+Yehezkel (Ernest) Abada, est ne au [[Places/Cairo]] en 1927. Marie au [[Places/Cairo]] avec Claire Mekayess en 1950, ... Il travaillait a Fayed, dans la zone du canal de Suez,... L'armee anglaise y avait une quantite innombrable d'entrepots , ou elle emmagasinait tout ce dont elle avait besoin pendant la 2 eme guerre mondiale 1919-1945. Elle avait grandement besoin de main d'oeuvre civile , locale , pour gerer tout ce complexe, avant sa liquidation definitive . Apres la guerre de Suez, ils emigrent vers [[Places/Israel]] en 1957, avec leurs 4 enfants nes au [[Places/Cairo]], et s'installent a [[Places/Haifa]] ou est ne leur 5 eme enfant. Yehezkel meurt en 1963.
 
 ## Photos
 

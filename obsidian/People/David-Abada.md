@@ -39,7 +39,7 @@ research_level: 2
 **Children:** [[People/Saul-Abada-Ovdat|Saul Abada Ovdat]], [[People/Miriam-Abada-Harari|Miriam Abada Harari]], [[People/Yacov-Abada|Yacov Abada]], [[People/Avner-Abada-Ovdat|Avner Abada Ovdat]]
 
 ## Biography
-Wedding of David Abada and Juliette Pariente in Cairo Egypt 24 0ctobre1943
+Wedding of David Abada and Juliette Pariente in [[Places/Cairo]] [[Places/Egypt]] 24 0ctobre1943
 
 ## Photos
 

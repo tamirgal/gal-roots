@@ -49,7 +49,7 @@ Lives in HighLand Park, Illinois. Works at the Northwestern Memorial Hospital in
 *Alan Peaceman visiting Israel with his wife Karen and daughter Sarah*
 
 ![[attachments/pictures/peaceman_klein.jpg]]
-*Touring Israel with Andy Clyne from UK, Bella Klein from Israel and the Goldsteins from Israel*
+*Touring Israel with Andy Clyne from UK, Bella Klein from [[Places/Israel]] and the Goldsteins from [[Places/Israel]]*
 
 ![[attachments/pictures/peace_cousins_1966.jpe]]
 *The Peaceman cousins:Caren, Alan, Amy, Matthew and Gale (approx. 1966)*

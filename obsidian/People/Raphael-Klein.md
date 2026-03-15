@@ -36,7 +36,7 @@ research_level: 2
 **Children:** [[People/Ophir-Klein|Ophir Klein]], [[People/Doron-Klein|Doron Klein]], [[People/Yonathan-Klein|Yonathan Klein]]
 
 ## Biography
-Rafi born in Haifa Israel. Studied in the Technion Physics. Later on moved to California and was one of the first Engineer of a new startup called Intel. Later on, founded his own business, also in the semi-conductor area.
+Rafi born in [[Places/Haifa]] Israel. Studied in the Technion Physics. Later on moved to [[Places/California]] and was one of the first Engineer of a new startup called Intel. Later on, founded his own business, also in the semi-conductor area.
 
 ## Photos
 

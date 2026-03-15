@@ -35,7 +35,7 @@ Gabriel died in the nazi extermination camps during World War 2 .
 ![[attachments/pictures/ung_river_1941.jpg]]
 
 ![[attachments/pictures/klein_family.jpg]]
-*The Family of Moshe Israel Klein in Uzhgorod, from left: Moshe-Israel, Bella, Paula, Ondrej, Edith, Gabriel*
+*The Family of Moshe Israel Klein in [[Places/Uzhgorod]], from left: Moshe-Israel, Bella, Paula, Ondrej, Edith, Gabriel*
 
 ![[attachments/pictures/klein_edith_paula_gabriel.jpg]]
 *Gabriel with Mother Paula and Sister Edith.*

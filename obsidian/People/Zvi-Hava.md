@@ -36,14 +36,14 @@ research_level: 2
 **Children:** [[People/Ety-Hava|Ety Hava]], [[People/Royi-Hava|Royi Hava]], [[People/Mikhal-Hava|Mikhal Hava]]
 
 ## Biography
-Zvi Hava, born in Iraq. In 1950, he emigrated to Israel with his family. Married in Israel to Dalia
+Zvi Hava, born in [[Places/Iraq]]. In 1950, he emigrated to [[Places/Israel]] with his family. Married in [[Places/Israel]] to Dalia
 
 ## Photos
 
 ![[attachments/pictures/Passport Hava Zvi.jpg]]
 
 ![[attachments/pictures/Hava Zvi and Dalia wedding 1.jpg]]
-*On the wedding day, in Tel-Aviv*
+*On the wedding day, in [[Places/Tel Aviv]]*
 
 ![[attachments/pictures/Hava Zvi and Dalia wedding 2.jpg]]
 *The wedding day inTel-Aviv*

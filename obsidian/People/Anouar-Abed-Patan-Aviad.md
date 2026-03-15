@@ -39,24 +39,24 @@ research_level: 2
 **Children:** [[People/Elie-Patan-ind00592|Elie Patan]], [[People/Anat-Patan|Anat Patan]], [[People/Avi-Patan|Avi Patan]]
 
 ## Biography
-Anouar Abed, born in Bagdad. He emigrated with his family to Israel in 1950. Married in Israel , to Tikva Hay.
+Anouar Abed, born in [[Places/Baghdad]]. He emigrated with his family to [[Places/Israel]] in 1950. Married in [[Places/Israel]] , to Tikva Hay.
 
 ## Photos
 
 ![[attachments/pictures/passport Abed Anouar.jpg]]
-*Anouar Abed.Bagdad 1947*
+*Anouar Abed.[[Places/Baghdad]] 1947*
 
 ![[attachments/pictures/1938 Abed Anouar.jpg]]
-*Anouar,Bagdad 4-3-1938.Picture sent to his cousins Elie and Isaac, in Cairo, Egypt*
+*Anouar,[[Places/Baghdad]] 4-3-1938.Picture sent to his cousins Elie and Isaac, in [[Places/Cairo]], [[Places/Egypt]]*
 
 ![[attachments/pictures/1945 Anouar military service.jpg]]
-*Anouar during his military service in Iraq.Bagdad 10 April 1945*
+*Anouar during his military service in [[Places/Iraq]].[[Places/Baghdad]] 10 April 1945*
 
 ![[attachments/pictures/1947 Anouar Flora.jpg]]
-*Anouar and his sister Flora.Basra, Iraq 10-7-1947.Picture sent to his aunt Victoria Patan, Cairo, Egypt.*
+*Anouar and his sister Flora.Basra, [[Places/Iraq]] 10-7-1947.Picture sent to his aunt Victoria Patan, [[Places/Cairo]], [[Places/Egypt]].*
 
 ![[attachments/pictures/1947 Anouar.jpg]]
-*AnouarPhoto souvenir from Bagdad, 1947*
+*AnouarPhoto souvenir from [[Places/Baghdad]], 1947*
 
 ![[attachments/pictures/1949 Abed Anouar (Patan).jpg]]
-*Anouar.Photo souvenir from Basra, Iraq, 17-6-1949.Picture sent to his cousin Elie in Cairo, Egypt*
+*Anouar.Photo souvenir from Basra, [[Places/Iraq]], 17-6-1949.Picture sent to his cousin Elie in [[Places/Cairo]], [[Places/Egypt]]*

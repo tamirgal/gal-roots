@@ -39,7 +39,7 @@ research_level: 2
 **Children:** [[People/David-Eliahou|David Eliahou]], [[People/Rachel-Eliahou|Rachel Eliahou]], [[People/Eric-Haim-Eliahou|Eric Haim Eliahou]]
 
 ## Biography
-Joseph Eliahou, ne au Caire (Egypte) le 16.6.1942, marie a Laurette (Paula) Cohen, nee au Caire le1.6.1945. Le mariage civil eut lieu en France le 21.5.1976. Le mariage religieux eut lieu en Israel le 17.6.1976.
+Joseph Eliahou, ne au [[Places/Cairo]] ([[Places/Egypt]]) le 16.6.1942, marie a Laurette (Paula) Cohen, nee au [[Places/Cairo]] le1.6.1945. Le mariage civil eut lieu en [[Places/France]] le 21.5.1976. Le mariage religieux eut lieu en [[Places/Israel]] le 17.6.1976.
 
 ## Photos
 

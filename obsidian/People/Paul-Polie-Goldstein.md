@@ -26,4 +26,4 @@ research_level: 2
 **Children:** [[People/Unknown-Goldstein|Unknown Goldstein]]
 
 ## Biography
-Born in Ungvar and left to live in Budapest. As far as we know, he was killed by a bomb in Budapest.
+Born in [[Places/Uzhgorod]] and left to live in [[Places/Budapest]]. As far as we know, he was killed by a bomb in [[Places/Budapest]].

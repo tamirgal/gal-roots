@@ -38,12 +38,12 @@ research_level: 1
 ## Photos
 
 ![[attachments/pictures/klein_ellen_1.jpg]]
-*Celebrating 50 years wedding anniversary, of Chaya and Miki Goldstein in London in 1996.*
+*Celebrating 50 years wedding anniversary, of Chaya and Miki Goldstein in [[Places/London]] in 1996.*
 
 ![[attachments/pictures/klein_ellen_2.jpg]]
 
 ![[attachments/pictures/london1.jpg]]
-*A toast for the 50th anniversary of Mickey and Chaya Gildstein, Aug 1996, in London*
+*A toast for the 50th anniversary of Mickey and Chaya Gildstein, Aug 1996, in [[Places/London]]*
 
 ![[attachments/pictures/london2.jpg]]
 

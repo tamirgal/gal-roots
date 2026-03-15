@@ -41,7 +41,7 @@ research_level: 2
 **Children:** [[People/Elie-Eliahou|Elie Eliahou]], [[People/Isaac-Eliahou|Isaac Eliahou]], [[People/Shaoul-Eliahou|Shaoul Eliahou]], [[People/Joseph-Eliahou|Joseph Eliahou]]
 
 ## Biography
-Helene Israel, nee a Assiout en Haute Egypte, mariee au Caire a Saleh Eliahou, le 27 octobre 1935. Ils habitent Le Caire jusqu'a leur emigration en France en 1961. La famille s'installe a Paris , ou elle y mourut en Novembre 1991.
+Helene Israel, nee a [[Places/Assiut]] en Haute [[Places/Egypt]], mariee au [[Places/Cairo]] a Saleh Eliahou, le 27 octobre 1935. Ils habitent [[Places/Cairo]] jusqu'a leur emigration en [[Places/France]] en 1961. La famille s'installe a Paris , ou elle y mourut en Novembre 1991.
 
 ## Photos
 

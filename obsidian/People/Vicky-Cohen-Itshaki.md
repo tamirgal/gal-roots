@@ -47,7 +47,7 @@ research_level: 2
 **Children:** [[People/Yosseph-Yossi-Itshaki|Yosseph (Yossi) Itshaki]], [[People/Eyaal-Itshaki|Eyaal Itshaki]], [[People/Erez-Itshaki|Erez Itshaki]], [[People/Keren-Itshaki-Guiladi|Keren Itshaki Guiladi]]
 
 ## Biography
-Born in Cairo 25 July 1941, In December 1949, the family emigrated to Israel where they lived in a new agricultural settlement called "Beit-Zait", It is a splendid place , in the heart of the beautiful mountains surrounding Jerusalem. In the middle sixties, she moved with her family to the city of Holon. On 31 July 1963, married to Elie Itshaki and continue to live in Holon.
+Born in [[Places/Cairo]] 25 July 1941, In December 1949, the family emigrated to [[Places/Israel]] where they lived in a new agricultural settlement called "[[Places/Beit Zait]]", It is a splendid place , in the heart of the beautiful mountains surrounding [[Places/Jerusalem]]. In the middle sixties, she moved with her family to the city of [[Places/Holon]]. On 31 July 1963, married to Elie Itshaki and continue to live in [[Places/Holon]].
 
 ## Photos
 
@@ -73,4 +73,4 @@ Born in Cairo 25 July 1941, In December 1949, the family emigrated to Israel whe
 *Vicky with dad Moshe, grandma Warda, and sisters Mireille and Rosette.Daily life scene in the Moshav (farm).*
 
 ![[attachments/pictures/Cohen family Aliya.jpg]]
-*Leaving Egypt, we arrived in Italy.There, we were gathered with other families, for preparing our Aliyah to Israel, fulfilling our zionist aspirations to live in the promised land.*
+*Leaving [[Places/Egypt]], we arrived in [[Places/Italy]].There, we were gathered with other families, for preparing our Aliyah to [[Places/Israel]], fulfilling our zionist aspirations to live in the promised land.*

@@ -44,7 +44,7 @@ research_level: 1
 *Lucky me ,.. I got a kiss from my sister,..*
 
 ![[attachments/pictures/gal_adi_asaf_shahar_yael_07.jpg]]
-*Home in Binyamina ,..parents and kids*
+*Home in [[Places/Binyamina]] ,..parents and kids*
 
 ![[attachments/pictures/gal_adi_asaf_shahar_yael_08.jpg]]
 *Playing with grandma "Savta Aviva"*

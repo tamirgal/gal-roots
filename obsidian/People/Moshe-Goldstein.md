@@ -20,4 +20,4 @@ research_level: 0
 **Children:** [[People/Joseph-Goldstein|Joseph Goldstein]], [[People/Paul-Polie-Goldstein|Paul (Polie) Goldstein]]
 
 ## Biography
-Lived and died in Ungvar. We do not have any information about him
+Lived and died in [[Places/Uzhgorod]]. We do not have any information about him

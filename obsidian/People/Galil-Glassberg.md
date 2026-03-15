@@ -34,4 +34,4 @@ Galil is the son of Izhak and Sonia Galssberg
 ![[attachments/pictures/glassberg_galil.jpg]]
 
 ![[attachments/pictures/glassberg_wedding_1.jpg]]
-*The wedding party of Galil and Tzipa, Haifa 1960. Many of the Aharon brach family members can be recognized here.*
+*The wedding party of Galil and Tzipa, [[Places/Haifa]] 1960. Many of the Aharon brach family members can be recognized here.*

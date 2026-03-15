@@ -26,4 +26,4 @@ research_level: 2
 **Children:** [[People/Felis-Clyne|Felis Clyne]]
 
 ## Biography
-Thomas Klein lives in the USA. Married and has children
+Thomas Klein lives in the [[Places/USA]]. Married and has children

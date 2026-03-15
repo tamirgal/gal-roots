@@ -42,7 +42,7 @@ research_level: 1
 ![[attachments/pictures/Talker Sara.jpg]]
 
 ![[attachments/pictures/Patan Talker.jpg]]
-*The TALKER and PATAN families at the wedding of their children Rahel and Sami,... Tel-Aviv 10 October 1988.*
+*The TALKER and PATAN families at the wedding of their children Rahel and Sami,... [[Places/Tel Aviv]] 10 October 1988.*
 
 ![[attachments/pictures/Rahel and mother.jpg]]
 *Rahel and mother Sara,... on wedding day,... Hod Hasharon , 10 October 1988*

@@ -29,7 +29,7 @@ research_level: 2
 **Children:** [[People/Liliane-Abada|Liliane Abada]], [[People/Riri-Ernest-Abada|Riri Ernest Abada]], [[People/Louna-Abada|Louna Abada]]
 
 ## Biography
-Les racines de la famille Diwane, remontent au Liban, ou est nee Esther. Au debut du 20 eme siecle, la famille emigre vers l'Egypte, s'etablit a Port-Said, ou la famille dirige un hotel. Esther Diwane, se marie avec Albert Abada en 1932. Ils demenagent a Ismailya, au milieu du canal de Suez., et la aussi elle dirige l'hotel familial, tandis qu'Albert travaille dans une usine de saucissons. Ils ont 3 enfants. Gravement malade, Esther succombe et meurt en 1948, a l'age de 39 ans.
+Les racines de la famille Diwane, remontent au Liban, ou est nee Esther. Au debut du 20 eme siecle, la famille emigre vers l'[[Places/Egypt]], s'etablit a Port-Said, ou la famille dirige un hotel. Esther Diwane, se marie avec Albert Abada en 1932. Ils demenagent a Ismailya, au milieu du canal de Suez., et la aussi elle dirige l'hotel familial, tandis qu'Albert travaille dans une usine de saucissons. Ils ont 3 enfants. Gravement malade, Esther succombe et meurt en 1948, a l'age de 39 ans.
 
 ## Photos
 

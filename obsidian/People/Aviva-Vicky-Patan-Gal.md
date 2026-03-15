@@ -39,7 +39,7 @@ research_level: 2
 **Children:** [[People/Asaf-Gal|Asaf Gal]], [[People/Tamir-Gal|Tamir Gal]]
 
 ## Biography
-Aviva (Vicky) Patan Gal: Aviva (Vicky) Patan, daughter of Elie and Mary Patan was born (March 1951) in Cairo Egypt. In 1957, she immigrated with her family to Israel. There, her mother Mary decided to change her daughter's name to a local one and Victoria became Aviva. Yet, her nickname is still today, Vicky. She grew up in Ramat-Gan, Israel... and after her military service, she was graduated from the "TECHNION" our Polytechnic University in Haifa, where she studied Mathematics and Computers. There she met Joseph (Yossi) Gal, and married, in Tel-Aviv, Israel on the 6th August 1974. They have 2 sons, Asaf and Tamir. She worked in several companies, as director of computer software programming departments. Actually, she holds a position of the IT Manager at "Unilever" an international company, in the food industry. Working hard, in full time job and big responsibilities, she finds the time to fulfill her hobby , where she feels relaxed , by painting and sculpting . If you want to see some of her paintings, click HERE If you want to see some of her sculptures, click HERE
+Aviva (Vicky) Patan Gal: Aviva (Vicky) Patan, daughter of Elie and Mary Patan was born (March 1951) in [[Places/Cairo]] [[Places/Egypt]]. In 1957, she immigrated with her family to [[Places/Israel]]. There, her mother Mary decided to change her daughter's name to a local one and Victoria became Aviva. Yet, her nickname is still today, Vicky. She grew up in [[Places/Ramat Gan]], Israel... and after her military service, she was graduated from the "TECHNION" our Polytechnic University in [[Places/Haifa]], where she studied Mathematics and Computers. There she met Joseph (Yossi) Gal, and married, in [[Places/Tel Aviv]], Israel on the 6th August 1974. They have 2 sons, Asaf and Tamir. She worked in several companies, as director of computer software programming departments. Actually, she holds a position of the IT Manager at "Unilever" an international company, in the food industry. Working hard, in full time job and big responsibilities, she finds the time to fulfill her hobby , where she feels relaxed , by painting and sculpting . If you want to see some of her paintings, click HERE If you want to see some of her sculptures, click HERE
 
 ## Photos
 
@@ -55,7 +55,7 @@ Aviva (Vicky) Patan Gal: Aviva (Vicky) Patan, daughter of Elie and Mary Patan wa
 *Salade de famille ,... Who is who ... ?*
 
 ![[attachments/pictures/Aviva tsofim.jpg]]
-*During almost all her youth, till her military service, Aviva was a member in this world wide institution, "The girls and boys scouts federation", in Ramat-Gan.Here with friends, going to a summer jamboree ( a camping meeting of delegations from several towns in Israel)*
+*During almost all her youth, till her military service, Aviva was a member in this world wide institution, "The girls and boys scouts federation", in [[Places/Ramat Gan]].Here with friends, going to a summer jamboree ( a camping meeting of delegations from several towns in [[Places/Israel]])*
 
 ![[attachments/pictures/Aviva Mary 1951.jpg]]
 *Vicky, a l'age de 5 mois, avec Mary, sur la plage de Port-Said*

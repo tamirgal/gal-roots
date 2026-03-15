@@ -17,4 +17,4 @@ research_level: 2
 **Siblings:** [[People/Mordechay-Klein|Mordechay Klein]], [[People/Chana-Klein|Chana Klein]], [[People/Sarah-Klein-1928|Sarah Klein]]
 
 ## Biography
-Esther emigrated to Israel. Lives in Haifa
+Esther emigrated to [[Places/Israel]]. Lives in [[Places/Haifa]]

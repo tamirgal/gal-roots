@@ -24,7 +24,7 @@ research_level: 2
 **Siblings:** [[People/Maya-Shaked-Rabi|Maya Shaked Rabi]], [[People/Tamar-Shaked|Tamar Shaked]]
 
 ## Biography
-Maya is born in Timrat (Israel)
+Maya is born in [[Places/Timrat]] (Israel)
 
 ## Photos
 

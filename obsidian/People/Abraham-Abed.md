@@ -34,7 +34,7 @@ research_level: 2
 **Children:** [[People/Flora-Abed-Hava|Flora (Abed) Hava]], [[People/Anouar-Abed-Patan-Aviad|Anouar (Abed-Patan) Aviad]]
 
 ## Biography
-Abraham Abed, born and lived in Bagdad, Iraq . Married in Bagdad to Regina Fathi. He had a textile commerce. In 1950 the family emigrated to Israel
+Abraham Abed, born and lived in [[Places/Baghdad]], [[Places/Iraq]] . Married in [[Places/Baghdad]] to Regina Fathi. He had a textile commerce. In 1950 the family emigrated to [[Places/Israel]]
 
 ## Photos
 

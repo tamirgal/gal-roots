@@ -34,7 +34,7 @@ research_level: 2
 **Children:** [[People/Caren-Beth-Peaceman-Cowan|Caren Beth Peaceman Cowan]], [[People/Alan-Mark-Peaceman|Alan Mark Peaceman]]
 
 ## Biography
-Lives in Huston, Texas.
+Lives in Huston, [[Places/Texas]].
 
 ## Photos
 

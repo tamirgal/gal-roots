@@ -33,7 +33,7 @@ research_level: 2
 **Children:** [[People/Esther-Touti-Abada|Esther Touti Abada]], [[People/Viviane-Abada|Viviane Abada]], [[People/Moshe-Maurice-Abada|Moshe Maurice Abada]], [[People/Robert-Roby-Abada|Robert Roby Abada]], [[People/Albert-Abraham-Abada|Albert Abraham Abada]]
 
 ## Biography
-Claire Mekayess, est nee a Tanta , ville Egyptienne au nord du delta du Nil, en 1933. Mariee au Caire en 1950 a Yehezkel Abada,... 4 enfants sont nes au Caire, avant leur depart d'Egypte et leur immigration en Israel. en 1957.,... ils s'installent a Haifa ou est ne leur 5 eme enfant. Yehezkel meurt en 1963.... Claire habite Naharya.
+Claire Mekayess, est nee a Tanta , ville Egyptienne au nord du delta du Nil, en 1933. Mariee au [[Places/Cairo]] en 1950 a Yehezkel Abada,... 4 enfants sont nes au [[Places/Cairo]], avant leur depart d'[[Places/Egypt]] et leur immigration en [[Places/Israel]]. en 1957.,... ils s'installent a [[Places/Haifa]] ou est ne leur 5 eme enfant. Yehezkel meurt en 1963.... Claire habite Naharya.
 
 ## Photos
 

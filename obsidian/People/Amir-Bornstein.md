@@ -18,4 +18,4 @@ research_level: 0
 **Children:** [[People/Rotem-Bornstein|Rotem Bornstein]]
 
 ## Biography
-Amir Bornstein, married to Keren Niv in Israel, in 1998
+Amir Bornstein, married to Keren Niv in [[Places/Israel]], in 1998

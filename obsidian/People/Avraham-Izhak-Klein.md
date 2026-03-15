@@ -41,7 +41,7 @@ research_level: 2
 **Children:** [[People/Moshe-Israel-Klein|Moshe Israel Klein]], [[People/Antonia-Klein-Goldstein|Antonia Klein Goldstein]], [[People/David-Klein|David Klein]], [[People/Roza-Rezsi-Klein-Der|Roza (Rezsi) Klein Der]], [[People/Bernard-Klein|Bernard Klein]], [[People/Yehuda-Klein|Yehuda Klein]]
 
 ## Biography
-Lived and died in Ungvar. Together with 3 other partners had a royally of the toll-entrance to the town and therefore lived near the north-eastern entrance, in Sobranecka Ulice, and not in the city center where most jews lived. His first 1st wife died and he left as a widow with 6 children. Antonia, his eldest daughter, helped him with the household. He remarried again with another widow from the Goldstein Family. (See Savta Goldstein) Avraham-Izhak, was hit by a military car and never recovered. He died a year later in 1936.
+Lived and died in [[Places/Uzhgorod]]. Together with 3 other partners had a royally of the toll-entrance to the town and therefore lived near the north-eastern entrance, in Sobranecka Ulice, and not in the city center where most jews lived. His first 1st wife died and he left as a widow with 6 children. Antonia, his eldest daughter, helped him with the household. He remarried again with another widow from the Goldstein Family. (See Savta Goldstein) Avraham-Izhak, was hit by a military car and never recovered. He died a year later in 1936.
 
 ## Photos
 

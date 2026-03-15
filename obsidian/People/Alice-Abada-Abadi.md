@@ -37,7 +37,7 @@ research_level: 2
 **Children:** [[People/Rachel-Abadi-Goldmann|Rachel Abadi Goldmann]], [[People/Meyer-Abadi|Meyer Abadi]]
 
 ## Biography
-Wedding of Alice Abada and Robert Abadi in 1939, in Cairo Egypt They emigrated to Israel in 1957.
+Wedding of Alice Abada and Robert Abadi in 1939, in [[Places/Cairo]] [[Places/Egypt]] They emigrated to [[Places/Israel]] in 1957.
 
 ## Photos
 
@@ -47,7 +47,7 @@ Wedding of Alice Abada and Robert Abadi in 1939, in Cairo Egypt They emigrated t
 *Souvenir de toute la famille, chez Liliane et Nisso,a Kiryat Haim, hiver 1963 .*
 
 ![[attachments/pictures/Abada Alice2.jpg]]
-*Photo souvenir, prise en Egypte.*
+*Photo souvenir, prise en [[Places/Egypt]].*
 
 ![[attachments/pictures/Abadi Alice Robert.jpg]]
 

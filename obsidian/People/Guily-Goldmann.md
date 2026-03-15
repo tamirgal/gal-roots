@@ -30,4 +30,4 @@ research_level: 2
 **Children:** [[People/More-Goldmann|More Goldmann]], [[People/Noa-Goldmann|Noa Goldmann]], [[People/Ziv-Goldmann|Ziv Goldmann]]
 
 ## Biography
-Guily Goldmann, married to Talia Yacovson, in Israel, 29 August 1995.
+Guily Goldmann, married to Talia Yacovson, in [[Places/Israel]], 29 August 1995.

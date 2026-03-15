@@ -28,7 +28,7 @@ research_level: 2
 **Children:** [[People/Vered-Hanan|Vered Hanan]], [[People/Tahel-Hanan|Tahel Hanan]], [[People/Hagay-Hanan|Hagay Hanan]]
 
 ## Biography
-Ruty Bayn , married to Yacov Hanan, 1 August 1978 Ruty is the daughter of Israel and Malka Bayn.
+Ruty Bayn , married to Yacov Hanan, 1 August 1978 Ruty is the daughter of [[Places/Israel]] and Malka Bayn.
 
 ## Photos
 

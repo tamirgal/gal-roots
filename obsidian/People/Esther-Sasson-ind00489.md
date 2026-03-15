@@ -21,7 +21,7 @@ research_level: 2
 **Siblings:** [[People/Sophie-Fifi-Sasson|Sophie Fifi Sasson]], [[People/David-Deddy-Sasson|David Deddy Sasson]]
 
 ## Biography
-Esther Sasson, nee au Caire, mariee en Israel et habite a Rehovot.
+Esther Sasson, nee au [[Places/Cairo]], mariee en [[Places/Israel]] et habite a Rehovot.
 
 ## Photos
 

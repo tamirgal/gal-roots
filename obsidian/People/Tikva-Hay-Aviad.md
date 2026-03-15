@@ -27,7 +27,7 @@ research_level: 2
 **Children:** [[People/Elie-Patan-ind00592|Elie Patan]], [[People/Anat-Patan|Anat Patan]], [[People/Avi-Patan|Avi Patan]]
 
 ## Biography
-Tikva Hay. Married to Anouar in Israel
+Tikva Hay. Married to Anouar in [[Places/Israel]]
 
 ## Photos
 

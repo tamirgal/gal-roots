@@ -1,0 +1,4 @@
+---
+name: Aleppo
+type: place
+---

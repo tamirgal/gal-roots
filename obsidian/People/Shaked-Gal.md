@@ -32,7 +32,7 @@ research_level: 2
 **Siblings:** [[People/Nadav-Gal|Nadav Gal]], [[People/Mika-Gal|Mika Gal]]
 
 ## Biography
-Shaked Gal, born (11/3/2012) in Ramat-Gan, Israel.
+Shaked Gal, born (11/3/2012) in [[Places/Ramat Gan]], Israel.
 
 ## Photos
 

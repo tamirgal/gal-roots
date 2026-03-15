@@ -44,7 +44,7 @@ research_level: 2
 **Children:** [[People/Judith-Hirsch-Kneiz|Judith Hirsch Kneiz]], [[People/Irit-Hirsch-Yogev|Irit Hirsch Yogev]]
 
 ## Biography
-Tsipora (Zili) Farkas, born in Tjacev (Tecso) (Tacovo). She lived in this small village, with her family and some 1500 Jews. . At the origin, the village was under the Austro-Hungarian government, …in 1920, it passed to the new Czechoslovakian state. After some years, it was shifted back to Hungary, untill World War 2. As many Jewish villages in the area, it was victim of the Nazi persecution, and their "Final solution". Jews were gathered in central ghetto in the village. Some were sent to Nazi labor camps, while others were deported to Auschwitz and other extermination camps, between the years 1942-1944. That was also the destiny of the Farkash family, … Some members died in that holocaust, some escaped, some survived, in spite their capture and detention in those camps, … Tsipora , and her 3 sisters survived, and were liberated at the end of the war in 1945 . The rest of the family died in the Holaucost. She decided to immigrate to Palestine, She lives in Kibutz Gesher Haziv, on the North coast of Israel.
+Tsipora (Zili) Farkas, born in [[Places/Tyachiv]]. She lived in this small village, with her family and some 1500 Jews. . At the origin, the village was under the Austro-Hungarian government, …in 1920, it passed to the new Czechoslovakian state. After some years, it was shifted back to [[Places/Hungary]], untill World War 2. As many Jewish villages in the area, it was victim of the Nazi persecution, and their "Final solution". Jews were gathered in central ghetto in the village. Some were sent to Nazi labor camps, while others were deported to [[Places/Auschwitz]] and other extermination camps, between the years 1942-1944. That was also the destiny of the Farkash family, … Some members died in that holocaust, some escaped, some survived, in spite their capture and detention in those camps, … Tsipora , and her 3 sisters survived, and were liberated at the end of the war in 1945 . The rest of the family died in the Holaucost. She decided to immigrate to [[Places/Palestine]], She lives in [[Places/Kibbutz Gesher Haziv]], on the North coast of [[Places/Israel]].
 
 ## Photos
 
@@ -55,7 +55,7 @@ Tsipora (Zili) Farkas, born in Tjacev (Tecso) (Tacovo). She lived in this small 
 ![[attachments/pictures/farkash_sisters.jpg]]
 
 ![[attachments/pictures/asaf_yossi_tsipora.jpg]]
-*Recent picture of Tsippora, during the BarMitzva of Tal Kariv, in August 2002, in Haifa. She is the one in the far right in white dress,...At the left, is Asaf and Joseph (Yossi) Gal.*
+*Recent picture of Tsippora, during the BarMitzva of Tal Kariv, in August 2002, in [[Places/Haifa]]. She is the one in the far right in white dress,...At the left, is Asaf and Joseph (Yossi) Gal.*
 
 ![[attachments/pictures/hirsh__tsipora_2.jpg]]
 
@@ -66,7 +66,7 @@ Tsipora (Zili) Farkas, born in Tjacev (Tecso) (Tacovo). She lived in this small 
 ![[attachments/pictures/in_aviva_s_kitchen.jpg]]
 
 ![[attachments/pictures/farkas_girls_1959.jpg]]
-*The Farkas sisters at Sandra's wedding in Tel-Aviv, 1959*
+*The Farkas sisters at Sandra's wedding in [[Places/Tel Aviv]], 1959*
 
 ![[attachments/pictures/hirsh_girls.jpg]]
 

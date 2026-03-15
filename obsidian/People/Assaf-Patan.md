@@ -25,7 +25,7 @@ research_level: 2
 **Siblings:** [[People/Aviv-Patan|Aviv Patan]]
 
 ## Biography
-Assaf Patan is born in Assouta hospital, Tel-Aviv - 17 September 1992.
+Assaf Patan is born in Assouta hospital, [[Places/Tel Aviv]] - 17 September 1992.
 
 ## Photos
 

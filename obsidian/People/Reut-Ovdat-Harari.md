@@ -27,7 +27,7 @@ research_level: 2
 **Siblings:** [[People/Omrie-Ovdat|Omrie Ovdat]]
 
 ## Biography
-Reut Ovdat is born in Israel , 4 march 1982. Married to Yuval Harari in Binyamina , 16 October 2006.
+Reut Ovdat is born in [[Places/Israel]] , 4 march 1982. Married to Yuval Harari in [[Places/Binyamina]] , 16 October 2006.
 
 ## Photos
 

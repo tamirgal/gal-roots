@@ -40,7 +40,7 @@ research_level: 2
 **Children:** [[People/Fiona-Remnant|Fiona Remnant]], [[People/David-Remnant|David Remnant]]
 
 ## Biography
-Doris, la plus jeune enfant de Jacques et Leonie Sasson, nee au Caire (Egypte)le 4 Mai 1949. En 1957, elle emigre avec sa famille en France. En 1970, elle voyage en Grande Bretagne, s'y installe , et se marie avec Peter Remnant le 15 Juillet 1972.
+Doris, la plus jeune enfant de Jacques et Leonie Sasson, nee au [[Places/Cairo]] ([[Places/Egypt]])le 4 Mai 1949. En 1957, elle emigre avec sa famille en [[Places/France]]. En 1970, elle voyage en Grande Bretagne, s'y installe , et se marie avec Peter Remnant le 15 Juillet 1972.
 
 ## Photos
 
@@ -50,13 +50,13 @@ Doris, la plus jeune enfant de Jacques et Leonie Sasson, nee au Caire (Egypte)le
 ![[attachments/pictures/Remnant Doris.jpg]]
 
 ![[attachments/pictures/Remnant Peter & Doris icecream.jpg]]
-*August 2001 - Ontario Canada. Peter enjoys his ice-cream. Doris is making sure he finishes hes tub.*
+*August 2001 - Ontario [[Places/Canada]]. Peter enjoys his ice-cream. Doris is making sure he finishes hes tub.*
 
 ![[attachments/pictures/Remnant couple.jpg]]
-*Doris and Peter,...30th wedding Anniversary - week end in France. 15th July 2002.*
+*Doris and Peter,...30th wedding Anniversary - week end in [[Places/France]]. 15th July 2002.*
 
 ![[attachments/pictures/Remnant couple2.jpg]]
-*Doris and Peter,...30th wedding Anniversary - week end in France. 15th July 2002.*
+*Doris and Peter,...30th wedding Anniversary - week end in [[Places/France]]. 15th July 2002.*
 
 ![[attachments/pictures/Les 4 enfants Sasson.jpg]]
 

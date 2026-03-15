@@ -39,7 +39,7 @@ research_level: 2
 **Children:** [[People/Michelle-Schwartz-Erlich|Michelle Schwartz Erlich]]
 
 ## Biography
-Sarah Farkas, known as Surie, born in Tjacev (Tecso) (Tacovo). She lived in this small village, with her family and some 1500 Jews. . At the origin, the village was under the Austro-Hungarian government, …in 1920, it passed to the new Czechoslovakian state. After some years, it was shifted back to Hungary, untill World War 2. As many Jewish villages in the area, it was victim of the Nazi persecution, and their "Final solution". Jews were gathered in central ghetto in the village. Some were sent to Nazi labor camps, while others were deported to Auschwitz and other extermination camps, between the years 1942-1944. That was also the destiny of the Farkash family, … Some members died in that holocaust, some escaped, some survived, in spite their capture and detention in those camps, … Sara survived, and was liberated at the end of the war. In 1945 she immigrated to the USA. She changed her name to Sandra. A first marriage, then divorced. then a second marriage with Emile Swartz. They have a daughter, Michelle, living in NY.
+Sarah Farkas, known as Surie, born in [[Places/Tyachiv]]. She lived in this small village, with her family and some 1500 Jews. . At the origin, the village was under the Austro-Hungarian government, …in 1920, it passed to the new Czechoslovakian state. After some years, it was shifted back to [[Places/Hungary]], untill World War 2. As many Jewish villages in the area, it was victim of the Nazi persecution, and their "Final solution". Jews were gathered in central ghetto in the village. Some were sent to Nazi labor camps, while others were deported to [[Places/Auschwitz]] and other extermination camps, between the years 1942-1944. That was also the destiny of the Farkash family, … Some members died in that holocaust, some escaped, some survived, in spite their capture and detention in those camps, … Sara survived, and was liberated at the end of the war. In 1945 she immigrated to the [[Places/USA]]. She changed her name to Sandra. A first marriage, then divorced. then a second marriage with Emile Swartz. They have a daughter, Michelle, living in NY.
 
 ## Photos
 
@@ -56,7 +56,7 @@ Sarah Farkas, known as Surie, born in Tjacev (Tecso) (Tacovo). She lived in this
 ![[attachments/pictures/peacemans___sarah___goldsteins.jpg]]
 
 ![[attachments/pictures/farkas_girls_1959.jpg]]
-*The Farkas sisters at Sandra's wedding in Tel-Aviv, 1959*
+*The Farkas sisters at Sandra's wedding in [[Places/Tel Aviv]], 1959*
 
 ![[attachments/pictures/schartz_sandra_tomb.jpg]]
 

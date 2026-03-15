@@ -36,4 +36,4 @@ research_level: 2
 **Children:** [[People/Israel-Dor-Niv|Israel Dor Niv]], [[People/Nahmann-Niv|Nahmann Niv]], [[People/Nathan-Niv|Nathan Niv]], [[People/Abraham-Niv|Abraham Niv]], [[People/Noa-Niv|Noa Niv]], [[People/Ayala-Niv|Ayala Niv]]
 
 ## Biography
-Shemer Niv, married to Sarit Niv in Israel, in 1991.
+Shemer Niv, married to Sarit Niv in [[Places/Israel]], in 1991.

@@ -39,14 +39,14 @@ research_level: 2
 **Children:** [[People/Marlene-Saison-Barouh|Marlene Saison Barouh]], [[People/Andree-Deddy-Saison-Martins-de-Barros|Andree (Deddy) Saison Martins de Barros]], [[People/Isaac-Saison|Isaac Saison]], [[People/Doris-Saison-Remnant|Doris Saison Remnant]]
 
 ## Biography
-Leonie Mizrahi, nee a Mehalla El Kobra (Egypte) en 1914,.. Mariee a Jacques Sasson au Caire le 21 Juillet 1940. En 1957, toute la famille emigre en France. Ses deux freres, Leon et Mayer Mizrahi emigrent en Italie.Ses deux soeurs, Celine et Marcelle, emigrent en Israel. Depuis son arrivee en France, la famille Saison s'installe a Gennevilliers, au nord de Paris. Leonie y vecut jusqu'a sa mort le 14 Avril 2003.
+Leonie Mizrahi, nee a Mehalla El Kobra ([[Places/Egypt]]) en 1914,.. Mariee a Jacques Sasson au [[Places/Cairo]] le 21 Juillet 1940. En 1957, toute la famille emigre en [[Places/France]]. Ses deux freres, Leon et Mayer Mizrahi emigrent en [[Places/Italy]].Ses deux soeurs, Celine et Marcelle, emigrent en [[Places/Israel]]. Depuis son arrivee en [[Places/France]], la famille Saison s'installe a Gennevilliers, au nord de Paris. Leonie y vecut jusqu'a sa mort le 14 Avril 2003.
 
 ## Photos
 
 ![[attachments/pictures/Leonie Sasson.jpg]]
 
 ![[attachments/pictures/Sasson Jacques family.jpg]]
-*La famille Saison, ...Une annee apres son arrivee en France*
+*La famille Saison, ...Une annee apres son arrivee en [[Places/France]]*
 
 ![[attachments/pictures/Saison Jacques & petitfils.jpg]]
 *Notre premier petis-fils.*

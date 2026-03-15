@@ -39,7 +39,7 @@ research_level: 2
 **Children:** [[People/Idris-Remnant|Idris Remnant]]
 
 ## Biography
-David, born in Cambridge,23-2-1977, at 22 h. . Finished his studies at Sheffield, ( German, Spannish, and French languages), Met Esther Heard in Sheffield where they went to university together. David and Esther got married on 24th February in New Zealand (officially!) and in Wales on August 28th 2004 (publicly). They have now moved to Helmshore which is north of Manchester and live in a lovely house in the countryside. There is an addition to the family too... Idris Toby Remnant was born on 11th December 2005 so David and Esther now live with their family in a beautiful old stone cottage. David works as an English teacher to foreigners from all around the world and enjoys his work very much.
+David, born in [[Places/Cambridge]],23-2-1977, at 22 h. . Finished his studies at Sheffield, ( German, Spannish, and French languages), Met Esther Heard in Sheffield where they went to university together. David and Esther got married on 24th February in New Zealand (officially!) and in Wales on August 28th 2004 (publicly). They have now moved to Helmshore which is north of Manchester and live in a lovely house in the countryside. There is an addition to the family too... Idris Toby Remnant was born on 11th December 2005 so David and Esther now live with their family in a beautiful old stone cottage. David works as an English teacher to foreigners from all around the world and enjoys his work very much.
 
 ## Photos
 

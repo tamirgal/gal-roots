@@ -1,0 +1,4 @@
+---
+name: Binyamina
+type: place
+---
