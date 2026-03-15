@@ -1,0 +1,9 @@
+obsidian/.obsidian/
+obsidian/Charted Roots/
+
+website/public/
+website/node_modules/
+
+.DS_Store
+__pycache__/
+*.pyc

@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "source_overrides": [
+    "Joseph Goldstein Gal",
+    "Chaya Farkas Goldstein"
+  ],
+  "match_overrides": [
+    {"ygtree": "ind00003", "epatan": "ind00005"},
+    {"ygtree": "ind00313", "epatan": "ind00004"},
+    {"ygtree": "ind00314", "epatan": "ind00003"}
+  ],
+  "forced_non_matches": []
+}
