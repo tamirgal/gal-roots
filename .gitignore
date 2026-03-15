@@ -4,6 +4,7 @@ obsidian/Charted Roots/
 website/public/
 website/node_modules/
 
+.superpowers/
 .DS_Store
 __pycache__/
 *.pyc
