@@ -12,9 +12,9 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Shaoul-Eliahou|Shaoul Eliahou]]
-**Mother:** [[People/Danielle-Obadia-Eliahou|Danielle Obadia Eliahou]]
+**Father:** [[People/Shaoul-Eliahou|Shaoul Eliahou]] | **Mother:** [[People/Danielle-Obadia-Eliahou|Danielle Obadia Eliahou]]
 **Siblings:** [[People/Alexandre-Eliahou|Alexandre Eliahou]]
+**Families:** [[Families/Eliahou|Eliahou]]
 
 ## Biography
 Ludivine est nee a Boulogne

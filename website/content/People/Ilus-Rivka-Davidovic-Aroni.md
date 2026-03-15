@@ -19,6 +19,7 @@ research_level: 1
 
 **Spouse:** [[People/Henrik-Yeheskel-Aroni|Henrik (Yeheskel) Aroni]]
 **Children:** [[People/Eva-Rachel-Aroni-Fried|Eva (Rachel) Aroni Fried]], [[People/Ben-Zion-Aroni|Ben-Zion Aroni]]
+**Families:** [[Families/Davidovic|Davidovic]], [[Families/Aroni|Aroni]]
 
 ## Biography
 

@@ -12,9 +12,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Ditmar-Kneiz|Ditmar Kneiz]]
-**Mother:** [[People/Judith-Hirsch-Kneiz|Judith Hirsch Kneiz]]
+**Father:** [[People/Ditmar-Kneiz|Ditmar Kneiz]] | **Mother:** [[People/Judith-Hirsch-Kneiz|Judith Hirsch Kneiz]]
 **Siblings:** [[People/Corina-Kneiz-Mor|Corina Kneiz Mor]]
+**Families:** [[Families/Kneiz|Kneiz]]
 
 ## Biography
 

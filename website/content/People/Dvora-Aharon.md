@@ -17,6 +17,7 @@ research_level: 2
 
 **Spouse:** [[People/Mordechai-Aharon|Mordechai Aharon]]
 **Children:** [[People/Abraham-Aharon|Abraham Aharon]]
+**Families:** [[Families/Aharon|Aharon]]
 
 ## Biography
 Dvora Aharon and her son Abraham, both died in Mouthausen nazi extermination camp

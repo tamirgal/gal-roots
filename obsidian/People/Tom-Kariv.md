@@ -18,9 +18,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Itay-Kariv|Itay Kariv]]
-**Mother:** [[People/Anat-Goldstein-Kariv|Anat Goldstein Kariv]]
+**Father:** [[People/Itay-Kariv|Itay Kariv]] | **Mother:** [[People/Anat-Goldstein-Kariv|Anat Goldstein Kariv]]
 **Siblings:** [[People/Tal-Kariv|Tal Kariv]], [[People/Ben-Kariv|Ben Kariv]], [[People/Gil-Kariv|Gil Kariv]]
+**Families:** [[Families/Kariv|Kariv]]
 
 ## Biography
 

@@ -30,11 +30,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Yaacov-Hirsch|Yaacov Hirsch]]
-**Mother:** [[People/Zipora-Farkas-Hirsch|Zipora Farkas Hirsch]]
+**Father:** [[People/Yaacov-Hirsch|Yaacov Hirsch]] | **Mother:** [[People/Zipora-Farkas-Hirsch|Zipora Farkas Hirsch]]
 **Spouse:** [[People/Ditmar-Kneiz|Ditmar Kneiz]]
 **Siblings:** [[People/Irit-Hirsch-Yogev|Irit Hirsch Yogev]]
 **Children:** [[People/Corina-Kneiz-Mor|Corina Kneiz Mor]], [[People/Claudia-Kneiz|Claudia Kneiz]]
+**Families:** [[Families/Hirsch|Hirsch]], [[Families/Kneiz|Kneiz]]
 
 ## Biography
 Judith Hirsh, married to Ditmar Kneiz, then divorced later.

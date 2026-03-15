@@ -12,9 +12,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Mark-Klein|Mark Klein]]
-**Mother:** [[People/Liora-Mashapour-Klein|Liora Mashapour Klein]]
+**Father:** [[People/Mark-Klein|Mark Klein]] | **Mother:** [[People/Liora-Mashapour-Klein|Liora Mashapour Klein]]
 **Siblings:** [[People/Roee-Klein|Roee Klein]]
+**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 

@@ -17,9 +17,9 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Solimane-Abada|Solimane Abada]]
-**Mother:** [[People/Linda-Ashkenazi-Abada|Linda Ashkenazi Abada]]
+**Father:** [[People/Solimane-Abada|Solimane Abada]] | **Mother:** [[People/Linda-Ashkenazi-Abada|Linda Ashkenazi Abada]]
 **Siblings:** [[People/Allegra-Abada-Ventura|Allegra Abada Ventura]], [[People/David-Edouard-Abada|David Edouard Abada]], [[People/Alice-Abada-Harari|Alice Abada Harari]], [[People/Ernest-Zouzi-Abada|Ernest Zouzi Abada]]
+**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 Abada Freddy, ne au [[Places/Cairo]] en 1936, emigra en [[Places/Israel]] avec sa famille en 1957 . Apres quelques annees, il voyagea vers la [[Places/France]], ou il y reside. Il changea de nom : Ephrayim Elitsour.

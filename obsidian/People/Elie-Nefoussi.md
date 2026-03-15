@@ -20,6 +20,7 @@ research_level: 0
 
 **Spouse:** [[People/Nefoussi|Nefoussi]]
 **Children:** [[People/Samuel-Nefoussi|Samuel Nefoussi]], [[People/Regine-Nefoussi-Brakha|Regine Nefoussi Brakha]], [[People/Camille-Nefoussi-Aknine|Camille Nefoussi Aknine]]
+**Families:** [[Families/Nefoussi|Nefoussi]]
 
 ## Biography
 

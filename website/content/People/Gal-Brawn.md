@@ -12,8 +12,8 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Sharon-Brawn|Sharon Brawn]]
-**Mother:** [[People/Hagit-Wissotsky-Brawn|Hagit Wissotsky Brawn]]
+**Father:** [[People/Sharon-Brawn|Sharon Brawn]] | **Mother:** [[People/Hagit-Wissotsky-Brawn|Hagit Wissotsky Brawn]]
+**Families:** [[Families/Brawn|Brawn]]
 
 ## Biography
 

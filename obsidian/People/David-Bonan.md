@@ -17,9 +17,9 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Leon-Oni-Bonan|Leon Oni Bonan]]
-**Mother:** [[People/Agnes-Bonan|Agnes Bonan]]
+**Father:** [[People/Leon-Oni-Bonan|Leon Oni Bonan]] | **Mother:** [[People/Agnes-Bonan|Agnes Bonan]]
 **Siblings:** [[People/Michelle-Bonan-Hamill|Michelle Bonan Hamill]]
+**Families:** [[Families/Bonan|Bonan]]
 
 ## Biography
 David Bonan, born October 4 , 1976.

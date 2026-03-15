@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Yehezkel-Ernest-Abada|Yehezkel Ernest Abada]]
-**Mother:** [[People/Claire-Mekayess-Abada|Claire Mekayess Abada]]
+**Father:** [[People/Yehezkel-Ernest-Abada|Yehezkel Ernest Abada]] | **Mother:** [[People/Claire-Mekayess-Abada|Claire Mekayess Abada]]
 **Siblings:** [[People/Esther-Touti-Abada|Esther Touti Abada]], [[People/Viviane-Abada|Viviane Abada]], [[People/Moshe-Maurice-Abada|Moshe Maurice Abada]], [[People/Robert-Roby-Abada|Robert Roby Abada]]
+**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

@@ -17,9 +17,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Yosseph-Yossi-Itshaki|Yosseph (Yossi) Itshaki]]
-**Mother:** [[People/Vered-Alfassi-Itshaki|Vered Alfassi Itshaki]]
+**Father:** [[People/Yosseph-Yossi-Itshaki|Yosseph (Yossi) Itshaki]] | **Mother:** [[People/Vered-Alfassi-Itshaki|Vered Alfassi Itshaki]]
 **Siblings:** [[People/Kineret-Itshaki|Kineret Itshaki]], [[People/Gal-Itshaki|Gal Itshaki]]
+**Families:** [[Families/Itshaki|Itshaki]]
 
 ## Biography
 

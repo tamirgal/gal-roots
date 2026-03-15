@@ -23,6 +23,7 @@ research_level: 1
 
 **Spouse:** [[People/Morris-Peaceman|Morris Peaceman]]
 **Children:** [[People/Howard-Peaceman|Howard Peaceman]], [[People/Donald-William-Peaceman|Donald William Peaceman]]
+**Families:** [[Families/Rabinowitz|Rabinowitz]], [[Families/Peaceman|Peaceman]]
 
 ## Biography
 

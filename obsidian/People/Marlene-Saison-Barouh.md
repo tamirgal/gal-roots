@@ -34,11 +34,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Jacques-Sasson-Saison|Jacques Sasson Saison]]
-**Mother:** [[People/Leonie-Mizrahi-Saison|Leonie Mizrahi Saison]]
+**Father:** [[People/Jacques-Sasson-Saison|Jacques Sasson Saison]] | **Mother:** [[People/Leonie-Mizrahi-Saison|Leonie Mizrahi Saison]]
 **Spouse:** [[People/Maurice-Barouh|Maurice Barouh]]
 **Siblings:** [[People/Andree-Deddy-Saison-Martins-de-Barros|Andree (Deddy) Saison Martins de Barros]], [[People/Isaac-Saison|Isaac Saison]], [[People/Doris-Saison-Remnant|Doris Saison Remnant]]
 **Children:** [[People/Frederic-Barouh|Frederic Barouh]], [[People/Cecille-Barouh-Benezra|Cecille Barouh Benezra]]
+**Families:** [[Families/Saison|Saison]], [[Families/Barouh|Barouh]]
 
 ## Biography
 Fille ainee de Jacques et Leonie Sasson (dit Saison), nee au [[Places/Cairo]] [[Places/Egypt]] le 23 Mai 1941. Elle fit ses etudes aux ecoles de la mission laique Francaise au [[Places/Cairo]], mais dut les interrompre en Fevrier 1957, date de l'expulsion de la famille, suite de la guerre de Suez. La famille emigra vers Paris,…Marlene travailla aux bureaux des magasins du "Printemps", et en 1963 , devint secretaire de Direction. Mariee avec Maurice Barouh en Juillet 1963, ils ont deux enfants : Frederic et Cecile . La famille vit a Lesigny , pres de Paris. En 1997, 40 ans apres, au cours d'un voyage en [[Places/Egypt]] pour un retour aux sources familiales, elle visite "[[Places/Luxor]]", la ville de ses ancetres , mondialement connue pour ses antiquites pharaoniques fabuleuses.

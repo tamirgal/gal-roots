@@ -29,11 +29,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Itshak-Zako-Cohen|Itshak (Zako) Cohen]]
-**Mother:** [[People/Florette-Cohen|Florette Cohen]]
+**Father:** [[People/Itshak-Zako-Cohen|Itshak (Zako) Cohen]] | **Mother:** [[People/Florette-Cohen|Florette Cohen]]
 **Spouse:** [[People/Nahoum-Rav|Nahoum Rav]]
 **Siblings:** [[People/Ety-Cohen-Peleg|Ety Cohen Peleg]], [[People/Mikhal-Cohen-Einav|Mikhal Cohen Einav]]
 **Children:** [[People/Tomer-Rav|Tomer Rav]], [[People/Noah-Rav|Noah Rav]]
+**Families:** [[Families/Cohen|Cohen]], [[Families/Rav|Rav]]
 
 ## Biography
 Ronit Cohen, married to Nahoum Rav , on 5 September 1990.

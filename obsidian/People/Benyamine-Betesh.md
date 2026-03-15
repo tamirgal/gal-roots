@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Moshe-Betesh|Moshe Betesh]]
-**Mother:** [[People/Nouzha-Attar-Betesh|Nouzha Attar Betesh]]
+**Father:** [[People/Moshe-Betesh|Moshe Betesh]] | **Mother:** [[People/Nouzha-Attar-Betesh|Nouzha Attar Betesh]]
 **Siblings:** [[People/Aharon-Betesh|Aharon Betesh]], [[People/Abramino-Betesh|Abramino Betesh]]
+**Families:** [[Families/Betesh|Betesh]]
 
 ## Biography
 

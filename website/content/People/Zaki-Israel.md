@@ -16,9 +16,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Israel-Ezra-Israel|Israel Ezra Israel]]
-**Mother:** [[People/Hamama-Sasson-Israel|Hamama Sasson Israel]]
+**Father:** [[People/Israel-Ezra-Israel|Israel Ezra Israel]] | **Mother:** [[People/Hamama-Sasson-Israel|Hamama Sasson Israel]]
 **Siblings:** [[People/Helene-Israel-Eliahou|Helene Israel Eliahou]], [[People/Ezra-Israel|Ezra Israel]], [[People/Marie-Israel-Bonan|Marie Israel Bonan]], [[People/Shaoul-Israel|Shaoul Israel]], [[People/Joseph-Israel|Joseph Israel]], [[People/Pauline-Israel-Wahiche|Pauline Israel Wahiche]], [[People/Clemence-Israel-Saphir|Clemence Israel Saphir]]
+**Families:** [[Families/Israel|Israel]]
 
 ## Biography
 

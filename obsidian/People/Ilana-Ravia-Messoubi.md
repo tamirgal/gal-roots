@@ -30,11 +30,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Nissim-Ravia|Nissim Ravia]]
-**Mother:** [[People/Miriam-Patan-Ravia|Miriam Patan Ravia]]
+**Father:** [[People/Nissim-Ravia|Nissim Ravia]] | **Mother:** [[People/Miriam-Patan-Ravia|Miriam Patan Ravia]]
 **Spouse:** [[People/Edy-Messoubi|Edy Messoubi]]
 **Siblings:** [[People/Hayim-Ravia|Hayim Ravia]]
 **Children:** [[People/Mikhal-Messoubi|Mikhal Messoubi]], [[People/Ido-Messoubi|Ido Messoubi]], [[People/Tamar-Messoubi|Tamar Messoubi]]
+**Families:** [[Families/Ravia|Ravia]], [[Families/Messoubi|Messoubi]]
 
 ## Biography
 

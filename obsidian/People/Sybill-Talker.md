@@ -16,6 +16,7 @@ research_level: 1
 ## Family
 
 **Spouse:** [[People/Pinhass-Talker|Pinhass Talker]]
+**Families:** [[Families/Talker|Talker]]
 
 ## Biography
 

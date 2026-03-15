@@ -28,11 +28,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Moshe-Fuchs|Moshe Fuchs]]
-**Mother:** [[People/Ahouva-Aharon-Fuchs|Ahouva Aharon Fuchs]]
+**Father:** [[People/Moshe-Fuchs|Moshe Fuchs]] | **Mother:** [[People/Ahouva-Aharon-Fuchs|Ahouva Aharon Fuchs]]
 **Spouse:** [[People/Ahuva-Gesthatter-Fuchs|Ahuva Gesthatter Fuchs]]
 **Siblings:** [[People/Chaya-Fuchs|Chaya Fuchs]]
 **Children:** [[People/Einat-Fuchs-Kelmus|Einat Fuchs Kelmus]], [[People/Tamar-Fuchs|Tamar Fuchs]], [[People/Aviad-Fuchs|Aviad Fuchs]]
+**Families:** [[Families/Fuchs|Fuchs]]
 
 ## Biography
 

@@ -19,9 +19,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Avi-Abada|Avi Abada]]
-**Mother:** [[People/Yael-Bar-El-Abada|Yael Bar El Abada]]
+**Father:** [[People/Avi-Abada|Avi Abada]] | **Mother:** [[People/Yael-Bar-El-Abada|Yael Bar El Abada]]
 **Siblings:** [[People/Oded-Abada|Oded Abada]], [[People/Hadass-Abada|Hadass Abada]]
+**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

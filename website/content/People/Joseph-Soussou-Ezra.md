@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Shaoul-Ezra|Shaoul Ezra]]
-**Mother:** [[People/Bekhora-Sasson-Ezra|Bekhora Sasson Ezra]]
+**Father:** [[People/Shaoul-Ezra|Shaoul Ezra]] | **Mother:** [[People/Bekhora-Sasson-Ezra|Bekhora Sasson Ezra]]
 **Siblings:** [[People/Ezra-Ezra|Ezra Ezra]]
+**Families:** [[Families/Ezra|Ezra]]
 
 ## Biography
 

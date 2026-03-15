@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Ferdinand-Ridley|Ferdinand Ridley]]
-**Mother:** [[People/Paula-Clyne-Ridley|Paula Clyne Ridley]]
+**Father:** [[People/Ferdinand-Ridley|Ferdinand Ridley]] | **Mother:** [[People/Paula-Clyne-Ridley|Paula Clyne Ridley]]
 **Siblings:** [[People/Francis-Ridley|Francis Ridley]], [[People/Dominic-Ridley|Dominic Ridley]]
+**Families:** [[Families/Ridley|Ridley]]
 
 ## Biography
 

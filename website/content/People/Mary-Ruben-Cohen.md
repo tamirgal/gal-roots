@@ -30,6 +30,7 @@ research_level: 1
 
 **Spouse:** [[People/David-Cohen|David Cohen]]
 **Children:** [[People/Moshe-Cohen|Moshe Cohen]], [[People/Esther-Etty-Cohen-Laniado|Esther (Etty) Cohen Laniado]], [[People/Rony-Cohen|Rony Cohen]]
+**Families:** [[Families/Cohen|Cohen]]
 
 ## Biography
 

@@ -19,6 +19,7 @@ research_level: 1
 
 **Spouse:** [[People/Yehoshua-Klein|Yehoshua Klein]]
 **Children:** [[People/Raphael-Klein|Raphael Klein]], [[People/Noah-Klein-Elias|Noah Klein Elias]]
+**Families:** [[Families/Rosner|Rosner]], [[Families/Klein|Klein]]
 
 ## Biography
 

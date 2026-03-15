@@ -17,8 +17,8 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Ariel-Eyal|Ariel Eyal]]
-**Mother:** [[People/Tsipora-Steiner-Eyal|Tsipora Steiner Eyal]]
+**Father:** [[People/Ariel-Eyal|Ariel Eyal]] | **Mother:** [[People/Tsipora-Steiner-Eyal|Tsipora Steiner Eyal]]
+**Families:** [[Families/Eyal|Eyal]]
 
 ## Biography
 

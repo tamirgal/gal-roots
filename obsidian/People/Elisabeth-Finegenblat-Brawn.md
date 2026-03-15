@@ -23,6 +23,7 @@ research_level: 2
 
 **Spouse:** [[People/Nir-Brawn|Nir Brawn]]
 **Children:** [[People/Ady-Brawn|Ady Brawn]], [[People/Ofry-Brawn|Ofry Brawn]], [[People/Idane-Brawn|Idane Brawn]], [[People/Amit-Brawn|Amit Brawn]]
+**Families:** [[Families/Finegenblat|Finegenblat]], [[Families/Brawn|Brawn]]
 
 ## Biography
 Elisabeth Finegenblat, married to Nir Brawn, in [[Places/Israel]], in 1985

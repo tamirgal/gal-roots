@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Joseph-Aharon-1947|Joseph Aharon]]
-**Mother:** [[People/Tova-Aharon|Tova Aharon]]
+**Father:** [[People/Joseph-Aharon-1947|Joseph Aharon]] | **Mother:** [[People/Tova-Aharon|Tova Aharon]]
 **Siblings:** [[People/Erez-Aharon|Erez Aharon]], [[People/Moshit-Aharon|Moshit Aharon]], [[People/Mor-Aharon|Mor Aharon]], [[People/Unknown-ind10214|Unknown]]
+**Families:** [[Families/Aharon|Aharon]]
 
 ## Biography
 

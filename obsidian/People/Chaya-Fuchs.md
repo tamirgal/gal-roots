@@ -12,9 +12,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Moshe-Fuchs|Moshe Fuchs]]
-**Mother:** [[People/Ahouva-Aharon-Fuchs|Ahouva Aharon Fuchs]]
+**Father:** [[People/Moshe-Fuchs|Moshe Fuchs]] | **Mother:** [[People/Ahouva-Aharon-Fuchs|Ahouva Aharon Fuchs]]
 **Siblings:** [[People/Shabetay-Fuchs|Shabetay Fuchs]]
+**Families:** [[Families/Fuchs|Fuchs]]
 
 ## Biography
 

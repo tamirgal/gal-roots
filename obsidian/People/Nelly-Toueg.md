@@ -25,6 +25,7 @@ research_level: 1
 
 **Spouse:** [[People/Maurice-Toueg|Maurice Toueg]]
 **Children:** [[People/Ginette-Toueg-Abada|Ginette Toueg Abada]], [[People/Momo-Toueg|Momo Toueg]]
+**Families:** [[Families/Toueg|Toueg]]
 
 ## Biography
 

@@ -19,11 +19,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Hayim-Brawn|Hayim Brawn]]
-**Mother:** [[People/Lina-Nefoussi-Brawn|Lina Nefoussi Brawn]]
+**Father:** [[People/Hayim-Brawn|Hayim Brawn]] | **Mother:** [[People/Lina-Nefoussi-Brawn|Lina Nefoussi Brawn]]
 **Spouse:** [[People/Hagit-Wissotsky-Brawn|Hagit Wissotsky Brawn]]
 **Siblings:** [[People/Nir-Brawn|Nir Brawn]], [[People/Iris-Brawn-Leker|Iris Brawn Leker]]
 **Children:** [[People/Gal-Brawn|Gal Brawn]]
+**Families:** [[Families/Brawn|Brawn]]
 
 ## Biography
 Sharon Brawn , married to Hagit Wissotsky, in [[Places/Israel]] in 1995 .

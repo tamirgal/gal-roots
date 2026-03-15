@@ -17,9 +17,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Ilan-Patan|Ilan Patan]]
-**Mother:** [[People/Orly-Patan|Orly Patan]]
+**Father:** [[People/Ilan-Patan|Ilan Patan]] | **Mother:** [[People/Orly-Patan|Orly Patan]]
 **Siblings:** [[People/Nir-Patan|Nir Patan]]
+**Families:** [[Families/Patan|Patan]]
 
 ## Biography
 

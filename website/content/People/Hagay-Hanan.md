@@ -17,9 +17,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Yacov-Hanan|Yacov Hanan]]
-**Mother:** [[People/Ruty-Bayn-Hanan|Ruty Bayn Hanan]]
+**Father:** [[People/Yacov-Hanan|Yacov Hanan]] | **Mother:** [[People/Ruty-Bayn-Hanan|Ruty Bayn Hanan]]
 **Siblings:** [[People/Vered-Hanan|Vered Hanan]], [[People/Tahel-Hanan|Tahel Hanan]]
+**Families:** [[Families/Hanan|Hanan]]
 
 ## Biography
 

@@ -27,6 +27,7 @@ research_level: 1
 
 **Spouse:** [[People/Esther-Titi-Abada-Levy|Esther (Titi) Abada Levy]]
 **Children:** [[People/Gal-Levy|Gal Levy]], [[People/Eyal-Levy|Eyal Levy]]
+**Families:** [[Families/Levy|Levy]]
 
 ## Biography
 

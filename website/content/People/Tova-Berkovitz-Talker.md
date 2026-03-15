@@ -25,6 +25,7 @@ research_level: 1
 
 **Spouse:** [[People/Shmouel-Talker|Shmouel Talker]]
 **Children:** [[People/Lior-Talker|Lior Talker]], [[People/Lital-Talker|Lital Talker]], [[People/Almog-Talker|Almog Talker]]
+**Families:** [[Families/Berkovitz|Berkovitz]], [[Families/Talker|Talker]]
 
 ## Biography
 

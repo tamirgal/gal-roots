@@ -1,0 +1,4 @@
+---
+name: Fuchs
+type: family
+---

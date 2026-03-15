@@ -31,11 +31,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Israel-Ezra-Israel|Israel Ezra Israel]]
-**Mother:** [[People/Hamama-Sasson-Israel|Hamama Sasson Israel]]
+**Father:** [[People/Israel-Ezra-Israel|Israel Ezra Israel]] | **Mother:** [[People/Hamama-Sasson-Israel|Hamama Sasson Israel]]
 **Spouse:** [[People/Henri-Wahiche|Henri Wahiche]]
 **Siblings:** [[People/Helene-Israel-Eliahou|Helene Israel Eliahou]], [[People/Ezra-Israel|Ezra Israel]], [[People/Marie-Israel-Bonan|Marie Israel Bonan]], [[People/Zaki-Israel|Zaki Israel]], [[People/Shaoul-Israel|Shaoul Israel]], [[People/Joseph-Israel|Joseph Israel]], [[People/Clemence-Israel-Saphir|Clemence Israel Saphir]]
 **Children:** [[People/Marc-Alain-Wahiche|Marc Alain Wahiche]], [[People/Dominique-Wahiche|Dominique Wahiche]]
+**Families:** [[Families/Israel|Israel]], [[Families/Wahiche|Wahiche]]
 
 ## Biography
 

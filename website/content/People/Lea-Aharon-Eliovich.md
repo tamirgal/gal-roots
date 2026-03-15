@@ -26,11 +26,11 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/David-Aharon|David Aharon]]
-**Mother:** [[People/Sheindel-Aharon|Sheindel Aharon]]
+**Father:** [[People/David-Aharon|David Aharon]] | **Mother:** [[People/Sheindel-Aharon|Sheindel Aharon]]
 **Spouse:** [[People/Ytshak-Menahem-Eliovich|Ytshak-Menahem Eliovich]]
 **Siblings:** [[People/Joseph-Aharon-1887|Joseph Aharon]], [[People/Shabtay-Aharon|Shabtay Aharon]], [[People/Frida-Aharon-Farkas|Frida Aharon Farkas]], [[People/Rachel-Aharon-Zelikovitch|Rachel Aharon Zelikovitch]]
 **Children:** [[People/Channa-Eliovich|Channa Eliovich]], [[People/Etta-Eliovich|Etta Eliovich]], [[People/Zvi-Eliovich|Zvi Eliovich]], [[People/Arie-Eliovich|Arie Eliovich]], [[People/Yehoshuah-Eliovich|Yehoshuah Eliovich]]
+**Families:** [[Families/Aharon|Aharon]], [[Families/Eliovich|Eliovich]]
 
 ## Biography
 

@@ -35,11 +35,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Israel-Ezra-Israel|Israel Ezra Israel]]
-**Mother:** [[People/Hamama-Sasson-Israel|Hamama Sasson Israel]]
+**Father:** [[People/Israel-Ezra-Israel|Israel Ezra Israel]] | **Mother:** [[People/Hamama-Sasson-Israel|Hamama Sasson Israel]]
 **Spouse:** [[People/Zaki-Bonan|Zaki Bonan]]
 **Siblings:** [[People/Helene-Israel-Eliahou|Helene Israel Eliahou]], [[People/Ezra-Israel|Ezra Israel]], [[People/Zaki-Israel|Zaki Israel]], [[People/Shaoul-Israel|Shaoul Israel]], [[People/Joseph-Israel|Joseph Israel]], [[People/Pauline-Israel-Wahiche|Pauline Israel Wahiche]], [[People/Clemence-Israel-Saphir|Clemence Israel Saphir]]
 **Children:** [[People/Leon-Oni-Bonan|Leon Oni Bonan]], [[People/Israel-Isi-Bonan|Israel Isi Bonan]], [[People/Celine-Bonan-Eliahou|Celine Bonan Eliahou]]
+**Families:** [[Families/Israel|Israel]], [[Families/Bonan|Bonan]]
 
 ## Biography
 Marie Israel, nee a [[Places/Assiut]], mariee en 1939 a Isaac (Zaki) Bonnan au [[Places/Cairo]] [[Places/Egypt]]. Ils eurent 3 enfants. Dans les annees 60, elle emigra aux [[Places/USA]], avec son mari et ses enfants.

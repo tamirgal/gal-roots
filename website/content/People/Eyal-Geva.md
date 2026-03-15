@@ -20,10 +20,10 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Shabetay-Zuckerberger-Geva|Shabetay Zuckerberger Geva]]
-**Mother:** [[People/Tsipora-Geva|Tsipora Geva]]
+**Father:** [[People/Shabetay-Zuckerberger-Geva|Shabetay Zuckerberger Geva]] | **Mother:** [[People/Tsipora-Geva|Tsipora Geva]]
 **Spouse:** [[People/Orly-Avraham-Geva|Orly Avraham Geva]]
 **Siblings:** [[People/Liran-Geva|Liran Geva]], [[People/Adi-Geva|Adi Geva]]
+**Families:** [[Families/Geva|Geva]]
 
 ## Biography
 

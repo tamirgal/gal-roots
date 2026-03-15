@@ -30,11 +30,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/David-Klein|David Klein]]
-**Mother:** [[People/Clara-Klein|Clara Klein]]
+**Father:** [[People/David-Klein|David Klein]] | **Mother:** [[People/Clara-Klein|Clara Klein]]
 **Spouse:** [[People/Donald-William-Peaceman|Donald William Peaceman]]
 **Siblings:** [[People/Harriett-Klein-Peaceman|Harriett Klein Peaceman]], [[People/Phyllis-Hirschman-Newmark|Phyllis Hirschman Newmark]]
 **Children:** [[People/Caren-Beth-Peaceman-Cowan|Caren Beth Peaceman Cowan]], [[People/Alan-Mark-Peaceman|Alan Mark Peaceman]]
+**Families:** [[Families/Klein|Klein]], [[Families/Peaceman|Peaceman]]
 
 ## Biography
 Born in NY and lives in Huston, [[Places/Texas]]

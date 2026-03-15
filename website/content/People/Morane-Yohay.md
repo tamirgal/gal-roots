@@ -17,8 +17,8 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Moshe-Yohay|Moshe Yohay]]
-**Mother:** [[People/Rachel|Rachel]]
+**Father:** [[People/Moshe-Yohay|Moshe Yohay]] | **Mother:** [[People/Rachel|Rachel]]
+**Families:** [[Families/Yohay|Yohay]]
 
 ## Biography
 

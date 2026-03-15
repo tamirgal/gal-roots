@@ -38,11 +38,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Shimon-Tarzi-Attar|Shimon Tarzi Attar]]
-**Mother:** [[People/Emam-Attar|Emam Attar]]
+**Father:** [[People/Shimon-Tarzi-Attar|Shimon Tarzi Attar]] | **Mother:** [[People/Emam-Attar|Emam Attar]]
 **Spouse:** [[People/Itshak-Sasson|Itshak Sasson]]
 **Siblings:** [[People/Aharon-Attar|Aharon Attar]], [[People/Nouzha-Attar-Betesh|Nouzha Attar Betesh]]
 **Children:** [[People/Meyer-Sasson|Meyer Sasson]], [[People/Hamama-Sasson-Israel|Hamama Sasson Israel]], [[People/Jacques-Sasson-Saison|Jacques Sasson Saison]], [[People/Victoria-Sasson-Patan|Victoria Sasson Patan]], [[People/Esther-Sasson-Cohen|Esther Sasson Cohen]], [[People/Albert-Sasson|Albert Sasson]]
+**Families:** [[Families/Attar|Attar]], [[Families/Sasson|Sasson]]
 
 ## Biography
 NONNA MARIETTA SASSON If you want to learn more about my NONNA MARIETTA, and her SASSON family, press on this link ... press [[attachments/docs/Resume-concernant-ma-nonna-Marietta|HERE]] Marietta (Miriam in Syrian) married in [[Places/Cairo]] (Mar1885) to Yitzhak Sasson. They lived in [[Places/Luxor]], then in [[Places/Cairo]]. Only 5 children survived to advanced age, but many died very young. The first son, Meyer born in 1886, then died. After the birth of her daughter Hamama in 1887, she had several babies, but they all died during a period of 11 years, until her son Jacques, was born in 1898, Then Victoria in 1901, Esther 1904, and Albert 1909. The family moved back to [[Places/Cairo]]. After her husband death, she lived with her daughter Victoria, until she died in 1951, aged 81

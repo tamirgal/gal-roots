@@ -19,9 +19,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Isaac-Saison|Isaac Saison]]
-**Mother:** [[People/Toula-Saison|Toula Saison]]
+**Father:** [[People/Isaac-Saison|Isaac Saison]] | **Mother:** [[People/Toula-Saison|Toula Saison]]
 **Siblings:** [[People/Maya-Saison|Maya Saison]]
+**Families:** [[Families/Saison|Saison]]
 
 ## Biography
 

@@ -24,6 +24,7 @@ research_level: 2
 
 **Spouse:** [[People/Claire-Abada-Cohenca|Claire Abada Cohenca]]
 **Children:** [[People/Mireille-Cohenca-Mizrahi|Mireille Cohenca Mizrahi]]
+**Families:** [[Families/Cohenca|Cohenca]]
 
 ## Biography
 Edwin Cohenca, est ne au [[Places/Cairo]] en 1923. Marie a Claire Abada en 1949, et deux ans plustard en 1951, naquit leur fille Mireille. Edwin travaillait comme employe comptable, a la societe "Philips" du [[Places/Cairo]] En 1957, a la suite de la guerre de Suez, la famille quitte l'[[Places/Egypt]] et emigre pour [[Places/Israel]]. Ils sont heberges momentanement a la maabara de Lod, puis , s'etablissent a [[Places/Holon]] , ou Claire est morte en 1958. Edwin a demenage et habite a Kfar-Saba.

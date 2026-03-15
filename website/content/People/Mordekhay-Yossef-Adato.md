@@ -12,6 +12,7 @@ research_level: 1
 ## Family
 
 **Spouse:** [[People/Linda-Abada-Adato|Linda Abada Adato]]
+**Families:** [[Families/Adato|Adato]]
 
 ## Biography
 

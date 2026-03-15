@@ -16,6 +16,7 @@ research_level: 0
 
 **Spouse:** [[People/Rina-Abada-Guttmann|Rina Abada Guttmann]]
 **Children:** [[People/Yamit-Guttmann|Yamit Guttmann]]
+**Families:** [[Families/Guttmann|Guttmann]]
 
 ## Biography
 

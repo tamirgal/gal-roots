@@ -16,6 +16,7 @@ research_level: 0
 
 **Spouse:** [[People/Maya-Shimon-Davida|Maya (Shimon) Davida]]
 **Children:** [[People/Noah-Davida|Noah Davida]]
+**Families:** [[Families/Davida|Davida]]
 
 ## Biography
 

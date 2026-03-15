@@ -26,6 +26,7 @@ research_level: 1
 
 **Spouse:** [[People/Ronit-Kalkstein-Shaked|Ronit Kalkstein Shaked]]
 **Children:** [[People/Maya-Shaked-Rabi|Maya Shaked Rabi]], [[People/Tamar-Shaked|Tamar Shaked]], [[People/Ayala-Shaked|Ayala Shaked]]
+**Families:** [[Families/Shaked|Shaked]]
 
 ## Biography
 

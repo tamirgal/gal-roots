@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/David-Doudou-Abada|David Doudou Abada]]
-**Mother:** [[People/Juliette-Hanan-Abada|Juliette Hanan Abada]]
+**Father:** [[People/David-Doudou-Abada|David Doudou Abada]] | **Mother:** [[People/Juliette-Hanan-Abada|Juliette Hanan Abada]]
 **Siblings:** [[People/Moshe-Abada-ind00495|Moshe Abada]], [[People/Yacov-Abada-ind00494|Yacov Abada]], [[People/Yehezkel-Heizy-Abada|Yehezkel Heizy Abada]]
+**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 marie et habite a [[Places/Ramat Gan]]

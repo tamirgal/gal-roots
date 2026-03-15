@@ -34,11 +34,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Israel-Ezra-Israel|Israel Ezra Israel]]
-**Mother:** [[People/Hamama-Sasson-Israel|Hamama Sasson Israel]]
+**Father:** [[People/Israel-Ezra-Israel|Israel Ezra Israel]] | **Mother:** [[People/Hamama-Sasson-Israel|Hamama Sasson Israel]]
 **Spouse:** [[People/Saleh-Eliahou|Saleh Eliahou]]
 **Siblings:** [[People/Ezra-Israel|Ezra Israel]], [[People/Marie-Israel-Bonan|Marie Israel Bonan]], [[People/Zaki-Israel|Zaki Israel]], [[People/Shaoul-Israel|Shaoul Israel]], [[People/Joseph-Israel|Joseph Israel]], [[People/Pauline-Israel-Wahiche|Pauline Israel Wahiche]], [[People/Clemence-Israel-Saphir|Clemence Israel Saphir]]
 **Children:** [[People/Elie-Eliahou|Elie Eliahou]], [[People/Isaac-Eliahou|Isaac Eliahou]], [[People/Shaoul-Eliahou|Shaoul Eliahou]], [[People/Joseph-Eliahou|Joseph Eliahou]]
+**Families:** [[Families/Israel|Israel]], [[Families/Eliahou|Eliahou]]
 
 ## Biography
 Helene Israel, nee a [[Places/Assiut]] en Haute [[Places/Egypt]], mariee au [[Places/Cairo]] a Saleh Eliahou, le 27 octobre 1935. Ils habitent [[Places/Cairo]] jusqu'a leur emigration en [[Places/France]] en 1961. La famille s'installe a Paris , ou elle y mourut en Novembre 1991.

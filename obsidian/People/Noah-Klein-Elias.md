@@ -30,11 +30,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Yehoshua-Klein|Yehoshua Klein]]
-**Mother:** [[People/Esther-Rosner-Klein|Esther Rosner Klein]]
+**Father:** [[People/Yehoshua-Klein|Yehoshua Klein]] | **Mother:** [[People/Esther-Rosner-Klein|Esther Rosner Klein]]
 **Spouse:** [[People/Ezra-Elias|Ezra Elias]]
 **Siblings:** [[People/Raphael-Klein|Raphael Klein]]
 **Children:** [[People/Yuval-Elias|Yuval Elias]], [[People/Oren-Elias|Oren Elias]]
+**Families:** [[Families/Klein|Klein]], [[Families/Elias|Elias]]
 
 ## Biography
 Born and lives in [[Places/Haifa]],Israel. Studied Psychology and got her PhD.

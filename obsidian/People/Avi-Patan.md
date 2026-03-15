@@ -16,9 +16,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Anouar-Abed-Patan-Aviad|Anouar (Abed-Patan) Aviad]]
-**Mother:** [[People/Tikva-Hay-Aviad|Tikva (Hay) Aviad]]
+**Father:** [[People/Anouar-Abed-Patan-Aviad|Anouar (Abed-Patan) Aviad]] | **Mother:** [[People/Tikva-Hay-Aviad|Tikva (Hay) Aviad]]
 **Siblings:** [[People/Elie-Patan-ind00592|Elie Patan]], [[People/Anat-Patan|Anat Patan]]
+**Families:** [[Families/Patan|Patan]]
 
 ## Biography
 

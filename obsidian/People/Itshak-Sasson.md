@@ -38,11 +38,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Khalifa-Khelef-Sasson|Khalifa Khelef Sasson]]
-**Mother:** [[People/Semha-Meyer-Sasson|Semha Meyer Sasson]]
+**Father:** [[People/Khalifa-Khelef-Sasson|Khalifa Khelef Sasson]] | **Mother:** [[People/Semha-Meyer-Sasson|Semha Meyer Sasson]]
 **Spouse:** [[People/Marietta-Attar-Sasson|Marietta Attar Sasson]]
 **Siblings:** [[People/Khalifa-Sasson-1856|Khalifa Sasson]], [[People/Habiba-Sasson-1860|Habiba Sasson]], [[People/Youssef-Sasson|Youssef Sasson]], [[People/Farha-Sasson-Ambar|Farha Sasson Ambar]]
 **Children:** [[People/Meyer-Sasson|Meyer Sasson]], [[People/Hamama-Sasson-Israel|Hamama Sasson Israel]], [[People/Jacques-Sasson-Saison|Jacques Sasson Saison]], [[People/Victoria-Sasson-Patan|Victoria Sasson Patan]], [[People/Esther-Sasson-Cohen|Esther Sasson Cohen]], [[People/Albert-Sasson|Albert Sasson]]
+**Families:** [[Families/Sasson|Sasson]]
 
 ## Biography
 Born in [[Places/Baghdad]], emigrated to [[Places/Egypt]] in 1881 with parents,brothers,sisters. Married in [[Places/Cairo]] (Mar1885) to Marietta (Miriam) Attar.They lived in [[Places/Luxor]], then in [[Places/Cairo]],.Only 5 children survived to advanced age, but many died very young. He died in [[Places/Cairo]] at his daughter's (Esther) appartment, 2 July 1937, aged 74 years old. For more details about him and his family,... display and view the page of his wife Marietta, and press on the designed Link. ( Elie Patan )

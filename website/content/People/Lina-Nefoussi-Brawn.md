@@ -29,11 +29,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Samuel-Nefoussi|Samuel Nefoussi]]
-**Mother:** [[People/Esther-Abada-Nefoussi|Esther Abada Nefoussi]]
+**Father:** [[People/Samuel-Nefoussi|Samuel Nefoussi]] | **Mother:** [[People/Esther-Abada-Nefoussi|Esther Abada Nefoussi]]
 **Spouse:** [[People/Hayim-Brawn|Hayim Brawn]]
 **Siblings:** [[People/Elie-Nefoussi-Niv|Elie Nefoussi Niv]], [[People/Shaoul-Nefoussi|Shaoul Nefoussi]], [[People/Regy-Nefoussi-Fuchs|Regy Nefoussi Fuchs]]
 **Children:** [[People/Nir-Brawn|Nir Brawn]], [[People/Iris-Brawn-Leker|Iris Brawn Leker]], [[People/Sharon-Brawn|Sharon Brawn]]
+**Families:** [[Families/Nefoussi|Nefoussi]], [[Families/Brawn|Brawn]]
 
 ## Biography
 Lina Nefoussi married to Hayim Brawn, in [[Places/Israel]] in 1962

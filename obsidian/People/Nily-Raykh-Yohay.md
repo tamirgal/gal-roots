@@ -25,6 +25,7 @@ research_level: 1
 
 **Spouse:** [[People/Rony-Yehoshua-Yohay|Rony Yehoshua Yohay]]
 **Children:** [[People/Shahar-Yohay|Shahar Yohay]], [[People/Adi-Yohay|Adi Yohay]]
+**Families:** [[Families/Raykh|Raykh]], [[Families/Yohay|Yohay]]
 
 ## Biography
 

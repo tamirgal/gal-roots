@@ -29,10 +29,10 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Saleh-Eliahou|Saleh Eliahou]]
-**Mother:** [[People/Helene-Israel-Eliahou|Helene Israel Eliahou]]
+**Father:** [[People/Saleh-Eliahou|Saleh Eliahou]] | **Mother:** [[People/Helene-Israel-Eliahou|Helene Israel Eliahou]]
 **Spouse:** [[People/Celine-Bonan-Eliahou|Celine Bonan Eliahou]]
 **Siblings:** [[People/Isaac-Eliahou|Isaac Eliahou]], [[People/Shaoul-Eliahou|Shaoul Eliahou]], [[People/Joseph-Eliahou|Joseph Eliahou]]
+**Families:** [[Families/Eliahou|Eliahou]]
 
 ## Biography
 

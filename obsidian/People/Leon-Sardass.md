@@ -16,6 +16,7 @@ research_level: 1
 ## Family
 
 **Spouse:** [[People/Aimee-Abada-Sardass|Aimee Abada Sardass]]
+**Families:** [[Families/Sardass|Sardass]]
 
 ## Biography
 

@@ -12,6 +12,7 @@ research_level: 2
 ## Family
 
 **Spouse:** [[People/Jacques-Abada|Jacques Abada]]
+**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 Rachel, nee au [[Places/Cairo]] en 1924, et mariee a Jacques Abada au [[Places/Cairo]], en 1949. En 1957, le couple emigre pour [[Places/Israel]], ou Jacques travaille comme chauffeur de taxi. Ils habitaient a Bat-Yam, et n'ont pas eu d'enfants. Jacques est mort en 1968. Rachel est morte en 1990.

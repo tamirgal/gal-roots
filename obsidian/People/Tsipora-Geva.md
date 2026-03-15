@@ -28,6 +28,7 @@ research_level: 1
 
 **Spouse:** [[People/Shabetay-Zuckerberger-Geva|Shabetay Zuckerberger Geva]]
 **Children:** [[People/Liran-Geva|Liran Geva]], [[People/Eyal-Geva|Eyal Geva]], [[People/Adi-Geva|Adi Geva]]
+**Families:** [[Families/Geva|Geva]]
 
 ## Biography
 

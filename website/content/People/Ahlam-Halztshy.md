@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Jacob-Halztshy|Jacob Halztshy]]
-**Mother:** [[People/Hatoune-Abed-Halztshy|Hatoune Abed Halztshy]]
+**Father:** [[People/Jacob-Halztshy|Jacob Halztshy]] | **Mother:** [[People/Hatoune-Abed-Halztshy|Hatoune Abed Halztshy]]
 **Siblings:** [[People/Nina-Halztshy-Touena|Nina Halztshy Touena]]
+**Families:** [[Families/Halztshy|Halztshy]]
 
 ## Biography
 

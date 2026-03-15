@@ -27,11 +27,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Hayim-Abada|Hayim Abada]]
-**Mother:** [[People/Esther-Attiya-Abada|Esther Attiya Abada]]
+**Father:** [[People/Hayim-Abada|Hayim Abada]] | **Mother:** [[People/Esther-Attiya-Abada|Esther Attiya Abada]]
 **Spouse:** [[People/Yafit-Zaafarani-Ovdat|Yafit Zaafarani Ovdat]]
 **Siblings:** [[People/Regina-Jina-Abada-Shimon|Regina (Jina) (Abada) Shimon]], [[People/David-Abada-Ovdat|David (Abada) Ovdat]], [[People/Rivka-Abada|Rivka Abada]], [[People/Sarah-Abada-Zeitouni|Sarah (Abada) Zeitouni]], [[People/Yosseph-Yossi-Abada-Ovdat|Yosseph (Yossi Abada) Ovdat]], [[People/Elie-Abada|Elie Abada]], [[People/Marcelle-Abada-Zeitouni|Marcelle (Abada) Zeitouni]]
 **Children:** [[People/Reut-Ovdat-Harari|Reut (Ovdat) Harari]], [[People/Omrie-Ovdat|Omrie Ovdat]]
+**Families:** [[Families/Ovdat|Ovdat]]
 
 ## Biography
 Born in [[Places/Israel]] , 9 September 1954

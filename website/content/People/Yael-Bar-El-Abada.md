@@ -30,6 +30,7 @@ research_level: 1
 
 **Spouse:** [[People/Avi-Abada|Avi Abada]]
 **Children:** [[People/Roye-Abada|Roye Abada]], [[People/Oded-Abada|Oded Abada]], [[People/Hadass-Abada|Hadass Abada]]
+**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

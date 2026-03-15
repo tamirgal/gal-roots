@@ -23,11 +23,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Hayim-Brawn|Hayim Brawn]]
-**Mother:** [[People/Lina-Nefoussi-Brawn|Lina Nefoussi Brawn]]
+**Father:** [[People/Hayim-Brawn|Hayim Brawn]] | **Mother:** [[People/Lina-Nefoussi-Brawn|Lina Nefoussi Brawn]]
 **Spouse:** [[People/Noam-Leker|Noam Leker]]
 **Siblings:** [[People/Nir-Brawn|Nir Brawn]], [[People/Sharon-Brawn|Sharon Brawn]]
 **Children:** [[People/Royi-Leker|Royi Leker]], [[People/Guy-Leker|Guy Leker]], [[People/Tal-Leker|Tal Leker]]
+**Families:** [[Families/Brawn|Brawn]], [[Families/Leker|Leker]]
 
 ## Biography
 Iris Brawn, married to Noam Leker in [[Places/Israel]], in 1986.

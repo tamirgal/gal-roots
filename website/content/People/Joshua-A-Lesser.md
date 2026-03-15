@@ -25,6 +25,7 @@ research_level: 2
 
 **Spouse:** [[People/Tamara-J-Ovdat-Lesser|Tamara J. Ovdat Lesser]]
 **Children:** [[People/Emilie-F-Lesser|Emilie F. Lesser]], [[People/Daniel-E-Lesser|Daniel E Lesser]]
+**Families:** [[Families/Lesser|Lesser]]
 
 ## Biography
 Joshua, the son of Lawrence and Sheri Lesser, raised in Westlake Village, attended college in San Luis Obispo, Married on August 29-1998, to Tamara Ovdat.

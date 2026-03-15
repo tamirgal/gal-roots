@@ -16,6 +16,7 @@ research_level: 0
 
 **Spouse:** [[People/Rachel-Aharon-Zelikovitch|Rachel Aharon Zelikovitch]]
 **Children:** [[People/Sosik-Zelikovitch|Sosik Zelikovitch]]
+**Families:** [[Families/Zelikovitch|Zelikovitch]]
 
 ## Biography
 Izaac survived the holocaust and returned to [[Places/Tyachiv]]. His wife Rachel and daughter perished. He re-married and had 2 daughters. One immigrated to [[Places/Hungary]] and the other one with the mother arrived to [[Places/Israel]]. Izaac passed away and barried in [[Places/Tyachiv]].

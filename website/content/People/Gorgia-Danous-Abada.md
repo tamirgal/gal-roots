@@ -30,6 +30,7 @@ research_level: 1
 
 **Spouse:** [[People/Menashe-Abada|Menashe Abada]]
 **Children:** [[People/Victor-Abada-ind00327|Victor Abada]], [[People/Arlette-Allegra-Abada-Zakoto|Arlette (Allegra) Abada Zakoto]], [[People/Aimee-Abada-Sardass|Aimee Abada Sardass]], [[People/Elie-Lili-Abada-Ronen|Elie (Lili) Abada Ronen]], [[People/Edouard-Dolly-Abada|Edouard (Dolly) Abada]]
+**Families:** [[Families/Danous|Danous]], [[Families/Abada|Abada]]
 
 ## Biography
 

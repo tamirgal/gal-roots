@@ -19,11 +19,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Itshak-Zako-Cohen|Itshak (Zako) Cohen]]
-**Mother:** [[People/Florette-Cohen|Florette Cohen]]
+**Father:** [[People/Itshak-Zako-Cohen|Itshak (Zako) Cohen]] | **Mother:** [[People/Florette-Cohen|Florette Cohen]]
 **Spouse:** [[People/Husband-Einav|Husband Einav]]
 **Siblings:** [[People/Ety-Cohen-Peleg|Ety Cohen Peleg]], [[People/Ronit-Cohen-Rav|Ronit Cohen Rav]]
 **Children:** [[People/Tom-Einav|Tom Einav]]
+**Families:** [[Families/Cohen|Cohen]], [[Families/Einav|Einav]]
 
 ## Biography
 Mikhal Cohen , married on 3 January 2002.

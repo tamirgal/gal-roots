@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Joseph-Erlich|Joseph Erlich]]
-**Mother:** [[People/Michelle-Schwartz-Erlich|Michelle Schwartz Erlich]]
+**Father:** [[People/Joseph-Erlich|Joseph Erlich]] | **Mother:** [[People/Michelle-Schwartz-Erlich|Michelle Schwartz Erlich]]
 **Siblings:** [[People/Max-Erlich|Max Erlich]]
+**Families:** [[Families/Erlich|Erlich]]
 
 ## Biography
 

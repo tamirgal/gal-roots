@@ -17,9 +17,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Itzhak-Mor|Itzhak Mor]]
-**Mother:** [[People/Corina-Kneiz-Mor|Corina Kneiz Mor]]
+**Father:** [[People/Itzhak-Mor|Itzhak Mor]] | **Mother:** [[People/Corina-Kneiz-Mor|Corina Kneiz Mor]]
 **Siblings:** [[People/Milan-Mor|Milan Mor]]
+**Families:** [[Families/Mor|Mor]]
 
 ## Biography
 

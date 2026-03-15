@@ -39,11 +39,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/David-Klein|David Klein]]
-**Mother:** [[People/Clara-Klein|Clara Klein]]
+**Father:** [[People/David-Klein|David Klein]] | **Mother:** [[People/Clara-Klein|Clara Klein]]
 **Spouse:** [[People/Howard-Peaceman|Howard Peaceman]]
 **Siblings:** [[People/Ruth-Klein-Peaceman|Ruth Klein Peaceman]], [[People/Phyllis-Hirschman-Newmark|Phyllis Hirschman Newmark]]
 **Children:** [[People/Amy-Mina-Peaceman-Schlundt|Amy Mina Peaceman Schlundt]], [[People/Gale-Joanne-Peaceman-Lackner|Gale Joanne Peaceman Lackner]], [[People/Matthew-David-Peaceman|Matthew David Peaceman]]
+**Families:** [[Families/Klein|Klein]], [[Families/Peaceman|Peaceman]]
 
 ## Biography
 

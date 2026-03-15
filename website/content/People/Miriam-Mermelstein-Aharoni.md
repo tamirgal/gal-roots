@@ -24,6 +24,7 @@ research_level: 1
 
 **Spouse:** [[People/Zvi-Miklosh-Aharoni|Zvi Miklosh Aharoni]]
 **Children:** [[People/Chaim-Aharoni|Chaim Aharoni]], [[People/Batya-Aharoni-Weinberger|Batya Aharoni Weinberger]]
+**Families:** [[Families/Mermelstein|Mermelstein]], [[Families/Aharoni|Aharoni]]
 
 ## Biography
 

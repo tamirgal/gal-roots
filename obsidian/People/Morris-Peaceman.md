@@ -24,6 +24,7 @@ research_level: 1
 
 **Spouse:** [[People/Ida-Rabinowitz-Peaceman|Ida Rabinowitz Peaceman]]
 **Children:** [[People/Howard-Peaceman|Howard Peaceman]], [[People/Donald-William-Peaceman|Donald William Peaceman]]
+**Families:** [[Families/Peaceman|Peaceman]]
 
 ## Biography
 

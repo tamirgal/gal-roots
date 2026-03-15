@@ -22,11 +22,11 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Elie-Nefoussi|Elie Nefoussi]]
-**Mother:** [[People/Nefoussi|Nefoussi]]
+**Father:** [[People/Elie-Nefoussi|Elie Nefoussi]] | **Mother:** [[People/Nefoussi|Nefoussi]]
 **Spouse:** [[People/Brakha|Brakha]]
 **Siblings:** [[People/Samuel-Nefoussi|Samuel Nefoussi]], [[People/Camille-Nefoussi-Aknine|Camille Nefoussi Aknine]]
 **Children:** [[People/Clement-Brakha|Clement Brakha]], [[People/Rahel-Brakha|Rahel Brakha]], [[People/Roger-Brakha|Roger Brakha]]
+**Families:** [[Families/Nefoussi|Nefoussi]], [[Families/Brakha|Brakha]]
 
 ## Biography
 

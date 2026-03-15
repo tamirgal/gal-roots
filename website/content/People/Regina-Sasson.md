@@ -12,9 +12,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Youssef-Sasson|Youssef Sasson]]
-**Mother:** [[People/Rachel-Sasson|Rachel Sasson]]
+**Father:** [[People/Youssef-Sasson|Youssef Sasson]] | **Mother:** [[People/Rachel-Sasson|Rachel Sasson]]
 **Siblings:** [[People/Bekhora-Sasson-Ezra|Bekhora Sasson Ezra]], [[People/Nissim-Sasson|Nissim Sasson]], [[People/Moussa-Moshe-Sasson|Moussa Moshe Sasson]], [[People/Rebecca-Sasson-Yehya|Rebecca Sasson Yehya]], [[People/Semha-Sasson-Cohen|Semha Sasson Cohen]], [[People/David-Sasson|David Sasson]]
+**Families:** [[Families/Sasson|Sasson]]
 
 ## Biography
 

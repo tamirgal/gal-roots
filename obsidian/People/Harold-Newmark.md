@@ -19,6 +19,7 @@ research_level: 1
 ## Family
 
 **Spouse:** [[People/Phyllis-Hirschman-Newmark|Phyllis Hirschman Newmark]]
+**Families:** [[Families/Newmark|Newmark]]
 
 ## Biography
 

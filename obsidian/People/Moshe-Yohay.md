@@ -25,11 +25,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Yossef-Yohay|Yossef Yohay]]
-**Mother:** [[People/Edith-Ida-Abada-Yohay|Edith (Ida) Abada Yohay]]
+**Father:** [[People/Yossef-Yohay|Yossef Yohay]] | **Mother:** [[People/Edith-Ida-Abada-Yohay|Edith (Ida) Abada Yohay]]
 **Spouse:** [[People/Rachel|Rachel]]
 **Siblings:** [[People/Rony-Yehoshua-Yohay|Rony Yehoshua Yohay]], [[People/Esther-Esty-Yohay-Rahamim|Esther (Esty) Yohay Rahamim]]
 **Children:** [[People/Morane-Yohay|Morane Yohay]]
+**Families:** [[Families/Yohay|Yohay]]
 
 ## Biography
 

@@ -21,6 +21,7 @@ research_level: 1
 
 **Spouse:** [[People/Arlette-Allegra-Abada-Zakoto|Arlette (Allegra) Abada Zakoto]]
 **Children:** [[People/Camille-Zakoto|Camille Zakoto]]
+**Families:** [[Families/Zakoto|Zakoto]]
 
 ## Biography
 

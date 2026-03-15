@@ -12,8 +12,8 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Andrei-Klein|Andrei Klein]]
-**Mother:** [[People/Ada-Klein|Ada Klein]]
+**Father:** [[People/Andrei-Klein|Andrei Klein]] | **Mother:** [[People/Ada-Klein|Ada Klein]]
+**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 

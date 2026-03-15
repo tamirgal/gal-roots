@@ -27,6 +27,7 @@ research_level: 2
 
 **Spouse:** [[People/Marlene-Saison-Barouh|Marlene Saison Barouh]]
 **Children:** [[People/Frederic-Barouh|Frederic Barouh]], [[People/Cecille-Barouh-Benezra|Cecille Barouh Benezra]]
+**Families:** [[Families/Barouh|Barouh]]
 
 ## Biography
 Fils de Jacques et Marie Barouh (tous deux originaires et nes a Istamboul et emigres a Paris en 1920). Maurice est ne a Paris en Septembre 1937. Son pere, deporte en 1941 vers [[Places/Auschwitz]], perit durant les atrocities de l'holocauste. Terminant ses etudes en electrotechnique, il travaille comme ingenieur dans les telecommunications, principalement dans le secteur militaire. Marie avec Marlene Saison en Juillet 1963, ils ont deux enfants : Frederic et Cecile . La famille vit a Lesigny , pres de Paris. Retraite depuis 1997, la famille partage son temps entre Lesigny et leur maison a Frejus sur la cote d'azur.

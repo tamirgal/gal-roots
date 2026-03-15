@@ -16,6 +16,7 @@ research_level: 1
 ## Family
 
 **Spouse:** [[People/Mireille-Cohenca-Mizrahi|Mireille Cohenca Mizrahi]]
+**Families:** [[Families/Mizrahi|Mizrahi]]
 
 ## Biography
 

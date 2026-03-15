@@ -22,11 +22,11 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Sabah-Touena|Sabah Touena]]
-**Mother:** [[People/Nina-Halztshy-Touena|Nina Halztshy Touena]]
+**Father:** [[People/Sabah-Touena|Sabah Touena]] | **Mother:** [[People/Nina-Halztshy-Touena|Nina Halztshy Touena]]
 **Spouse:** [[People/Irit-Missika-Touval|Irit Missika Touval]]
 **Siblings:** [[People/Hagit-Touena-Mayraz|Hagit Touena Mayraz]], [[People/Yacob-Touena|Yacob Touena]]
 **Children:** [[People/Shahar-Touval|Shahar Touval]], [[People/Itay-Touval|Itay Touval]], [[People/Saguy-Touval|Saguy Touval]]
+**Families:** [[Families/Touena|Touena]], [[Families/Touval|Touval]]
 
 ## Biography
 

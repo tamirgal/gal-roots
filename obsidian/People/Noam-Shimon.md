@@ -17,9 +17,9 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Chaim-Shimon|Chaim Shimon]]
-**Mother:** [[People/Meirav-Rappaport-Shimon|Meirav Rappaport Shimon]]
+**Father:** [[People/Chaim-Shimon|Chaim Shimon]] | **Mother:** [[People/Meirav-Rappaport-Shimon|Meirav Rappaport Shimon]]
 **Siblings:** [[People/Yuval-Shimon|Yuval Shimon]], [[People/Ofir-Shimon|Ofir Shimon]]
+**Families:** [[Families/Shimon|Shimon]]
 
 ## Biography
 Noam Shimon is born in [[Places/Nahariya]], Israel on : 14 January 2002

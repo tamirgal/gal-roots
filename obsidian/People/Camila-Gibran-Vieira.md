@@ -16,6 +16,7 @@ research_level: 1
 ## Family
 
 **Spouse:** [[People/Marc-Bonan|Marc Bonan]]
+**Families:** [[Families/Gibran|Gibran]], [[Families/Vieira|Vieira]]
 
 ## Biography
 

@@ -18,11 +18,11 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Shlomo-Soly-Zeitouni|Shlomo (Soly) Zeitouni]]
-**Mother:** [[People/Sarah-Abada-Zeitouni|Sarah (Abada) Zeitouni]]
+**Father:** [[People/Shlomo-Soly-Zeitouni|Shlomo (Soly) Zeitouni]] | **Mother:** [[People/Sarah-Abada-Zeitouni|Sarah (Abada) Zeitouni]]
 **Spouse:** [[People/Tova-Sofer-Zeitouni|Tova (Sofer) Zeitouni]]
 **Siblings:** [[People/Chen-Zeitouni|Chen Zeitouni]], [[People/Haim-Zeitouni-ind00639|Haim Zeitouni]]
 **Children:** [[People/Ido-Zeitouni|Ido Zeitouni]]
+**Families:** [[Families/Zeitouni|Zeitouni]]
 
 ## Biography
 

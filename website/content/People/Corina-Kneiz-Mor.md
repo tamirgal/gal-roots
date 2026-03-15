@@ -27,11 +27,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Ditmar-Kneiz|Ditmar Kneiz]]
-**Mother:** [[People/Judith-Hirsch-Kneiz|Judith Hirsch Kneiz]]
+**Father:** [[People/Ditmar-Kneiz|Ditmar Kneiz]] | **Mother:** [[People/Judith-Hirsch-Kneiz|Judith Hirsch Kneiz]]
 **Spouse:** [[People/Itzhak-Mor|Itzhak Mor]]
 **Siblings:** [[People/Claudia-Kneiz|Claudia Kneiz]]
 **Children:** [[People/Anthony-Mor|Anthony Mor]], [[People/Milan-Mor|Milan Mor]]
+**Families:** [[Families/Kneiz|Kneiz]], [[Families/Mor|Mor]]
 
 ## Biography
 

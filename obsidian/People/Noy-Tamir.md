@@ -12,9 +12,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Nahoum-Tamir|Nahoum Tamir]]
-**Mother:** [[People/Guila-Nefoussi-Tamir|Guila Nefoussi Tamir]]
+**Father:** [[People/Nahoum-Tamir|Nahoum Tamir]] | **Mother:** [[People/Guila-Nefoussi-Tamir|Guila Nefoussi Tamir]]
 **Siblings:** [[People/Oren-Tamir|Oren Tamir]]
+**Families:** [[Families/Tamir|Tamir]]
 
 ## Biography
 

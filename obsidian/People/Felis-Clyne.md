@@ -11,8 +11,8 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Thomas-Klein-Clyne|Thomas Klein Clyne]]
-**Mother:** [[People/Roberta-Clyne|Roberta Clyne]]
+**Father:** [[People/Thomas-Klein-Clyne|Thomas Klein Clyne]] | **Mother:** [[People/Roberta-Clyne|Roberta Clyne]]
+**Families:** [[Families/Clyne|Clyne]]
 
 ## Biography
 

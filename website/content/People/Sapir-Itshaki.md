@@ -19,9 +19,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Erez-Itshaki|Erez Itshaki]]
-**Mother:** [[People/Sharon-Albanay-Itshaki|Sharon Albanay Itshaki]]
+**Father:** [[People/Erez-Itshaki|Erez Itshaki]] | **Mother:** [[People/Sharon-Albanay-Itshaki|Sharon Albanay Itshaki]]
 **Siblings:** [[People/Eyal-Itshaki|Eyal Itshaki]]
+**Families:** [[Families/Itshaki|Itshaki]]
 
 ## Biography
 

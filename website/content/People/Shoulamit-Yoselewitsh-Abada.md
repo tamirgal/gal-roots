@@ -25,6 +25,7 @@ research_level: 1
 
 **Spouse:** [[People/Edouard-Dolly-Abada|Edouard (Dolly) Abada]]
 **Children:** [[People/Orly-Abada|Orly Abada]], [[People/Moshe-Abada|Moshe Abada]]
+**Families:** [[Families/Yoselewitsh|Yoselewitsh]], [[Families/Abada|Abada]]
 
 ## Biography
 

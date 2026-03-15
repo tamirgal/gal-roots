@@ -25,6 +25,7 @@ research_level: 1
 
 **Spouse:** [[People/Miriam-Farkas-Kalkstein|Miriam Farkas Kalkstein]]
 **Children:** [[People/Avraham-Avi-Kalkstein|Avraham (Avi) Kalkstein]], [[People/Ronit-Kalkstein-Shaked|Ronit Kalkstein Shaked]]
+**Families:** [[Families/Kalkstein|Kalkstein]]
 
 ## Biography
 

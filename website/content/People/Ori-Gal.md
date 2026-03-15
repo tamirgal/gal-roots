@@ -19,9 +19,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Asaf-Gal|Asaf Gal]]
-**Mother:** [[People/Adi-Dolev-Gal|Adi Dolev Gal]]
+**Father:** [[People/Asaf-Gal|Asaf Gal]] | **Mother:** [[People/Adi-Dolev-Gal|Adi Dolev Gal]]
 **Siblings:** [[People/Shahar-Gal|Shahar Gal]], [[People/Yael-Gal|Yael Gal]]
+**Families:** [[Families/Gal|Gal]]
 
 ## Biography
 

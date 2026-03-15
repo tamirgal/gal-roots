@@ -18,9 +18,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Edy-Messoubi|Edy Messoubi]]
-**Mother:** [[People/Ilana-Ravia-Messoubi|Ilana Ravia Messoubi]]
+**Father:** [[People/Edy-Messoubi|Edy Messoubi]] | **Mother:** [[People/Ilana-Ravia-Messoubi|Ilana Ravia Messoubi]]
 **Siblings:** [[People/Mikhal-Messoubi|Mikhal Messoubi]], [[People/Tamar-Messoubi|Tamar Messoubi]]
+**Families:** [[Families/Messoubi|Messoubi]]
 
 ## Biography
 

@@ -21,10 +21,10 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Shaoul-Israel|Shaoul Israel]]
-**Mother:** [[People/Pauline-Cohen-Israel|Pauline Cohen Israel]]
+**Father:** [[People/Shaoul-Israel|Shaoul Israel]] | **Mother:** [[People/Pauline-Cohen-Israel|Pauline Cohen Israel]]
 **Spouse:** [[People/Nancy-Israel|Nancy Israel]]
 **Siblings:** [[People/Aimee-Israel-Pelletier|Aimee Israel Pelletier]], [[People/Solange-Israel-Mintz|Solange Israel Mintz]], [[People/Ytshak-Israel|Ytshak Israel]]
+**Families:** [[Families/Israel|Israel]]
 
 ## Biography
 Solomon,... born in [[Places/Newark]], [[Places/New Jersey]],... married to Nancy on May 28, 2000, in [[Places/Dallas]] [[Places/Texas]].

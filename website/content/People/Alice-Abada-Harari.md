@@ -33,11 +33,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Solimane-Abada|Solimane Abada]]
-**Mother:** [[People/Linda-Ashkenazi-Abada|Linda Ashkenazi Abada]]
+**Father:** [[People/Solimane-Abada|Solimane Abada]] | **Mother:** [[People/Linda-Ashkenazi-Abada|Linda Ashkenazi Abada]]
 **Spouse:** [[People/Shaoul-Harari|Shaoul Harari]]
 **Siblings:** [[People/Allegra-Abada-Ventura|Allegra Abada Ventura]], [[People/David-Edouard-Abada|David Edouard Abada]], [[People/Ernest-Zouzi-Abada|Ernest Zouzi Abada]], [[People/Freddy-Ephraim-Abada-Alitsour|Freddy (Ephraim) Abada (Alitsour)]]
 **Children:** [[People/Liliane-Harari|Liliane Harari]], [[People/Marco-Harari|Marco Harari]], [[People/Lina-Harari|Lina Harari]], [[People/Salomon-Harari|Salomon Harari]]
+**Families:** [[Families/Abada|Abada]], [[Families/Harari|Harari]]
 
 ## Biography
 

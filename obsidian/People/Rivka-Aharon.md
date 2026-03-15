@@ -18,6 +18,7 @@ research_level: 0
 
 **Spouse:** [[People/Mordechai-Aharon|Mordechai Aharon]]
 **Children:** [[People/Joseph-Aharon-1947|Joseph Aharon]], [[People/Lea-Aharon|Lea Aharon]]
+**Families:** [[Families/Aharon|Aharon]]
 
 ## Biography
 

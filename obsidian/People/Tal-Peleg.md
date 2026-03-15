@@ -12,9 +12,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Samuel-Shmoulik-Peleg|Samuel (Shmoulik) Peleg]]
-**Mother:** [[People/Ety-Cohen-Peleg|Ety Cohen Peleg]]
+**Father:** [[People/Samuel-Shmoulik-Peleg|Samuel (Shmoulik) Peleg]] | **Mother:** [[People/Ety-Cohen-Peleg|Ety Cohen Peleg]]
 **Siblings:** [[People/Guy-Peleg|Guy Peleg]], [[People/Gali-Peleg|Gali Peleg]], [[People/Aviv-Peleg|Aviv Peleg]]
+**Families:** [[Families/Peleg|Peleg]]
 
 ## Biography
 

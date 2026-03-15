@@ -28,11 +28,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/David-Cohen|David Cohen]]
-**Mother:** [[People/Mary-Ruben-Cohen|Mary Ruben Cohen]]
+**Father:** [[People/David-Cohen|David Cohen]] | **Mother:** [[People/Mary-Ruben-Cohen|Mary Ruben Cohen]]
 **Spouse:** [[People/Kiera-Stephens-Cohen|Kiera Stephens Cohen]]
 **Siblings:** [[People/Moshe-Cohen|Moshe Cohen]], [[People/Esther-Etty-Cohen-Laniado|Esther (Etty) Cohen Laniado]]
 **Children:** [[People/Unknown-ind00566|Unknown ind00566]]
+**Families:** [[Families/Cohen|Cohen]]
 
 ## Biography
 Rony Cohen, is born in [[Places/Israel]]. After finishing his military service, he joingned his parents in [[Places/London]], where his father was working as an accountant of the EL-Al company. Married to Kiera Stephens. The wedding ceremony took place in the UK. - 10 September 2004. Now they live in [[Places/Tel Aviv]].

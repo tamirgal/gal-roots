@@ -27,6 +27,7 @@ research_level: 1
 
 **Spouse:** [[People/Hayim-Ravia|Hayim Ravia]]
 **Children:** [[People/Gal-Ravia|Gal Ravia]], [[People/Itay-Ravia|Itay Ravia]], [[People/Niv-Ravia|Niv Ravia]]
+**Families:** [[Families/Tsour|Tsour]], [[Families/Ravia|Ravia]]
 
 ## Biography
 

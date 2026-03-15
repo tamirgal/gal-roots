@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Hougi-Malka|Hougi Malka]]
-**Mother:** [[People/Massouda-Malka|Massouda Malka]]
+**Father:** [[People/Hougi-Malka|Hougi Malka]] | **Mother:** [[People/Massouda-Malka|Massouda Malka]]
 **Siblings:** [[People/Regina-Malka-Abada|Regina Malka Abada]], [[People/Simha-Malka-Ghazal|Simha Malka Ghazal]]
+**Families:** [[Families/Malka|Malka]]
 
 ## Biography
 Yehezkiel est mort celibataire

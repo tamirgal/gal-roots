@@ -17,9 +17,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Charles-Clyne|Charles Clyne]]
-**Mother:** [[People/Elizabeth-Heagney-Clyne|Elizabeth Heagney Clyne]]
+**Father:** [[People/Charles-Clyne|Charles Clyne]] | **Mother:** [[People/Elizabeth-Heagney-Clyne|Elizabeth Heagney Clyne]]
 **Siblings:** [[People/Jonathan-Clyne|Jonathan Clyne]], [[People/Suzanne-Clyne|Suzanne Clyne]]
+**Families:** [[Families/Clyne|Clyne]]
 
 ## Biography
 

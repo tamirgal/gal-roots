@@ -24,6 +24,7 @@ research_level: 1
 
 **Spouse:** [[People/Ahouva-Aharon-Fuchs|Ahouva Aharon Fuchs]]
 **Children:** [[People/Chaya-Fuchs|Chaya Fuchs]], [[People/Shabetay-Fuchs|Shabetay Fuchs]]
+**Families:** [[Families/Fuchs|Fuchs]]
 
 ## Biography
 

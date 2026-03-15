@@ -11,6 +11,7 @@ research_level: 0
 ## Family
 
 **Spouse:** [[People/Eyal-Geva|Eyal Geva]]
+**Families:** [[Families/Geva|Geva]]
 
 ## Biography
 

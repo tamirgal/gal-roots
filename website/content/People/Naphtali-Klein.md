@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Shmuel-Klein|Shmuel Klein]]
-**Mother:** [[People/Malka-Klein|Malka Klein]]
+**Father:** [[People/Shmuel-Klein|Shmuel Klein]] | **Mother:** [[People/Malka-Klein|Malka Klein]]
 **Siblings:** [[People/Shimon-Klein|Shimon Klein]]
+**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 Naphtali is married and has children,... No informations about him

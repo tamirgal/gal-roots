@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Joseph-Aknine|Joseph Aknine]]
-**Mother:** [[People/Camille-Nefoussi-Aknine|Camille Nefoussi Aknine]]
+**Father:** [[People/Joseph-Aknine|Joseph Aknine]] | **Mother:** [[People/Camille-Nefoussi-Aknine|Camille Nefoussi Aknine]]
 **Siblings:** [[People/Bekhor-Aknine|Bekhor Aknine]]
+**Families:** [[Families/Aknine|Aknine]]
 
 ## Biography
 

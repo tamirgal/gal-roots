@@ -27,10 +27,10 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Mordechay-Aharon|Mordechay Aharon]]
-**Mother:** [[People/Erika-Weissenberg-Aharon|Erika Weissenberg Aharon]]
+**Father:** [[People/Mordechay-Aharon|Mordechay Aharon]] | **Mother:** [[People/Erika-Weissenberg-Aharon|Erika Weissenberg Aharon]]
 **Spouse:** [[People/Deborah-Nestrovsky-Aharon|Deborah Nestrovsky Aharon]]
 **Children:** [[People/Jonathan-Aharon|Jonathan Aharon]], [[People/Sandra-Aharon|Sandra Aharon]]
+**Families:** [[Families/Aharon|Aharon]]
 
 ## Biography
 

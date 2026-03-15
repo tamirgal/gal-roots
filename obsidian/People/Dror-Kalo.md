@@ -16,6 +16,7 @@ research_level: 0
 
 **Spouse:** [[People/Lyat-Fuchs-Kalo|Lyat Fuchs Kalo]]
 **Children:** [[People/Tal-Kalo|Tal Kalo]]
+**Families:** [[Families/Kalo|Kalo]]
 
 ## Biography
 Dror Kalo, married to Lyat Fuchs in [[Places/Israel]] , in 1997.

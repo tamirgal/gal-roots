@@ -11,8 +11,8 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Yacov-Bronstein|Yacov Bronstein]]
-**Mother:** [[People/Tsipora-Bronstein|Tsipora Bronstein]]
+**Father:** [[People/Yacov-Bronstein|Yacov Bronstein]] | **Mother:** [[People/Tsipora-Bronstein|Tsipora Bronstein]]
+**Families:** [[Families/Bronstein|Bronstein]]
 
 ## Biography
 

@@ -17,8 +17,8 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Ronald-Schlundt|Ronald Schlundt]]
-**Mother:** [[People/Amy-Mina-Peaceman-Schlundt|Amy Mina Peaceman Schlundt]]
+**Father:** [[People/Ronald-Schlundt|Ronald Schlundt]] | **Mother:** [[People/Amy-Mina-Peaceman-Schlundt|Amy Mina Peaceman Schlundt]]
+**Families:** [[Families/Schlundt|Schlundt]]
 
 ## Biography
 Jennifer is currently living in Homburg, Germany and studying Medicine at the University Hospital since September 2003.

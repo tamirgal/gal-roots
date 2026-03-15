@@ -19,10 +19,10 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Israel-Isi-Bonan|Israel Isi Bonan]]
-**Mother:** [[People/Sorana-Blanar-Bonan|Sorana Blanar Bonan]]
+**Father:** [[People/Israel-Isi-Bonan|Israel Isi Bonan]] | **Mother:** [[People/Sorana-Blanar-Bonan|Sorana Blanar Bonan]]
 **Spouse:** [[People/Camila-Gibran-Vieira|Camila Gibran Vieira]]
 **Siblings:** [[People/Jacques-Bonan|Jacques Bonan]]
+**Families:** [[Families/Bonan|Bonan]]
 
 ## Biography
 

@@ -16,6 +16,7 @@ research_level: 0
 
 **Spouse:** [[People/Thomas-Klein-Clyne|Thomas Klein Clyne]]
 **Children:** [[People/Felis-Clyne|Felis Clyne]]
+**Families:** [[Families/Clyne|Clyne]]
 
 ## Biography
 

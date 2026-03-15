@@ -34,11 +34,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Ondrej-Clyne|Ondrej Clyne]]
-**Mother:** [[People/Ellen-Cooper-Clyne|Ellen Cooper Clyne]]
+**Father:** [[People/Ondrej-Clyne|Ondrej Clyne]] | **Mother:** [[People/Ellen-Cooper-Clyne|Ellen Cooper Clyne]]
 **Spouse:** [[People/David-Blake|David Blake]]
 **Siblings:** [[People/Paula-Clyne-Ridley|Paula Clyne Ridley]], [[People/Charles-Clyne|Charles Clyne]]
 **Children:** [[People/Victoria-Blake|Victoria Blake]], [[People/Rosanne-Blake|Rosanne Blake]], [[People/Charlotte-Blake|Charlotte Blake]]
+**Families:** [[Families/Clyne|Clyne]], [[Families/Blake|Blake]]
 
 ## Biography
 

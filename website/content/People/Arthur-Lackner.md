@@ -19,6 +19,7 @@ research_level: 2
 
 **Spouse:** [[People/Gale-Joanne-Peaceman-Lackner|Gale Joanne Peaceman Lackner]]
 **Children:** [[People/Corinne-Irene-Lackner|Corinne Irene Lackner]], [[People/David-Grant-Lackner|David Grant Lackner]]
+**Families:** [[Families/Lackner|Lackner]]
 
 ## Biography
 Arthur is a businessman and lives in N.J, [[Places/USA]].

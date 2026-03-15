@@ -26,6 +26,7 @@ research_level: 1
 
 **Spouse:** [[People/Massouda-Malka|Massouda Malka]]
 **Children:** [[People/Regina-Malka-Abada|Regina Malka Abada]], [[People/Yehezkiel-Malka|Yehezkiel Malka]], [[People/Simha-Malka-Ghazal|Simha Malka Ghazal]]
+**Families:** [[Families/Malka|Malka]]
 
 ## Biography
 

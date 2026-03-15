@@ -18,9 +18,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Galil-Glassberg|Galil Glassberg]]
-**Mother:** [[People/Tsipora-Zuckerberger-Glassberg|Tsipora Zuckerberger Glassberg]]
+**Father:** [[People/Galil-Glassberg|Galil Glassberg]] | **Mother:** [[People/Tsipora-Zuckerberger-Glassberg|Tsipora Zuckerberger Glassberg]]
 **Siblings:** [[People/Ofer-Glassberg|Ofer Glassberg]]
+**Families:** [[Families/Glassberg|Glassberg]]
 
 ## Biography
 

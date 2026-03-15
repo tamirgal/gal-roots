@@ -11,8 +11,8 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Francis-Ridley|Francis Ridley]]
-**Mother:** [[People/Jemima-French|Jemima French]]
+**Father:** [[People/Francis-Ridley|Francis Ridley]] | **Mother:** [[People/Jemima-French|Jemima French]]
+**Families:** [[Families/Clyne|Clyne]]
 
 ## Biography
 

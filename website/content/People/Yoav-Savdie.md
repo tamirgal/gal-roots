@@ -19,9 +19,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Soly-Savdie|Soly Savdie]]
-**Mother:** [[People/Ronit-Abada-Savdie|Ronit Abada Savdie]]
+**Father:** [[People/Soly-Savdie|Soly Savdie]] | **Mother:** [[People/Ronit-Abada-Savdie|Ronit Abada Savdie]]
 **Siblings:** [[People/Dan-Savdie|Dan Savdie]]
+**Families:** [[Families/Savdie|Savdie]]
 
 ## Biography
 

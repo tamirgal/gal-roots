@@ -11,6 +11,7 @@ research_level: 0
 ## Family
 
 **Spouse:** [[People/Gabriela-Kaminski-Sleppin|Gabriela Kaminski Sleppin]]
+**Families:** [[Families/Sleppin|Sleppin]]
 
 ## Biography
 

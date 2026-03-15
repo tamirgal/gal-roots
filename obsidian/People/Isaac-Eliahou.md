@@ -30,11 +30,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Saleh-Eliahou|Saleh Eliahou]]
-**Mother:** [[People/Helene-Israel-Eliahou|Helene Israel Eliahou]]
+**Father:** [[People/Saleh-Eliahou|Saleh Eliahou]] | **Mother:** [[People/Helene-Israel-Eliahou|Helene Israel Eliahou]]
 **Spouse:** [[People/Suzanne-Joseph-Eliahou|Suzanne Joseph Eliahou]]
 **Siblings:** [[People/Elie-Eliahou|Elie Eliahou]], [[People/Shaoul-Eliahou|Shaoul Eliahou]], [[People/Joseph-Eliahou|Joseph Eliahou]]
 **Children:** [[People/Sandra-Helene-Eliahou|Sandra Helene Eliahou]], [[People/Dan-Saleh-Eliahou|Dan Saleh Eliahou]]
+**Families:** [[Families/Eliahou|Eliahou]]
 
 ## Biography
 Isaac Eliahou et Suzanne Joseph, se sont maries en Belgique en 1968

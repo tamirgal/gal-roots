@@ -18,6 +18,7 @@ research_level: 0
 
 **Spouse:** [[People/Monique-Aharon-Preiss|Monique Aharon Preiss]]
 **Children:** [[People/Nicole-Preiss|Nicole Preiss]], [[People/Maya-Preiss|Maya Preiss]]
+**Families:** [[Families/Preiss|Preiss]]
 
 ## Biography
 

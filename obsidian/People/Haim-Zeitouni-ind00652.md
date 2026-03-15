@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/David-Doudou-Zeitouni|David (Doudou) Zeitouni]]
-**Mother:** [[People/Marcelle-Abada-Zeitouni|Marcelle (Abada) Zeitouni]]
+**Father:** [[People/David-Doudou-Zeitouni|David (Doudou) Zeitouni]] | **Mother:** [[People/Marcelle-Abada-Zeitouni|Marcelle (Abada) Zeitouni]]
 **Siblings:** [[People/Elie-Zeitouni-ind00653|Elie Zeitouni]], [[People/Mor-Mordekhay-Zeitouni|Mor (Mordekhay) Zeitouni]], [[People/Aviram-Zeitouni|Aviram Zeitouni]]
+**Families:** [[Families/Zeitouni|Zeitouni]]
 
 ## Biography
 

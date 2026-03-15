@@ -29,6 +29,7 @@ research_level: 2
 
 **Spouse:** [[People/Shabetay-Fuchs|Shabetay Fuchs]]
 **Children:** [[People/Einat-Fuchs-Kelmus|Einat Fuchs Kelmus]], [[People/Tamar-Fuchs|Tamar Fuchs]], [[People/Aviad-Fuchs|Aviad Fuchs]]
+**Families:** [[Families/Gesthatter|Gesthatter]], [[Families/Fuchs|Fuchs]]
 
 ## Biography
 At Einat's wedding

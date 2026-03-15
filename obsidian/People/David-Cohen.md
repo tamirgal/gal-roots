@@ -35,11 +35,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Maurice-Moshe-Cohen|Maurice (Moshe) Cohen]]
-**Mother:** [[People/Esther-Sasson-Cohen|Esther Sasson Cohen]]
+**Father:** [[People/Maurice-Moshe-Cohen|Maurice (Moshe) Cohen]] | **Mother:** [[People/Esther-Sasson-Cohen|Esther Sasson Cohen]]
 **Spouse:** [[People/Mary-Ruben-Cohen|Mary Ruben Cohen]]
 **Siblings:** [[People/Rosette-Rosy-Cohen-Hanan|Rosette (Rosy) Cohen Hanan]], [[People/Mireille-Cohen|Mireille Cohen]], [[People/Itshak-Zako-Cohen|Itshak (Zako) Cohen]], [[People/Vicky-Cohen-Itshaki|Vicky Cohen Itshaki]]
 **Children:** [[People/Moshe-Cohen|Moshe Cohen]], [[People/Esther-Etty-Cohen-Laniado|Esther (Etty) Cohen Laniado]], [[People/Rony-Cohen|Rony Cohen]]
+**Families:** [[Families/Cohen|Cohen]]
 
 ## Biography
 Born in [[Places/Cairo]] 24 October 1932. In December 1949, the family emigrated to [[Places/Israel]] where they lived in a new agricultural settlement called "[[Places/Beit Zait]]", It is a splendid place , in the heart of the beautiful mountains surrounding [[Places/Jerusalem]]. On 5 July 1954, married to Mary Ruben,... after a while they moved to [[Places/Holon]], where he worked as an accountant Some years later, he worked in El-Al, [[Places/Tel Aviv]], then transfered to Johannesbourg,..then to Brussels, and now, in [[Places/London]].

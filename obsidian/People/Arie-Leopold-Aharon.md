@@ -31,11 +31,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Shabtay-Aharon|Shabtay Aharon]]
-**Mother:** [[People/Tsipora-Zuckerberger-Aharon|Tsipora Zuckerberger Aharon]]
+**Father:** [[People/Shabtay-Aharon|Shabtay Aharon]] | **Mother:** [[People/Tsipora-Zuckerberger-Aharon|Tsipora Zuckerberger Aharon]]
 **Spouse:** [[People/Anet-Aharon|Anet Aharon]]
 **Siblings:** [[People/Avigdor-Zuckerberger|Avigdor Zuckerberger]], [[People/Ahouva-Aharon-Fuchs|Ahouva Aharon Fuchs]], [[People/Mordechay-Aharon|Mordechay Aharon]], [[People/Leah-Aharon-Steiner|Leah Aharon Steiner]]
 **Children:** [[People/Leo-Aharon|Leo Aharon]], [[People/Peter-Aharon|Peter Aharon]], [[People/Suzan-Aharon-Reinolds|Suzan Aharon Reinolds]], [[People/Monique-Aharon-Preiss|Monique Aharon Preiss]]
+**Families:** [[Families/Aharon|Aharon]]
 
 ## Biography
 During World war 2, Arie (Leo) joined the Czecho-Slovakian , then the Soviet Red army,... he was decorated. At the end of the war, he emigrated to Melborne, [[Places/Australia]].

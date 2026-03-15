@@ -16,6 +16,7 @@ research_level: 1
 ## Family
 
 **Spouse:** [[People/Allen-Israel|Allen Israel]]
+**Families:** [[Families/Israel|Israel]]
 
 ## Biography
 

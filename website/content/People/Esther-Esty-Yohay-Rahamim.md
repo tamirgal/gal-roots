@@ -28,11 +28,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Yossef-Yohay|Yossef Yohay]]
-**Mother:** [[People/Edith-Ida-Abada-Yohay|Edith (Ida) Abada Yohay]]
+**Father:** [[People/Yossef-Yohay|Yossef Yohay]] | **Mother:** [[People/Edith-Ida-Abada-Yohay|Edith (Ida) Abada Yohay]]
 **Spouse:** [[People/Raphael-Rafi-Rahamim|Raphael Rafi Rahamim]]
 **Siblings:** [[People/Rony-Yehoshua-Yohay|Rony Yehoshua Yohay]], [[People/Moshe-Yohay|Moshe Yohay]]
 **Children:** [[People/Roye-Rahamim|Roye Rahamim]], [[People/Hila-Rahamim|Hila Rahamim]]
+**Families:** [[Families/Yohay|Yohay]], [[Families/Rahamim|Rahamim]]
 
 ## Biography
 

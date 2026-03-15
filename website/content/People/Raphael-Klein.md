@@ -29,11 +29,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Yehoshua-Klein|Yehoshua Klein]]
-**Mother:** [[People/Esther-Rosner-Klein|Esther Rosner Klein]]
+**Father:** [[People/Yehoshua-Klein|Yehoshua Klein]] | **Mother:** [[People/Esther-Rosner-Klein|Esther Rosner Klein]]
 **Spouse:** [[People/Pnina-Zahavi-Klein|Pnina Zahavi Klein]]
 **Siblings:** [[People/Noah-Klein-Elias|Noah Klein Elias]]
 **Children:** [[People/Ophir-Klein|Ophir Klein]], [[People/Doron-Klein|Doron Klein]], [[People/Yonathan-Klein|Yonathan Klein]]
+**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 Rafi born in [[Places/Haifa]] Israel. Studied in the Technion Physics. Later on moved to [[Places/California]] and was one of the first Engineer of a new startup called Intel. Later on, founded his own business, also in the semi-conductor area.

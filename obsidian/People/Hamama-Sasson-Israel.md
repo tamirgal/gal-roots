@@ -47,11 +47,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Itshak-Sasson|Itshak Sasson]]
-**Mother:** [[People/Marietta-Attar-Sasson|Marietta Attar Sasson]]
+**Father:** [[People/Itshak-Sasson|Itshak Sasson]] | **Mother:** [[People/Marietta-Attar-Sasson|Marietta Attar Sasson]]
 **Spouse:** [[People/Israel-Ezra-Israel|Israel Ezra Israel]]
 **Siblings:** [[People/Meyer-Sasson|Meyer Sasson]], [[People/Jacques-Sasson-Saison|Jacques Sasson Saison]], [[People/Victoria-Sasson-Patan|Victoria Sasson Patan]], [[People/Esther-Sasson-Cohen|Esther Sasson Cohen]], [[People/Albert-Sasson|Albert Sasson]]
 **Children:** [[People/Helene-Israel-Eliahou|Helene Israel Eliahou]], [[People/Ezra-Israel|Ezra Israel]], [[People/Marie-Israel-Bonan|Marie Israel Bonan]], [[People/Zaki-Israel|Zaki Israel]], [[People/Shaoul-Israel|Shaoul Israel]], [[People/Joseph-Israel|Joseph Israel]], [[People/Pauline-Israel-Wahiche|Pauline Israel Wahiche]], [[People/Clemence-Israel-Saphir|Clemence Israel Saphir]]
+**Families:** [[Families/Sasson|Sasson]], [[Families/Israel|Israel]]
 
 ## Biography
 HAMAMA ISRAEL, born in [[Places/Cairo]] in 1887, …married to [[Places/Israel]] Ezra. They moved and lived in [[Places/Assiut]], a city in south [[Places/Egypt]]…where Ezra had a textile business. Later on, the family returned to [[Places/Cairo]]. In the sixties, the family decided to emigrate. Some of the children emigrated and still living in [[Places/France]], while the rest went to the [[Places/USA]],.. Hamama lived in [[Places/Newark]] with her son Shaoul and his family. She died on November 1971, aged 84 years.

@@ -23,6 +23,7 @@ research_level: 1
 
 **Spouse:** [[People/Joseph-Abada|Joseph Abada]]
 **Children:** [[People/Rina-Abada-Guttmann|Rina Abada Guttmann]]
+**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

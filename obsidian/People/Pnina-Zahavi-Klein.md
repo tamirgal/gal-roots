@@ -21,6 +21,7 @@ research_level: 1
 
 **Spouse:** [[People/Raphael-Klein|Raphael Klein]]
 **Children:** [[People/Ophir-Klein|Ophir Klein]], [[People/Doron-Klein|Doron Klein]], [[People/Yonathan-Klein|Yonathan Klein]]
+**Families:** [[Families/Zahavi|Zahavi]], [[Families/Klein|Klein]]
 
 ## Biography
 

@@ -11,6 +11,7 @@ research_level: 0
 ## Family
 
 **Spouse:** [[People/Semha-Sasson-Cohen|Semha Sasson Cohen]]
+**Families:** [[Families/Cohen|Cohen]]
 
 ## Biography
 

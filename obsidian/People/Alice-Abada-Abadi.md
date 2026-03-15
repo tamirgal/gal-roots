@@ -30,11 +30,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Shaoul-Abada-1889|Shaoul Abada]]
-**Mother:** [[People/Regina-Malka-Abada|Regina Malka Abada]]
+**Father:** [[People/Shaoul-Abada-1889|Shaoul Abada]] | **Mother:** [[People/Regina-Malka-Abada|Regina Malka Abada]]
 **Spouse:** [[People/Robert-Abadi|Robert Abadi]]
 **Siblings:** [[People/Esther-Abada-Nefoussi|Esther Abada Nefoussi]], [[People/David-Abada|David Abada]], [[People/Hayim-Abada-ind00281|Hayim Abada]], [[People/Joseph-Abada|Joseph Abada]], [[People/Arlette-Abada-Savdie|Arlette Abada Savdie]], [[People/Mary-Abada-Patan|Mary Abada Patan]], [[People/Ernest-Nisso-Abada|Ernest (Nisso) Abada]], [[People/Claude-Hayim-Abada|Claude (Hayim) Abada]]
 **Children:** [[People/Rachel-Abadi-Goldmann|Rachel Abadi Goldmann]], [[People/Meyer-Abadi|Meyer Abadi]]
+**Families:** [[Families/Abada|Abada]], [[Families/Abadi|Abadi]]
 
 ## Biography
 Wedding of Alice Abada and Robert Abadi in 1939, in [[Places/Cairo]] [[Places/Egypt]] They emigrated to [[Places/Israel]] in 1957.

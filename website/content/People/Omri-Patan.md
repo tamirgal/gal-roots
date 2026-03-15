@@ -20,9 +20,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Sami-Patan|Sami Patan]]
-**Mother:** [[People/Rahel-Talker-Patan|Rahel Talker Patan]]
+**Father:** [[People/Sami-Patan|Sami Patan]] | **Mother:** [[People/Rahel-Talker-Patan|Rahel Talker Patan]]
 **Siblings:** [[People/Mary-Patan|Mary Patan]], [[People/Noam-Patan|Noam Patan]], [[People/Maayane-Patan|Maayane Patan]]
+**Families:** [[Families/Patan|Patan]]
 
 ## Biography
 

@@ -18,9 +18,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Matthew-David-Peaceman|Matthew David Peaceman]]
-**Mother:** [[People/Heike-Deckert-Peaceman|Heike Deckert Peaceman]]
+**Father:** [[People/Matthew-David-Peaceman|Matthew David Peaceman]] | **Mother:** [[People/Heike-Deckert-Peaceman|Heike Deckert Peaceman]]
 **Siblings:** [[People/Joshua-Henry-Peaceman|Joshua Henry Peaceman]]
+**Families:** [[Families/Peaceman|Peaceman]]
 
 ## Biography
 

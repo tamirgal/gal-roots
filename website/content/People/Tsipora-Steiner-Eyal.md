@@ -25,11 +25,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Zussia-Steiner|Zussia Steiner]]
-**Mother:** [[People/Leah-Aharon-Steiner|Leah Aharon Steiner]]
+**Father:** [[People/Zussia-Steiner|Zussia Steiner]] | **Mother:** [[People/Leah-Aharon-Steiner|Leah Aharon Steiner]]
 **Spouse:** [[People/Ariel-Eyal|Ariel Eyal]]
 **Siblings:** [[People/Ilana-Steiner-Harel|Ilana Steiner Harel]]
 **Children:** [[People/Liat-Eyal|Liat Eyal]]
+**Families:** [[Families/Steiner|Steiner]], [[Families/Eyal|Eyal]]
 
 ## Biography
 

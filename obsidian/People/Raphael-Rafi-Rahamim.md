@@ -24,6 +24,7 @@ research_level: 1
 
 **Spouse:** [[People/Esther-Esty-Yohay-Rahamim|Esther (Esty) Yohay Rahamim]]
 **Children:** [[People/Roye-Rahamim|Roye Rahamim]], [[People/Hila-Rahamim|Hila Rahamim]]
+**Families:** [[Families/Rahamim|Rahamim]]
 
 ## Biography
 

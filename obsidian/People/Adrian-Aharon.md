@@ -11,8 +11,8 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Mordechay-Aharon|Mordechay Aharon]]
-**Mother:** [[People/Margaret|Margaret]]
+**Father:** [[People/Mordechay-Aharon|Mordechay Aharon]] | **Mother:** [[People/Margaret|Margaret]]
+**Families:** [[Families/Aharon|Aharon]]
 
 ## Biography
 

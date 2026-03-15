@@ -18,6 +18,7 @@ research_level: 0
 
 **Spouse:** [[People/Judith-Hirsch-Kneiz|Judith Hirsch Kneiz]]
 **Children:** [[People/Corina-Kneiz-Mor|Corina Kneiz Mor]], [[People/Claudia-Kneiz|Claudia Kneiz]]
+**Families:** [[Families/Kneiz|Kneiz]]
 
 ## Biography
 

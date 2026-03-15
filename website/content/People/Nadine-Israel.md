@@ -21,10 +21,10 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Joseph-Israel|Joseph Israel]]
-**Mother:** [[People/Germaine-Stoliar-Israel|Germaine Stoliar Israel]]
+**Father:** [[People/Joseph-Israel|Joseph Israel]] | **Mother:** [[People/Germaine-Stoliar-Israel|Germaine Stoliar Israel]]
 **Spouse:** [[People/Fred-Yaitanes|Fred Yaitanes]]
 **Siblings:** [[People/Allen-Israel|Allen Israel]], [[People/Leon-Israel|Leon Israel]]
+**Families:** [[Families/Israel|Israel]]
 
 ## Biography
 Nadine Israel The Fred and Nadine Team,Realtors® Real Estate…As It Should Be®. www.fredandnadine.com

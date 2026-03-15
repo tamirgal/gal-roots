@@ -18,9 +18,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/David-Fried|David Fried]]
-**Mother:** [[People/Amanda-Oliver-Fried|Amanda Oliver Fried]]
+**Father:** [[People/David-Fried|David Fried]] | **Mother:** [[People/Amanda-Oliver-Fried|Amanda Oliver Fried]]
 **Siblings:** [[People/Tali-Fried|Tali Fried]]
+**Families:** [[Families/Fried|Fried]]
 
 ## Biography
 

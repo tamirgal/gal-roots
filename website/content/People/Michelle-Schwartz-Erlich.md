@@ -29,10 +29,10 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Emil-Schwartz|Emil Schwartz]]
-**Mother:** [[People/Sarah-Sandra-Farkas-Schwartz|Sarah (Sandra) Farkas Schwartz]]
+**Father:** [[People/Emil-Schwartz|Emil Schwartz]] | **Mother:** [[People/Sarah-Sandra-Farkas-Schwartz|Sarah (Sandra) Farkas Schwartz]]
 **Spouse:** [[People/Joseph-Erlich|Joseph Erlich]]
 **Children:** [[People/Max-Erlich|Max Erlich]], [[People/-Erlich|?? Erlich]]
+**Families:** [[Families/Schwartz|Schwartz]], [[Families/Erlich|Erlich]]
 
 ## Biography
 

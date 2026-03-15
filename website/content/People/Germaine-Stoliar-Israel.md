@@ -29,6 +29,7 @@ research_level: 1
 
 **Spouse:** [[People/Joseph-Israel|Joseph Israel]]
 **Children:** [[People/Allen-Israel|Allen Israel]], [[People/Nadine-Israel|Nadine Israel]], [[People/Leon-Israel|Leon Israel]]
+**Families:** [[Families/Stoliar|Stoliar]], [[Families/Israel|Israel]]
 
 ## Biography
 

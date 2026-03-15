@@ -21,9 +21,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Hayim-Ravia|Hayim Ravia]]
-**Mother:** [[People/Hadass-Tsour-Ravia|Hadass Tsour Ravia]]
+**Father:** [[People/Hayim-Ravia|Hayim Ravia]] | **Mother:** [[People/Hadass-Tsour-Ravia|Hadass Tsour Ravia]]
 **Siblings:** [[People/Itay-Ravia|Itay Ravia]], [[People/Niv-Ravia|Niv Ravia]]
+**Families:** [[Families/Ravia|Ravia]]
 
 ## Biography
 

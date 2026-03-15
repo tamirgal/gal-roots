@@ -28,11 +28,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Salvator-Savdie|Salvator Savdie]]
-**Mother:** [[People/Arlette-Abada-Savdie|Arlette Abada Savdie]]
+**Father:** [[People/Salvator-Savdie|Salvator Savdie]] | **Mother:** [[People/Arlette-Abada-Savdie|Arlette Abada Savdie]]
 **Spouse:** [[People/Ronit-Abada-Savdie|Ronit Abada Savdie]]
 **Siblings:** [[People/Jacky-Savdie|Jacky Savdie]], [[People/Elise-Savdie-Witukiewicz|Elise Savdie Witukiewicz]], [[People/Gina-Savdie-Uzan|Gina Savdie Uzan]]
 **Children:** [[People/Dan-Savdie|Dan Savdie]], [[People/Yoav-Savdie|Yoav Savdie]]
+**Families:** [[Families/Savdie|Savdie]]
 
 ## Biography
 

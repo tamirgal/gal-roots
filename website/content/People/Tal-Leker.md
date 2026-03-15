@@ -12,9 +12,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Noam-Leker|Noam Leker]]
-**Mother:** [[People/Iris-Brawn-Leker|Iris Brawn Leker]]
+**Father:** [[People/Noam-Leker|Noam Leker]] | **Mother:** [[People/Iris-Brawn-Leker|Iris Brawn Leker]]
 **Siblings:** [[People/Royi-Leker|Royi Leker]], [[People/Guy-Leker|Guy Leker]]
+**Families:** [[Families/Leker|Leker]]
 
 ## Biography
 

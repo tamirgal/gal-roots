@@ -18,9 +18,9 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Maurice-Toueg|Maurice Toueg]]
-**Mother:** [[People/Nelly-Toueg|Nelly Toueg]]
+**Father:** [[People/Maurice-Toueg|Maurice Toueg]] | **Mother:** [[People/Nelly-Toueg|Nelly Toueg]]
 **Siblings:** [[People/Ginette-Toueg-Abada|Ginette Toueg Abada]]
+**Families:** [[Families/Toueg|Toueg]]
 
 ## Biography
 Momo Toueg a l'age de 5 ans, au [[Places/Cairo]] a la piscine du National sporting club .

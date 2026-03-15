@@ -31,11 +31,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/David-Abada|David Abada]]
-**Mother:** [[People/Juliette-Pariente-Abada|Juliette Pariente Abada]]
+**Father:** [[People/David-Abada|David Abada]] | **Mother:** [[People/Juliette-Pariente-Abada|Juliette Pariente Abada]]
 **Spouse:** [[People/Esther-Yacobinsky-Abada|Esther Yacobinsky Abada]]
 **Siblings:** [[People/Saul-Abada-Ovdat|Saul Abada Ovdat]], [[People/Miriam-Abada-Harari|Miriam Abada Harari]], [[People/Avner-Abada-Ovdat|Avner Abada Ovdat]]
 **Children:** [[People/Einav-Abada-Avieli|Einav Abada Avieli]], [[People/Adi-Abada|Adi Abada]], [[People/Omer-Abada|Omer Abada]]
+**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 Wedding of Yacov Abada and Esther Yacobinsky, in [[Places/Israel]], 10 December 1972

@@ -25,6 +25,7 @@ research_level: 1
 
 **Spouse:** [[People/Ellen-Mina-Hirschman-Miller|Ellen Mina Hirschman Miller]]
 **Children:** [[People/Jonathan-David-Miller|Jonathan David Miller]], [[People/Rachel-Ann-Miller|Rachel Ann Miller]]
+**Families:** [[Families/Miller|Miller]]
 
 ## Biography
 

@@ -1,0 +1,4 @@
+---
+name: Fried
+type: family
+---

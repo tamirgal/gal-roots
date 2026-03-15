@@ -12,8 +12,8 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Husband-Einav|Husband Einav]]
-**Mother:** [[People/Mikhal-Cohen-Einav|Mikhal Cohen Einav]]
+**Father:** [[People/Husband-Einav|Husband Einav]] | **Mother:** [[People/Mikhal-Cohen-Einav|Mikhal Cohen Einav]]
+**Families:** [[Families/Einav|Einav]]
 
 ## Biography
 

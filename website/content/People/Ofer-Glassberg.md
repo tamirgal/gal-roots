@@ -26,11 +26,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Galil-Glassberg|Galil Glassberg]]
-**Mother:** [[People/Tsipora-Zuckerberger-Glassberg|Tsipora Zuckerberger Glassberg]]
+**Father:** [[People/Galil-Glassberg|Galil Glassberg]] | **Mother:** [[People/Tsipora-Zuckerberger-Glassberg|Tsipora Zuckerberger Glassberg]]
 **Spouse:** [[People/Ronit-Lublin-Glassberg|Ronit Lublin Glassberg]]
 **Siblings:** [[People/Arnon-Glassberg|Arnon Glassberg]]
 **Children:** [[People/Guy-Glassberg|Guy Glassberg]], [[People/Tal-Glassberg|Tal Glassberg]]
+**Families:** [[Families/Glassberg|Glassberg]]
 
 ## Biography
 Ofer is a Veterinar and works at Inpulse Dynamics in [[Places/Haifa]].

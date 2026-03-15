@@ -30,6 +30,7 @@ research_level: 2
 
 **Spouse:** [[People/Solimane-Abada|Solimane Abada]]
 **Children:** [[People/Allegra-Abada-Ventura|Allegra Abada Ventura]], [[People/David-Edouard-Abada|David Edouard Abada]], [[People/Alice-Abada-Harari|Alice Abada Harari]], [[People/Ernest-Zouzi-Abada|Ernest Zouzi Abada]], [[People/Freddy-Ephraim-Abada-Alitsour|Freddy (Ephraim) Abada (Alitsour)]]
+**Families:** [[Families/Ashkenazi|Ashkenazi]], [[Families/Abada|Abada]]
 
 ## Biography
 Linda Ashkenazi, mariee au [[Places/Cairo]], a Solimane, 5 eme garcon de la famille Abada. ... Ils eurent 5 enfants. Solimane, comme la plupart de ses freres, travaillait dans le textile et avait un petit magasin a "Haret El Yahoud", c'est l'antique quartier juif du [[Places/Cairo]].,...Apres les evenements de la guerre de Suez, la famille decide de quitter l'[[Places/Egypt]], et en 1957 elle emigre en [[Places/Israel]], et s'installe a Bat-Yam. Linda y mourut en 1974

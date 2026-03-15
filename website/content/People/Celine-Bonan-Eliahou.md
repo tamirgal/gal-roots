@@ -30,10 +30,10 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Zaki-Bonan|Zaki Bonan]]
-**Mother:** [[People/Marie-Israel-Bonan|Marie Israel Bonan]]
+**Father:** [[People/Zaki-Bonan|Zaki Bonan]] | **Mother:** [[People/Marie-Israel-Bonan|Marie Israel Bonan]]
 **Spouse:** [[People/Elie-Eliahou|Elie Eliahou]]
 **Siblings:** [[People/Leon-Oni-Bonan|Leon Oni Bonan]], [[People/Israel-Isi-Bonan|Israel Isi Bonan]]
+**Families:** [[Families/Bonan|Bonan]], [[Families/Eliahou|Eliahou]]
 
 ## Biography
 

@@ -32,6 +32,7 @@ research_level: 1
 
 **Spouse:** [[People/Marie-Israel-Bonan|Marie Israel Bonan]]
 **Children:** [[People/Leon-Oni-Bonan|Leon Oni Bonan]], [[People/Israel-Isi-Bonan|Israel Isi Bonan]], [[People/Celine-Bonan-Eliahou|Celine Bonan Eliahou]]
+**Families:** [[Families/Bonan|Bonan]]
 
 ## Biography
 

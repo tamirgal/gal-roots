@@ -19,6 +19,7 @@ research_level: 1
 
 **Spouse:** [[People/Edith-Klein-Kaminski|Edith Klein Kaminski]]
 **Children:** [[People/Gabriela-Kaminski-Sleppin|Gabriela Kaminski Sleppin]], [[People/David-Kaminski|David Kaminski]]
+**Families:** [[Families/Kaminski|Kaminski]]
 
 ## Biography
 

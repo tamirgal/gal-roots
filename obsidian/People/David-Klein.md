@@ -30,11 +30,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Avraham-Izhak-Klein|Avraham-Izhak Klein]]
-**Mother:** [[People/Hensha-Klein|Hensha Klein]]
+**Father:** [[People/Avraham-Izhak-Klein|Avraham-Izhak Klein]] | **Mother:** [[People/Hensha-Klein|Hensha Klein]]
 **Spouse:** [[People/Clara-Klein|Clara Klein]]
 **Siblings:** [[People/Moshe-Israel-Klein|Moshe Israel Klein]], [[People/Antonia-Klein-Goldstein|Antonia Klein Goldstein]], [[People/Roza-Rezsi-Klein-Der|Roza (Rezsi) Klein Der]], [[People/Bernard-Klein|Bernard Klein]], [[People/Yehuda-Klein|Yehuda Klein]]
 **Children:** [[People/Harriett-Klein-Peaceman|Harriett Klein Peaceman]], [[People/Ruth-Klein-Peaceman|Ruth Klein Peaceman]], [[People/Phyllis-Hirschman-Newmark|Phyllis Hirschman Newmark]]
+**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 David was born in [[Places/Uzhgorod]]. At the age of 8, his mother died and couple of years later his father, Avraham-Izhak Klein remarried again. At the age of 14, young David decided to leave home and was sent to New-York to establish new life. He was helped there by relatives of his mother. He married with Clara, had 3 daughters. He lived in NY all his life till he died at the age of 84.

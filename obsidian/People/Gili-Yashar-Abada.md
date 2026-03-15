@@ -26,6 +26,7 @@ research_level: 1
 
 **Spouse:** [[People/Moshe-Abada|Moshe Abada]]
 **Children:** [[People/Daniel-Abada|Daniel Abada]], [[People/Gay-Abada|Gay Abada]], [[People/Yair-Abada|Yair Abada]]
+**Families:** [[Families/Yashar|Yashar]], [[Families/Abada|Abada]]
 
 ## Biography
 

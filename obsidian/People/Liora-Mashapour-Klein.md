@@ -18,6 +18,7 @@ research_level: 0
 
 **Spouse:** [[People/Mark-Klein|Mark Klein]]
 **Children:** [[People/Roee-Klein|Roee Klein]], [[People/Shiri-Klein|Shiri Klein]]
+**Families:** [[Families/Mashapour|Mashapour]], [[Families/Klein|Klein]]
 
 ## Biography
 

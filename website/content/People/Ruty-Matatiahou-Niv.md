@@ -21,6 +21,7 @@ research_level: 2
 
 **Spouse:** [[People/Elie-Nefoussi-Niv|Elie Nefoussi Niv]]
 **Children:** [[People/Amir-Niv|Amir Niv]], [[People/Shemer-Niv|Shemer Niv]], [[People/Keren-Niv-Bornstein|Keren Niv Bornstein]]
+**Families:** [[Families/Matatiahou|Matatiahou]], [[Families/Niv|Niv]]
 
 ## Biography
 Ruty Matatiahou , married to Elie Niv in [[Places/Israel]] , in 1965

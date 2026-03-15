@@ -20,10 +20,10 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Menashe-Abada|Menashe Abada]]
-**Mother:** [[People/Gorgia-Danous-Abada|Gorgia Danous Abada]]
+**Father:** [[People/Menashe-Abada|Menashe Abada]] | **Mother:** [[People/Gorgia-Danous-Abada|Gorgia Danous Abada]]
 **Spouse:** [[People/France-Abada-Ronen|France Abada Ronen]]
 **Siblings:** [[People/Victor-Abada-ind00327|Victor Abada]], [[People/Arlette-Allegra-Abada-Zakoto|Arlette (Allegra) Abada Zakoto]], [[People/Aimee-Abada-Sardass|Aimee Abada Sardass]], [[People/Edouard-Dolly-Abada|Edouard (Dolly) Abada]]
+**Families:** [[Families/Abada|Abada]], [[Families/Ronen|Ronen]]
 
 ## Biography
 Elie , ne Abada,... En Israel il changea son nom de famille en Ronen.

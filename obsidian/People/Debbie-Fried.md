@@ -17,9 +17,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Tab-Tibor-Fried|Tab (Tibor) Fried]]
-**Mother:** [[People/Eva-Rachel-Aroni-Fried|Eva (Rachel) Aroni Fried]]
+**Father:** [[People/Tab-Tibor-Fried|Tab (Tibor) Fried]] | **Mother:** [[People/Eva-Rachel-Aroni-Fried|Eva (Rachel) Aroni Fried]]
 **Siblings:** [[People/David-Fried|David Fried]], [[People/Elie-Fried|Elie Fried]]
+**Families:** [[Families/Fried|Fried]]
 
 ## Biography
 

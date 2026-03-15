@@ -26,6 +26,7 @@ research_level: 1
 
 **Spouse:** [[People/Isaac-Saison|Isaac Saison]]
 **Children:** [[People/Maya-Saison|Maya Saison]], [[People/Tamar-Saison|Tamar Saison]]
+**Families:** [[Families/Saison|Saison]]
 
 ## Biography
 

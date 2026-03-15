@@ -29,10 +29,10 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Albert-Abada|Albert Abada]]
-**Mother:** [[People/Daisy-Seroussi-Abada|Daisy Seroussi Abada]]
+**Father:** [[People/Albert-Abada|Albert Abada]] | **Mother:** [[People/Daisy-Seroussi-Abada|Daisy Seroussi Abada]]
 **Spouse:** [[People/Yehoshuah-Azar|Yehoshuah Azar]]
 **Children:** [[People/Nitsa-Azar|Nitsa Azar]], [[People/David-Azar|David Azar]], [[People/Ehoud-Azar|Ehoud Azar]]
+**Families:** [[Families/Abada|Abada]], [[Families/Azar|Azar]]
 
 ## Biography
 

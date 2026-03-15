@@ -20,9 +20,9 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Sami-Patan|Sami Patan]]
-**Mother:** [[People/Rahel-Talker-Patan|Rahel Talker Patan]]
+**Father:** [[People/Sami-Patan|Sami Patan]] | **Mother:** [[People/Rahel-Talker-Patan|Rahel Talker Patan]]
 **Siblings:** [[People/Mary-Patan|Mary Patan]], [[People/Omri-Patan|Omri Patan]], [[People/Maayane-Patan|Maayane Patan]]
+**Families:** [[Families/Patan|Patan]]
 
 ## Biography
 Fascinated by this fireworks,...

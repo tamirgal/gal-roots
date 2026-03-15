@@ -32,11 +32,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Donald-William-Peaceman|Donald William Peaceman]]
-**Mother:** [[People/Ruth-Klein-Peaceman|Ruth Klein Peaceman]]
+**Father:** [[People/Donald-William-Peaceman|Donald William Peaceman]] | **Mother:** [[People/Ruth-Klein-Peaceman|Ruth Klein Peaceman]]
 **Spouse:** [[People/Karen-Peaceman|Karen Peaceman]]
 **Siblings:** [[People/Caren-Beth-Peaceman-Cowan|Caren Beth Peaceman Cowan]]
 **Children:** [[People/Sarah-Diane-Peaceman|Sarah Diane Peaceman]], [[People/Daniel-Morris-Peaceman|Daniel Morris Peaceman]], [[People/Claire-Shoshana-Peaceman|Claire Shoshana Peaceman]]
+**Families:** [[Families/Mark|Mark]], [[Families/Peaceman|Peaceman]]
 
 ## Biography
 Lives in HighLand Park, Illinois. Works at the Northwestern Memorial Hospital in Chicago as a perinatologist (perinatology is care of high risk pregnant women)

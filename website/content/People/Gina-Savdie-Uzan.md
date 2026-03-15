@@ -30,11 +30,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Salvator-Savdie|Salvator Savdie]]
-**Mother:** [[People/Arlette-Abada-Savdie|Arlette Abada Savdie]]
+**Father:** [[People/Salvator-Savdie|Salvator Savdie]] | **Mother:** [[People/Arlette-Abada-Savdie|Arlette Abada Savdie]]
 **Spouse:** [[People/Elie-Uzan|Elie Uzan]]
 **Siblings:** [[People/Jacky-Savdie|Jacky Savdie]], [[People/Elise-Savdie-Witukiewicz|Elise Savdie Witukiewicz]], [[People/Soly-Savdie|Soly Savdie]]
 **Children:** [[People/Elsa-Uzan|Elsa Uzan]], [[People/Lea-Uzan|Lea Uzan]]
+**Families:** [[Families/Savdie|Savdie]], [[Families/Uzan|Uzan]]
 
 ## Biography
 Gina et Elie Uzan sont divorces.

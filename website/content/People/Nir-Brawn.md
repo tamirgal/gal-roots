@@ -25,11 +25,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Hayim-Brawn|Hayim Brawn]]
-**Mother:** [[People/Lina-Nefoussi-Brawn|Lina Nefoussi Brawn]]
+**Father:** [[People/Hayim-Brawn|Hayim Brawn]] | **Mother:** [[People/Lina-Nefoussi-Brawn|Lina Nefoussi Brawn]]
 **Spouse:** [[People/Elisabeth-Finegenblat-Brawn|Elisabeth Finegenblat Brawn]]
 **Siblings:** [[People/Iris-Brawn-Leker|Iris Brawn Leker]], [[People/Sharon-Brawn|Sharon Brawn]]
 **Children:** [[People/Ady-Brawn|Ady Brawn]], [[People/Ofry-Brawn|Ofry Brawn]], [[People/Idane-Brawn|Idane Brawn]], [[People/Amit-Brawn|Amit Brawn]]
+**Families:** [[Families/Brawn|Brawn]]
 
 ## Biography
 Nir Brawn, married to Elisabeth Finegenblat, in [[Places/Israel]], in 1985

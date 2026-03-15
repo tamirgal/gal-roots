@@ -17,9 +17,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Hans-Fenstermacher|Hans Fenstermacher]]
-**Mother:** [[People/Janet-Ann-Hirschman-Fenstermacher|Janet Ann Hirschman Fenstermacher]]
+**Father:** [[People/Hans-Fenstermacher|Hans Fenstermacher]] | **Mother:** [[People/Janet-Ann-Hirschman-Fenstermacher|Janet Ann Hirschman Fenstermacher]]
 **Siblings:** [[People/Amy-Claire-Fenstermacher|Amy Claire Fenstermacher]], [[People/Samuel-Mark-Fenstermacher|Samuel Mark Fenstermacher]]
+**Families:** [[Families/Fenstermacher|Fenstermacher]]
 
 ## Biography
 

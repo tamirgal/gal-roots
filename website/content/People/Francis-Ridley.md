@@ -18,11 +18,11 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Ferdinand-Ridley|Ferdinand Ridley]]
-**Mother:** [[People/Paula-Clyne-Ridley|Paula Clyne Ridley]]
+**Father:** [[People/Ferdinand-Ridley|Ferdinand Ridley]] | **Mother:** [[People/Paula-Clyne-Ridley|Paula Clyne Ridley]]
 **Spouse:** [[People/Jemima-French|Jemima French]]
 **Siblings:** [[People/Dominic-Ridley|Dominic Ridley]], [[People/Caroline-Ridley|Caroline Ridley]]
 **Children:** [[People/Meadow-Clyne|Meadow Clyne]]
+**Families:** [[Families/Ridley|Ridley]]
 
 ## Biography
 

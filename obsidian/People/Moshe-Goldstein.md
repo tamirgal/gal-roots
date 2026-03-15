@@ -18,6 +18,7 @@ research_level: 0
 
 **Spouse:** [[People/Savta-Goldstein-Klein|"Savta" Goldstein Klein]]
 **Children:** [[People/Joseph-Goldstein|Joseph Goldstein]], [[People/Paul-Polie-Goldstein|Paul (Polie) Goldstein]]
+**Families:** [[Families/Goldstein|Goldstein]]
 
 ## Biography
 Lived and died in [[Places/Uzhgorod]]. We do not have any information about him

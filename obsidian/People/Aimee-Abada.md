@@ -29,6 +29,7 @@ research_level: 1
 
 **Spouse:** [[People/Riri-Ernest-Abada|Riri Ernest Abada]]
 **Children:** [[People/Chantal-Abada|Chantal Abada]], [[People/Eyal-Abada|Eyal Abada]]
+**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

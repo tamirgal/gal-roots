@@ -22,6 +22,7 @@ research_level: 0
 
 **Spouse:** [[People/Herman-Haim-Klein|Herman Haim Klein]]
 **Children:** [[People/Mordechay-Klein|Mordechay Klein]], [[People/Chana-Klein|Chana Klein]], [[People/Esther-Klein|Esther Klein]], [[People/Sarah-Klein-1928|Sarah Klein]]
+**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 Feige is the second wife of Herman Haim Klein. They have 4 children She died in nazi concentration camps.

@@ -18,11 +18,11 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Amir-Sami-Shimon|Amir (Sami) Shimon]]
-**Mother:** [[People/Regina-Jina-Abada-Shimon|Regina (Jina) (Abada) Shimon]]
+**Father:** [[People/Amir-Sami-Shimon|Amir (Sami) Shimon]] | **Mother:** [[People/Regina-Jina-Abada-Shimon|Regina (Jina) (Abada) Shimon]]
 **Spouse:** [[People/Ilan-Davida|Ilan Davida]]
 **Siblings:** [[People/Chaim-Shimon|Chaim Shimon]], [[People/Liat-Shimon-Kokhavi|Liat (Shimon) Kokhavi]], [[People/Keren-Shimon-Haiman|Keren (Shimon) Haiman]], [[People/Shani-Shimon|Shani Shimon]]
 **Children:** [[People/Noah-Davida|Noah Davida]]
+**Families:** [[Families/Davida|Davida]]
 
 ## Biography
 

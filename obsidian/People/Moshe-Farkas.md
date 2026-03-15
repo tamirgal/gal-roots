@@ -18,9 +18,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Yehuda-Wolf-Farkas|Yehuda Wolf Farkas]]
-**Mother:** [[People/Frida-Aharon-Farkas|Frida Aharon Farkas]]
+**Father:** [[People/Yehuda-Wolf-Farkas|Yehuda Wolf Farkas]] | **Mother:** [[People/Frida-Aharon-Farkas|Frida Aharon Farkas]]
 **Siblings:** [[People/Sarah-Sandra-Farkas-Schwartz|Sarah (Sandra) Farkas Schwartz]], [[People/Zipora-Farkas-Hirsch|Zipora Farkas Hirsch]], [[People/Chaya-Farkas-Goldstein|Chaya Farkas Goldstein]], [[People/Miriam-Farkas-Kalkstein|Miriam Farkas Kalkstein]], [[People/Kalman-Farkas|Kalman Farkas]], [[People/Shimshon-Farkas|Shimshon Farkas]]
+**Families:** [[Families/Farkas|Farkas]]
 
 ## Biography
 

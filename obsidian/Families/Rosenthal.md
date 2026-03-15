@@ -1,0 +1,4 @@
+---
+name: Rosenthal
+type: family
+---

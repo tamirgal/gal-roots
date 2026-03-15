@@ -34,11 +34,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Shaoul-Abada-1889|Shaoul Abada]]
-**Mother:** [[People/Regina-Malka-Abada|Regina Malka Abada]]
+**Father:** [[People/Shaoul-Abada-1889|Shaoul Abada]] | **Mother:** [[People/Regina-Malka-Abada|Regina Malka Abada]]
 **Spouse:** [[People/Salvator-Savdie|Salvator Savdie]]
 **Siblings:** [[People/Esther-Abada-Nefoussi|Esther Abada Nefoussi]], [[People/Alice-Abada-Abadi|Alice Abada Abadi]], [[People/David-Abada|David Abada]], [[People/Hayim-Abada-ind00281|Hayim Abada]], [[People/Joseph-Abada|Joseph Abada]], [[People/Mary-Abada-Patan|Mary Abada Patan]], [[People/Ernest-Nisso-Abada|Ernest (Nisso) Abada]], [[People/Claude-Hayim-Abada|Claude (Hayim) Abada]]
 **Children:** [[People/Jacky-Savdie|Jacky Savdie]], [[People/Elise-Savdie-Witukiewicz|Elise Savdie Witukiewicz]], [[People/Soly-Savdie|Soly Savdie]], [[People/Gina-Savdie-Uzan|Gina Savdie Uzan]]
+**Families:** [[Families/Abada|Abada]], [[Families/Savdie|Savdie]]
 
 ## Biography
 Arlette, fille de Shaoul et Regina Abada, est nee le 6 Fevrier 1926, a Tanta, vilee situee au Delta du Nil, au nord du [[Places/Cairo]]. Plus tard la famille demenage vers la capitale Egyptienne. Mariee au [[Places/Cairo]], en mars 1950, a Salvator Savdie ,.. Ils ont 4 enfants... En 1957, a la suite de la guerre de Suez, la famille emigre en [[Places/France]] , et s'installe a Villiers le Bel, au nord de Paris, ou ils habitent jusqu'a nos jours.

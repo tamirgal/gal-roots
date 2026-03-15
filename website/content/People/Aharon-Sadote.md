@@ -18,6 +18,7 @@ research_level: 0
 
 **Spouse:** [[People/Gabriela-Kaminski-Sleppin|Gabriela Kaminski Sleppin]]
 **Children:** [[People/Revital-Sadote|Revital Sadote]], [[People/Shirit-Sadote|Shirit Sadote]]
+**Families:** [[Families/Sadote|Sadote]]
 
 ## Biography
 

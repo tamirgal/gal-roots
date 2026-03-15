@@ -18,6 +18,7 @@ research_level: 0
 
 **Spouse:** [[People/Camille-Nefoussi-Aknine|Camille Nefoussi Aknine]]
 **Children:** [[People/Rahel-Aknine|Rahel Aknine]], [[People/Bekhor-Aknine|Bekhor Aknine]]
+**Families:** [[Families/Aknine|Aknine]]
 
 ## Biography
 

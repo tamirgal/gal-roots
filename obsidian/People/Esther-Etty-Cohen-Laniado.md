@@ -26,11 +26,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/David-Cohen|David Cohen]]
-**Mother:** [[People/Mary-Ruben-Cohen|Mary Ruben Cohen]]
+**Father:** [[People/David-Cohen|David Cohen]] | **Mother:** [[People/Mary-Ruben-Cohen|Mary Ruben Cohen]]
 **Spouse:** [[People/Tsion-Laniado|Tsion Laniado]]
 **Siblings:** [[People/Moshe-Cohen|Moshe Cohen]], [[People/Rony-Cohen|Rony Cohen]]
 **Children:** [[People/Shirah-Laniado|Shirah Laniado]], [[People/Yoss-Laniado|Yoss Laniado]]
+**Families:** [[Families/Cohen|Cohen]], [[Families/Laniado|Laniado]]
 
 ## Biography
 Esther (Etty) Cohen, married to Tsion Lagnado , in [[Places/Israel]], on the 4 July 1989.

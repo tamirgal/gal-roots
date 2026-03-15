@@ -26,6 +26,7 @@ research_level: 1
 
 **Spouse:** [[People/Ernest-Zouzi-Abada|Ernest Zouzi Abada]]
 **Children:** [[People/Linda-Abada-Adato|Linda Abada Adato]], [[People/Revital-Abada|Revital Abada]], [[People/Shlomit-Abada|Shlomit Abada]]
+**Families:** [[Families/Sabato|Sabato]], [[Families/Abada|Abada]]
 
 ## Biography
 

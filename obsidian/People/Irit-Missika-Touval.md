@@ -20,6 +20,7 @@ research_level: 0
 
 **Spouse:** [[People/Avi-Touena-Touval|Avi Touena Touval]]
 **Children:** [[People/Shahar-Touval|Shahar Touval]], [[People/Itay-Touval|Itay Touval]], [[People/Saguy-Touval|Saguy Touval]]
+**Families:** [[Families/Missika|Missika]], [[Families/Touval|Touval]]
 
 ## Biography
 

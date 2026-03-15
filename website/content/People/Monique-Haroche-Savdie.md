@@ -21,6 +21,7 @@ research_level: 1
 
 **Spouse:** [[People/Jacky-Savdie|Jacky Savdie]]
 **Children:** [[People/Sandra-Savdie|Sandra Savdie]]
+**Families:** [[Families/Haroche|Haroche]], [[Families/Savdie|Savdie]]
 
 ## Biography
 

@@ -11,8 +11,8 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Elie-Zeitouni-ind00641|Elie Zeitouni]]
-**Mother:** [[People/Tova-Sofer-Zeitouni|Tova (Sofer) Zeitouni]]
+**Father:** [[People/Elie-Zeitouni-ind00641|Elie Zeitouni]] | **Mother:** [[People/Tova-Sofer-Zeitouni|Tova (Sofer) Zeitouni]]
+**Families:** [[Families/Zeitouni|Zeitouni]]
 
 ## Biography
 

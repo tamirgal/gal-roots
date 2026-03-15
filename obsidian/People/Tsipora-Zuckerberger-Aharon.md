@@ -30,6 +30,7 @@ research_level: 1
 
 **Spouse:** [[People/Shabtay-Aharon|Shabtay Aharon]]
 **Children:** [[People/Avigdor-Zuckerberger|Avigdor Zuckerberger]], [[People/Ahouva-Aharon-Fuchs|Ahouva Aharon Fuchs]], [[People/Arie-Leopold-Aharon|Arie Leopold Aharon]], [[People/Mordechay-Aharon|Mordechay Aharon]], [[People/Leah-Aharon-Steiner|Leah Aharon Steiner]]
+**Families:** [[Families/Zuckerberger|Zuckerberger]], [[Families/Aharon|Aharon]]
 
 ## Biography
 

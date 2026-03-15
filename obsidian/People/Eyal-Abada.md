@@ -19,9 +19,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Riri-Ernest-Abada|Riri Ernest Abada]]
-**Mother:** [[People/Aimee-Abada|Aimee Abada]]
+**Father:** [[People/Riri-Ernest-Abada|Riri Ernest Abada]] | **Mother:** [[People/Aimee-Abada|Aimee Abada]]
 **Siblings:** [[People/Chantal-Abada|Chantal Abada]]
+**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

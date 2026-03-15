@@ -20,8 +20,8 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Aviel-Kelmus|Aviel Kelmus]]
-**Mother:** [[People/Einat-Fuchs-Kelmus|Einat Fuchs Kelmus]]
+**Father:** [[People/Aviel-Kelmus|Aviel Kelmus]] | **Mother:** [[People/Einat-Fuchs-Kelmus|Einat Fuchs Kelmus]]
+**Families:** [[Families/Kelmus|Kelmus]]
 
 ## Biography
 

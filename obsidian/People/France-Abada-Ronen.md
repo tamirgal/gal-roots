@@ -16,6 +16,7 @@ research_level: 1
 ## Family
 
 **Spouse:** [[People/Elie-Lili-Abada-Ronen|Elie (Lili) Abada Ronen]]
+**Families:** [[Families/Abada|Abada]], [[Families/Ronen|Ronen]]
 
 ## Biography
 

@@ -39,11 +39,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Joseph-Goldstein-Gal|Joseph Goldstein Gal]]
-**Mother:** [[People/Aviva-Vicky-Patan-Gal|Aviva (Vicky) Patan Gal]]
+**Father:** [[People/Joseph-Goldstein-Gal|Joseph Goldstein Gal]] | **Mother:** [[People/Aviva-Vicky-Patan-Gal|Aviva (Vicky) Patan Gal]]
 **Spouse:** [[People/Adi-Dolev-Gal|Adi Dolev Gal]]
 **Siblings:** [[People/Tamir-Gal|Tamir Gal]]
 **Children:** [[People/Shahar-Gal|Shahar Gal]], [[People/Yael-Gal|Yael Gal]], [[People/Ori-Gal|Ori Gal]]
+**Families:** [[Families/Gal|Gal]]
 
 ## Biography
 Born in [[Places/Haifa]], Israel and raised in [[Places/Nofit]]. He graduated high School and was drafted to the IDF where he served for 3 years as a Sergeant at the Engineering Corps. After his military service, he took the time traveling the world for a while, visiting South America for 7 months. After he got back home, he studied in the "Technion" ([[Places/Haifa]]), the Israel Institute of Technologies and graduated in Electrical engineering as well as in Physics. During his study he continued his hobby of traveling and backpacking around the world visiting New Zealand, Cuba, Ireland, Mexico, Morocco, Ethiopia, Tanzania. After a few years of work in Intel ([[Places/Haifa]]), he decided to go back to school, and joined the PhD program in computational neuroscience (commonly known as "Brain Science") at the Hebrew University in [[Places/Jerusalem]]. On 21st of August 2008, he married Adi Dolev in Kibbutz Hatzerim. Together they traveled to Scotland, Canary Islands (where he proposed to Adi) and spent their honeymoon in Costa Rica. On 25th of October 2009 they had their beautiful first daughter: Shahar.

@@ -29,6 +29,7 @@ research_level: 1
 
 **Spouse:** [[People/Alice-Abada-Harari|Alice Abada Harari]]
 **Children:** [[People/Liliane-Harari|Liliane Harari]], [[People/Marco-Harari|Marco Harari]], [[People/Lina-Harari|Lina Harari]], [[People/Salomon-Harari|Salomon Harari]]
+**Families:** [[Families/Harari|Harari]]
 
 ## Biography
 

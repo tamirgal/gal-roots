@@ -17,9 +17,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Ofer-Glassberg|Ofer Glassberg]]
-**Mother:** [[People/Ronit-Lublin-Glassberg|Ronit Lublin Glassberg]]
+**Father:** [[People/Ofer-Glassberg|Ofer Glassberg]] | **Mother:** [[People/Ronit-Lublin-Glassberg|Ronit Lublin Glassberg]]
 **Siblings:** [[People/Tal-Glassberg|Tal Glassberg]]
+**Families:** [[Families/Glassberg|Glassberg]]
 
 ## Biography
 

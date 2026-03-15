@@ -16,6 +16,7 @@ research_level: 0
 
 **Spouse:** [[People/Einat-Fuchs-Kelmus|Einat Fuchs Kelmus]]
 **Children:** [[People/Yuval-Kelmus|Yuval Kelmus]]
+**Families:** [[Families/Kelmus|Kelmus]]
 
 ## Biography
 

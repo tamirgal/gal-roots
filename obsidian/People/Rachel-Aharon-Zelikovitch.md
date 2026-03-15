@@ -25,11 +25,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/David-Aharon|David Aharon]]
-**Mother:** [[People/Sheindel-Aharon|Sheindel Aharon]]
+**Father:** [[People/David-Aharon|David Aharon]] | **Mother:** [[People/Sheindel-Aharon|Sheindel Aharon]]
 **Spouse:** [[People/Izaak-Zelikovitch|Izaak Zelikovitch]]
 **Siblings:** [[People/Joseph-Aharon-1887|Joseph Aharon]], [[People/Shabtay-Aharon|Shabtay Aharon]], [[People/Frida-Aharon-Farkas|Frida Aharon Farkas]], [[People/Lea-Aharon-Eliovich|Lea Aharon Eliovich]]
 **Children:** [[People/Sosik-Zelikovitch|Sosik Zelikovitch]]
+**Families:** [[Families/Aharon|Aharon]], [[Families/Zelikovitch|Zelikovitch]]
 
 ## Biography
 

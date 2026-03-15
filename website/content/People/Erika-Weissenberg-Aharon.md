@@ -17,6 +17,7 @@ research_level: 1
 
 **Spouse:** [[People/Mordechay-Aharon|Mordechay Aharon]]
 **Children:** [[People/Ernest-Aharon|Ernest Aharon]]
+**Families:** [[Families/Weissenberg|Weissenberg]], [[Families/Aharon|Aharon]]
 
 ## Biography
 

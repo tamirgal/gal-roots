@@ -32,11 +32,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Jacques-Sasson-Saison|Jacques Sasson Saison]]
-**Mother:** [[People/Leonie-Mizrahi-Saison|Leonie Mizrahi Saison]]
+**Father:** [[People/Jacques-Sasson-Saison|Jacques Sasson Saison]] | **Mother:** [[People/Leonie-Mizrahi-Saison|Leonie Mizrahi Saison]]
 **Spouse:** [[People/Toula-Saison|Toula Saison]]
 **Siblings:** [[People/Marlene-Saison-Barouh|Marlene Saison Barouh]], [[People/Andree-Deddy-Saison-Martins-de-Barros|Andree (Deddy) Saison Martins de Barros]], [[People/Doris-Saison-Remnant|Doris Saison Remnant]]
 **Children:** [[People/Maya-Saison|Maya Saison]], [[People/Tamar-Saison|Tamar Saison]]
+**Families:** [[Families/Saison|Saison]]
 
 ## Biography
 

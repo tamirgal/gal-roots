@@ -16,6 +16,7 @@ research_level: 0
 
 **Spouse:** [[People/Liat-Shimon-Kokhavi|Liat (Shimon) Kokhavi]]
 **Children:** [[People/Ori-Kokhavi|Ori Kokhavi]]
+**Families:** [[Families/Kokhavi|Kokhavi]]
 
 ## Biography
 

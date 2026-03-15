@@ -25,6 +25,7 @@ research_level: 1
 
 **Spouse:** [[People/Ilana-Steiner-Harel|Ilana Steiner Harel]]
 **Children:** [[People/Tal-Harel|Tal Harel]], [[People/Liran-Harel|Liran Harel]]
+**Families:** [[Families/Harel|Harel]]
 
 ## Biography
 

@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Avi-Haiman|Avi Haiman]]
-**Mother:** [[People/Keren-Shimon-Haiman|Keren (Shimon) Haiman]]
+**Father:** [[People/Avi-Haiman|Avi Haiman]] | **Mother:** [[People/Keren-Shimon-Haiman|Keren (Shimon) Haiman]]
 **Siblings:** [[People/Roni-Haiman|Roni Haiman]]
+**Families:** [[Families/Haiman|Haiman]]
 
 ## Biography
 

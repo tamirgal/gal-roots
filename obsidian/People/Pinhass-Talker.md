@@ -19,10 +19,10 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Shlomo-Talker|Shlomo Talker]]
-**Mother:** [[People/Sarah-Talker|Sarah Talker]]
+**Father:** [[People/Shlomo-Talker|Shlomo Talker]] | **Mother:** [[People/Sarah-Talker|Sarah Talker]]
 **Spouse:** [[People/Sybill-Talker|Sybill Talker]]
 **Siblings:** [[People/Moshe-Talker|Moshe Talker]], [[People/Batsheba-Talker-Berkovitz|Batsheba Talker Berkovitz]], [[People/Bentsion-Talker|Bentsion Talker]], [[People/Shmouel-Talker|Shmouel Talker]], [[People/Rahel-Talker-Patan|Rahel Talker Patan]]
+**Families:** [[Families/Talker|Talker]]
 
 ## Biography
 

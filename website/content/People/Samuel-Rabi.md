@@ -17,6 +17,7 @@ research_level: 1
 ## Family
 
 **Spouse:** [[People/Maya-Shaked-Rabi|Maya Shaked Rabi]]
+**Families:** [[Families/Rabi|Rabi]]
 
 ## Biography
 

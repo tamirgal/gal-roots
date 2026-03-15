@@ -24,6 +24,7 @@ research_level: 2
 
 **Spouse:** [[People/Caren-Beth-Peaceman-Cowan|Caren Beth Peaceman Cowan]]
 **Children:** [[People/Michael-Aaron-Cowan|Michael Aaron Cowan]], [[People/Steven-Jay-Cowan|Steven Jay Cowan]]
+**Families:** [[Families/Mark|Mark]], [[Families/Cowan|Cowan]]
 
 ## Biography
 Lives in Huston, [[Places/Texas]].

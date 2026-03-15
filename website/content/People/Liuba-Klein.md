@@ -21,6 +21,7 @@ research_level: 1
 
 **Spouse:** [[People/Gabriel-Klein-1949|Gabriel Klein]]
 **Children:** [[People/Mark-Klein|Mark Klein]], [[People/Einat-Klein|Einat Klein]], [[People/Danny-Klein|Danny Klein]]
+**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 

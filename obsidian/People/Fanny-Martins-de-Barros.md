@@ -22,9 +22,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Andre-Martins-de-Barros|Andre Martins de Barros]]
-**Mother:** [[People/Andree-Deddy-Saison-Martins-de-Barros|Andree (Deddy) Saison Martins de Barros]]
+**Father:** [[People/Andre-Martins-de-Barros|Andre Martins de Barros]] | **Mother:** [[People/Andree-Deddy-Saison-Martins-de-Barros|Andree (Deddy) Saison Martins de Barros]]
 **Siblings:** [[People/Cyril-Martins-de-Barros|Cyril Martins de Barros]]
+**Families:** [[Families/Martins|Martins]], [[Families/Barros|Barros]]
 
 ## Biography
 

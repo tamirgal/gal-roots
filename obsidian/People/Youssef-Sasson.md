@@ -31,11 +31,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Khalifa-Khelef-Sasson|Khalifa Khelef Sasson]]
-**Mother:** [[People/Semha-Meyer-Sasson|Semha Meyer Sasson]]
+**Father:** [[People/Khalifa-Khelef-Sasson|Khalifa Khelef Sasson]] | **Mother:** [[People/Semha-Meyer-Sasson|Semha Meyer Sasson]]
 **Spouse:** [[People/Rachel-Sasson|Rachel Sasson]]
 **Siblings:** [[People/Khalifa-Sasson-1856|Khalifa Sasson]], [[People/Habiba-Sasson-1860|Habiba Sasson]], [[People/Itshak-Sasson|Itshak Sasson]], [[People/Farha-Sasson-Ambar|Farha Sasson Ambar]]
 **Children:** [[People/Bekhora-Sasson-Ezra|Bekhora Sasson Ezra]], [[People/Nissim-Sasson|Nissim Sasson]], [[People/Regina-Sasson|Regina Sasson]], [[People/Moussa-Moshe-Sasson|Moussa Moshe Sasson]], [[People/Rebecca-Sasson-Yehya|Rebecca Sasson Yehya]], [[People/Semha-Sasson-Cohen|Semha Sasson Cohen]], [[People/David-Sasson|David Sasson]]
+**Families:** [[Families/Sasson|Sasson]]
 
 ## Biography
 

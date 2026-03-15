@@ -1,0 +1,4 @@
+---
+name: Pariente
+type: family
+---

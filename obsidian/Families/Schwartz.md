@@ -1,0 +1,4 @@
+---
+name: Schwartz
+type: family
+---

@@ -17,6 +17,7 @@ research_level: 2
 ## Family
 
 **Spouse:** [[People/Michelle-Bonan-Hamill|Michelle Bonan Hamill]]
+**Families:** [[Families/Hamill|Hamill]]
 
 ## Biography
 Steve Hamill , married to Michele Bonan, in New-York - 12 September 2004.

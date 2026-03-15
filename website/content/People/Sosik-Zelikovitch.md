@@ -12,8 +12,8 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Izaak-Zelikovitch|Izaak Zelikovitch]]
-**Mother:** [[People/Rachel-Aharon-Zelikovitch|Rachel Aharon Zelikovitch]]
+**Father:** [[People/Izaak-Zelikovitch|Izaak Zelikovitch]] | **Mother:** [[People/Rachel-Aharon-Zelikovitch|Rachel Aharon Zelikovitch]]
+**Families:** [[Families/Zelikovitch|Zelikovitch]]
 
 ## Biography
 

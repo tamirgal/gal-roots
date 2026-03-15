@@ -22,6 +22,7 @@ research_level: 2
 
 **Spouse:** [[People/Amy-Mina-Peaceman-Schlundt|Amy Mina Peaceman Schlundt]]
 **Children:** [[People/Jennifer-Schlundt|Jennifer Schlundt]]
+**Families:** [[Families/Schlundt|Schlundt]]
 
 ## Biography
 Lives in Landstuhl, Germany

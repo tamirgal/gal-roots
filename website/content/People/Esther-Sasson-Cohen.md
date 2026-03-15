@@ -46,11 +46,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Itshak-Sasson|Itshak Sasson]]
-**Mother:** [[People/Marietta-Attar-Sasson|Marietta Attar Sasson]]
+**Father:** [[People/Itshak-Sasson|Itshak Sasson]] | **Mother:** [[People/Marietta-Attar-Sasson|Marietta Attar Sasson]]
 **Spouse:** [[People/Maurice-Moshe-Cohen|Maurice (Moshe) Cohen]]
 **Siblings:** [[People/Meyer-Sasson|Meyer Sasson]], [[People/Hamama-Sasson-Israel|Hamama Sasson Israel]], [[People/Jacques-Sasson-Saison|Jacques Sasson Saison]], [[People/Victoria-Sasson-Patan|Victoria Sasson Patan]], [[People/Albert-Sasson|Albert Sasson]]
 **Children:** [[People/David-Cohen|David Cohen]], [[People/Rosette-Rosy-Cohen-Hanan|Rosette (Rosy) Cohen Hanan]], [[People/Mireille-Cohen|Mireille Cohen]], [[People/Itshak-Zako-Cohen|Itshak (Zako) Cohen]], [[People/Vicky-Cohen-Itshaki|Vicky Cohen Itshaki]]
+**Families:** [[Families/Sasson|Sasson]], [[Families/Cohen|Cohen]]
 
 ## Biography
 Born in [[Places/Luxor]], married to Maurice Cohen, in [[Places/Cairo]], 22.2.1931. They lived in [[Places/Heliopolis]],[[Places/Cairo]]. They had a store of houseware goods. In 1950 the family emigrated to [[Places/Israel]] with their 5 children, lived in "BetZait", an agricultural settlement near [[Places/Jerusalem]], In the sixties, the family moved to [[Places/Holon]], where she died 30 September 1992, aged 87 years old. (Elie Patan)

@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Yehoshuah-Azar|Yehoshuah Azar]]
-**Mother:** [[People/Rosy-Abada-Azar|Rosy Abada Azar]]
+**Father:** [[People/Yehoshuah-Azar|Yehoshuah Azar]] | **Mother:** [[People/Rosy-Abada-Azar|Rosy Abada Azar]]
 **Siblings:** [[People/Nitsa-Azar|Nitsa Azar]], [[People/Ehoud-Azar|Ehoud Azar]]
+**Families:** [[Families/Azar|Azar]]
 
 ## Biography
 

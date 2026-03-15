@@ -16,9 +16,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Henri-Wahiche|Henri Wahiche]]
-**Mother:** [[People/Pauline-Israel-Wahiche|Pauline Israel Wahiche]]
+**Father:** [[People/Henri-Wahiche|Henri Wahiche]] | **Mother:** [[People/Pauline-Israel-Wahiche|Pauline Israel Wahiche]]
 **Siblings:** [[People/Marc-Alain-Wahiche|Marc Alain Wahiche]]
+**Families:** [[Families/Wahiche|Wahiche]]
 
 ## Biography
 

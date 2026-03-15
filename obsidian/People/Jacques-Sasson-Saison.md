@@ -38,11 +38,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Itshak-Sasson|Itshak Sasson]]
-**Mother:** [[People/Marietta-Attar-Sasson|Marietta Attar Sasson]]
+**Father:** [[People/Itshak-Sasson|Itshak Sasson]] | **Mother:** [[People/Marietta-Attar-Sasson|Marietta Attar Sasson]]
 **Spouse:** [[People/Leonie-Mizrahi-Saison|Leonie Mizrahi Saison]]
 **Siblings:** [[People/Meyer-Sasson|Meyer Sasson]], [[People/Hamama-Sasson-Israel|Hamama Sasson Israel]], [[People/Victoria-Sasson-Patan|Victoria Sasson Patan]], [[People/Esther-Sasson-Cohen|Esther Sasson Cohen]], [[People/Albert-Sasson|Albert Sasson]]
 **Children:** [[People/Marlene-Saison-Barouh|Marlene Saison Barouh]], [[People/Andree-Deddy-Saison-Martins-de-Barros|Andree (Deddy) Saison Martins de Barros]], [[People/Isaac-Saison|Isaac Saison]], [[People/Doris-Saison-Remnant|Doris Saison Remnant]]
+**Families:** [[Families/Sasson|Sasson]], [[Families/Saison|Saison]]
 
 ## Biography
 Jacques Sasson, ne a [[Places/Luxor]] ([[Places/Egypt]]) en 1898 . En 1957, il emigre en [[Places/France]] avec sa femme Leonie et ses 4 enfants, ou il mourut en 1985. 3 de ses enfants vivent en [[Places/France]] avec leurs familles. Seulement Doris, la plus jeune, vit en Grande Bretagne avec sa famille. Jacques mourut le 3 decembre 1985, a l'age de 87 ans.

@@ -29,11 +29,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Zvi-Miklosh-Aharoni|Zvi Miklosh Aharoni]]
-**Mother:** [[People/Miriam-Mermelstein-Aharoni|Miriam Mermelstein Aharoni]]
+**Father:** [[People/Zvi-Miklosh-Aharoni|Zvi Miklosh Aharoni]] | **Mother:** [[People/Miriam-Mermelstein-Aharoni|Miriam Mermelstein Aharoni]]
 **Spouse:** [[People/Menachem-Weinberger|Menachem Weinberger]]
 **Siblings:** [[People/Chaim-Aharoni|Chaim Aharoni]]
 **Children:** [[People/Shai-Weinberger|Shai Weinberger]], [[People/Nir-Weinberger|Nir Weinberger]], [[People/Amit-Weinberger|Amit Weinberger]]
+**Families:** [[Families/Aharoni|Aharoni]], [[Families/Weinberger|Weinberger]]
 
 ## Biography
 

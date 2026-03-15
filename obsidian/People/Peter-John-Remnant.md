@@ -29,6 +29,7 @@ research_level: 2
 
 **Spouse:** [[People/Doris-Saison-Remnant|Doris Saison Remnant]]
 **Children:** [[People/Fiona-Remnant|Fiona Remnant]], [[People/David-Remnant|David Remnant]]
+**Families:** [[Families/Remnant|Remnant]]
 
 ## Biography
 Peter John Remnant, born in [[Places/London]], UK.. Son of Patrick Tyrell William Remnant,... his grand father was Lord Remnant, ... he was an MP for the Police. Married to Doris Sasson, 15 July 1972 in Hoddeston - UK. He is a mechanical engineer .

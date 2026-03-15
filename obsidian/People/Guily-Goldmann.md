@@ -23,11 +23,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Yonathan-Goldmann|Yonathan Goldmann]]
-**Mother:** [[People/Rachel-Abadi-Goldmann|Rachel Abadi Goldmann]]
+**Father:** [[People/Yonathan-Goldmann|Yonathan Goldmann]] | **Mother:** [[People/Rachel-Abadi-Goldmann|Rachel Abadi Goldmann]]
 **Spouse:** [[People/Talia-Yacovson-Goldmann|Talia Yacovson Goldmann]]
 **Siblings:** [[People/Roni-Goldmann|Roni Goldmann]]
 **Children:** [[People/More-Goldmann|More Goldmann]], [[People/Noa-Goldmann|Noa Goldmann]], [[People/Ziv-Goldmann|Ziv Goldmann]]
+**Families:** [[Families/Goldmann|Goldmann]]
 
 ## Biography
 Guily Goldmann, married to Talia Yacovson, in [[Places/Israel]], 29 August 1995.

@@ -17,8 +17,8 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Jacques-Zakoto|Jacques Zakoto]]
-**Mother:** [[People/Arlette-Allegra-Abada-Zakoto|Arlette (Allegra) Abada Zakoto]]
+**Father:** [[People/Jacques-Zakoto|Jacques Zakoto]] | **Mother:** [[People/Arlette-Allegra-Abada-Zakoto|Arlette (Allegra) Abada Zakoto]]
+**Families:** [[Families/Zakoto|Zakoto]]
 
 ## Biography
 

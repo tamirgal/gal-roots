@@ -12,9 +12,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Yaacov-Harel|Yaacov Harel]]
-**Mother:** [[People/Ilana-Steiner-Harel|Ilana Steiner Harel]]
+**Father:** [[People/Yaacov-Harel|Yaacov Harel]] | **Mother:** [[People/Ilana-Steiner-Harel|Ilana Steiner Harel]]
 **Siblings:** [[People/Tal-Harel|Tal Harel]]
+**Families:** [[Families/Harel|Harel]]
 
 ## Biography
 

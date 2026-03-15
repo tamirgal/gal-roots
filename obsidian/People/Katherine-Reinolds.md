@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Sten-Reinolds|Sten Reinolds]]
-**Mother:** [[People/Suzan-Aharon-Reinolds|Suzan Aharon Reinolds]]
+**Father:** [[People/Sten-Reinolds|Sten Reinolds]] | **Mother:** [[People/Suzan-Aharon-Reinolds|Suzan Aharon Reinolds]]
 **Siblings:** [[People/Michelle-Reinolds|Michelle Reinolds]], [[People/Lisa-Reinolds|Lisa Reinolds]]
+**Families:** [[Families/Reinolds|Reinolds]]
 
 ## Biography
 

@@ -22,6 +22,7 @@ research_level: 1
 
 **Spouse:** [[People/Tsipora-Steiner-Eyal|Tsipora Steiner Eyal]]
 **Children:** [[People/Liat-Eyal|Liat Eyal]]
+**Families:** [[Families/Eyal|Eyal]]
 
 ## Biography
 

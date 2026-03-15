@@ -26,6 +26,7 @@ research_level: 0
 
 **Spouse:** [[People/Shemer-Niv|Shemer Niv]]
 **Children:** [[People/Israel-Dor-Niv|Israel Dor Niv]], [[People/Nahmann-Niv|Nahmann Niv]], [[People/Nathan-Niv|Nathan Niv]], [[People/Abraham-Niv|Abraham Niv]], [[People/Noa-Niv|Noa Niv]], [[People/Ayala-Niv|Ayala Niv]]
+**Families:** [[Families/Niv|Niv]]
 
 ## Biography
 Sarit Niv, married to Shemar Niv in [[Places/Israel]], in 1991.

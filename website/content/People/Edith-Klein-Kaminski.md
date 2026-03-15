@@ -33,11 +33,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Moshe-Israel-Klein|Moshe Israel Klein]]
-**Mother:** [[People/Paula-Steinmetz-Klein|Paula Steinmetz Klein]]
+**Father:** [[People/Moshe-Israel-Klein|Moshe Israel Klein]] | **Mother:** [[People/Paula-Steinmetz-Klein|Paula Steinmetz Klein]]
 **Spouse:** [[People/Samuel-Kaminski|Samuel Kaminski]]
 **Siblings:** [[People/Ondrej-Clyne|Ondrej Clyne]], [[People/Albert-Bella-Klein|Albert (Bella) Klein]], [[People/Gabriel-Klein-1929|Gabriel Klein]]
 **Children:** [[People/Gabriela-Kaminski-Sleppin|Gabriela Kaminski Sleppin]], [[People/David-Kaminski|David Kaminski]]
+**Families:** [[Families/Klein|Klein]], [[Families/Kaminski|Kaminski]]
 
 ## Biography
 Born in [[Places/Uzhgorod]] and lived there till 1944. Together with her family and all the jews of the town, was sent to [[Places/Auschwitz]]. She was separated from her parents and kid brother Gabi (who did not survive) and was sent to a labour camp in Germany. At the end of the war she returned to Prague to find out that she is on her own and was sent to a refugee camp in Germany, where she met Samuel Kaminiski and narried him. Together they decided to imigrate to [[Places/USA]] where Sam's sister where living. She lived in NYC and died in 1999.

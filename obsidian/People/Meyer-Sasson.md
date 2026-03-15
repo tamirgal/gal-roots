@@ -12,9 +12,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Itshak-Sasson|Itshak Sasson]]
-**Mother:** [[People/Marietta-Attar-Sasson|Marietta Attar Sasson]]
+**Father:** [[People/Itshak-Sasson|Itshak Sasson]] | **Mother:** [[People/Marietta-Attar-Sasson|Marietta Attar Sasson]]
 **Siblings:** [[People/Hamama-Sasson-Israel|Hamama Sasson Israel]], [[People/Jacques-Sasson-Saison|Jacques Sasson Saison]], [[People/Victoria-Sasson-Patan|Victoria Sasson Patan]], [[People/Esther-Sasson-Cohen|Esther Sasson Cohen]], [[People/Albert-Sasson|Albert Sasson]]
+**Families:** [[Families/Sasson|Sasson]]
 
 ## Biography
 

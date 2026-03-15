@@ -11,6 +11,7 @@ research_level: 0
 ## Family
 
 **Spouse:** [[People/Leo-Aharon|Leo Aharon]]
+**Families:** [[Families/Aharon|Aharon]]
 
 ## Biography
 

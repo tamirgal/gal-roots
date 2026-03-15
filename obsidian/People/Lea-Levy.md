@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Ezra-Levy|Ezra Levy]]
-**Mother:** [[People/Aziza-Abed-Levy|Aziza (Abed) Levy]]
+**Father:** [[People/Ezra-Levy|Ezra Levy]] | **Mother:** [[People/Aziza-Abed-Levy|Aziza (Abed) Levy]]
 **Siblings:** [[People/Nouri-Levy|Nouri Levy]], [[People/Nagy-Levy|Nagy Levy]], [[People/Hanina-Levy|Hanina Levy]], [[People/Loula-Levy|Loula Levy]], [[People/Nathan-Nazem-Levy|Nathan (Nazem) Levy]]
+**Families:** [[Families/Levy|Levy]]
 
 ## Biography
 

@@ -25,6 +25,7 @@ research_level: 1
 
 **Spouse:** [[People/Rosy-Abada-Azar|Rosy Abada Azar]]
 **Children:** [[People/Nitsa-Azar|Nitsa Azar]], [[People/David-Azar|David Azar]], [[People/Ehoud-Azar|Ehoud Azar]]
+**Families:** [[Families/Azar|Azar]]
 
 ## Biography
 

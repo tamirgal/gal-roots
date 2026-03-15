@@ -18,6 +18,7 @@ research_level: 1
 ## Family
 
 **Spouse:** [[People/Ezra-Israel|Ezra Israel]]
+**Families:** [[Families/Salem|Salem]], [[Families/Israel|Israel]]
 
 ## Biography
 

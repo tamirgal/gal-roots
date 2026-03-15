@@ -19,6 +19,7 @@ research_level: 2
 ## Family
 
 **Spouse:** [[People/Cecille-Barouh-Benezra|Cecille Barouh Benezra]]
+**Families:** [[Families/Benezra|Benezra]]
 
 ## Biography
 Alexandre est ne a Paris en Fevrier 1970. Diplome en optique, il reprend en 2001 des etudes en informatique. Marie le 16 Avril 2000, avec Cecile Barouh. Ils habitent et travaillent a Paris.

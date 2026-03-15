@@ -33,11 +33,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/David-Aharon|David Aharon]]
-**Mother:** [[People/Sheindel-Aharon|Sheindel Aharon]]
+**Father:** [[People/David-Aharon|David Aharon]] | **Mother:** [[People/Sheindel-Aharon|Sheindel Aharon]]
 **Spouse:** [[People/Tsipora-Zuckerberger-Aharon|Tsipora Zuckerberger Aharon]]
 **Siblings:** [[People/Joseph-Aharon-1887|Joseph Aharon]], [[People/Frida-Aharon-Farkas|Frida Aharon Farkas]], [[People/Lea-Aharon-Eliovich|Lea Aharon Eliovich]], [[People/Rachel-Aharon-Zelikovitch|Rachel Aharon Zelikovitch]]
 **Children:** [[People/Avigdor-Zuckerberger|Avigdor Zuckerberger]], [[People/Ahouva-Aharon-Fuchs|Ahouva Aharon Fuchs]], [[People/Arie-Leopold-Aharon|Arie Leopold Aharon]], [[People/Mordechay-Aharon|Mordechay Aharon]], [[People/Leah-Aharon-Steiner|Leah Aharon Steiner]]
+**Families:** [[Families/Aharon|Aharon]]
 
 ## Biography
 

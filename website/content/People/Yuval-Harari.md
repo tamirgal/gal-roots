@@ -16,6 +16,7 @@ research_level: 2
 ## Family
 
 **Spouse:** [[People/Reut-Ovdat-Harari|Reut (Ovdat) Harari]]
+**Families:** [[Families/Harari|Harari]]
 
 ## Biography
 Yuval Harari , born in [[Places/Israel]] , 3 June 1980. Married to Reut Ovdat in [[Places/Binyamina]], 16 October 2006

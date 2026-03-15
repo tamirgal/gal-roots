@@ -26,11 +26,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Robert-Abadi|Robert Abadi]]
-**Mother:** [[People/Alice-Abada-Abadi|Alice Abada Abadi]]
+**Father:** [[People/Robert-Abadi|Robert Abadi]] | **Mother:** [[People/Alice-Abada-Abadi|Alice Abada Abadi]]
 **Spouse:** [[People/Yonathan-Goldmann|Yonathan Goldmann]]
 **Siblings:** [[People/Meyer-Abadi|Meyer Abadi]]
 **Children:** [[People/Guily-Goldmann|Guily Goldmann]], [[People/Roni-Goldmann|Roni Goldmann]]
+**Families:** [[Families/Abadi|Abadi]], [[Families/Goldmann|Goldmann]]
 
 ## Biography
 Rahel Abadi, married to Yonathan Goldmann in [[Places/Israel]], 5 September 1961.

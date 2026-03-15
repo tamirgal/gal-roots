@@ -12,9 +12,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Isaac-Eliahou|Isaac Eliahou]]
-**Mother:** [[People/Suzanne-Joseph-Eliahou|Suzanne Joseph Eliahou]]
+**Father:** [[People/Isaac-Eliahou|Isaac Eliahou]] | **Mother:** [[People/Suzanne-Joseph-Eliahou|Suzanne Joseph Eliahou]]
 **Siblings:** [[People/Dan-Saleh-Eliahou|Dan Saleh Eliahou]]
+**Families:** [[Families/Eliahou|Eliahou]]
 
 ## Biography
 

@@ -21,8 +21,8 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Miksa-Der|Miksa Der]]
-**Mother:** [[People/Roza-Rezsi-Klein-Der|Roza (Rezsi) Klein Der]]
+**Father:** [[People/Miksa-Der|Miksa Der]] | **Mother:** [[People/Roza-Rezsi-Klein-Der|Roza (Rezsi) Klein Der]]
+**Families:** [[Families/Der|Der]]
 
 ## Biography
 

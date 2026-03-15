@@ -27,11 +27,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Shaoul-Abada-1889|Shaoul Abada]]
-**Mother:** [[People/Regina-Malka-Abada|Regina Malka Abada]]
+**Father:** [[People/Shaoul-Abada-1889|Shaoul Abada]] | **Mother:** [[People/Regina-Malka-Abada|Regina Malka Abada]]
 **Spouse:** [[People/Olga-Abada|Olga Abada]]
 **Siblings:** [[People/Esther-Abada-Nefoussi|Esther Abada Nefoussi]], [[People/Alice-Abada-Abadi|Alice Abada Abadi]], [[People/David-Abada|David Abada]], [[People/Hayim-Abada-ind00281|Hayim Abada]], [[People/Arlette-Abada-Savdie|Arlette Abada Savdie]], [[People/Mary-Abada-Patan|Mary Abada Patan]], [[People/Ernest-Nisso-Abada|Ernest (Nisso) Abada]], [[People/Claude-Hayim-Abada|Claude (Hayim) Abada]]
 **Children:** [[People/Rina-Abada-Guttmann|Rina Abada Guttmann]]
+**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 Joseph Abada , married to Olga, in [[Places/Israel]] in August 1964

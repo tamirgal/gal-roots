@@ -18,9 +18,9 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Leon-Sasson|Leon Sasson]]
-**Mother:** [[People/Helene-Abada-Sasson|Helene Abada Sasson]]
+**Father:** [[People/Leon-Sasson|Leon Sasson]] | **Mother:** [[People/Helene-Abada-Sasson|Helene Abada Sasson]]
 **Siblings:** [[People/Sophie-Fifi-Sasson|Sophie Fifi Sasson]], [[People/Esther-Sasson-ind00489|Esther Sasson]]
+**Families:** [[Families/Sasson|Sasson]]
 
 ## Biography
 David Sasson, ne au [[Places/Cairo]], marie en [[Places/Israel]] et habitant Ashkelon.

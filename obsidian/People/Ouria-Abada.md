@@ -17,9 +17,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Shaoul-Abada-1962|Shaoul Abada]]
-**Mother:** [[People/Dalit-HarEl-Abada|Dalit HarEl Abada]]
+**Father:** [[People/Shaoul-Abada-1962|Shaoul Abada]] | **Mother:** [[People/Dalit-HarEl-Abada|Dalit HarEl Abada]]
 **Siblings:** [[People/Elia-Abada|Elia Abada]]
+**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

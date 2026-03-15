@@ -20,8 +20,8 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Frederic-Barouh|Frederic Barouh]]
-**Mother:** [[People/Nathalie-Bourcheix|Nathalie Bourcheix]]
+**Father:** [[People/Frederic-Barouh|Frederic Barouh]] | **Mother:** [[People/Nathalie-Bourcheix|Nathalie Bourcheix]]
+**Families:** [[Families/Barouh|Barouh]]
 
 ## Biography
 Je suis ne le 24 mars 2003,... Mon nom est Benjamin, ... mais on m'a colle encore trois autres prenoms,...donc, le voici au grand complet: Benjamin Jacques Henri Maurice Barouh... !!!... Mon Dieu que c'est long et complique pour moi,... Je prefere "Benny" tout court.

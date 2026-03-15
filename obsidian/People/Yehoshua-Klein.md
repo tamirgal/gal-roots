@@ -28,11 +28,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Herman-Haim-Klein|Herman Haim Klein]]
-**Mother:** [[People/Frida-Klein|Frida Klein]]
+**Father:** [[People/Herman-Haim-Klein|Herman Haim Klein]] | **Mother:** [[People/Frida-Klein|Frida Klein]]
 **Spouse:** [[People/Esther-Rosner-Klein|Esther Rosner Klein]]
 **Siblings:** [[People/Benyamin-Klein|Benyamin Klein]], [[People/Irenka-Klein|Irenka Klein]]
 **Children:** [[People/Raphael-Klein|Raphael Klein]], [[People/Noah-Klein-Elias|Noah Klein Elias]]
+**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 Yehoshua Klein, born in "Michelovica", the 5 June 1911, in a very pious jewish orthodox family. His childhood passed between Synaguogues and beit-midrash. He learned in a "Cheder", then in a "Yeshiva". At age of 15 (1926), he left the yeshiva and began working in his father's business. At age of 21 (1932), he was drafted to the Chzek army, untill 1935,... He became close to the zionists ideas and ideal, and became a member of the "Kadima" movement. Waiting for an opportunity to get a certificate for emigrating to [[Places/Israel]]. He got it in September 1939,... two weeks after the beginning of WW2. He did not waste any time, and although it was Shabat, he travelled by train to [[Places/Budapest]], took a ship on the Danube, sailing to the Black sea, were he boarded on a ship named "RUDNICAR", en route to [[Places/Palestine]] ,... Israel. That's how, he escaped, in the last minute, from the horrors of the war and the nazi extermination camps. All members of his large family were deported to nazi camps, where they all perished except Mordechay and Esther. Established in [[Places/Haifa]] from the beginning, married and raised a family,... he worked in the glass trade Now widow, he is still living in [[Places/Haifa]].

@@ -19,9 +19,9 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Zvi-Kalkstein|Zvi Kalkstein]]
-**Mother:** [[People/Miriam-Farkas-Kalkstein|Miriam Farkas Kalkstein]]
+**Father:** [[People/Zvi-Kalkstein|Zvi Kalkstein]] | **Mother:** [[People/Miriam-Farkas-Kalkstein|Miriam Farkas Kalkstein]]
 **Siblings:** [[People/Ronit-Kalkstein-Shaked|Ronit Kalkstein Shaked]]
+**Families:** [[Families/Kalkstein|Kalkstein]]
 
 ## Biography
 Born in [[Places/Haifa]] , 23.october 1951,... He lives in NY, [[Places/USA]].

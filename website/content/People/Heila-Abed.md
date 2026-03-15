@@ -16,9 +16,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Eliahou-Abed|Eliahou Abed]]
-**Mother:** [[People/Massouda-Touek-Abed|Massouda (Touek) Abed]]
+**Father:** [[People/Eliahou-Abed|Eliahou Abed]] | **Mother:** [[People/Massouda-Touek-Abed|Massouda (Touek) Abed]]
 **Siblings:** [[People/David-Daoud-Abed|David (Daoud) Abed]], [[People/Aziza-Abed-Levy|Aziza (Abed) Levy]], [[People/Ezra-Patan|Ezra Patan]], [[People/Aharon-Abed|Aharon Abed]], [[People/Abraham-Abed|Abraham Abed]], [[People/Nina-Abed|Nina Abed]], [[People/Hatoune-Abed-Halztshy|Hatoune Abed Halztshy]]
+**Families:** [[Families/Abed|Abed]]
 
 ## Biography
 

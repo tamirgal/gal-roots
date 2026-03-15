@@ -17,6 +17,7 @@ research_level: 1
 
 **Spouse:** [[People/Paul-Polie-Goldstein|Paul (Polie) Goldstein]]
 **Children:** [[People/Unknown-Goldstein|Unknown Goldstein]]
+**Families:** [[Families/Schwartz|Schwartz]], [[Families/Goldstein|Goldstein]]
 
 ## Biography
 

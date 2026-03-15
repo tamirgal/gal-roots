@@ -27,6 +27,7 @@ research_level: 2
 
 **Spouse:** [[People/Leon-Oni-Bonan|Leon Oni Bonan]]
 **Children:** [[People/Michelle-Bonan-Hamill|Michelle Bonan Hamill]], [[People/David-Bonan|David Bonan]]
+**Families:** [[Families/Bonan|Bonan]]
 
 ## Biography
 Born October 9 , 1946 Married to Leon Bonan , August 22 , 1971

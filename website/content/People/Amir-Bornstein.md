@@ -16,6 +16,7 @@ research_level: 0
 
 **Spouse:** [[People/Keren-Niv-Bornstein|Keren Niv Bornstein]]
 **Children:** [[People/Rotem-Bornstein|Rotem Bornstein]]
+**Families:** [[Families/Bornstein|Bornstein]]
 
 ## Biography
 Amir Bornstein, married to Keren Niv in [[Places/Israel]], in 1998

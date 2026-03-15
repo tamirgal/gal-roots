@@ -21,6 +21,7 @@ research_level: 1
 
 **Spouse:** [[People/Sarah-Sandra-Farkas-Schwartz|Sarah (Sandra) Farkas Schwartz]]
 **Children:** [[People/Michelle-Schwartz-Erlich|Michelle Schwartz Erlich]]
+**Families:** [[Families/Schwartz|Schwartz]]
 
 ## Biography
 

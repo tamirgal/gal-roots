@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Victor-Abada|Victor Abada]]
-**Mother:** [[People/Fortunee-Hanan-Abada|Fortunee Hanan Abada]]
+**Father:** [[People/Victor-Abada|Victor Abada]] | **Mother:** [[People/Fortunee-Hanan-Abada|Fortunee Hanan Abada]]
 **Siblings:** [[People/Esther-Ety-Abada|Esther Ety Abada]], [[People/Moshe-Abada-ind00505|Moshe Abada]], [[People/Clara-Abada|Clara Abada]]
+**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

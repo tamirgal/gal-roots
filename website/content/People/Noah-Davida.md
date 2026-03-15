@@ -11,8 +11,8 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Ilan-Davida|Ilan Davida]]
-**Mother:** [[People/Maya-Shimon-Davida|Maya (Shimon) Davida]]
+**Father:** [[People/Ilan-Davida|Ilan Davida]] | **Mother:** [[People/Maya-Shimon-Davida|Maya (Shimon) Davida]]
+**Families:** [[Families/Davida|Davida]]
 
 ## Biography
 

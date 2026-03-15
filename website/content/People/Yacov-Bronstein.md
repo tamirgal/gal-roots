@@ -18,11 +18,11 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Moshe-Bronstein|Moshe Bronstein]]
-**Mother:** [[People/Sarah-Bronstein|Sarah Bronstein]]
+**Father:** [[People/Moshe-Bronstein|Moshe Bronstein]] | **Mother:** [[People/Sarah-Bronstein|Sarah Bronstein]]
 **Spouse:** [[People/Tsipora-Bronstein|Tsipora Bronstein]]
 **Siblings:** [[People/Yehuda-Wolf-Farkas|Yehuda Wolf Farkas]], [[People/Dvora-Bronstein-Rosenthal|Dvora Bronstein Rosenthal]]
 **Children:** [[People/Shoshana-Bronstein|Shoshana Bronstein]]
+**Families:** [[Families/Bronstein|Bronstein]]
 
 ## Biography
 Yacov Bronstein, emigrated to [[Places/Israel]] with his sister Dvora, before World War 2, by the " Hashomer Hatzayir."

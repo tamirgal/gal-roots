@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Yosseph-Yossi-Abada-Ovdat|Yosseph (Yossi Abada) Ovdat]]
-**Mother:** [[People/Mikhal-Abargel-Ovdat|Mikhal (Abargel) Ovdat]]
+**Father:** [[People/Yosseph-Yossi-Abada-Ovdat|Yosseph (Yossi Abada) Ovdat]] | **Mother:** [[People/Mikhal-Abargel-Ovdat|Mikhal (Abargel) Ovdat]]
 **Siblings:** [[People/Chen-Ovdat|Chen Ovdat]], [[People/Danielle-Ovdat|Danielle Ovdat]]
+**Families:** [[Families/Ovdat|Ovdat]]
 
 ## Biography
 

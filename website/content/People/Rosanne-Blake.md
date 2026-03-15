@@ -19,9 +19,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/David-Blake|David Blake]]
-**Mother:** [[People/Rachel-Clyne-Blake|Rachel Clyne Blake]]
+**Father:** [[People/David-Blake|David Blake]] | **Mother:** [[People/Rachel-Clyne-Blake|Rachel Clyne Blake]]
 **Siblings:** [[People/Victoria-Blake|Victoria Blake]], [[People/Charlotte-Blake|Charlotte Blake]]
+**Families:** [[Families/Blake|Blake]]
 
 ## Biography
 

@@ -23,6 +23,7 @@ research_level: 1
 
 **Spouse:** [[People/Pauline-Israel-Wahiche|Pauline Israel Wahiche]]
 **Children:** [[People/Marc-Alain-Wahiche|Marc Alain Wahiche]], [[People/Dominique-Wahiche|Dominique Wahiche]]
+**Families:** [[Families/Wahiche|Wahiche]]
 
 ## Biography
 

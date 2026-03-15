@@ -12,9 +12,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Roni-Goldmann|Roni Goldmann]]
-**Mother:** [[People/Efrat-Kessari-Goldmann|Efrat Kessari Goldmann]]
+**Father:** [[People/Roni-Goldmann|Roni Goldmann]] | **Mother:** [[People/Efrat-Kessari-Goldmann|Efrat Kessari Goldmann]]
 **Siblings:** [[People/Lital-Goldmann|Lital Goldmann]]
+**Families:** [[Families/Goldmann|Goldmann]]
 
 ## Biography
 

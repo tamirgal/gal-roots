@@ -21,9 +21,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Albert-Abada|Albert Abada]]
-**Mother:** [[People/Esther-Diwane-Abada|Esther Diwane Abada]]
+**Father:** [[People/Albert-Abada|Albert Abada]] | **Mother:** [[People/Esther-Diwane-Abada|Esther Diwane Abada]]
 **Siblings:** [[People/Liliane-Abada|Liliane Abada]], [[People/Riri-Ernest-Abada|Riri Ernest Abada]]
+**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

@@ -26,6 +26,7 @@ research_level: 2
 
 **Spouse:** [[People/Erez-Itshaki|Erez Itshaki]]
 **Children:** [[People/Sapir-Itshaki|Sapir Itshaki]], [[People/Eyal-Itshaki|Eyal Itshaki]]
+**Families:** [[Families/Albanay|Albanay]], [[Families/Itshaki|Itshaki]]
 
 ## Biography
 Sharon Albanay, married in [[Places/Israel]] to Erez Itshaki, on 1 October 1995.

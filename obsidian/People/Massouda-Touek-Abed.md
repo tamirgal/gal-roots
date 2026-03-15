@@ -36,6 +36,7 @@ research_level: 2
 
 **Spouse:** [[People/Eliahou-Abed|Eliahou Abed]]
 **Children:** [[People/David-Daoud-Abed|David (Daoud) Abed]], [[People/Aziza-Abed-Levy|Aziza (Abed) Levy]], [[People/Ezra-Patan|Ezra Patan]], [[People/Aharon-Abed|Aharon Abed]], [[People/Abraham-Abed|Abraham Abed]], [[People/Nina-Abed|Nina Abed]], [[People/Hatoune-Abed-Halztshy|Hatoune Abed Halztshy]], [[People/Heila-Abed|Heila Abed]]
+**Families:** [[Families/Abed|Abed]]
 
 ## Biography
 Massouda Abed, ( born Toueg ) Born, lived and died in [[Places/Baghdad]] ([[Places/Iraq]]). Married to Eliahou Abed מסעודה טויק , נשואה לאליהו עאבד נולדה, חיה, ונפטרה בבגדד, עירק

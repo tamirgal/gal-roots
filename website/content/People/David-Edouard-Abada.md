@@ -18,9 +18,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Solimane-Abada|Solimane Abada]]
-**Mother:** [[People/Linda-Ashkenazi-Abada|Linda Ashkenazi Abada]]
+**Father:** [[People/Solimane-Abada|Solimane Abada]] | **Mother:** [[People/Linda-Ashkenazi-Abada|Linda Ashkenazi Abada]]
 **Siblings:** [[People/Allegra-Abada-Ventura|Allegra Abada Ventura]], [[People/Alice-Abada-Harari|Alice Abada Harari]], [[People/Ernest-Zouzi-Abada|Ernest Zouzi Abada]], [[People/Freddy-Ephraim-Abada-Alitsour|Freddy (Ephraim) Abada (Alitsour)]]
+**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

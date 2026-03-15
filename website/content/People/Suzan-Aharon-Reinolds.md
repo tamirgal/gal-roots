@@ -23,11 +23,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Arie-Leopold-Aharon|Arie Leopold Aharon]]
-**Mother:** [[People/Anet-Aharon|Anet Aharon]]
+**Father:** [[People/Arie-Leopold-Aharon|Arie Leopold Aharon]] | **Mother:** [[People/Anet-Aharon|Anet Aharon]]
 **Spouse:** [[People/Sten-Reinolds|Sten Reinolds]]
 **Siblings:** [[People/Leo-Aharon|Leo Aharon]], [[People/Peter-Aharon|Peter Aharon]], [[People/Monique-Aharon-Preiss|Monique Aharon Preiss]]
 **Children:** [[People/Michelle-Reinolds|Michelle Reinolds]], [[People/Lisa-Reinolds|Lisa Reinolds]], [[People/Katherine-Reinolds|Katherine Reinolds]]
+**Families:** [[Families/Aharon|Aharon]], [[Families/Reinolds|Reinolds]]
 
 ## Biography
 

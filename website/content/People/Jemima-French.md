@@ -16,6 +16,7 @@ research_level: 0
 
 **Spouse:** [[People/Francis-Ridley|Francis Ridley]]
 **Children:** [[People/Meadow-Clyne|Meadow Clyne]]
+**Families:** [[Families/French|French]]
 
 ## Biography
 

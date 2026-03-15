@@ -19,6 +19,7 @@ research_level: 1
 
 **Spouse:** [[People/David-Fried|David Fried]]
 **Children:** [[People/Zoi-Fried|Zoi Fried]], [[People/Tali-Fried|Tali Fried]]
+**Families:** [[Families/Fried|Fried]]
 
 ## Biography
 

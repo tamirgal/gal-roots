@@ -17,9 +17,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Hans-Yogev|Hans Yogev]]
-**Mother:** [[People/Irit-Hirsch-Yogev|Irit Hirsch Yogev]]
+**Father:** [[People/Hans-Yogev|Hans Yogev]] | **Mother:** [[People/Irit-Hirsch-Yogev|Irit Hirsch Yogev]]
 **Siblings:** [[People/Maayan-Yogev|Maayan Yogev]]
+**Families:** [[Families/Yogev|Yogev]]
 
 ## Biography
 

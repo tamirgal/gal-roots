@@ -11,8 +11,8 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Paul-Polie-Goldstein|Paul (Polie) Goldstein]]
-**Mother:** [[People/Helena-Schwartz-Goldstein|Helena Schwartz Goldstein]]
+**Father:** [[People/Paul-Polie-Goldstein|Paul (Polie) Goldstein]] | **Mother:** [[People/Helena-Schwartz-Goldstein|Helena Schwartz Goldstein]]
+**Families:** [[Families/Goldstein|Goldstein]]
 
 ## Biography
 

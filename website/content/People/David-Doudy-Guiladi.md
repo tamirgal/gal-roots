@@ -24,6 +24,7 @@ research_level: 2
 
 **Spouse:** [[People/Keren-Itshaki-Guiladi|Keren Itshaki Guiladi]]
 **Children:** [[People/Eden-Guiladi|Eden Guiladi]]
+**Families:** [[Families/Guiladi|Guiladi]]
 
 ## Biography
 David Guiladi, married in [[Places/Israel]] to Keren Itshaki, on 29 August 1995.

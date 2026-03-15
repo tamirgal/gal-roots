@@ -20,11 +20,11 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Amir-Sami-Shimon|Amir (Sami) Shimon]]
-**Mother:** [[People/Regina-Jina-Abada-Shimon|Regina (Jina) (Abada) Shimon]]
+**Father:** [[People/Amir-Sami-Shimon|Amir (Sami) Shimon]] | **Mother:** [[People/Regina-Jina-Abada-Shimon|Regina (Jina) (Abada) Shimon]]
 **Spouse:** [[People/Avi-Haiman|Avi Haiman]]
 **Siblings:** [[People/Chaim-Shimon|Chaim Shimon]], [[People/Liat-Shimon-Kokhavi|Liat (Shimon) Kokhavi]], [[People/Maya-Shimon-Davida|Maya (Shimon) Davida]], [[People/Shani-Shimon|Shani Shimon]]
 **Children:** [[People/Bar-Haiman|Bar Haiman]], [[People/Roni-Haiman|Roni Haiman]]
+**Families:** [[Families/Haiman|Haiman]]
 
 ## Biography
 

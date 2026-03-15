@@ -21,6 +21,7 @@ research_level: 1
 
 **Spouse:** [[People/Phyllis-Hirschman-Newmark|Phyllis Hirschman Newmark]]
 **Children:** [[People/Ellen-Mina-Hirschman-Miller|Ellen Mina Hirschman Miller]], [[People/Dale-Linda-Hirschman|Dale Linda Hirschman]], [[People/Janet-Ann-Hirschman-Fenstermacher|Janet Ann Hirschman Fenstermacher]]
+**Families:** [[Families/Hirschman|Hirschman]]
 
 ## Biography
 

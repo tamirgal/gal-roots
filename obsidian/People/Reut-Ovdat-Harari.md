@@ -21,10 +21,10 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Herzl-Abada-Ovdat|Herzl (Abada) Ovdat]]
-**Mother:** [[People/Yafit-Zaafarani-Ovdat|Yafit Zaafarani Ovdat]]
+**Father:** [[People/Herzl-Abada-Ovdat|Herzl (Abada) Ovdat]] | **Mother:** [[People/Yafit-Zaafarani-Ovdat|Yafit Zaafarani Ovdat]]
 **Spouse:** [[People/Yuval-Harari|Yuval Harari]]
 **Siblings:** [[People/Omrie-Ovdat|Omrie Ovdat]]
+**Families:** [[Families/Harari|Harari]]
 
 ## Biography
 Reut Ovdat is born in [[Places/Israel]] , 4 march 1982. Married to Yuval Harari in [[Places/Binyamina]] , 16 October 2006.

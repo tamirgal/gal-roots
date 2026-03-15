@@ -31,11 +31,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Samuel-Kaminski|Samuel Kaminski]]
-**Mother:** [[People/Edith-Klein-Kaminski|Edith Klein Kaminski]]
+**Father:** [[People/Samuel-Kaminski|Samuel Kaminski]] | **Mother:** [[People/Edith-Klein-Kaminski|Edith Klein Kaminski]]
 **Spouse:** [[People/Aharon-Sadote|Aharon Sadote]], [[People/Michael-Sleppin|Michael Sleppin]]
 **Siblings:** [[People/David-Kaminski|David Kaminski]]
 **Children:** [[People/Revital-Sadote|Revital Sadote]], [[People/Shirit-Sadote|Shirit Sadote]]
+**Families:** [[Families/Kaminski|Kaminski]], [[Families/Sleppin|Sleppin]]
 
 ## Biography
 

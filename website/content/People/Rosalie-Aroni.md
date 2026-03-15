@@ -17,6 +17,7 @@ research_level: 1
 
 **Spouse:** [[People/Ben-Zion-Aroni|Ben-Zion Aroni]]
 **Children:** [[People/Hannah-Aroni|Hannah Aroni]]
+**Families:** [[Families/Aroni|Aroni]]
 
 ## Biography
 

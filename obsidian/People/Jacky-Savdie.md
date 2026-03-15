@@ -26,11 +26,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Salvator-Savdie|Salvator Savdie]]
-**Mother:** [[People/Arlette-Abada-Savdie|Arlette Abada Savdie]]
+**Father:** [[People/Salvator-Savdie|Salvator Savdie]] | **Mother:** [[People/Arlette-Abada-Savdie|Arlette Abada Savdie]]
 **Spouse:** [[People/Monique-Haroche-Savdie|Monique Haroche Savdie]]
 **Siblings:** [[People/Elise-Savdie-Witukiewicz|Elise Savdie Witukiewicz]], [[People/Soly-Savdie|Soly Savdie]], [[People/Gina-Savdie-Uzan|Gina Savdie Uzan]]
 **Children:** [[People/Sandra-Savdie|Sandra Savdie]]
+**Families:** [[Families/Savdie|Savdie]]
 
 ## Biography
 

@@ -11,6 +11,7 @@ research_level: 0
 ## Family
 
 **Spouse:** [[People/Rebecca-Sasson-Yehya|Rebecca Sasson Yehya]]
+**Families:** [[Families/Yehya|Yehya]]
 
 ## Biography
 

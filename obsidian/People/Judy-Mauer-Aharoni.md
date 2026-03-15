@@ -32,6 +32,7 @@ research_level: 2
 
 **Spouse:** [[People/Chaim-Aharoni|Chaim Aharoni]]
 **Children:** [[People/Rotem-Aharoni|Rotem Aharoni]], [[People/Maor-Aharoni|Maor Aharoni]], [[People/Shachar-Aharoni|Shachar Aharoni]], [[People/Hadar-Aharoni|Hadar Aharoni]], [[People/Shir-Aharoni|Shir Aharoni]], [[People/Gil-Aharoni|Gil Aharoni]]
+**Families:** [[Families/Mauer|Mauer]], [[Families/Aharoni|Aharoni]]
 
 ## Biography
 Judy was born and raised in NYC. Made Aliya to [[Places/Israel]] in 1978. She is the daugther of Sidny (1923-2001) and Miriam (born 1924). Judy has a sister, named Lisa born in 1958.

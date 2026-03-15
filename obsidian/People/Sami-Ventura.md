@@ -26,6 +26,7 @@ research_level: 1
 
 **Spouse:** [[People/Allegra-Abada-Ventura|Allegra Abada Ventura]]
 **Children:** [[People/Lina-Ventura|Lina Ventura]], [[People/Ety-Ventura|Ety Ventura]], [[People/Orly-Ventura|Orly Ventura]]
+**Families:** [[Families/Ventura|Ventura]]
 
 ## Biography
 

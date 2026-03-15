@@ -23,6 +23,7 @@ research_level: 1
 
 **Spouse:** [[People/Arie-Leopold-Aharon|Arie Leopold Aharon]]
 **Children:** [[People/Leo-Aharon|Leo Aharon]], [[People/Peter-Aharon|Peter Aharon]], [[People/Suzan-Aharon-Reinolds|Suzan Aharon Reinolds]], [[People/Monique-Aharon-Preiss|Monique Aharon Preiss]]
+**Families:** [[Families/Aharon|Aharon]]
 
 ## Biography
 

@@ -18,6 +18,7 @@ research_level: 0
 
 **Spouse:** [[People/Keren-Shimon-Haiman|Keren (Shimon) Haiman]]
 **Children:** [[People/Bar-Haiman|Bar Haiman]], [[People/Roni-Haiman|Roni Haiman]]
+**Families:** [[Families/Haiman|Haiman]]
 
 ## Biography
 

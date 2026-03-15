@@ -12,9 +12,9 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Elie-Patan|Elie Patan]]
-**Mother:** [[People/Mary-Abada-Patan|Mary Abada Patan]]
+**Father:** [[People/Elie-Patan|Elie Patan]] | **Mother:** [[People/Mary-Abada-Patan|Mary Abada Patan]]
 **Siblings:** [[People/Aviva-Vicky-Patan-Gal|Aviva (Vicky) Patan Gal]], [[People/Sami-Patan|Sami Patan]]
+**Families:** [[Families/Patan|Patan]]
 
 ## Biography
 Ezra (Cesy) Patan is born in [[Places/Cairo]], [[Places/Egypt]], on the First of January 1953. In 1957, he immigrated with the family to [[Places/Israel]],...in [[Places/Ramat Gan]].

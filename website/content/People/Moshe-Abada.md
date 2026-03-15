@@ -29,11 +29,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Edouard-Dolly-Abada|Edouard (Dolly) Abada]]
-**Mother:** [[People/Shoulamit-Yoselewitsh-Abada|Shoulamit Yoselewitsh Abada]]
+**Father:** [[People/Edouard-Dolly-Abada|Edouard (Dolly) Abada]] | **Mother:** [[People/Shoulamit-Yoselewitsh-Abada|Shoulamit Yoselewitsh Abada]]
 **Spouse:** [[People/Gili-Yashar-Abada|Gili Yashar Abada]]
 **Siblings:** [[People/Orly-Abada|Orly Abada]]
 **Children:** [[People/Daniel-Abada|Daniel Abada]], [[People/Gay-Abada|Gay Abada]], [[People/Yair-Abada|Yair Abada]]
+**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

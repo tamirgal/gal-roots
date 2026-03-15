@@ -19,6 +19,7 @@ research_level: 1
 
 **Spouse:** [[People/Shimon-Klein|Shimon Klein]]
 **Children:** [[People/Thomas-Klein-Clyne|Thomas Klein Clyne]], [[People/Louis-Klein|Louis Klein]]
+**Families:** [[Families/Weinberger|Weinberger]], [[Families/Klein|Klein]]
 
 ## Biography
 

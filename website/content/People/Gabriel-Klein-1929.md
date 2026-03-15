@@ -23,9 +23,9 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Moshe-Israel-Klein|Moshe Israel Klein]]
-**Mother:** [[People/Paula-Steinmetz-Klein|Paula Steinmetz Klein]]
+**Father:** [[People/Moshe-Israel-Klein|Moshe Israel Klein]] | **Mother:** [[People/Paula-Steinmetz-Klein|Paula Steinmetz Klein]]
 **Siblings:** [[People/Ondrej-Clyne|Ondrej Clyne]], [[People/Albert-Bella-Klein|Albert (Bella) Klein]], [[People/Edith-Klein-Kaminski|Edith Klein Kaminski]]
+**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 Gabriel died in the nazi extermination camps during World War 2 .

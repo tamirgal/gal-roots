@@ -17,9 +17,9 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Herzl-Abada-Ovdat|Herzl (Abada) Ovdat]]
-**Mother:** [[People/Yafit-Zaafarani-Ovdat|Yafit Zaafarani Ovdat]]
+**Father:** [[People/Herzl-Abada-Ovdat|Herzl (Abada) Ovdat]] | **Mother:** [[People/Yafit-Zaafarani-Ovdat|Yafit Zaafarani Ovdat]]
 **Siblings:** [[People/Reut-Ovdat-Harari|Reut (Ovdat) Harari]]
+**Families:** [[Families/Ovdat|Ovdat]]
 
 ## Biography
 Born in [[Places/Israel]] , 29 May 1985

@@ -37,11 +37,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Shaoul-Abada-1889|Shaoul Abada]]
-**Mother:** [[People/Regina-Malka-Abada|Regina Malka Abada]]
+**Father:** [[People/Shaoul-Abada-1889|Shaoul Abada]] | **Mother:** [[People/Regina-Malka-Abada|Regina Malka Abada]]
 **Spouse:** [[People/Liliane-Abada|Liliane Abada]]
 **Siblings:** [[People/Esther-Abada-Nefoussi|Esther Abada Nefoussi]], [[People/Alice-Abada-Abadi|Alice Abada Abadi]], [[People/David-Abada|David Abada]], [[People/Hayim-Abada-ind00281|Hayim Abada]], [[People/Joseph-Abada|Joseph Abada]], [[People/Arlette-Abada-Savdie|Arlette Abada Savdie]], [[People/Mary-Abada-Patan|Mary Abada Patan]], [[People/Claude-Hayim-Abada|Claude (Hayim) Abada]]
 **Children:** [[People/Esther-Titi-Abada-Levy|Esther (Titi) Abada Levy]], [[People/Avi-Abada|Avi Abada]]
+**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 Je suis ne au [[Places/Cairo]] (Egype), le 30 Janvier 1932. Terminant mes etudes a l'ecole de la communite juive du [[Places/Cairo]], j'ai commence jeune a travailler, vu les conditions materielles difficiles de la famille. Je travaillais dans une droguerie , dans la vente de produits pharmaceutiques. Apres le deces de mon pere, je devins le seul responsable de la famille,..et en 1956, je me suis marie avec ma cousine Liliane. Fin 1956, les evenements de la guerre de Suez, vinrent ebranler et changer nos programmes et notre destin. Le pere de Liliane, mon oncle Albert et sa famille, qui dirigeait un hotel a Ismaylia, furent internes avec tous les juifs de la zone du canal de Suez. Liliane etait enceinte, et j'ai du m'occuper de la liquidation hative de toutes nos possessions. C'est ainsi que nous avons quitte l'[[Places/Egypt]] en vitesse par le premier navire, (debut 1957), en vue de notre immgration en [[Places/Israel]]. Ma fille Esther (Titi), est nee en [[Places/Israel]] en Fevrier 1957, et j'ai commence mon travail en [[Places/Israel]], comme agent de police. Cela m'aida a trouver le temps necessaire a etudier et avancer dans mes etudes comptables, et financieres, Commencant comme chef comptable , et directeur financier, dans "Autocars" , une fabrique de construction d'autos,... Depuis lors je devins homme d'affaires independant , proprietaire d'une station de fuel,...puis, travaillant dans le batiment, (construction immobiliaire).

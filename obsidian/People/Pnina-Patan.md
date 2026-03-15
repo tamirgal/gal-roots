@@ -25,6 +25,7 @@ research_level: 2
 
 **Spouse:** [[People/Raphael-Rafi-Patan|Raphael (Rafi) Patan]]
 **Children:** [[People/Assaf-Patan|Assaf Patan]], [[People/Aviv-Patan|Aviv Patan]]
+**Families:** [[Families/Patan|Patan]]
 
 ## Biography
 Pnina is born the 29 January 1964 in [[Places/Jerusalem]] , Israel and married to Rafi Patan on 8-8-1988

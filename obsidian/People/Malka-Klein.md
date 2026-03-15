@@ -18,6 +18,7 @@ research_level: 0
 
 **Spouse:** [[People/Shmuel-Klein|Shmuel Klein]]
 **Children:** [[People/Shimon-Klein|Shimon Klein]], [[People/Naphtali-Klein|Naphtali Klein]]
+**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 

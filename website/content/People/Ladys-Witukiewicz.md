@@ -26,6 +26,7 @@ research_level: 1
 
 **Spouse:** [[People/Elise-Savdie-Witukiewicz|Elise Savdie Witukiewicz]]
 **Children:** [[People/Myriam-Witukiewicz|Myriam Witukiewicz]], [[People/Lauren-Witukiewicz|Lauren Witukiewicz]], [[People/David-Witukiewicz|David Witukiewicz]]
+**Families:** [[Families/Witukiewicz|Witukiewicz]]
 
 ## Biography
 

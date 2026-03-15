@@ -20,9 +20,9 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Raphael-Rafi-Patan|Raphael (Rafi) Patan]]
-**Mother:** [[People/Pnina-Patan|Pnina Patan]]
+**Father:** [[People/Raphael-Rafi-Patan|Raphael (Rafi) Patan]] | **Mother:** [[People/Pnina-Patan|Pnina Patan]]
 **Siblings:** [[People/Aviv-Patan|Aviv Patan]]
+**Families:** [[Families/Patan|Patan]]
 
 ## Biography
 Assaf Patan is born in Assouta hospital, [[Places/Tel Aviv]] - 17 September 1992.

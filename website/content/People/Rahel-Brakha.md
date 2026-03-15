@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Brakha|Brakha]]
-**Mother:** [[People/Regine-Nefoussi-Brakha|Regine Nefoussi Brakha]]
+**Father:** [[People/Brakha|Brakha]] | **Mother:** [[People/Regine-Nefoussi-Brakha|Regine Nefoussi Brakha]]
 **Siblings:** [[People/Clement-Brakha|Clement Brakha]], [[People/Roger-Brakha|Roger Brakha]]
+**Families:** [[Families/Brakha|Brakha]]
 
 ## Biography
 

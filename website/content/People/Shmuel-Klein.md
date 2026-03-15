@@ -21,11 +21,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Moshe-Klein|Moshe Klein]]
-**Mother:** [[People/Rachel-Levy-Klein|Rachel Levy Klein]]
+**Father:** [[People/Moshe-Klein|Moshe Klein]] | **Mother:** [[People/Rachel-Levy-Klein|Rachel Levy Klein]]
 **Spouse:** [[People/Malka-Klein|Malka Klein]]
 **Siblings:** [[People/Yossef-Klein|Yossef Klein]], [[People/Herman-Haim-Klein|Herman Haim Klein]], [[People/Elchanan-Klein|Elchanan Klein]], [[People/Yehoshua-Yehuda-Klein|Yehoshua Yehuda Klein]], [[People/Zali-Klein|Zali Klein]], [[People/Sarah-Klein-1901|Sarah Klein]], [[People/Nathan-Klein|Nathan Klein]]
 **Children:** [[People/Shimon-Klein|Shimon Klein]], [[People/Naphtali-Klein|Naphtali Klein]]
+**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 

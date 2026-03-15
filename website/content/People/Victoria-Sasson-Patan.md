@@ -39,11 +39,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Itshak-Sasson|Itshak Sasson]]
-**Mother:** [[People/Marietta-Attar-Sasson|Marietta Attar Sasson]]
+**Father:** [[People/Itshak-Sasson|Itshak Sasson]] | **Mother:** [[People/Marietta-Attar-Sasson|Marietta Attar Sasson]]
 **Spouse:** [[People/Ezra-Patan|Ezra Patan]]
 **Siblings:** [[People/Meyer-Sasson|Meyer Sasson]], [[People/Hamama-Sasson-Israel|Hamama Sasson Israel]], [[People/Jacques-Sasson-Saison|Jacques Sasson Saison]], [[People/Esther-Sasson-Cohen|Esther Sasson Cohen]], [[People/Albert-Sasson|Albert Sasson]]
 **Children:** [[People/Elie-Patan|Elie Patan]], [[People/Isaac-Patan|Isaac Patan]], [[People/Miriam-Patan-Ravia|Miriam Patan Ravia]]
+**Families:** [[Families/Sasson|Sasson]], [[Families/Patan|Patan]]
 
 ## Biography
 Victoria Patan, Born in [[Places/Luxor]] the same day when news came, announcing the death of queen Victoria. So my grandma said: A queen is dead, and my princess is born. And they called her Victoria. Married to Ezra Patan in [[Places/Cairo]] (Sept 1927) ... Widow in 1938... In 1957 immigrated to [[Places/Israel]] with her 3 children and 3 grandchildren. She died in [[Places/Israel]], October 1983, aged 82. (Elie Patan).

@@ -17,6 +17,7 @@ research_level: 1
 
 **Spouse:** [[People/Ben-Zion-Aroni|Ben-Zion Aroni]]
 **Children:** [[People/Gideon-Aroni|Gideon Aroni]]
+**Families:** [[Families/Kaldor|Kaldor]], [[Families/Aroni|Aroni]]
 
 ## Biography
 

@@ -31,11 +31,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Moussa-Abada|Moussa Abada]]
-**Mother:** [[People/Freha-Mekayess-Abada|Freha Mekayess Abada]]
+**Father:** [[People/Moussa-Abada|Moussa Abada]] | **Mother:** [[People/Freha-Mekayess-Abada|Freha Mekayess Abada]]
 **Spouse:** [[People/Yossef-Yohay|Yossef Yohay]]
 **Siblings:** [[People/Helene-Abada-Sasson|Helene Abada Sasson]], [[People/Esther-Abada|Esther Abada]], [[People/David-Doudou-Abada|David Doudou Abada]], [[People/Claire-Abada-Cohenca|Claire Abada Cohenca]], [[People/Yehezkel-Ernest-Abada|Yehezkel Ernest Abada]], [[People/Jacques-Abada|Jacques Abada]], [[People/Victor-Abada|Victor Abada]], [[People/Felix-Abada|Felix Abada]]
 **Children:** [[People/Rony-Yehoshua-Yohay|Rony Yehoshua Yohay]], [[People/Moshe-Yohay|Moshe Yohay]], [[People/Esther-Esty-Yohay-Rahamim|Esther (Esty) Yohay Rahamim]]
+**Families:** [[Families/Abada|Abada]], [[Families/Yohay|Yohay]]
 
 ## Biography
 Edith Yohay, nee au [[Places/Cairo]] en 1933, et mariee a Yossef Yohay en 1956. En 1957, a la suite de la guerre de Suez, le couple quitte l'[[Places/Egypt]] , emigre en [[Places/Israel]], et s'installe a Bne-Brak. Yossef travaille , toujours pharmacien a la "Koupat Holim", tout pres de sa maison. Ils ont 3 enfants. En 1991, Yossef meurt subitement d'une crise cardiaque. Edith habite toujours le meme appartement.

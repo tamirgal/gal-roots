@@ -28,11 +28,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Menashe-Ambar|Menashe Ambar]]
-**Mother:** [[People/Farha-Sasson-Ambar|Farha Sasson Ambar]]
+**Father:** [[People/Menashe-Ambar|Menashe Ambar]] | **Mother:** [[People/Farha-Sasson-Ambar|Farha Sasson Ambar]]
 **Spouse:** [[People/Aharon-Shammass-Shemesh|Aharon Shammass (Shemesh)]]
 **Siblings:** [[People/Saada-Ambar-Bolafi|Saada Ambar Bolafi]], [[People/Sasson-Ambar|Sasson Ambar]], [[People/Simha-Ambar-Harari|Simha Ambar Harari]], [[People/Ezra-Ambar|Ezra Ambar]], [[People/Rachel-Ambar-Levy|Rachel Ambar Levy]]
 **Children:** [[People/Robert-Reuben-Shammass-Shemesh|Robert Reuben Shammass (Shemesh)]], [[People/Joseph-Peppo-Shammass-Shemesh|Joseph Peppo Shammass (Shemesh)]]
+**Families:** [[Families/Ambar|Ambar]], [[Families/Shammass|Shammass]]
 
 ## Biography
 

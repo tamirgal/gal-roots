@@ -31,6 +31,7 @@ research_level: 2
 
 **Spouse:** [[People/Moshe-Israel-Klein|Moshe Israel Klein]]
 **Children:** [[People/Ondrej-Clyne|Ondrej Clyne]], [[People/Albert-Bella-Klein|Albert (Bella) Klein]], [[People/Edith-Klein-Kaminski|Edith Klein Kaminski]], [[People/Gabriel-Klein-1929|Gabriel Klein]]
+**Families:** [[Families/Steinmetz|Steinmetz]], [[Families/Klein|Klein]]
 
 ## Biography
 Born in Bochco, Marmaros ([[Places/Romania]] of today) and moved to [[Places/Uzhgorod]]/[[Places/Uzhgorod]]. Worked at the family business and had two hats shops in the town. In 1944 was sent to [[Places/Auschwitz]] with the rest of the jews and never survived.

@@ -20,6 +20,7 @@ research_level: 0
 
 **Spouse:** [[People/Hougi-Malka|Hougi Malka]]
 **Children:** [[People/Regina-Malka-Abada|Regina Malka Abada]], [[People/Yehezkiel-Malka|Yehezkiel Malka]], [[People/Simha-Malka-Ghazal|Simha Malka Ghazal]]
+**Families:** [[Families/Malka|Malka]]
 
 ## Biography
 Sa mort est due a un accident. Alors qu'elle allumait le primus, il a eclate, et elle s'est brulee. C'etait au [[Places/Cairo]] ([[Places/Egypt]]) en 1941.

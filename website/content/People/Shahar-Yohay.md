@@ -17,9 +17,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Rony-Yehoshua-Yohay|Rony Yehoshua Yohay]]
-**Mother:** [[People/Nily-Raykh-Yohay|Nily Raykh Yohay]]
+**Father:** [[People/Rony-Yehoshua-Yohay|Rony Yehoshua Yohay]] | **Mother:** [[People/Nily-Raykh-Yohay|Nily Raykh Yohay]]
 **Siblings:** [[People/Adi-Yohay|Adi Yohay]]
+**Families:** [[Families/Yohay|Yohay]]
 
 ## Biography
 

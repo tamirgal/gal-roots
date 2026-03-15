@@ -17,9 +17,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Ladys-Witukiewicz|Ladys Witukiewicz]]
-**Mother:** [[People/Elise-Savdie-Witukiewicz|Elise Savdie Witukiewicz]]
+**Father:** [[People/Ladys-Witukiewicz|Ladys Witukiewicz]] | **Mother:** [[People/Elise-Savdie-Witukiewicz|Elise Savdie Witukiewicz]]
 **Siblings:** [[People/Myriam-Witukiewicz|Myriam Witukiewicz]], [[People/David-Witukiewicz|David Witukiewicz]]
+**Families:** [[Families/Witukiewicz|Witukiewicz]]
 
 ## Biography
 

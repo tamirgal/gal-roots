@@ -33,6 +33,7 @@ research_level: 2
 
 **Spouse:** [[People/Sheindel-Aharon|Sheindel Aharon]]
 **Children:** [[People/Joseph-Aharon-1887|Joseph Aharon]], [[People/Shabtay-Aharon|Shabtay Aharon]], [[People/Frida-Aharon-Farkas|Frida Aharon Farkas]], [[People/Lea-Aharon-Eliovich|Lea Aharon Eliovich]], [[People/Rachel-Aharon-Zelikovitch|Rachel Aharon Zelikovitch]]
+**Families:** [[Families/Aharon|Aharon]]
 
 ## Biography
 David Aharon and wife Sheindel, Ancestors and head of the Aharon family. Born and died in [[Places/Tyachiv]], in the end of the 19 th century. They lived in this small village, with some 1500 Jews. David was a shoemaker, married to Sheindel and had 5 children, all born in that east Europe village. Since their death, all descendants continue to live there, in Tacovo. At the origin, the village was under the Austro-Hungarian government, …in 1920, it passed to the new Czechoslovakian state. After some years, it was shifted back to [[Places/Hungary]], until World War 2. As many Jewish villages in the area, it was victim of the Nazi persecution, and their "Final solution". Jews were gathered in central ghetto in the village. Some were sent to Nazi labor camps, while others were sent to [[Places/Auschwitz]] and other extermination camps, between the years 1942-1944. That was also the destiny of the Aharon family, … Some members died in that holocaust, some escaped, some lived in spite their capture and detention in those camps, … They got married, emigrated to [[Places/Israel]], to the [[Places/USA]], to [[Places/Australia]],…

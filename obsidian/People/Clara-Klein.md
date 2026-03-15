@@ -26,6 +26,7 @@ research_level: 1
 
 **Spouse:** [[People/David-Klein|David Klein]]
 **Children:** [[People/Harriett-Klein-Peaceman|Harriett Klein Peaceman]], [[People/Ruth-Klein-Peaceman|Ruth Klein Peaceman]], [[People/Phyllis-Hirschman-Newmark|Phyllis Hirschman Newmark]]
+**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 

@@ -19,6 +19,7 @@ research_level: 2
 
 **Spouse:** [[People/Leah-Aharon-Steiner|Leah Aharon Steiner]]
 **Children:** [[People/Ilana-Steiner-Harel|Ilana Steiner Harel]], [[People/Tsipora-Steiner-Eyal|Tsipora Steiner Eyal]]
+**Families:** [[Families/Steiner|Steiner]]
 
 ## Biography
 Zussia was born in Galitzia, [[Places/Poland]] in 1925. In 1933 the Steiners immigrated to [[Places/Palestine]] and settled in [[Places/Haifa]]. When Zussia grew up, he joined Egged, an Israeli bus cooperative association and started to work in the Garage. There he met Moshe Fuchs who was married to Ahuva (Libchu) Aharon. Moshe introduced Zussia to Lilly Aharon, his young sister in law, and the young couple soon got married (December 1952). Zussia and Lilly lived 2 years with his parents before they moved to their own flat where their two daughter were born. Zussia got ill and had series of medical problems for the last 20 years of his life before he passed away in 1995.

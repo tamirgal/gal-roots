@@ -31,11 +31,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Avraham-Izhak-Klein|Avraham-Izhak Klein]]
-**Mother:** [[People/Hensha-Klein|Hensha Klein]]
+**Father:** [[People/Avraham-Izhak-Klein|Avraham-Izhak Klein]] | **Mother:** [[People/Hensha-Klein|Hensha Klein]]
 **Spouse:** [[People/Paula-Steinmetz-Klein|Paula Steinmetz Klein]]
 **Siblings:** [[People/Antonia-Klein-Goldstein|Antonia Klein Goldstein]], [[People/David-Klein|David Klein]], [[People/Roza-Rezsi-Klein-Der|Roza (Rezsi) Klein Der]], [[People/Bernard-Klein|Bernard Klein]], [[People/Yehuda-Klein|Yehuda Klein]]
 **Children:** [[People/Ondrej-Clyne|Ondrej Clyne]], [[People/Albert-Bella-Klein|Albert (Bella) Klein]], [[People/Edith-Klein-Kaminski|Edith Klein Kaminski]], [[People/Gabriel-Klein-1929|Gabriel Klein]]
+**Families:** [[Families/Israel|Israel]], [[Families/Klein|Klein]]
 
 ## Biography
 Born in [[Places/Uzhgorod]], married to Paula Steinmetz. Worked together with his wife in the hat making business and was a Sales agent. Was known as Jewish Scholar and could have been a rabbi if he wanted to. Was sent, together with the other jews of his town to [[Places/Auschwitz]] in 1944 and died there with his wife and his small child Gabi.

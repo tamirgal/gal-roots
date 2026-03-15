@@ -12,6 +12,7 @@ research_level: 2
 ## Family
 
 **Spouse:** [[People/Rachel-Ambar-Levy|Rachel Ambar Levy]]
+**Families:** [[Families/Levy|Levy]]
 
 ## Biography
 Marco (Leon) Levy, is born in [[Places/Bulgaria]], in 1882, married to Rachel Ambar in [[Places/Cairo]], and died in 1949 in [[Places/Cairo]].

@@ -17,9 +17,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Alan-Mark-Peaceman|Alan Mark Peaceman]]
-**Mother:** [[People/Karen-Peaceman|Karen Peaceman]]
+**Father:** [[People/Alan-Mark-Peaceman|Alan Mark Peaceman]] | **Mother:** [[People/Karen-Peaceman|Karen Peaceman]]
 **Siblings:** [[People/Sarah-Diane-Peaceman|Sarah Diane Peaceman]], [[People/Daniel-Morris-Peaceman|Daniel Morris Peaceman]]
+**Families:** [[Families/Peaceman|Peaceman]]
 
 ## Biography
 

@@ -11,6 +11,7 @@ research_level: 0
 ## Family
 
 **Spouse:** [[People/Einav-Abada-Avieli|Einav Abada Avieli]]
+**Families:** [[Families/Avieli|Avieli]]
 
 ## Biography
 

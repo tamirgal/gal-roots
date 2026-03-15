@@ -25,6 +25,7 @@ research_level: 1
 
 **Spouse:** [[People/Avigdor-Zuckerberger|Avigdor Zuckerberger]]
 **Children:** [[People/Tsipora-Zuckerberger-Glassberg|Tsipora Zuckerberger Glassberg]], [[People/Shabetay-Zuckerberger-Geva|Shabetay Zuckerberger Geva]]
+**Families:** [[Families/Smilovitz|Smilovitz]], [[Families/Zuckerberger|Zuckerberger]]
 
 ## Biography
 

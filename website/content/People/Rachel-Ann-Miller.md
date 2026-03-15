@@ -17,9 +17,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Seth-Miller|Seth Miller]]
-**Mother:** [[People/Ellen-Mina-Hirschman-Miller|Ellen Mina Hirschman Miller]]
+**Father:** [[People/Seth-Miller|Seth Miller]] | **Mother:** [[People/Ellen-Mina-Hirschman-Miller|Ellen Mina Hirschman Miller]]
 **Siblings:** [[People/Jonathan-David-Miller|Jonathan David Miller]]
+**Families:** [[Families/Miller|Miller]]
 
 ## Biography
 

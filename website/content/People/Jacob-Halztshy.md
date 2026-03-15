@@ -18,6 +18,7 @@ research_level: 0
 
 **Spouse:** [[People/Hatoune-Abed-Halztshy|Hatoune Abed Halztshy]]
 **Children:** [[People/Ahlam-Halztshy|Ahlam Halztshy]], [[People/Nina-Halztshy-Touena|Nina Halztshy Touena]]
+**Families:** [[Families/Halztshy|Halztshy]]
 
 ## Biography
 

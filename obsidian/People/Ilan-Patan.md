@@ -28,11 +28,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Isaac-Patan|Isaac Patan]]
-**Mother:** [[People/Ady-Kremer-Patan|Ady Kremer Patan]]
+**Father:** [[People/Isaac-Patan|Isaac Patan]] | **Mother:** [[People/Ady-Kremer-Patan|Ady Kremer Patan]]
 **Spouse:** [[People/Orly-Patan|Orly Patan]]
 **Siblings:** [[People/Raphael-Rafi-Patan|Raphael (Rafi) Patan]]
 **Children:** [[People/Ido-Patan|Ido Patan]], [[People/Nir-Patan|Nir Patan]]
+**Families:** [[Families/Patan|Patan]]
 
 ## Biography
 

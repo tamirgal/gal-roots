@@ -15,10 +15,10 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Rafi-Harari|Rafi Harari]]
-**Mother:** [[People/Miriam-Abada-Harari|Miriam Abada Harari]]
+**Father:** [[People/Rafi-Harari|Rafi Harari]] | **Mother:** [[People/Miriam-Abada-Harari|Miriam Abada Harari]]
 **Spouse:** [[People/Omer-Caspi|Omer Caspi]]
 **Siblings:** [[People/Erane-Harari|Erane Harari]], [[People/Rinat-Harari|Rinat Harari]]
+**Families:** [[Families/Harari|Harari]], [[Families/Caspi|Caspi]]
 
 ## Biography
 Wedding of Ravit Harari and Omer Caspi in [[Places/Israel]] 26 August 2001

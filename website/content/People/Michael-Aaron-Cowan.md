@@ -17,9 +17,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/David-Mark-Cowan|David Mark Cowan]]
-**Mother:** [[People/Caren-Beth-Peaceman-Cowan|Caren Beth Peaceman Cowan]]
+**Father:** [[People/David-Mark-Cowan|David Mark Cowan]] | **Mother:** [[People/Caren-Beth-Peaceman-Cowan|Caren Beth Peaceman Cowan]]
 **Siblings:** [[People/Steven-Jay-Cowan|Steven Jay Cowan]]
+**Families:** [[Families/Cowan|Cowan]]
 
 ## Biography
 

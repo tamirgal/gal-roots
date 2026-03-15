@@ -19,9 +19,9 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Shaoul-Eliahou|Shaoul Eliahou]]
-**Mother:** [[People/Danielle-Obadia-Eliahou|Danielle Obadia Eliahou]]
+**Father:** [[People/Shaoul-Eliahou|Shaoul Eliahou]] | **Mother:** [[People/Danielle-Obadia-Eliahou|Danielle Obadia Eliahou]]
 **Siblings:** [[People/Ludivine-Eliahou|Ludivine Eliahou]]
+**Families:** [[Families/Eliahou|Eliahou]]
 
 ## Biography
 Alexandre est ne a Boulogne

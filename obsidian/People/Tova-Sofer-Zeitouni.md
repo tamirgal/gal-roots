@@ -16,6 +16,7 @@ research_level: 0
 
 **Spouse:** [[People/Elie-Zeitouni-ind00641|Elie Zeitouni]]
 **Children:** [[People/Ido-Zeitouni|Ido Zeitouni]]
+**Families:** [[Families/Zeitouni|Zeitouni]]
 
 ## Biography
 

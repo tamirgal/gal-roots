@@ -33,11 +33,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Eliahou-Abed|Eliahou Abed]]
-**Mother:** [[People/Massouda-Touek-Abed|Massouda (Touek) Abed]]
+**Father:** [[People/Eliahou-Abed|Eliahou Abed]] | **Mother:** [[People/Massouda-Touek-Abed|Massouda (Touek) Abed]]
 **Spouse:** [[People/Ezra-Levy|Ezra Levy]]
 **Siblings:** [[People/David-Daoud-Abed|David (Daoud) Abed]], [[People/Ezra-Patan|Ezra Patan]], [[People/Aharon-Abed|Aharon Abed]], [[People/Abraham-Abed|Abraham Abed]], [[People/Nina-Abed|Nina Abed]], [[People/Hatoune-Abed-Halztshy|Hatoune Abed Halztshy]], [[People/Heila-Abed|Heila Abed]]
 **Children:** [[People/Nouri-Levy|Nouri Levy]], [[People/Nagy-Levy|Nagy Levy]], [[People/Hanina-Levy|Hanina Levy]], [[People/Loula-Levy|Loula Levy]], [[People/Nathan-Nazem-Levy|Nathan (Nazem) Levy]], [[People/Lea-Levy|Lea Levy]]
+**Families:** [[Families/Levy|Levy]]
 
 ## Biography
 Aziza Abed, born in [[Places/Baghdad]] ([[Places/Iraq]]), is the daughter of Eliahou and Massouda Abed. Married to Ezra Levy in [[Places/Baghdad]]. They have 6 children. The family emigrated to [[Places/Israel]] in 1950

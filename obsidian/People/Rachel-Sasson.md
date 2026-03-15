@@ -29,6 +29,7 @@ research_level: 1
 
 **Spouse:** [[People/Youssef-Sasson|Youssef Sasson]]
 **Children:** [[People/Bekhora-Sasson-Ezra|Bekhora Sasson Ezra]], [[People/Nissim-Sasson|Nissim Sasson]], [[People/Regina-Sasson|Regina Sasson]], [[People/Moussa-Moshe-Sasson|Moussa Moshe Sasson]], [[People/Rebecca-Sasson-Yehya|Rebecca Sasson Yehya]], [[People/Semha-Sasson-Cohen|Semha Sasson Cohen]], [[People/David-Sasson|David Sasson]]
+**Families:** [[Families/Sasson|Sasson]]
 
 ## Biography
 

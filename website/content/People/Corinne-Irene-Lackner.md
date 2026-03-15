@@ -12,9 +12,9 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Arthur-Lackner|Arthur Lackner]]
-**Mother:** [[People/Gale-Joanne-Peaceman-Lackner|Gale Joanne Peaceman Lackner]]
+**Father:** [[People/Arthur-Lackner|Arthur Lackner]] | **Mother:** [[People/Gale-Joanne-Peaceman-Lackner|Gale Joanne Peaceman Lackner]]
 **Siblings:** [[People/David-Grant-Lackner|David Grant Lackner]]
+**Families:** [[Families/Lackner|Lackner]]
 
 ## Biography
 Corrine studies in Rutgers University Animal Science.

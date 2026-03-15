@@ -17,6 +17,7 @@ research_level: 1
 ## Family
 
 **Spouse:** [[People/Itshak-Zako-Cohen|Itshak (Zako) Cohen]]
+**Families:** [[Families/Koninsky|Koninsky]]
 
 ## Biography
 

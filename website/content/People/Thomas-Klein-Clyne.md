@@ -19,11 +19,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Shimon-Klein|Shimon Klein]]
-**Mother:** [[People/Yulanda-Weinberger-Klein|Yulanda Weinberger Klein]]
+**Father:** [[People/Shimon-Klein|Shimon Klein]] | **Mother:** [[People/Yulanda-Weinberger-Klein|Yulanda Weinberger Klein]]
 **Spouse:** [[People/Roberta-Clyne|Roberta Clyne]]
 **Siblings:** [[People/Louis-Klein|Louis Klein]]
 **Children:** [[People/Felis-Clyne|Felis Clyne]]
+**Families:** [[Families/Klein|Klein]], [[Families/Clyne|Clyne]]
 
 ## Biography
 Thomas Klein lives in the [[Places/USA]]. Married and has children

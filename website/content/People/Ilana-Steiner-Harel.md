@@ -27,11 +27,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Zussia-Steiner|Zussia Steiner]]
-**Mother:** [[People/Leah-Aharon-Steiner|Leah Aharon Steiner]]
+**Father:** [[People/Zussia-Steiner|Zussia Steiner]] | **Mother:** [[People/Leah-Aharon-Steiner|Leah Aharon Steiner]]
 **Spouse:** [[People/Yaacov-Harel|Yaacov Harel]]
 **Siblings:** [[People/Tsipora-Steiner-Eyal|Tsipora Steiner Eyal]]
 **Children:** [[People/Tal-Harel|Tal Harel]], [[People/Liran-Harel|Liran Harel]]
+**Families:** [[Families/Steiner|Steiner]], [[Families/Harel|Harel]]
 
 ## Biography
 

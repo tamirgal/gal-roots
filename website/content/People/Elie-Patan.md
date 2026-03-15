@@ -39,11 +39,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Ezra-Patan|Ezra Patan]]
-**Mother:** [[People/Victoria-Sasson-Patan|Victoria Sasson Patan]]
+**Father:** [[People/Ezra-Patan|Ezra Patan]] | **Mother:** [[People/Victoria-Sasson-Patan|Victoria Sasson Patan]]
 **Spouse:** [[People/Mary-Abada-Patan|Mary Abada Patan]]
 **Siblings:** [[People/Isaac-Patan|Isaac Patan]], [[People/Miriam-Patan-Ravia|Miriam Patan Ravia]]
 **Children:** [[People/Aviva-Vicky-Patan-Gal|Aviva (Vicky) Patan Gal]], [[People/Ezra-Cesy-Patan|Ezra Cesy Patan]], [[People/Sami-Patan|Sami Patan]]
+**Families:** [[Families/Patan|Patan]]
 
 ## Biography
 **See also:** [[attachments/docs/hebrew-memories]]

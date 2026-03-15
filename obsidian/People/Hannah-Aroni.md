@@ -17,8 +17,8 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Ben-Zion-Aroni|Ben-Zion Aroni]]
-**Mother:** [[People/Rosalie-Aroni|Rosalie Aroni]]
+**Father:** [[People/Ben-Zion-Aroni|Ben-Zion Aroni]] | **Mother:** [[People/Rosalie-Aroni|Rosalie Aroni]]
+**Families:** [[Families/Aroni|Aroni]]
 
 ## Biography
 

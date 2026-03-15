@@ -17,9 +17,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Nir-Brawn|Nir Brawn]]
-**Mother:** [[People/Elisabeth-Finegenblat-Brawn|Elisabeth Finegenblat Brawn]]
+**Father:** [[People/Nir-Brawn|Nir Brawn]] | **Mother:** [[People/Elisabeth-Finegenblat-Brawn|Elisabeth Finegenblat Brawn]]
 **Siblings:** [[People/Ady-Brawn|Ady Brawn]], [[People/Ofry-Brawn|Ofry Brawn]], [[People/Idane-Brawn|Idane Brawn]]
+**Families:** [[Families/Brawn|Brawn]]
 
 ## Biography
 

@@ -28,11 +28,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Ondrej-Clyne|Ondrej Clyne]]
-**Mother:** [[People/Ellen-Cooper-Clyne|Ellen Cooper Clyne]]
+**Father:** [[People/Ondrej-Clyne|Ondrej Clyne]] | **Mother:** [[People/Ellen-Cooper-Clyne|Ellen Cooper Clyne]]
 **Spouse:** [[People/Ferdinand-Ridley|Ferdinand Ridley]]
 **Siblings:** [[People/Charles-Clyne|Charles Clyne]], [[People/Rachel-Clyne-Blake|Rachel Clyne Blake]]
 **Children:** [[People/Francis-Ridley|Francis Ridley]], [[People/Dominic-Ridley|Dominic Ridley]], [[People/Caroline-Ridley|Caroline Ridley]]
+**Families:** [[Families/Clyne|Clyne]], [[Families/Ridley|Ridley]]
 
 ## Biography
 

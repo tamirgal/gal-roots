@@ -24,6 +24,7 @@ research_level: 0
 
 **Spouse:** [[People/Lea-Aharon-Eliovich|Lea Aharon Eliovich]]
 **Children:** [[People/Channa-Eliovich|Channa Eliovich]], [[People/Etta-Eliovich|Etta Eliovich]], [[People/Zvi-Eliovich|Zvi Eliovich]], [[People/Arie-Eliovich|Arie Eliovich]], [[People/Yehoshuah-Eliovich|Yehoshuah Eliovich]]
+**Families:** [[Families/Eliovich|Eliovich]]
 
 ## Biography
 

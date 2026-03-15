@@ -30,11 +30,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Salvator-Savdie|Salvator Savdie]]
-**Mother:** [[People/Arlette-Abada-Savdie|Arlette Abada Savdie]]
+**Father:** [[People/Salvator-Savdie|Salvator Savdie]] | **Mother:** [[People/Arlette-Abada-Savdie|Arlette Abada Savdie]]
 **Spouse:** [[People/Ladys-Witukiewicz|Ladys Witukiewicz]]
 **Siblings:** [[People/Jacky-Savdie|Jacky Savdie]], [[People/Soly-Savdie|Soly Savdie]], [[People/Gina-Savdie-Uzan|Gina Savdie Uzan]]
 **Children:** [[People/Myriam-Witukiewicz|Myriam Witukiewicz]], [[People/Lauren-Witukiewicz|Lauren Witukiewicz]], [[People/David-Witukiewicz|David Witukiewicz]]
+**Families:** [[Families/Savdie|Savdie]], [[Families/Witukiewicz|Witukiewicz]]
 
 ## Biography
 

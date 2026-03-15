@@ -12,9 +12,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Moshe-Fuchs-ind00306|Moshe Fuchs]]
-**Mother:** [[People/Regy-Nefoussi-Fuchs|Regy Nefoussi Fuchs]]
+**Father:** [[People/Moshe-Fuchs-ind00306|Moshe Fuchs]] | **Mother:** [[People/Regy-Nefoussi-Fuchs|Regy Nefoussi Fuchs]]
 **Siblings:** [[People/Lyat-Fuchs-Kalo|Lyat Fuchs Kalo]], [[People/Lirone-Fuchs|Lirone Fuchs]]
+**Families:** [[Families/Fuchs|Fuchs]]
 
 ## Biography
 

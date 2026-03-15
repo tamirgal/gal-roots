@@ -20,6 +20,7 @@ research_level: 0
 
 **Spouse:** [[People/Elie-Abada|Elie Abada]]
 **Children:** [[People/Lital-Abada|Lital Abada]], [[People/Haim-Abada|Haim Abada]], [[People/Dana-Abada|Dana Abada]]
+**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

@@ -25,6 +25,7 @@ research_level: 2
 
 **Spouse:** [[People/Moshe-Hanan|Moshe Hanan]]
 **Children:** [[People/Adi-Hanan|Adi Hanan]], [[People/Hayim-Hanan|Hayim Hanan]]
+**Families:** [[Families/Wahba|Wahba]], [[Families/Hanan|Hanan]]
 
 ## Biography
 Arlette Wahba, married to Moshe Hanan 11 November 1981. Arlette is the daughter of Yossef and Simone Wahba

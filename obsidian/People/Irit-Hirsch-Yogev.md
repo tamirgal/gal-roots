@@ -30,11 +30,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Yaacov-Hirsch|Yaacov Hirsch]]
-**Mother:** [[People/Zipora-Farkas-Hirsch|Zipora Farkas Hirsch]]
+**Father:** [[People/Yaacov-Hirsch|Yaacov Hirsch]] | **Mother:** [[People/Zipora-Farkas-Hirsch|Zipora Farkas Hirsch]]
 **Spouse:** [[People/Hans-Yogev|Hans Yogev]]
 **Siblings:** [[People/Judith-Hirsch-Kneiz|Judith Hirsch Kneiz]]
 **Children:** [[People/Maayan-Yogev|Maayan Yogev]], [[People/Eyal-Yogev|Eyal Yogev]]
+**Families:** [[Families/Hirsch|Hirsch]], [[Families/Yogev|Yogev]]
 
 ## Biography
 Married to Hans Yogev, then divorced later.

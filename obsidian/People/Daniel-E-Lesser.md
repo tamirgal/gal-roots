@@ -12,9 +12,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Joshua-A-Lesser|Joshua A. Lesser]]
-**Mother:** [[People/Tamara-J-Ovdat-Lesser|Tamara J. Ovdat Lesser]]
+**Father:** [[People/Joshua-A-Lesser|Joshua A. Lesser]] | **Mother:** [[People/Tamara-J-Ovdat-Lesser|Tamara J. Ovdat Lesser]]
 **Siblings:** [[People/Emilie-F-Lesser|Emilie F. Lesser]]
+**Families:** [[Families/Lesser|Lesser]]
 
 ## Biography
 

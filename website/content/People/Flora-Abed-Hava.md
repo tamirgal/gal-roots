@@ -30,11 +30,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Abraham-Abed|Abraham Abed]]
-**Mother:** [[People/Regina-Fathi-Abed|Regina (Fathi) Abed]]
+**Father:** [[People/Abraham-Abed|Abraham Abed]] | **Mother:** [[People/Regina-Fathi-Abed|Regina (Fathi) Abed]]
 **Spouse:** [[People/Nissim-Hava|Nissim Hava]]
 **Siblings:** [[People/Anouar-Abed-Patan-Aviad|Anouar (Abed-Patan) Aviad]]
 **Children:** [[People/Zvi-Hava|Zvi Hava]], [[People/David-Hava|David Hava]], [[People/Yehouda-Hava|Yehouda Hava]]
+**Families:** [[Families/Hava|Hava]]
 
 ## Biography
 Flora Abed, born in [[Places/Baghdad]] ([[Places/Iraq]]) Married in [[Places/Iraq]] to Nissim Hava. She emigrated to [[Places/Israel]] in 1950, with her family.

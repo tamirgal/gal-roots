@@ -17,9 +17,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Yacov-Abada|Yacov Abada]]
-**Mother:** [[People/Esther-Yacobinsky-Abada|Esther Yacobinsky Abada]]
+**Father:** [[People/Yacov-Abada|Yacov Abada]] | **Mother:** [[People/Esther-Yacobinsky-Abada|Esther Yacobinsky Abada]]
 **Siblings:** [[People/Einav-Abada-Avieli|Einav Abada Avieli]], [[People/Omer-Abada|Omer Abada]]
+**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

@@ -21,6 +21,7 @@ research_level: 2
 
 **Spouse:** [[People/Iris-Brawn-Leker|Iris Brawn Leker]]
 **Children:** [[People/Royi-Leker|Royi Leker]], [[People/Guy-Leker|Guy Leker]], [[People/Tal-Leker|Tal Leker]]
+**Families:** [[Families/Leker|Leker]]
 
 ## Biography
 Noam Leker, married to Iris Brawn in [[Places/Israel]], in 1986

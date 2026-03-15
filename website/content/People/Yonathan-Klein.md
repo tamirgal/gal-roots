@@ -12,9 +12,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Raphael-Klein|Raphael Klein]]
-**Mother:** [[People/Pnina-Zahavi-Klein|Pnina Zahavi Klein]]
+**Father:** [[People/Raphael-Klein|Raphael Klein]] | **Mother:** [[People/Pnina-Zahavi-Klein|Pnina Zahavi Klein]]
 **Siblings:** [[People/Ophir-Klein|Ophir Klein]], [[People/Doron-Klein|Doron Klein]]
+**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 

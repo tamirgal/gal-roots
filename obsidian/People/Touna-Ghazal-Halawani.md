@@ -14,10 +14,10 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Ghazal|Ghazal]]
-**Mother:** [[People/Simha-Malka-Ghazal|Simha Malka Ghazal]]
+**Father:** [[People/Ghazal|Ghazal]] | **Mother:** [[People/Simha-Malka-Ghazal|Simha Malka Ghazal]]
 **Spouse:** [[People/Halawani|Halawani]]
 **Siblings:** [[People/Yossef-Ghazal|Yossef Ghazal]]
+**Families:** [[Families/Ghazal|Ghazal]], [[Families/Halawani|Halawani]]
 
 ## Biography
 

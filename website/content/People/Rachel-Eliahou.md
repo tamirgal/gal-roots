@@ -19,9 +19,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Joseph-Eliahou|Joseph Eliahou]]
-**Mother:** [[People/Laurette-Paula-Cohen-Eliahou|Laurette (Paula) Cohen Eliahou]]
+**Father:** [[People/Joseph-Eliahou|Joseph Eliahou]] | **Mother:** [[People/Laurette-Paula-Cohen-Eliahou|Laurette (Paula) Cohen Eliahou]]
 **Siblings:** [[People/David-Eliahou|David Eliahou]], [[People/Eric-Haim-Eliahou|Eric Haim Eliahou]]
+**Families:** [[Families/Eliahou|Eliahou]]
 
 ## Biography
 

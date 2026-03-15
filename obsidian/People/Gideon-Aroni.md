@@ -19,8 +19,8 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Ben-Zion-Aroni|Ben-Zion Aroni]]
-**Mother:** [[People/Roz-Kaldor-Aroni|Roz Kaldor Aroni]]
+**Father:** [[People/Ben-Zion-Aroni|Ben-Zion Aroni]] | **Mother:** [[People/Roz-Kaldor-Aroni|Roz Kaldor Aroni]]
+**Families:** [[Families/Aroni|Aroni]]
 
 ## Biography
 

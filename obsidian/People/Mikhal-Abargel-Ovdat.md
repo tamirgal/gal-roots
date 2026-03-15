@@ -26,6 +26,7 @@ research_level: 1
 
 **Spouse:** [[People/Yosseph-Yossi-Abada-Ovdat|Yosseph (Yossi Abada) Ovdat]]
 **Children:** [[People/Chen-Ovdat|Chen Ovdat]], [[People/Danielle-Ovdat|Danielle Ovdat]], [[People/May-Ovdat|May Ovdat]]
+**Families:** [[Families/Ovdat|Ovdat]]
 
 ## Biography
 

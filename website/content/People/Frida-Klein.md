@@ -21,6 +21,7 @@ research_level: 1
 
 **Spouse:** [[People/Herman-Haim-Klein|Herman Haim Klein]]
 **Children:** [[People/Benyamin-Klein|Benyamin Klein]], [[People/Yehoshua-Klein|Yehoshua Klein]], [[People/Irenka-Klein|Irenka Klein]]
+**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 

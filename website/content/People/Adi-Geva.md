@@ -17,9 +17,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Shabetay-Zuckerberger-Geva|Shabetay Zuckerberger Geva]]
-**Mother:** [[People/Tsipora-Geva|Tsipora Geva]]
+**Father:** [[People/Shabetay-Zuckerberger-Geva|Shabetay Zuckerberger Geva]] | **Mother:** [[People/Tsipora-Geva|Tsipora Geva]]
 **Siblings:** [[People/Liran-Geva|Liran Geva]], [[People/Eyal-Geva|Eyal Geva]]
+**Families:** [[Families/Geva|Geva]]
 
 ## Biography
 

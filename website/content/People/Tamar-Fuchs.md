@@ -17,9 +17,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Shabetay-Fuchs|Shabetay Fuchs]]
-**Mother:** [[People/Ahuva-Gesthatter-Fuchs|Ahuva Gesthatter Fuchs]]
+**Father:** [[People/Shabetay-Fuchs|Shabetay Fuchs]] | **Mother:** [[People/Ahuva-Gesthatter-Fuchs|Ahuva Gesthatter Fuchs]]
 **Siblings:** [[People/Einat-Fuchs-Kelmus|Einat Fuchs Kelmus]], [[People/Aviad-Fuchs|Aviad Fuchs]]
+**Families:** [[Families/Fuchs|Fuchs]]
 
 ## Biography
 

@@ -18,6 +18,7 @@ research_level: 0
 
 **Spouse:** [[People/Ilan-Patan|Ilan Patan]]
 **Children:** [[People/Ido-Patan|Ido Patan]], [[People/Nir-Patan|Nir Patan]]
+**Families:** [[Families/Patan|Patan]]
 
 ## Biography
 

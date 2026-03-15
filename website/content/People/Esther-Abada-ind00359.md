@@ -16,9 +16,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Abdallah-Abada|Abdallah Abada]]
-**Mother:** [[People/Fortuna-Abada|Fortuna Abada]]
+**Father:** [[People/Abdallah-Abada|Abdallah Abada]] | **Mother:** [[People/Fortuna-Abada|Fortuna Abada]]
 **Siblings:** [[People/Renee-Abada|Renee Abada]], [[People/Lucy-Abada|Lucy Abada]], [[People/Lolla-Abada|Lolla Abada]]
+**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

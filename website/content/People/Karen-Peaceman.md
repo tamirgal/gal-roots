@@ -29,6 +29,7 @@ research_level: 2
 
 **Spouse:** [[People/Alan-Mark-Peaceman|Alan Mark Peaceman]]
 **Children:** [[People/Sarah-Diane-Peaceman|Sarah Diane Peaceman]], [[People/Daniel-Morris-Peaceman|Daniel Morris Peaceman]], [[People/Claire-Shoshana-Peaceman|Claire Shoshana Peaceman]]
+**Families:** [[Families/Peaceman|Peaceman]]
 
 ## Biography
 Lives in Highland Park , Illinois

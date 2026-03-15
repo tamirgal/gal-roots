@@ -27,9 +27,9 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Tamir-Gal|Tamir Gal]]
-**Mother:** [[People/Efrat-Glicksman-Gal|Efrat Glicksman Gal]]
+**Father:** [[People/Tamir-Gal|Tamir Gal]] | **Mother:** [[People/Efrat-Glicksman-Gal|Efrat Glicksman Gal]]
 **Siblings:** [[People/Nadav-Gal|Nadav Gal]], [[People/Mika-Gal|Mika Gal]]
+**Families:** [[Families/Gal|Gal]]
 
 ## Biography
 Shaked Gal, born (11/3/2012) in [[Places/Ramat Gan]], Israel.

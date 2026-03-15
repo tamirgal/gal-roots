@@ -23,11 +23,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Samuel-Nefoussi|Samuel Nefoussi]]
-**Mother:** [[People/Esther-Abada-Nefoussi|Esther Abada Nefoussi]]
+**Father:** [[People/Samuel-Nefoussi|Samuel Nefoussi]] | **Mother:** [[People/Esther-Abada-Nefoussi|Esther Abada Nefoussi]]
 **Spouse:** [[People/Ruty-Matatiahou-Niv|Ruty Matatiahou Niv]]
 **Siblings:** [[People/Lina-Nefoussi-Brawn|Lina Nefoussi Brawn]], [[People/Shaoul-Nefoussi|Shaoul Nefoussi]], [[People/Regy-Nefoussi-Fuchs|Regy Nefoussi Fuchs]]
 **Children:** [[People/Amir-Niv|Amir Niv]], [[People/Shemer-Niv|Shemer Niv]], [[People/Keren-Niv-Bornstein|Keren Niv Bornstein]]
+**Families:** [[Families/Nefoussi|Nefoussi]], [[Families/Niv|Niv]]
 
 ## Biography
 Elie Niv, married to Ruty Matatiahou in [[Places/Israel]] , in 1965

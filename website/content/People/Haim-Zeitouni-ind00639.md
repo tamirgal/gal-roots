@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Shlomo-Soly-Zeitouni|Shlomo (Soly) Zeitouni]]
-**Mother:** [[People/Sarah-Abada-Zeitouni|Sarah (Abada) Zeitouni]]
+**Father:** [[People/Shlomo-Soly-Zeitouni|Shlomo (Soly) Zeitouni]] | **Mother:** [[People/Sarah-Abada-Zeitouni|Sarah (Abada) Zeitouni]]
 **Siblings:** [[People/Elie-Zeitouni-ind00641|Elie Zeitouni]], [[People/Chen-Zeitouni|Chen Zeitouni]]
+**Families:** [[Families/Zeitouni|Zeitouni]]
 
 ## Biography
 

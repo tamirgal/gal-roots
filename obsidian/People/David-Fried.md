@@ -21,11 +21,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Tab-Tibor-Fried|Tab (Tibor) Fried]]
-**Mother:** [[People/Eva-Rachel-Aroni-Fried|Eva (Rachel) Aroni Fried]]
+**Father:** [[People/Tab-Tibor-Fried|Tab (Tibor) Fried]] | **Mother:** [[People/Eva-Rachel-Aroni-Fried|Eva (Rachel) Aroni Fried]]
 **Spouse:** [[People/Amanda-Oliver-Fried|Amanda Oliver Fried]]
 **Siblings:** [[People/Elie-Fried|Elie Fried]], [[People/Debbie-Fried|Debbie Fried]]
 **Children:** [[People/Zoi-Fried|Zoi Fried]], [[People/Tali-Fried|Tali Fried]]
+**Families:** [[Families/Fried|Fried]]
 
 ## Biography
 

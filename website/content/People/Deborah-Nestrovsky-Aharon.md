@@ -18,6 +18,7 @@ research_level: 0
 
 **Spouse:** [[People/Ernest-Aharon|Ernest Aharon]]
 **Children:** [[People/Jonathan-Aharon|Jonathan Aharon]], [[People/Sandra-Aharon|Sandra Aharon]]
+**Families:** [[Families/Nestrovsky|Nestrovsky]], [[Families/Aharon|Aharon]]
 
 ## Biography
 

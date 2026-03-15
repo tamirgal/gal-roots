@@ -12,9 +12,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Shaoul-Nefoussi|Shaoul Nefoussi]]
-**Mother:** [[People/Pnina-Vine-Nefoussi|Pnina Vine Nefoussi]]
+**Father:** [[People/Shaoul-Nefoussi|Shaoul Nefoussi]] | **Mother:** [[People/Pnina-Vine-Nefoussi|Pnina Vine Nefoussi]]
 **Siblings:** [[People/Guila-Nefoussi-Tamir|Guila Nefoussi Tamir]], [[People/Moly-Shmouel-Nefoussi|Moly Shmouel Nefoussi]]
+**Families:** [[Families/Nefoussi|Nefoussi]]
 
 ## Biography
 

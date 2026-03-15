@@ -17,9 +17,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Tsion-Laniado|Tsion Laniado]]
-**Mother:** [[People/Esther-Etty-Cohen-Laniado|Esther (Etty) Cohen Laniado]]
+**Father:** [[People/Tsion-Laniado|Tsion Laniado]] | **Mother:** [[People/Esther-Etty-Cohen-Laniado|Esther (Etty) Cohen Laniado]]
 **Siblings:** [[People/Yoss-Laniado|Yoss Laniado]]
+**Families:** [[Families/Laniado|Laniado]]
 
 ## Biography
 

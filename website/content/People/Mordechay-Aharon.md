@@ -29,11 +29,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Shabtay-Aharon|Shabtay Aharon]]
-**Mother:** [[People/Tsipora-Zuckerberger-Aharon|Tsipora Zuckerberger Aharon]]
+**Father:** [[People/Shabtay-Aharon|Shabtay Aharon]] | **Mother:** [[People/Tsipora-Zuckerberger-Aharon|Tsipora Zuckerberger Aharon]]
 **Spouse:** [[People/Erika-Weissenberg-Aharon|Erika Weissenberg Aharon]], [[People/Margaret|Margaret]]
 **Siblings:** [[People/Avigdor-Zuckerberger|Avigdor Zuckerberger]], [[People/Ahouva-Aharon-Fuchs|Ahouva Aharon Fuchs]], [[People/Arie-Leopold-Aharon|Arie Leopold Aharon]], [[People/Leah-Aharon-Steiner|Leah Aharon Steiner]]
 **Children:** [[People/Ernest-Aharon|Ernest Aharon]], [[People/Adrian-Aharon|Adrian Aharon]]
+**Families:** [[Families/Aharon|Aharon]]
 
 ## Biography
 Mordechay was born in 1.10.1925, and died in 5.3.1994. First married to Erika,...and they have a son called Uri Second marriage to Margaret,.. and have a son called Adrian.

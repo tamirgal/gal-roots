@@ -24,6 +24,7 @@ research_level: 1
 
 **Spouse:** [[People/Batsheba-Talker-Berkovitz|Batsheba Talker Berkovitz]]
 **Children:** [[People/Eliran-Berkovitz|Eliran Berkovitz]], [[People/Shiran-Berkovitz|Shiran Berkovitz]]
+**Families:** [[Families/Berkovitz|Berkovitz]]
 
 ## Biography
 

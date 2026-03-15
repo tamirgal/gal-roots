@@ -17,9 +17,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Moshe-Abada|Moshe Abada]]
-**Mother:** [[People/Gili-Yashar-Abada|Gili Yashar Abada]]
+**Father:** [[People/Moshe-Abada|Moshe Abada]] | **Mother:** [[People/Gili-Yashar-Abada|Gili Yashar Abada]]
 **Siblings:** [[People/Daniel-Abada|Daniel Abada]], [[People/Gay-Abada|Gay Abada]]
+**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

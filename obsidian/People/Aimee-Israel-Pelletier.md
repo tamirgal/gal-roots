@@ -36,11 +36,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Shaoul-Israel|Shaoul Israel]]
-**Mother:** [[People/Pauline-Cohen-Israel|Pauline Cohen Israel]]
+**Father:** [[People/Shaoul-Israel|Shaoul Israel]] | **Mother:** [[People/Pauline-Cohen-Israel|Pauline Cohen Israel]]
 **Spouse:** [[People/Philippe-Pelletier|Philippe Pelletier]]
 **Siblings:** [[People/Solange-Israel-Mintz|Solange Israel Mintz]], [[People/Ytshak-Israel|Ytshak Israel]], [[People/Solomon-Israel|Solomon Israel]]
 **Children:** [[People/Pauline-Pelletier|Pauline Pelletier]], [[People/Chloe-Madeleine-Pelletier|Chloe Madeleine Pelletier]]
+**Families:** [[Families/Israel|Israel]], [[Families/Pelletier|Pelletier]]
 
 ## Biography
 Aimee, ...born in [[Places/Cairo]] ([[Places/Egypt]]), December 13, 1948,... she immigrated to the [[Places/USA]], with her parents in December 1961,...married to Philip Pelletier on May 28, 1977, in [[Places/Bridgewater]], [[Places/New Jersey]].

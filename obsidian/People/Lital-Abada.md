@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Elie-Abada|Elie Abada]]
-**Mother:** [[People/Sarah-Logassi-Abada|Sarah (Logassi) Abada]]
+**Father:** [[People/Elie-Abada|Elie Abada]] | **Mother:** [[People/Sarah-Logassi-Abada|Sarah (Logassi) Abada]]
 **Siblings:** [[People/Haim-Abada|Haim Abada]], [[People/Dana-Abada|Dana Abada]]
+**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

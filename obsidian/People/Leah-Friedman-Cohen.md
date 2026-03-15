@@ -26,6 +26,7 @@ research_level: 1
 
 **Spouse:** [[People/Moshe-Cohen|Moshe Cohen]]
 **Children:** [[People/Tamar-Cohen|Tamar Cohen]], [[People/Erez-Cohen|Erez Cohen]], [[People/Allon-Cohen|Allon Cohen]]
+**Families:** [[Families/Friedman|Friedman]], [[Families/Cohen|Cohen]]
 
 ## Biography
 

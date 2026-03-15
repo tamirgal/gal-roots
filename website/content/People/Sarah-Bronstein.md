@@ -20,6 +20,7 @@ research_level: 0
 
 **Spouse:** [[People/Moshe-Bronstein|Moshe Bronstein]]
 **Children:** [[People/Yehuda-Wolf-Farkas|Yehuda Wolf Farkas]], [[People/Yacov-Bronstein|Yacov Bronstein]], [[People/Dvora-Bronstein-Rosenthal|Dvora Bronstein Rosenthal]]
+**Families:** [[Families/Bronstein|Bronstein]]
 
 ## Biography
 

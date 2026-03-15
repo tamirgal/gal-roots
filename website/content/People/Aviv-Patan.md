@@ -20,9 +20,9 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Raphael-Rafi-Patan|Raphael (Rafi) Patan]]
-**Mother:** [[People/Pnina-Patan|Pnina Patan]]
+**Father:** [[People/Raphael-Rafi-Patan|Raphael (Rafi) Patan]] | **Mother:** [[People/Pnina-Patan|Pnina Patan]]
 **Siblings:** [[People/Assaf-Patan|Assaf Patan]]
+**Families:** [[Families/Patan|Patan]]
 
 ## Biography
 Aviv Patan is born in Assaf-Harofey Hospital in [[Places/Israel]].

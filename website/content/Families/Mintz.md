@@ -1,0 +1,4 @@
+---
+name: Mintz
+type: family
+---

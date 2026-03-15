@@ -11,6 +11,7 @@ research_level: 0
 ## Family
 
 **Spouse:** [[People/Toffaha-Sasson-Ambar|Toffaha Sasson Ambar]]
+**Families:** [[Families/Ambar|Ambar]]
 
 ## Biography
 

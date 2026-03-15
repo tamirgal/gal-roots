@@ -39,11 +39,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Shaoul-Abada-1889|Shaoul Abada]]
-**Mother:** [[People/Regina-Malka-Abada|Regina Malka Abada]]
+**Father:** [[People/Shaoul-Abada-1889|Shaoul Abada]] | **Mother:** [[People/Regina-Malka-Abada|Regina Malka Abada]]
 **Spouse:** [[People/Elie-Patan|Elie Patan]]
 **Siblings:** [[People/Esther-Abada-Nefoussi|Esther Abada Nefoussi]], [[People/Alice-Abada-Abadi|Alice Abada Abadi]], [[People/David-Abada|David Abada]], [[People/Hayim-Abada-ind00281|Hayim Abada]], [[People/Joseph-Abada|Joseph Abada]], [[People/Arlette-Abada-Savdie|Arlette Abada Savdie]], [[People/Ernest-Nisso-Abada|Ernest (Nisso) Abada]], [[People/Claude-Hayim-Abada|Claude (Hayim) Abada]]
 **Children:** [[People/Aviva-Vicky-Patan-Gal|Aviva (Vicky) Patan Gal]], [[People/Ezra-Cesy-Patan|Ezra Cesy Patan]], [[People/Sami-Patan|Sami Patan]]
+**Families:** [[Families/Abada|Abada]], [[Families/Patan|Patan]]
 
 ## Biography
 Mary, fille de Shaoul et Regina Abada, est nee a Tanta, ville situee au Delta du Nil, au nord du [[Places/Cairo]]. Plus tard la famille demenage vers la capitale Egyptienne. Mariee au [[Places/Cairo]], en mars 1950, a Elie Patan ,... Ils ont 3 enfants,... En 1957, la famille emigre en [[Places/Israel]], et s'installe a [[Places/Ramat Gan]]. La vie se passe bien,... assez calme malgres les guerres et affrontements periodiques d"israel avec ses voisins. Aviva, (Vicky) l'ainee, finit son service militaire, termine le "Technion", et en 1974 , se marie. Cesy aussi, son service militaire termine,..finit ses etudes universitaires, commence a travailler et quitte l'appartement paternel pour le sien prive. Ce fut le tour de Sami a quitter l'appartement. Apres son sevice militaire, il travaille 3 annees a El-Al comme Steward, puis, decidant d'etre acteur, il passe 4 annees a "Beit Zvi" une institution academique pour acteurs de theatres. Ainsi , la maison devient grande et vide,... et Mary trouve trop de temps libre,... Avide de perfectionner son education, elle s'inscrit et suit des cours a l'universite populaire durant 5 annees. Bonne sportive, Mary adorait la mer et la nage,...Elle etait parmis les grandes nageuses de la famille, et du country club "Maccabia" de [[Places/Ramat Gan]]. Debut 1989, Mary commence a se sentir mal,.. perdant ses forces,,... Ainsi commence une periode penible et difficile de tests , analyses,... mais le verdict est formel "Lymphome". Hopitaux, traitements de chimotherapie,...pour guerir , et arreter la progression et l'expansion de la tumeur dans le circuit lymphatique.Mais le corps , perdant son immunite naturelle, et sa resistance, n'a pu echapper aux complications diverses, En Aout 1989, Mary mourut a la suite de cette penible maladie a l'age de 61 ans.

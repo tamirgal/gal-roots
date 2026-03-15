@@ -37,11 +37,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Yehuda-Wolf-Farkas|Yehuda Wolf Farkas]]
-**Mother:** [[People/Frida-Aharon-Farkas|Frida Aharon Farkas]]
+**Father:** [[People/Yehuda-Wolf-Farkas|Yehuda Wolf Farkas]] | **Mother:** [[People/Frida-Aharon-Farkas|Frida Aharon Farkas]]
 **Spouse:** [[People/Yaacov-Hirsch|Yaacov Hirsch]]
 **Siblings:** [[People/Moshe-Farkas|Moshe Farkas]], [[People/Sarah-Sandra-Farkas-Schwartz|Sarah (Sandra) Farkas Schwartz]], [[People/Chaya-Farkas-Goldstein|Chaya Farkas Goldstein]], [[People/Miriam-Farkas-Kalkstein|Miriam Farkas Kalkstein]], [[People/Kalman-Farkas|Kalman Farkas]], [[People/Shimshon-Farkas|Shimshon Farkas]]
 **Children:** [[People/Judith-Hirsch-Kneiz|Judith Hirsch Kneiz]], [[People/Irit-Hirsch-Yogev|Irit Hirsch Yogev]]
+**Families:** [[Families/Farkas|Farkas]], [[Families/Hirsch|Hirsch]]
 
 ## Biography
 Tsipora (Zili) Farkas, born in [[Places/Tyachiv]]. She lived in this small village, with her family and some 1500 Jews. . At the origin, the village was under the Austro-Hungarian government, …in 1920, it passed to the new Czechoslovakian state. After some years, it was shifted back to [[Places/Hungary]], untill World War 2. As many Jewish villages in the area, it was victim of the Nazi persecution, and their "Final solution". Jews were gathered in central ghetto in the village. Some were sent to Nazi labor camps, while others were deported to [[Places/Auschwitz]] and other extermination camps, between the years 1942-1944. That was also the destiny of the Farkash family, … Some members died in that holocaust, some escaped, some survived, in spite their capture and detention in those camps, … Tsipora , and her 3 sisters survived, and were liberated at the end of the war in 1945 . The rest of the family died in the Holaucost. She decided to immigrate to [[Places/Palestine]], She lives in [[Places/Kibbutz Gesher Haziv]], on the North coast of [[Places/Israel]].

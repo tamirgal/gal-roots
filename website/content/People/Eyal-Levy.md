@@ -19,9 +19,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Bension-Bensi-Levy|Bension Bensi Levy]]
-**Mother:** [[People/Esther-Titi-Abada-Levy|Esther (Titi) Abada Levy]]
+**Father:** [[People/Bension-Bensi-Levy|Bension Bensi Levy]] | **Mother:** [[People/Esther-Titi-Abada-Levy|Esther (Titi) Abada Levy]]
 **Siblings:** [[People/Gal-Levy|Gal Levy]]
+**Families:** [[Families/Levy|Levy]]
 
 ## Biography
 

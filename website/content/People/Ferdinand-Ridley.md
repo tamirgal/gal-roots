@@ -25,6 +25,7 @@ research_level: 1
 
 **Spouse:** [[People/Paula-Clyne-Ridley|Paula Clyne Ridley]]
 **Children:** [[People/Francis-Ridley|Francis Ridley]], [[People/Dominic-Ridley|Dominic Ridley]], [[People/Caroline-Ridley|Caroline Ridley]]
+**Families:** [[Families/Ridley|Ridley]]
 
 ## Biography
 

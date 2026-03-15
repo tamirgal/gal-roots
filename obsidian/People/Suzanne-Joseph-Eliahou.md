@@ -24,6 +24,7 @@ research_level: 2
 
 **Spouse:** [[People/Isaac-Eliahou|Isaac Eliahou]]
 **Children:** [[People/Sandra-Helene-Eliahou|Sandra Helene Eliahou]], [[People/Dan-Saleh-Eliahou|Dan Saleh Eliahou]]
+**Families:** [[Families/Eliahou|Eliahou]]
 
 ## Biography
 Suzanne Joseph, et Isaac Eliahou, se sont maries en Belgique en 1968

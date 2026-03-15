@@ -17,9 +17,9 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Leon-Sasson|Leon Sasson]]
-**Mother:** [[People/Helene-Abada-Sasson|Helene Abada Sasson]]
+**Father:** [[People/Leon-Sasson|Leon Sasson]] | **Mother:** [[People/Helene-Abada-Sasson|Helene Abada Sasson]]
 **Siblings:** [[People/David-Deddy-Sasson|David Deddy Sasson]], [[People/Esther-Sasson-ind00489|Esther Sasson]]
+**Families:** [[Families/Sasson|Sasson]]
 
 ## Biography
 Sophie (Fifi) Sasson, nee au [[Places/Cairo]], et decedee en [[Places/Israel]]

@@ -21,6 +21,7 @@ research_level: 1
 
 **Spouse:** [[People/Albert-Abada|Albert Abada]]
 **Children:** [[People/Rosy-Abada-Azar|Rosy Abada Azar]]
+**Families:** [[Families/Seroussi|Seroussi]], [[Families/Abada|Abada]]
 
 ## Biography
 

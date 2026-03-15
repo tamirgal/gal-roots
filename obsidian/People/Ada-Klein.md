@@ -16,6 +16,7 @@ research_level: 0
 
 **Spouse:** [[People/Andrei-Klein|Andrei Klein]]
 **Children:** [[People/Amit-Klein|Amit Klein]]
+**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 

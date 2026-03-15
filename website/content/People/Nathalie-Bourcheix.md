@@ -22,6 +22,7 @@ research_level: 2
 
 **Spouse:** [[People/Frederic-Barouh|Frederic Barouh]]
 **Children:** [[People/Benjamin-Barouh|Benjamin Barouh]]
+**Families:** [[Families/Bourcheix|Bourcheix]]
 
 ## Biography
 Nathalie Bourcheix, nee en Janvier 1964 au Maroc. Professeur de mathematiques, elle vit avec Frederic Barouh, et habitent dans la region parisienne pres de Versailles.

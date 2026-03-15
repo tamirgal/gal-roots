@@ -33,11 +33,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Morris-Peaceman|Morris Peaceman]]
-**Mother:** [[People/Ida-Rabinowitz-Peaceman|Ida Rabinowitz Peaceman]]
+**Father:** [[People/Morris-Peaceman|Morris Peaceman]] | **Mother:** [[People/Ida-Rabinowitz-Peaceman|Ida Rabinowitz Peaceman]]
 **Spouse:** [[People/Harriett-Klein-Peaceman|Harriett Klein Peaceman]]
 **Siblings:** [[People/Donald-William-Peaceman|Donald William Peaceman]]
 **Children:** [[People/Amy-Mina-Peaceman-Schlundt|Amy Mina Peaceman Schlundt]], [[People/Gale-Joanne-Peaceman-Lackner|Gale Joanne Peaceman Lackner]], [[People/Matthew-David-Peaceman|Matthew David Peaceman]]
+**Families:** [[Families/Peaceman|Peaceman]]
 
 ## Biography
 

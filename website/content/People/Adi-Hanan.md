@@ -17,9 +17,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Moshe-Hanan|Moshe Hanan]]
-**Mother:** [[People/Arlette-Wahba-Hanan|Arlette Wahba Hanan]]
+**Father:** [[People/Moshe-Hanan|Moshe Hanan]] | **Mother:** [[People/Arlette-Wahba-Hanan|Arlette Wahba Hanan]]
 **Siblings:** [[People/Hayim-Hanan|Hayim Hanan]]
+**Families:** [[Families/Hanan|Hanan]]
 
 ## Biography
 

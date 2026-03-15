@@ -20,9 +20,9 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Israel-Isi-Bonan|Israel Isi Bonan]]
-**Mother:** [[People/Sorana-Blanar-Bonan|Sorana Blanar Bonan]]
+**Father:** [[People/Israel-Isi-Bonan|Israel Isi Bonan]] | **Mother:** [[People/Sorana-Blanar-Bonan|Sorana Blanar Bonan]]
 **Siblings:** [[People/Marc-Bonan|Marc Bonan]]
+**Families:** [[Families/Bonan|Bonan]]
 
 ## Biography
 I was born in [[Places/Pennsylvania]], [[Places/USA]], (January 30 1976)

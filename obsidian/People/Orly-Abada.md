@@ -17,9 +17,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Edouard-Dolly-Abada|Edouard (Dolly) Abada]]
-**Mother:** [[People/Shoulamit-Yoselewitsh-Abada|Shoulamit Yoselewitsh Abada]]
+**Father:** [[People/Edouard-Dolly-Abada|Edouard (Dolly) Abada]] | **Mother:** [[People/Shoulamit-Yoselewitsh-Abada|Shoulamit Yoselewitsh Abada]]
 **Siblings:** [[People/Moshe-Abada|Moshe Abada]]
+**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

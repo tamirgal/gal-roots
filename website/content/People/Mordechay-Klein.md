@@ -12,9 +12,9 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Herman-Haim-Klein|Herman Haim Klein]]
-**Mother:** [[People/Feige-Klein|Feige Klein]]
+**Father:** [[People/Herman-Haim-Klein|Herman Haim Klein]] | **Mother:** [[People/Feige-Klein|Feige Klein]]
 **Siblings:** [[People/Chana-Klein|Chana Klein]], [[People/Esther-Klein|Esther Klein]], [[People/Sarah-Klein-1928|Sarah Klein]]
+**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 Mordechay emigrated to [[Places/Israel]]. Married , lived and died in Beer-Sheva He has children,... but no data about them

@@ -19,11 +19,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Moshe-Fuchs-ind00306|Moshe Fuchs]]
-**Mother:** [[People/Regy-Nefoussi-Fuchs|Regy Nefoussi Fuchs]]
+**Father:** [[People/Moshe-Fuchs-ind00306|Moshe Fuchs]] | **Mother:** [[People/Regy-Nefoussi-Fuchs|Regy Nefoussi Fuchs]]
 **Spouse:** [[People/Dror-Kalo|Dror Kalo]]
 **Siblings:** [[People/Shay-Fuchs|Shay Fuchs]], [[People/Lirone-Fuchs|Lirone Fuchs]]
 **Children:** [[People/Tal-Kalo|Tal Kalo]]
+**Families:** [[Families/Fuchs|Fuchs]], [[Families/Kalo|Kalo]]
 
 ## Biography
 Lyat Fuchs , married to Dror Kalo in [[Places/Israel]] , in 1997.

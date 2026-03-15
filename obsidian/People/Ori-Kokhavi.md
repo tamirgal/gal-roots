@@ -11,8 +11,8 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Yogev-Kokhavi|Yogev Kokhavi]]
-**Mother:** [[People/Liat-Shimon-Kokhavi|Liat (Shimon) Kokhavi]]
+**Father:** [[People/Yogev-Kokhavi|Yogev Kokhavi]] | **Mother:** [[People/Liat-Shimon-Kokhavi|Liat (Shimon) Kokhavi]]
+**Families:** [[Families/Kokhavi|Kokhavi]]
 
 ## Biography
 

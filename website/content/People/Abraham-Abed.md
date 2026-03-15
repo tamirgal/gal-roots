@@ -27,11 +27,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Eliahou-Abed|Eliahou Abed]]
-**Mother:** [[People/Massouda-Touek-Abed|Massouda (Touek) Abed]]
+**Father:** [[People/Eliahou-Abed|Eliahou Abed]] | **Mother:** [[People/Massouda-Touek-Abed|Massouda (Touek) Abed]]
 **Spouse:** [[People/Regina-Fathi-Abed|Regina (Fathi) Abed]]
 **Siblings:** [[People/David-Daoud-Abed|David (Daoud) Abed]], [[People/Aziza-Abed-Levy|Aziza (Abed) Levy]], [[People/Ezra-Patan|Ezra Patan]], [[People/Aharon-Abed|Aharon Abed]], [[People/Nina-Abed|Nina Abed]], [[People/Hatoune-Abed-Halztshy|Hatoune Abed Halztshy]], [[People/Heila-Abed|Heila Abed]]
 **Children:** [[People/Flora-Abed-Hava|Flora (Abed) Hava]], [[People/Anouar-Abed-Patan-Aviad|Anouar (Abed-Patan) Aviad]]
+**Families:** [[Families/Abed|Abed]]
 
 ## Biography
 Abraham Abed, born and lived in [[Places/Baghdad]], [[Places/Iraq]] . Married in [[Places/Baghdad]] to Regina Fathi. He had a textile commerce. In 1950 the family emigrated to [[Places/Israel]]

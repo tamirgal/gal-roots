@@ -21,11 +21,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Arie-Leopold-Aharon|Arie Leopold Aharon]]
-**Mother:** [[People/Anet-Aharon|Anet Aharon]]
+**Father:** [[People/Arie-Leopold-Aharon|Arie Leopold Aharon]] | **Mother:** [[People/Anet-Aharon|Anet Aharon]]
 **Spouse:** [[People/David-Preiss|David Preiss]]
 **Siblings:** [[People/Leo-Aharon|Leo Aharon]], [[People/Peter-Aharon|Peter Aharon]], [[People/Suzan-Aharon-Reinolds|Suzan Aharon Reinolds]]
 **Children:** [[People/Nicole-Preiss|Nicole Preiss]], [[People/Maya-Preiss|Maya Preiss]]
+**Families:** [[Families/Aharon|Aharon]], [[Families/Preiss|Preiss]]
 
 ## Biography
 

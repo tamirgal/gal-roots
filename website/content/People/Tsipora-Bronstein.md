@@ -16,6 +16,7 @@ research_level: 0
 
 **Spouse:** [[People/Yacov-Bronstein|Yacov Bronstein]]
 **Children:** [[People/Shoshana-Bronstein|Shoshana Bronstein]]
+**Families:** [[Families/Bronstein|Bronstein]]
 
 ## Biography
 

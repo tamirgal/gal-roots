@@ -32,6 +32,7 @@ research_level: 1
 
 **Spouse:** [[People/Sarah-Talker|Sarah Talker]]
 **Children:** [[People/Moshe-Talker|Moshe Talker]], [[People/Pinhass-Talker|Pinhass Talker]], [[People/Batsheba-Talker-Berkovitz|Batsheba Talker Berkovitz]], [[People/Bentsion-Talker|Bentsion Talker]], [[People/Shmouel-Talker|Shmouel Talker]], [[People/Rahel-Talker-Patan|Rahel Talker Patan]]
+**Families:** [[Families/Talker|Talker]]
 
 ## Biography
 

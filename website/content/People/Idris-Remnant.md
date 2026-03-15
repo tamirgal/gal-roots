@@ -20,8 +20,8 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/David-Remnant|David Remnant]]
-**Mother:** [[People/Esther-Remnant|Esther Remnant]]
+**Father:** [[People/David-Remnant|David Remnant]] | **Mother:** [[People/Esther-Remnant|Esther Remnant]]
+**Families:** [[Families/Remnant|Remnant]]
 
 ## Biography
 Idris entered the world onto the living room floor (home birth) weighing a massive 9lb 5 (4.2kg)! He's a strong lively boy who takes after his mother in looks mainly. We shall see what kind of a boy he becomes and keep this updated.

@@ -17,9 +17,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Chaim-Aharoni|Chaim Aharoni]]
-**Mother:** [[People/Judy-Mauer-Aharoni|Judy Mauer Aharoni]]
+**Father:** [[People/Chaim-Aharoni|Chaim Aharoni]] | **Mother:** [[People/Judy-Mauer-Aharoni|Judy Mauer Aharoni]]
 **Siblings:** [[People/Rotem-Aharoni|Rotem Aharoni]], [[People/Shachar-Aharoni|Shachar Aharoni]], [[People/Hadar-Aharoni|Hadar Aharoni]], [[People/Shir-Aharoni|Shir Aharoni]], [[People/Gil-Aharoni|Gil Aharoni]]
+**Families:** [[Families/Aharoni|Aharoni]]
 
 ## Biography
 

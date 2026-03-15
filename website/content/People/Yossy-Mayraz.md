@@ -18,6 +18,7 @@ research_level: 0
 
 **Spouse:** [[People/Hagit-Touena-Mayraz|Hagit Touena Mayraz]]
 **Children:** [[People/Ady-Mayraz|Ady Mayraz]], [[People/Omer-Mayraz|Omer Mayraz]]
+**Families:** [[Families/Mayraz|Mayraz]]
 
 ## Biography
 

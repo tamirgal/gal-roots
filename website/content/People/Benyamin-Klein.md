@@ -12,9 +12,9 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Herman-Haim-Klein|Herman Haim Klein]]
-**Mother:** [[People/Frida-Klein|Frida Klein]]
+**Father:** [[People/Herman-Haim-Klein|Herman Haim Klein]] | **Mother:** [[People/Frida-Klein|Frida Klein]]
 **Siblings:** [[People/Yehoshua-Klein|Yehoshua Klein]], [[People/Irenka-Klein|Irenka Klein]]
+**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 Benyamin was married and had children. All the family perished in Nazi concentration camps

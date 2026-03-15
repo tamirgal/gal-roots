@@ -19,6 +19,7 @@ research_level: 1
 
 **Spouse:** [[People/Irit-Hirsch-Yogev|Irit Hirsch Yogev]]
 **Children:** [[People/Maayan-Yogev|Maayan Yogev]], [[People/Eyal-Yogev|Eyal Yogev]]
+**Families:** [[Families/Yogev|Yogev]]
 
 ## Biography
 

@@ -23,11 +23,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Shimon-Tarzi-Attar|Shimon Tarzi Attar]]
-**Mother:** [[People/Emam-Attar|Emam Attar]]
+**Father:** [[People/Shimon-Tarzi-Attar|Shimon Tarzi Attar]] | **Mother:** [[People/Emam-Attar|Emam Attar]]
 **Spouse:** [[People/Moshe-Betesh|Moshe Betesh]]
 **Siblings:** [[People/Marietta-Attar-Sasson|Marietta Attar Sasson]], [[People/Aharon-Attar|Aharon Attar]]
 **Children:** [[People/Aharon-Betesh|Aharon Betesh]], [[People/Abramino-Betesh|Abramino Betesh]], [[People/Benyamine-Betesh|Benyamine Betesh]]
+**Families:** [[Families/Attar|Attar]], [[Families/Betesh|Betesh]]
 
 ## Biography
 

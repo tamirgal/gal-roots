@@ -32,10 +32,10 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Israel-Ezra-Israel|Israel Ezra Israel]]
-**Mother:** [[People/Hamama-Sasson-Israel|Hamama Sasson Israel]]
+**Father:** [[People/Israel-Ezra-Israel|Israel Ezra Israel]] | **Mother:** [[People/Hamama-Sasson-Israel|Hamama Sasson Israel]]
 **Spouse:** [[People/Ezio-Theodore-Saphir|Ezio Theodore Saphir]]
 **Siblings:** [[People/Helene-Israel-Eliahou|Helene Israel Eliahou]], [[People/Ezra-Israel|Ezra Israel]], [[People/Marie-Israel-Bonan|Marie Israel Bonan]], [[People/Zaki-Israel|Zaki Israel]], [[People/Shaoul-Israel|Shaoul Israel]], [[People/Joseph-Israel|Joseph Israel]], [[People/Pauline-Israel-Wahiche|Pauline Israel Wahiche]]
+**Families:** [[Families/Israel|Israel]], [[Families/Saphir|Saphir]]
 
 ## Biography
 CLEMENCE ISRAEL SAPIR, est la plus jeune des enfants de Ezra et Hamama Israel. Nee en [[Places/Egypt]] en 1934,… En 1960 elle emigra vers la [[Places/France]], et s'installe a Bois-Colombes, banlieue au nord de Paris. Mariee a Ezio Sapir le 9 Novembre 1965.

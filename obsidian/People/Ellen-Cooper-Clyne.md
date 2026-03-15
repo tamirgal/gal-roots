@@ -31,6 +31,7 @@ research_level: 1
 
 **Spouse:** [[People/Ondrej-Clyne|Ondrej Clyne]]
 **Children:** [[People/Paula-Clyne-Ridley|Paula Clyne Ridley]], [[People/Charles-Clyne|Charles Clyne]], [[People/Rachel-Clyne-Blake|Rachel Clyne Blake]]
+**Families:** [[Families/Cooper|Cooper]], [[Families/Clyne|Clyne]]
 
 ## Biography
 

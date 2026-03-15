@@ -22,6 +22,7 @@ research_level: 0
 
 **Spouse:** [[People/Abdallah-Abada|Abdallah Abada]]
 **Children:** [[People/Esther-Abada-ind00359|Esther Abada]], [[People/Renee-Abada|Renee Abada]], [[People/Lucy-Abada|Lucy Abada]], [[People/Lolla-Abada|Lolla Abada]]
+**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

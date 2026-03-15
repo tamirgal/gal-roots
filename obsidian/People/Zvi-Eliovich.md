@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Ytshak-Menahem-Eliovich|Ytshak-Menahem Eliovich]]
-**Mother:** [[People/Lea-Aharon-Eliovich|Lea Aharon Eliovich]]
+**Father:** [[People/Ytshak-Menahem-Eliovich|Ytshak-Menahem Eliovich]] | **Mother:** [[People/Lea-Aharon-Eliovich|Lea Aharon Eliovich]]
 **Siblings:** [[People/Channa-Eliovich|Channa Eliovich]], [[People/Etta-Eliovich|Etta Eliovich]], [[People/Arie-Eliovich|Arie Eliovich]], [[People/Yehoshuah-Eliovich|Yehoshuah Eliovich]]
+**Families:** [[Families/Eliovich|Eliovich]]
 
 ## Biography
 

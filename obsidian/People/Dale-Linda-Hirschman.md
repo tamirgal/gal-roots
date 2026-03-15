@@ -18,9 +18,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Howard-Hirschman|Howard Hirschman]]
-**Mother:** [[People/Phyllis-Hirschman-Newmark|Phyllis Hirschman Newmark]]
+**Father:** [[People/Howard-Hirschman|Howard Hirschman]] | **Mother:** [[People/Phyllis-Hirschman-Newmark|Phyllis Hirschman Newmark]]
 **Siblings:** [[People/Ellen-Mina-Hirschman-Miller|Ellen Mina Hirschman Miller]], [[People/Janet-Ann-Hirschman-Fenstermacher|Janet Ann Hirschman Fenstermacher]]
+**Families:** [[Families/Hirschman|Hirschman]]
 
 ## Biography
 

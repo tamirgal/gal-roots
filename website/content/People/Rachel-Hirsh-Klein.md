@@ -20,6 +20,7 @@ research_level: 1
 ## Family
 
 **Spouse:** [[People/Yehuda-Klein|Yehuda Klein]]
+**Families:** [[Families/Hirsh|Hirsh]], [[Families/Klein|Klein]]
 
 ## Biography
 

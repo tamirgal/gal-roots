@@ -12,9 +12,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Rafi-Harari|Rafi Harari]]
-**Mother:** [[People/Miriam-Abada-Harari|Miriam Abada Harari]]
+**Father:** [[People/Rafi-Harari|Rafi Harari]] | **Mother:** [[People/Miriam-Abada-Harari|Miriam Abada Harari]]
 **Siblings:** [[People/Ravit-Harari-Caspi|Ravit Harari Caspi]], [[People/Rinat-Harari|Rinat Harari]]
+**Families:** [[Families/Harari|Harari]]
 
 ## Biography
 

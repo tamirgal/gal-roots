@@ -29,11 +29,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Hayim-Vicky-Hanan|Hayim (Vicky) Hanan]]
-**Mother:** [[People/Rosette-Rosy-Cohen-Hanan|Rosette (Rosy) Cohen Hanan]]
+**Father:** [[People/Hayim-Vicky-Hanan|Hayim (Vicky) Hanan]] | **Mother:** [[People/Rosette-Rosy-Cohen-Hanan|Rosette (Rosy) Cohen Hanan]]
 **Spouse:** [[People/Arlette-Wahba-Hanan|Arlette Wahba Hanan]]
 **Siblings:** [[People/Yacov-Hanan|Yacov Hanan]]
 **Children:** [[People/Adi-Hanan|Adi Hanan]], [[People/Hayim-Hanan|Hayim Hanan]]
+**Families:** [[Families/Hanan|Hanan]]
 
 ## Biography
 Moshe Hanan, married to Arlette Wahba, 11 November 1981. Arlette is the daughter of Yosseph and Simone Wahba

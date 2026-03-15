@@ -28,6 +28,7 @@ research_level: 1
 
 **Spouse:** [[People/Marcelle-Abada-Zeitouni|Marcelle (Abada) Zeitouni]]
 **Children:** [[People/Elie-Zeitouni-ind00653|Elie Zeitouni]], [[People/Haim-Zeitouni-ind00652|Haim Zeitouni]], [[People/Mor-Mordekhay-Zeitouni|Mor (Mordekhay) Zeitouni]], [[People/Aviram-Zeitouni|Aviram Zeitouni]]
+**Families:** [[Families/Zeitouni|Zeitouni]]
 
 ## Biography
 

@@ -25,10 +25,10 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Leon-Oni-Bonan|Leon Oni Bonan]]
-**Mother:** [[People/Agnes-Bonan|Agnes Bonan]]
+**Father:** [[People/Leon-Oni-Bonan|Leon Oni Bonan]] | **Mother:** [[People/Agnes-Bonan|Agnes Bonan]]
 **Spouse:** [[People/Steve-Hamill|Steve Hamill]]
 **Siblings:** [[People/David-Bonan|David Bonan]]
+**Families:** [[Families/Bonan|Bonan]], [[Families/Hamill|Hamill]]
 
 ## Biography
 Michele Bonan, born February 2, 1973, married to Steve Hamill, in New-York - 12 September 2004.

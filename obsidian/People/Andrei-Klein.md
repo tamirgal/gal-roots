@@ -19,11 +19,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Albert-Bella-Klein|Albert (Bella) Klein]]
-**Mother:** [[People/Agi-Marcus-Klein|Agi Marcus Klein]]
+**Father:** [[People/Albert-Bella-Klein|Albert (Bella) Klein]] | **Mother:** [[People/Agi-Marcus-Klein|Agi Marcus Klein]]
 **Spouse:** [[People/Ada-Klein|Ada Klein]]
 **Siblings:** [[People/Gabriel-Klein-1949|Gabriel Klein]]
 **Children:** [[People/Amit-Klein|Amit Klein]]
+**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 

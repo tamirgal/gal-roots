@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/David-Preiss|David Preiss]]
-**Mother:** [[People/Monique-Aharon-Preiss|Monique Aharon Preiss]]
+**Father:** [[People/David-Preiss|David Preiss]] | **Mother:** [[People/Monique-Aharon-Preiss|Monique Aharon Preiss]]
 **Siblings:** [[People/Nicole-Preiss|Nicole Preiss]]
+**Families:** [[Families/Preiss|Preiss]]
 
 ## Biography
 

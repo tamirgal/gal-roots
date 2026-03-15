@@ -18,9 +18,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Ezra-Elias|Ezra Elias]]
-**Mother:** [[People/Noah-Klein-Elias|Noah Klein Elias]]
+**Father:** [[People/Ezra-Elias|Ezra Elias]] | **Mother:** [[People/Noah-Klein-Elias|Noah Klein Elias]]
 **Siblings:** [[People/Yuval-Elias|Yuval Elias]]
+**Families:** [[Families/Elias|Elias]]
 
 ## Biography
 

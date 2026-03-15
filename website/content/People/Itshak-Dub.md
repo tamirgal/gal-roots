@@ -11,6 +11,7 @@ research_level: 0
 ## Family
 
 **Spouse:** [[People/Lenka-Aharon|Lenka Aharon]]
+**Families:** [[Families/Dub|Dub]]
 
 ## Biography
 

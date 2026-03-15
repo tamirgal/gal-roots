@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Yacob-Touena|Yacob Touena]]
-**Mother:** [[People/Liat-Alon-Touena|Liat Alon Touena]]
+**Father:** [[People/Yacob-Touena|Yacob Touena]] | **Mother:** [[People/Liat-Alon-Touena|Liat Alon Touena]]
 **Siblings:** [[People/Tamar-Touena|Tamar Touena]]
+**Families:** [[Families/Touena|Touena]]
 
 ## Biography
 

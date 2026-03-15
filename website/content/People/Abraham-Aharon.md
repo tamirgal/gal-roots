@@ -12,8 +12,8 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Mordechai-Aharon|Mordechai Aharon]]
-**Mother:** [[People/Dvora-Aharon|Dvora Aharon]]
+**Father:** [[People/Mordechai-Aharon|Mordechai Aharon]] | **Mother:** [[People/Dvora-Aharon|Dvora Aharon]]
+**Families:** [[Families/Aharon|Aharon]]
 
 ## Biography
 

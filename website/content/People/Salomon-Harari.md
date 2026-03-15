@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Shaoul-Harari|Shaoul Harari]]
-**Mother:** [[People/Alice-Abada-Harari|Alice Abada Harari]]
+**Father:** [[People/Shaoul-Harari|Shaoul Harari]] | **Mother:** [[People/Alice-Abada-Harari|Alice Abada Harari]]
 **Siblings:** [[People/Liliane-Harari|Liliane Harari]], [[People/Marco-Harari|Marco Harari]], [[People/Lina-Harari|Lina Harari]]
+**Families:** [[Families/Harari|Harari]]
 
 ## Biography
 

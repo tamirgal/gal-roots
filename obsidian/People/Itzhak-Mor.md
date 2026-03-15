@@ -18,6 +18,7 @@ research_level: 0
 
 **Spouse:** [[People/Corina-Kneiz-Mor|Corina Kneiz Mor]]
 **Children:** [[People/Anthony-Mor|Anthony Mor]], [[People/Milan-Mor|Milan Mor]]
+**Families:** [[Families/Mor|Mor]]
 
 ## Biography
 

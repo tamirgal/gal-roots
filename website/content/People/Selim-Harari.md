@@ -12,6 +12,7 @@ research_level: 2
 ## Family
 
 **Spouse:** [[People/Simha-Ambar-Harari|Simha Ambar Harari]]
+**Families:** [[Families/Harari|Harari]]
 
 ## Biography
 Selim Harari is born in [[Places/Syria]], in 1885

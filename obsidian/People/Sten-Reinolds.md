@@ -20,6 +20,7 @@ research_level: 0
 
 **Spouse:** [[People/Suzan-Aharon-Reinolds|Suzan Aharon Reinolds]]
 **Children:** [[People/Michelle-Reinolds|Michelle Reinolds]], [[People/Lisa-Reinolds|Lisa Reinolds]], [[People/Katherine-Reinolds|Katherine Reinolds]]
+**Families:** [[Families/Reinolds|Reinolds]]
 
 ## Biography
 

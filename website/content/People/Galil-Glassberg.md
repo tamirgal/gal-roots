@@ -25,6 +25,7 @@ research_level: 2
 
 **Spouse:** [[People/Tsipora-Zuckerberger-Glassberg|Tsipora Zuckerberger Glassberg]]
 **Children:** [[People/Ofer-Glassberg|Ofer Glassberg]], [[People/Arnon-Glassberg|Arnon Glassberg]]
+**Families:** [[Families/Glassberg|Glassberg]]
 
 ## Biography
 Galil is the son of Izhak and Sonia Galssberg

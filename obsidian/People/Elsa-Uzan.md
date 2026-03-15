@@ -17,9 +17,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Elie-Uzan|Elie Uzan]]
-**Mother:** [[People/Gina-Savdie-Uzan|Gina Savdie Uzan]]
+**Father:** [[People/Elie-Uzan|Elie Uzan]] | **Mother:** [[People/Gina-Savdie-Uzan|Gina Savdie Uzan]]
 **Siblings:** [[People/Lea-Uzan|Lea Uzan]]
+**Families:** [[Families/Uzan|Uzan]]
 
 ## Biography
 

@@ -12,9 +12,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/David-Sasson|David Sasson]]
-**Mother:** [[People/Sarah-Ambar-Sasson|Sarah Ambar Sasson]]
+**Father:** [[People/David-Sasson|David Sasson]] | **Mother:** [[People/Sarah-Ambar-Sasson|Sarah Ambar Sasson]]
 **Siblings:** [[People/Rahel-Sasson-1922|Rahel Sasson]], [[People/Khalifa-Sasson-1924|Khalifa Sasson]], [[People/Abraham-Sasson|Abraham Sasson]]
+**Families:** [[Families/Sasson|Sasson]]
 
 ## Biography
 

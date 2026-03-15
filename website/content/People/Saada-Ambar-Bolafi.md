@@ -15,10 +15,10 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Menashe-Ambar|Menashe Ambar]]
-**Mother:** [[People/Farha-Sasson-Ambar|Farha Sasson Ambar]]
+**Father:** [[People/Menashe-Ambar|Menashe Ambar]] | **Mother:** [[People/Farha-Sasson-Ambar|Farha Sasson Ambar]]
 **Spouse:** [[People/Eliahou-Bolafi|Eliahou Bolafi]]
 **Siblings:** [[People/Sasson-Ambar|Sasson Ambar]], [[People/Simha-Ambar-Harari|Simha Ambar Harari]], [[People/Ezra-Ambar|Ezra Ambar]], [[People/Jeanne-Hannah-Ambar-Shammass-Shemesh|Jeanne (Hannah) Ambar Shammass (Shemesh)]], [[People/Rachel-Ambar-Levy|Rachel Ambar Levy]]
+**Families:** [[Families/Ambar|Ambar]], [[Families/Bolafi|Bolafi]]
 
 ## Biography
 

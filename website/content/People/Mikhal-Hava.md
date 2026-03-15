@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Zvi-Hava|Zvi Hava]]
-**Mother:** [[People/Dalia-Hava|Dalia Hava]]
+**Father:** [[People/Zvi-Hava|Zvi Hava]] | **Mother:** [[People/Dalia-Hava|Dalia Hava]]
 **Siblings:** [[People/Ety-Hava|Ety Hava]], [[People/Royi-Hava|Royi Hava]]
+**Families:** [[Families/Hava|Hava]]
 
 ## Biography
 

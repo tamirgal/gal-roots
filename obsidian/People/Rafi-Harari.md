@@ -26,6 +26,7 @@ research_level: 2
 
 **Spouse:** [[People/Miriam-Abada-Harari|Miriam Abada Harari]]
 **Children:** [[People/Ravit-Harari-Caspi|Ravit Harari Caspi]], [[People/Erane-Harari|Erane Harari]], [[People/Rinat-Harari|Rinat Harari]]
+**Families:** [[Families/Harari|Harari]]
 
 ## Biography
 Wedding of Rafi Harari and Miriam Abada in [[Places/Israel]] 4 June 1970

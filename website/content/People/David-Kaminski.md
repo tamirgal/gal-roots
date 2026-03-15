@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Samuel-Kaminski|Samuel Kaminski]]
-**Mother:** [[People/Edith-Klein-Kaminski|Edith Klein Kaminski]]
+**Father:** [[People/Samuel-Kaminski|Samuel Kaminski]] | **Mother:** [[People/Edith-Klein-Kaminski|Edith Klein Kaminski]]
 **Siblings:** [[People/Gabriela-Kaminski-Sleppin|Gabriela Kaminski Sleppin]]
+**Families:** [[Families/Kaminski|Kaminski]]
 
 ## Biography
 

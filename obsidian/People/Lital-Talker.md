@@ -16,9 +16,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Shmouel-Talker|Shmouel Talker]]
-**Mother:** [[People/Tova-Berkovitz-Talker|Tova Berkovitz Talker]]
+**Father:** [[People/Shmouel-Talker|Shmouel Talker]] | **Mother:** [[People/Tova-Berkovitz-Talker|Tova Berkovitz Talker]]
 **Siblings:** [[People/Lior-Talker|Lior Talker]], [[People/Almog-Talker|Almog Talker]]
+**Families:** [[Families/Talker|Talker]]
 
 ## Biography
 

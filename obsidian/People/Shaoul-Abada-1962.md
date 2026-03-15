@@ -28,11 +28,11 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Claude-Hayim-Abada|Claude (Hayim) Abada]]
-**Mother:** [[People/Ginette-Toueg-Abada|Ginette Toueg Abada]]
+**Father:** [[People/Claude-Hayim-Abada|Claude (Hayim) Abada]] | **Mother:** [[People/Ginette-Toueg-Abada|Ginette Toueg Abada]]
 **Spouse:** [[People/Dalit-HarEl-Abada|Dalit HarEl Abada]]
 **Siblings:** [[People/Ronit-Abada-Savdie|Ronit Abada Savdie]]
 **Children:** [[People/Elia-Abada|Elia Abada]], [[People/Ouria-Abada|Ouria Abada]]
+**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

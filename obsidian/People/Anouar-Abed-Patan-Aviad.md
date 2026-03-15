@@ -32,11 +32,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Abraham-Abed|Abraham Abed]]
-**Mother:** [[People/Regina-Fathi-Abed|Regina (Fathi) Abed]]
+**Father:** [[People/Abraham-Abed|Abraham Abed]] | **Mother:** [[People/Regina-Fathi-Abed|Regina (Fathi) Abed]]
 **Spouse:** [[People/Tikva-Hay-Aviad|Tikva (Hay) Aviad]]
 **Siblings:** [[People/Flora-Abed-Hava|Flora (Abed) Hava]]
 **Children:** [[People/Elie-Patan-ind00592|Elie Patan]], [[People/Anat-Patan|Anat Patan]], [[People/Avi-Patan|Avi Patan]]
+**Families:** [[Families/Aviad|Aviad]]
 
 ## Biography
 Anouar Abed, born in [[Places/Baghdad]]. He emigrated with his family to [[Places/Israel]] in 1950. Married in [[Places/Israel]] , to Tikva Hay.

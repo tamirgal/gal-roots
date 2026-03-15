@@ -18,9 +18,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Paul-Mintz|Paul Mintz]]
-**Mother:** [[People/Solange-Israel-Mintz|Solange Israel Mintz]]
+**Father:** [[People/Paul-Mintz|Paul Mintz]] | **Mother:** [[People/Solange-Israel-Mintz|Solange Israel Mintz]]
 **Siblings:** [[People/Rebecca-Mintz|Rebecca Mintz]]
+**Families:** [[Families/Mintz|Mintz]]
 
 ## Biography
 

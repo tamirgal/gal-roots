@@ -16,6 +16,7 @@ research_level: 0
 
 **Spouse:** [[People/Khalifa-Sasson-1856|Khalifa Sasson]]
 **Children:** [[People/Toffaha-Sasson-Ambar|Toffaha Sasson Ambar]]
+**Families:** [[Families/Cohen|Cohen]], [[Families/Sasson|Sasson]]
 
 ## Biography
 

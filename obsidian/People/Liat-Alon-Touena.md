@@ -18,6 +18,7 @@ research_level: 0
 
 **Spouse:** [[People/Yacob-Touena|Yacob Touena]]
 **Children:** [[People/Alona-Touena|Alona Touena]], [[People/Tamar-Touena|Tamar Touena]]
+**Families:** [[Families/Alon|Alon]], [[Families/Touena|Touena]]
 
 ## Biography
 

@@ -20,11 +20,11 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Elie-Nefoussi|Elie Nefoussi]]
-**Mother:** [[People/Nefoussi|Nefoussi]]
+**Father:** [[People/Elie-Nefoussi|Elie Nefoussi]] | **Mother:** [[People/Nefoussi|Nefoussi]]
 **Spouse:** [[People/Joseph-Aknine|Joseph Aknine]]
 **Siblings:** [[People/Samuel-Nefoussi|Samuel Nefoussi]], [[People/Regine-Nefoussi-Brakha|Regine Nefoussi Brakha]]
 **Children:** [[People/Rahel-Aknine|Rahel Aknine]], [[People/Bekhor-Aknine|Bekhor Aknine]]
+**Families:** [[Families/Nefoussi|Nefoussi]], [[Families/Aknine|Aknine]]
 
 ## Biography
 

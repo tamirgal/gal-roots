@@ -11,9 +11,9 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Sami-Ventura|Sami Ventura]]
-**Mother:** [[People/Allegra-Abada-Ventura|Allegra Abada Ventura]]
+**Father:** [[People/Sami-Ventura|Sami Ventura]] | **Mother:** [[People/Allegra-Abada-Ventura|Allegra Abada Ventura]]
 **Siblings:** [[People/Lina-Ventura|Lina Ventura]], [[People/Orly-Ventura|Orly Ventura]]
+**Families:** [[Families/Ventura|Ventura]]
 
 ## Biography
 

@@ -27,10 +27,10 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Joseph-Israel|Joseph Israel]]
-**Mother:** [[People/Germaine-Stoliar-Israel|Germaine Stoliar Israel]]
+**Father:** [[People/Joseph-Israel|Joseph Israel]] | **Mother:** [[People/Germaine-Stoliar-Israel|Germaine Stoliar Israel]]
 **Spouse:** [[People/Marsha-Israel|Marsha Israel]]
 **Siblings:** [[People/Nadine-Israel|Nadine Israel]], [[People/Leon-Israel|Leon Israel]]
+**Families:** [[Families/Israel|Israel]]
 
 ## Biography
 

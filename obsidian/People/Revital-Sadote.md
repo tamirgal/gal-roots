@@ -12,9 +12,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Aharon-Sadote|Aharon Sadote]]
-**Mother:** [[People/Gabriela-Kaminski-Sleppin|Gabriela Kaminski Sleppin]]
+**Father:** [[People/Aharon-Sadote|Aharon Sadote]] | **Mother:** [[People/Gabriela-Kaminski-Sleppin|Gabriela Kaminski Sleppin]]
 **Siblings:** [[People/Shirit-Sadote|Shirit Sadote]]
+**Families:** [[Families/Sadote|Sadote]]
 
 ## Biography
 

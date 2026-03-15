@@ -25,6 +25,7 @@ research_level: 2
 
 **Spouse:** [[People/Noah-Klein-Elias|Noah Klein Elias]]
 **Children:** [[People/Yuval-Elias|Yuval Elias]], [[People/Oren-Elias|Oren Elias]]
+**Families:** [[Families/Elias|Elias]]
 
 ## Biography
 Born and lives in [[Places/Haifa]], Israel. Studied Chemistry . Got his PhD from the Technion in [[Places/Haifa]]. Lectures in [[Places/Haifa]], [[Places/California]] and Singapore.

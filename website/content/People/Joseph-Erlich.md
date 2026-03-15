@@ -24,6 +24,7 @@ research_level: 1
 
 **Spouse:** [[People/Michelle-Schwartz-Erlich|Michelle Schwartz Erlich]]
 **Children:** [[People/Max-Erlich|Max Erlich]], [[People/-Erlich|?? Erlich]]
+**Families:** [[Families/Erlich|Erlich]]
 
 ## Biography
 

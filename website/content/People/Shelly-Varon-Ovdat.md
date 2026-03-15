@@ -17,6 +17,7 @@ research_level: 1
 ## Family
 
 **Spouse:** [[People/Alan-D-Ovdat|Alan D. Ovdat]]
+**Families:** [[Families/Varon|Varon]], [[Families/Ovdat|Ovdat]]
 
 ## Biography
 

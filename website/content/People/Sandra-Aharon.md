@@ -12,9 +12,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Ernest-Aharon|Ernest Aharon]]
-**Mother:** [[People/Deborah-Nestrovsky-Aharon|Deborah Nestrovsky Aharon]]
+**Father:** [[People/Ernest-Aharon|Ernest Aharon]] | **Mother:** [[People/Deborah-Nestrovsky-Aharon|Deborah Nestrovsky Aharon]]
 **Siblings:** [[People/Jonathan-Aharon|Jonathan Aharon]]
+**Families:** [[Families/Aharon|Aharon]]
 
 ## Biography
 

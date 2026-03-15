@@ -17,6 +17,7 @@ research_level: 1
 
 **Spouse:** [[People/Roza-Rezsi-Klein-Der|Roza (Rezsi) Klein Der]]
 **Children:** [[People/Istvan-Pitue-Der|Istvan (Pitue) Der]]
+**Families:** [[Families/Der|Der]]
 
 ## Biography
 

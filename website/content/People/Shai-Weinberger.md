@@ -12,9 +12,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Menachem-Weinberger|Menachem Weinberger]]
-**Mother:** [[People/Batya-Aharoni-Weinberger|Batya Aharoni Weinberger]]
+**Father:** [[People/Menachem-Weinberger|Menachem Weinberger]] | **Mother:** [[People/Batya-Aharoni-Weinberger|Batya Aharoni Weinberger]]
 **Siblings:** [[People/Nir-Weinberger|Nir Weinberger]], [[People/Amit-Weinberger|Amit Weinberger]]
+**Families:** [[Families/Weinberger|Weinberger]]
 
 ## Biography
 

@@ -24,6 +24,7 @@ research_level: 2
 
 **Spouse:** [[People/Jeanne-Hannah-Ambar-Shammass-Shemesh|Jeanne (Hannah) Ambar Shammass (Shemesh)]]
 **Children:** [[People/Robert-Reuben-Shammass-Shemesh|Robert Reuben Shammass (Shemesh)]], [[People/Joseph-Peppo-Shammass-Shemesh|Joseph Peppo Shammass (Shemesh)]]
+**Families:** [[Families/Shammass|Shammass]]
 
 ## Biography
 Aharon Shammass (Shemesh, is born in [[Places/Iraq]], in 1885, married and died in [[Places/Cairo]].

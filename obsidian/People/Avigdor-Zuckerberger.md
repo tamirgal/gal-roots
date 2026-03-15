@@ -30,11 +30,11 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Shabtay-Aharon|Shabtay Aharon]]
-**Mother:** [[People/Tsipora-Zuckerberger-Aharon|Tsipora Zuckerberger Aharon]]
+**Father:** [[People/Shabtay-Aharon|Shabtay Aharon]] | **Mother:** [[People/Tsipora-Zuckerberger-Aharon|Tsipora Zuckerberger Aharon]]
 **Spouse:** [[People/Shoshana-Smilovitz-Zuckerberger|Shoshana Smilovitz Zuckerberger]]
 **Siblings:** [[People/Ahouva-Aharon-Fuchs|Ahouva Aharon Fuchs]], [[People/Arie-Leopold-Aharon|Arie Leopold Aharon]], [[People/Mordechay-Aharon|Mordechay Aharon]], [[People/Leah-Aharon-Steiner|Leah Aharon Steiner]]
 **Children:** [[People/Tsipora-Zuckerberger-Glassberg|Tsipora Zuckerberger Glassberg]], [[People/Shabetay-Zuckerberger-Geva|Shabetay Zuckerberger Geva]]
+**Families:** [[Families/Zuckerberger|Zuckerberger]]
 
 ## Biography
 Victor (Avigdor), came to [[Places/Israel]] before World War 2, by the help of the "Hashomer hatzayir".

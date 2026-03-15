@@ -16,9 +16,9 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Nissim-Hava|Nissim Hava]]
-**Mother:** [[People/Flora-Abed-Hava|Flora (Abed) Hava]]
+**Father:** [[People/Nissim-Hava|Nissim Hava]] | **Mother:** [[People/Flora-Abed-Hava|Flora (Abed) Hava]]
 **Siblings:** [[People/Zvi-Hava|Zvi Hava]], [[People/David-Hava|David Hava]]
+**Families:** [[Families/Hava|Hava]]
 
 ## Biography
 Yehouda Hava, born in [[Places/Iraq]]. In 1950, he emigrated to [[Places/Israel]] with his family

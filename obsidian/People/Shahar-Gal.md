@@ -23,9 +23,9 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Asaf-Gal|Asaf Gal]]
-**Mother:** [[People/Adi-Dolev-Gal|Adi Dolev Gal]]
+**Father:** [[People/Asaf-Gal|Asaf Gal]] | **Mother:** [[People/Adi-Dolev-Gal|Adi Dolev Gal]]
 **Siblings:** [[People/Yael-Gal|Yael Gal]], [[People/Ori-Gal|Ori Gal]]
+**Families:** [[Families/Gal|Gal]]
 
 ## Biography
 Born in [[Places/Haifa]] (Israel) 25 October 2009

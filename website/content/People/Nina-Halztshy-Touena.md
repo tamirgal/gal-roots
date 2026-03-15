@@ -22,11 +22,11 @@ research_level: 0
 
 ## Family
 
-**Father:** [[People/Jacob-Halztshy|Jacob Halztshy]]
-**Mother:** [[People/Hatoune-Abed-Halztshy|Hatoune Abed Halztshy]]
+**Father:** [[People/Jacob-Halztshy|Jacob Halztshy]] | **Mother:** [[People/Hatoune-Abed-Halztshy|Hatoune Abed Halztshy]]
 **Spouse:** [[People/Sabah-Touena|Sabah Touena]]
 **Siblings:** [[People/Ahlam-Halztshy|Ahlam Halztshy]]
 **Children:** [[People/Hagit-Touena-Mayraz|Hagit Touena Mayraz]], [[People/Avi-Touena-Touval|Avi Touena Touval]], [[People/Yacob-Touena|Yacob Touena]]
+**Families:** [[Families/Halztshy|Halztshy]], [[Families/Touena|Touena]]
 
 ## Biography
 

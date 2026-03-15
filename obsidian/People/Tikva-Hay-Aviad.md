@@ -25,6 +25,7 @@ research_level: 2
 
 **Spouse:** [[People/Anouar-Abed-Patan-Aviad|Anouar (Abed-Patan) Aviad]]
 **Children:** [[People/Elie-Patan-ind00592|Elie Patan]], [[People/Anat-Patan|Anat Patan]], [[People/Avi-Patan|Avi Patan]]
+**Families:** [[Families/Aviad|Aviad]]
 
 ## Biography
 Tikva Hay. Married to Anouar in [[Places/Israel]]

@@ -12,8 +12,8 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Amir-Bornstein|Amir Bornstein]]
-**Mother:** [[People/Keren-Niv-Bornstein|Keren Niv Bornstein]]
+**Father:** [[People/Amir-Bornstein|Amir Bornstein]] | **Mother:** [[People/Keren-Niv-Bornstein|Keren Niv Bornstein]]
+**Families:** [[Families/Bornstein|Bornstein]]
 
 ## Biography
 

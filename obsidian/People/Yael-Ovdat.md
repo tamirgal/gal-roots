@@ -12,9 +12,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Avner-Abada-Ovdat|Avner Abada Ovdat]]
-**Mother:** [[People/Tsippi-Berkovitz-Ovdat|Tsippi Berkovitz Ovdat]]
+**Father:** [[People/Avner-Abada-Ovdat|Avner Abada Ovdat]] | **Mother:** [[People/Tsippi-Berkovitz-Ovdat|Tsippi Berkovitz Ovdat]]
 **Siblings:** [[People/Tamar-Ovdat|Tamar Ovdat]], [[People/Oded-Ovdat|Oded Ovdat]]
+**Families:** [[Families/Ovdat|Ovdat]]
 
 ## Biography
 

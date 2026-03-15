@@ -16,6 +16,7 @@ research_level: 1
 ## Family
 
 **Spouse:** [[People/Victor-Abada-ind00327|Victor Abada]]
+**Families:** [[Families/Sardass|Sardass]], [[Families/Abada|Abada]]
 
 ## Biography
 

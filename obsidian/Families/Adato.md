@@ -1,0 +1,4 @@
+---
+name: Adato
+type: family
+---

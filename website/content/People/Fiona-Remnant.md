@@ -22,9 +22,9 @@ research_level: 2
 
 ## Family
 
-**Father:** [[People/Peter-John-Remnant|Peter John Remnant]]
-**Mother:** [[People/Doris-Saison-Remnant|Doris Saison Remnant]]
+**Father:** [[People/Peter-John-Remnant|Peter John Remnant]] | **Mother:** [[People/Doris-Saison-Remnant|Doris Saison Remnant]]
 **Siblings:** [[People/David-Remnant|David Remnant]]
+**Families:** [[Families/Remnant|Remnant]]
 
 ## Biography
 Fiona, born in [[Places/Cambridge]], 14 April 1975,at 16 h26. Finished her studies in Bath university, (French and italian languages).

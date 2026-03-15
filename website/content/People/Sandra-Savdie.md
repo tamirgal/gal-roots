@@ -17,8 +17,8 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Jacky-Savdie|Jacky Savdie]]
-**Mother:** [[People/Monique-Haroche-Savdie|Monique Haroche Savdie]]
+**Father:** [[People/Jacky-Savdie|Jacky Savdie]] | **Mother:** [[People/Monique-Haroche-Savdie|Monique Haroche Savdie]]
+**Families:** [[Families/Savdie|Savdie]]
 
 ## Biography
 

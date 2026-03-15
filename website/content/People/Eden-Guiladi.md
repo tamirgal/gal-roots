@@ -17,8 +17,8 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/David-Doudy-Guiladi|David (Doudy) Guiladi]]
-**Mother:** [[People/Keren-Itshaki-Guiladi|Keren Itshaki Guiladi]]
+**Father:** [[People/David-Doudy-Guiladi|David (Doudy) Guiladi]] | **Mother:** [[People/Keren-Itshaki-Guiladi|Keren Itshaki Guiladi]]
+**Families:** [[Families/Guiladi|Guiladi]]
 
 ## Biography
 

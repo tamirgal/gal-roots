@@ -12,9 +12,9 @@ research_level: 1
 
 ## Family
 
-**Father:** [[People/Shemer-Niv|Shemer Niv]]
-**Mother:** [[People/Sarit-Niv|Sarit Niv]]
+**Father:** [[People/Shemer-Niv|Shemer Niv]] | **Mother:** [[People/Sarit-Niv|Sarit Niv]]
 **Siblings:** [[People/Israel-Dor-Niv|Israel Dor Niv]], [[People/Nathan-Niv|Nathan Niv]], [[People/Abraham-Niv|Abraham Niv]], [[People/Noa-Niv|Noa Niv]], [[People/Ayala-Niv|Ayala Niv]]
+**Families:** [[Families/Niv|Niv]]
 
 ## Biography
 
