@@ -121,7 +121,7 @@ python3 -m pytest tests/migration/ -v
 ### merge_config.json
 
 Version-1 format with three sections:
-- `source_overrides`: list of full names to always take from the `epatan` (primary) tree
+- `source_overrides`: list of full names to always take from the `ygtree` (secondary) tree, overriding the default epatan-wins behaviour
 - `match_overrides`: list of `{ygtree, epatan}` pairs to force-match despite name differences
 - `forced_non_matches`: list of `{ygtree, epatan}` pairs to force-separate despite name similarity
 
