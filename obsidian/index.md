@@ -2,8 +2,6 @@
 title: Gal Family Tree
 ---
 
-# Gal Family Tree
-
 Welcome to the Gal family genealogy site.
 
 ## Family trees
