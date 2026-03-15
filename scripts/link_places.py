@@ -21,6 +21,12 @@ PEOPLE_DIR = REPO_ROOT / "obsidian" / "People"
 PLACES_DIR = REPO_ROOT / "obsidian" / "Places"
 REPORTS_DIR = REPO_ROOT / "reports"
 
+# Landing pages also processed (in addition to People/)
+EXTRA_FILES = [
+    REPO_ROOT / "obsidian" / "Elie-Patan-Family-Website.md",
+    REPO_ROOT / "obsidian" / "Yossi-Gal-Family-Website.md",
+]
+
 # ---------------------------------------------------------------------------
 # Place map: canonical name -> list of text variants to normalise away.
 # All variants (including misspellings, alternate spellings, French forms)
@@ -312,7 +318,7 @@ def main() -> None:
     file_logs: dict[str, list[tuple[str, str]]] = {}
     places_touched: set[str] = set()
 
-    for md_file in sorted(PEOPLE_DIR.glob('*.md')):
+    for md_file in sorted(PEOPLE_DIR.glob('*.md')) + EXTRA_FILES:
         content = md_file.read_text(encoding='utf-8')
         frontmatter, body = _split_frontmatter(content)
 
