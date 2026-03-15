@@ -5,7 +5,7 @@ tags: [document, introduction, epatan]
 
 ![[attachments/pictures/epatan-landing-tree.gif]] ![[attachments/pictures/epatan-landing-portrait.gif]]
 
-*Introduction page from [[People/Elie-Patan-ind00592|Elie Patan]]'s original family website, started May 2002.*
+*Introduction page from [[People/Elie-Patan|Elie Patan]]'s original family website, started May 2002.*
 
 ---
 
