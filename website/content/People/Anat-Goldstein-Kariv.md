@@ -19,7 +19,7 @@ media:
 children:
   - "[[People/Tal-Kariv]]"
   - "[[People/Tom-Kariv]]"
-  - "[[People/Ben-Kariv]]"
+  - "[[People/Bar-Kariv]]"
   - "[[People/Gil-Kariv]]"
 children_id:
   - ind00160
@@ -36,7 +36,7 @@ research_level: 2
 **Father:** [[People/Moshe-Miki-Goldstein|Moshe (Miki) Goldstein]] | **Mother:** [[People/Chaya-Farkas-Goldstein|Chaya Farkas Goldstein]]
 **Spouse:** [[People/Itay-Kariv|Itay Kariv]]
 **Siblings:** [[People/Joseph-Goldstein-Gal|Joseph Goldstein Gal]]
-**Children:** [[People/Tal-Kariv|Tal Kariv]], [[People/Tom-Kariv|Tom Kariv]], [[People/Ben-Kariv|Ben Kariv]], [[People/Gil-Kariv|Gil Kariv]]
+**Children:** [[People/Tal-Kariv|Tal Kariv]], [[People/Tom-Kariv|Tom Kariv]], [[People/Bar-Kariv|Bar Kariv]], [[People/Gil-Kariv|Gil Kariv]]
 **Families:** [[Families/Goldstein|Goldstein]], [[Families/Kariv|Kariv]]
 
 ## Biography

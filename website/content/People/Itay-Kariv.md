@@ -15,7 +15,7 @@ media:
 children:
   - "[[People/Tal-Kariv]]"
   - "[[People/Tom-Kariv]]"
-  - "[[People/Ben-Kariv]]"
+  - "[[People/Bar-Kariv]]"
   - "[[People/Gil-Kariv]]"
 children_id:
   - ind00160
@@ -30,7 +30,7 @@ research_level: 2
 ## Family
 
 **Spouse:** [[People/Anat-Goldstein-Kariv|Anat Goldstein Kariv]]
-**Children:** [[People/Tal-Kariv|Tal Kariv]], [[People/Tom-Kariv|Tom Kariv]], [[People/Ben-Kariv|Ben Kariv]], [[People/Gil-Kariv|Gil Kariv]]
+**Children:** [[People/Tal-Kariv|Tal Kariv]], [[People/Tom-Kariv|Tom Kariv]], [[People/Bar-Kariv|Bar Kariv]], [[People/Gil-Kariv|Gil Kariv]]
 **Families:** [[Families/Kariv|Kariv]]
 
 ## Biography

@@ -1,6 +1,6 @@
 ---
 cr_id: ind00158
-name: Ben Kariv
+name: Bar Kariv
 father: "[[People/Itay-Kariv]]"
 father_id: ind00156
 mother: "[[People/Anat-Goldstein-Kariv]]"
