@@ -1,6 +1,8 @@
 ---
 cr_id: ind00175
 name: Moshe (Miki) Goldstein
+aliases:
+  - "משה (מיקי) גולדשטיין"
 father: "[[People/Joseph-Goldstein]]"
 father_id: ind10050
 mother: "[[People/Antonia-Klein-Goldstein]]"

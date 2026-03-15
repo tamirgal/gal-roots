@@ -1,6 +1,8 @@
 ---
 cr_id: ind00147
 name: Mary Abada Patan
+aliases:
+  - "מרי עבאדה פטאן"
 father: "[[People/Shaoul-Abada-1889]]"
 father_id: ind00260
 mother: "[[People/Regina-Malka-Abada]]"

@@ -1,6 +1,8 @@
 ---
 cr_id: ind00004
 name: Sami Patan
+aliases:
+  - "שמואל (סמי) פטאן"
 father: "[[People/Elie-Patan]]"
 father_id: ind00001
 mother: "[[People/Mary-Abada-Patan]]"

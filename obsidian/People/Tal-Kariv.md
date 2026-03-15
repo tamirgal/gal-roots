@@ -1,6 +1,8 @@
 ---
 cr_id: ind00160
 name: Tal Kariv
+aliases:
+  - "טל קריב"
 father: "[[People/Itay-Kariv]]"
 father_id: ind00156
 mother: "[[People/Anat-Goldstein-Kariv]]"

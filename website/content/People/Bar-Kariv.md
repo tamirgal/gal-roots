@@ -1,6 +1,8 @@
 ---
 cr_id: ind00158
 name: Bar Kariv
+aliases:
+  - "בר קריב"
 father: "[[People/Itay-Kariv]]"
 father_id: ind00156
 mother: "[[People/Anat-Goldstein-Kariv]]"

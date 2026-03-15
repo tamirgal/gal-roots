@@ -1,6 +1,8 @@
 ---
 cr_id: ind00567
 name: Adi Dolev Gal
+aliases:
+  - "עדי דולב גל"
 spouse1: "[[People/Asaf-Gal]]"
 spouse1_id: ind00006
 spouse1_marriage_status: current

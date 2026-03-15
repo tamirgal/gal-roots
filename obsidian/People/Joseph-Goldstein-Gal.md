@@ -1,6 +1,9 @@
 ---
 cr_id: ind00005
 name: Joseph Goldstein Gal
+aliases:
+  - "יוסף (יוסי) גולדשטיין גל"
+  - "יוסי גל"
 father: "[[People/Moshe-Miki-Goldstein]]"
 father_id: ind00175
 mother: "[[People/Chaya-Farkas-Goldstein]]"

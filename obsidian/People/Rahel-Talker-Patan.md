@@ -1,6 +1,8 @@
 ---
 cr_id: ind00009
 name: Rahel Talker Patan
+aliases:
+  - "רחל טלקר פטאן"
 father: "[[People/Shlomo-Talker]]"
 father_id: ind00149
 mother: "[[People/Sarah-Talker]]"

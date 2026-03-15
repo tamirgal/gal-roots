@@ -1,6 +1,8 @@
 ---
 cr_id: ind00007
 name: Tamir Gal
+aliases:
+  - "תמיר גל"
 father: "[[People/Joseph-Goldstein-Gal]]"
 father_id: ind00005
 mother: "[[People/Aviva-Vicky-Patan-Gal]]"

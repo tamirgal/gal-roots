@@ -1,6 +1,8 @@
 ---
 cr_id: ind00002
 name: Aviva (Vicky) Patan Gal
+aliases:
+  - "אביבה (ויקי) פטאן גל"
 father: "[[People/Elie-Patan]]"
 father_id: ind00001
 mother: "[[People/Mary-Abada-Patan]]"

@@ -1,6 +1,8 @@
 ---
 cr_id: ind00157
 name: Gil Kariv
+aliases:
+  - "גיל קריב"
 father: "[[People/Itay-Kariv]]"
 father_id: ind00156
 mother: "[[People/Anat-Goldstein-Kariv]]"

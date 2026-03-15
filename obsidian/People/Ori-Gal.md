@@ -1,6 +1,8 @@
 ---
 cr_id: ind00659
 name: Ori Gal
+aliases:
+  - "אורי גל"
 father: "[[People/Asaf-Gal]]"
 father_id: ind00006
 mother: "[[People/Adi-Dolev-Gal]]"

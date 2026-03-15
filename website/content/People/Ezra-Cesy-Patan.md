@@ -1,6 +1,8 @@
 ---
 cr_id: ind00003
 name: Ezra Cesy Patan
+aliases:
+  - "עזרא סזי פטאן"
 father: "[[People/Elie-Patan]]"
 father_id: ind00001
 mother: "[[People/Mary-Abada-Patan]]"

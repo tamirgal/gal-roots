@@ -1,6 +1,8 @@
 ---
 cr_id: ind00008
 name: Anat Goldstein Kariv
+aliases:
+  - "ענת (נתי) גולדשטיין קריב"
 father: "[[People/Moshe-Miki-Goldstein]]"
 father_id: ind00175
 mother: "[[People/Chaya-Farkas-Goldstein]]"

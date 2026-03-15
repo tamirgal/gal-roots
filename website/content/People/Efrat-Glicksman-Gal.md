@@ -1,6 +1,8 @@
 ---
 cr_id: ind00654
 name: Efrat Glicksman Gal
+aliases:
+  - "אפרת גליקסמן גל"
 spouse1: "[[People/Tamir-Gal]]"
 spouse1_id: ind00007
 spouse1_marriage_status: current

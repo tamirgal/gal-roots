@@ -1,6 +1,8 @@
 ---
 cr_id: ind00001
 name: Elie Patan
+aliases:
+  - "אלי פטאן"
 father: "[[People/Ezra-Patan]]"
 father_id: ind00015
 mother: "[[People/Victoria-Sasson-Patan]]"

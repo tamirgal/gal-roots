@@ -1,6 +1,8 @@
 ---
 cr_id: ind00655
 name: Shaked Gal
+aliases:
+  - "שקד גל"
 father: "[[People/Tamir-Gal]]"
 father_id: ind00007
 mother: "[[People/Efrat-Glicksman-Gal]]"

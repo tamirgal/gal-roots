@@ -1,6 +1,8 @@
 ---
 cr_id: ind00159
 name: Tom Kariv
+aliases:
+  - "תם קריב"
 father: "[[People/Itay-Kariv]]"
 father_id: ind00156
 mother: "[[People/Anat-Goldstein-Kariv]]"

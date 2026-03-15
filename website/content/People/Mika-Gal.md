@@ -1,6 +1,8 @@
 ---
 cr_id: ind00660
 name: Mika Gal
+aliases:
+  - "מיקה גל"
 father: "[[People/Tamir-Gal]]"
 father_id: ind00007
 mother: "[[People/Efrat-Glicksman-Gal]]"

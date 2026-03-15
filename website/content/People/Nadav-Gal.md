@@ -1,6 +1,8 @@
 ---
 cr_id: ind00658
 name: Nadav Gal
+aliases:
+  - "נדב גל"
 father: "[[People/Tamir-Gal]]"
 father_id: ind00007
 mother: "[[People/Efrat-Glicksman-Gal]]"

@@ -1,6 +1,8 @@
 ---
 cr_id: ind00656
 name: Yael Gal
+aliases:
+  - "יעל גל"
 father: "[[People/Asaf-Gal]]"
 father_id: ind00006
 mother: "[[People/Adi-Dolev-Gal]]"

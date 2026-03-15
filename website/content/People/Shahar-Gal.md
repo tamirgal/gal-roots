@@ -1,6 +1,8 @@
 ---
 cr_id: ind00568
 name: Shahar Gal
+aliases:
+  - "שחר גל"
 father: "[[People/Asaf-Gal]]"
 father_id: ind00006
 mother: "[[People/Adi-Dolev-Gal]]"

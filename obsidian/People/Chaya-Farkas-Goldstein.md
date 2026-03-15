@@ -1,6 +1,8 @@
 ---
 cr_id: ind00174
 name: Chaya Farkas Goldstein
+aliases:
+  - "חיה פרקש גולדשטיין"
 father: "[[People/Yehuda-Wolf-Farkas]]"
 father_id: ind10002
 mother: "[[People/Frida-Aharon-Farkas]]"

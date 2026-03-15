@@ -103,13 +103,16 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
         const slug = file.data.slug!
         const date = getDate(ctx.cfg.configuration, file.data) ?? new Date()
         if (opts?.includeEmptyFiles || (file.data.text && file.data.text !== "")) {
-          linkIndex.set(slug, {
+          const aliases = file.data.frontmatter?.aliases as string[] | undefined
+        const searchableContent =
+          (file.data.text ?? "") + (aliases?.length ? " " + aliases.join(" ") : "")
+        linkIndex.set(slug, {
             slug,
             filePath: file.data.relativePath!,
             title: file.data.frontmatter?.title!,
             links: file.data.links ?? [],
             tags: file.data.frontmatter?.tags ?? [],
-            content: file.data.text ?? "",
+            content: searchableContent,
             richContent: opts?.rssFullHtml
               ? escapeHTML(toHtml(tree as Root, { allowDangerousHtml: true }))
               : undefined,

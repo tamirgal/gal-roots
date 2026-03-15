@@ -1,6 +1,8 @@
 ---
 cr_id: ind00156
 name: Itay Kariv
+aliases:
+  - "איתי קריב"
 spouse1: "[[People/Anat-Goldstein-Kariv]]"
 spouse1_id: ind00008
 spouse1_marriage_status: current
