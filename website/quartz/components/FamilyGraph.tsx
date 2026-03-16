@@ -114,6 +114,18 @@ export default ((opts?: Partial<FamilyGraphOptions>) => {
                 <input class="show-names-cb" type="checkbox" />
                 Names
               </label>
+              <label>
+                Layout
+                <select class="layout-select">
+                  <option value="force" selected>
+                    Force
+                  </option>
+                  <option value="layered">Layered</option>
+                  <option value="compact">Compact</option>
+                  <option value="horizontal">Horizontal</option>
+                  <option value="radial">Radial</option>
+                </select>
+              </label>
               <button class="fit-btn" type="button" title="Fit to view">
                 ⤢
               </button>

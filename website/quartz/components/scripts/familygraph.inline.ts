@@ -244,6 +244,7 @@ type GraphHandle = {
   cleanup: () => void
   fitToView: () => void
   resetView: () => void
+  applyLayout: (name: string) => void
   setShowNames: (on: boolean) => void
 }
 
@@ -266,7 +267,7 @@ async function renderFamilyGraph(
   const familyData = await getFamilyData()
   const entry = familyData[center]
   if (!entry) {
-    return { cleanup: () => {}, fitToView: () => {}, resetView: () => {}, setShowNames: () => {} }
+    return { cleanup: () => {}, fitToView: () => {}, resetView: () => {}, applyLayout: () => {}, setShowNames: () => {} }
   }
 
   removeAllChildren(graph)
@@ -721,7 +722,9 @@ async function renderFamilyGraph(
 
   function hideNode(nodeId: string) {
     hiddenNodes.add(nodeId)
+    selectedNodes.delete(nodeId)
     hideDisconnected()
+    for (const h of hiddenNodes) selectedNodes.delete(h)
     applyVisibility()
   }
 
@@ -767,6 +770,7 @@ async function renderFamilyGraph(
       const hidden = hiddenNodes.has(n.simulationData.id)
       n.gfx.visible = !hidden
       n.label.visible = !hidden
+      if (hidden) n.selRing.visible = false
     }
     for (const l of linkRenderData) {
       const srcHidden = hiddenNodes.has(l.simulationData.source.id)
@@ -794,29 +798,56 @@ async function renderFamilyGraph(
     const targetGen = gens.get(tSlug) ?? 0
     const newNodeIds: SimpleSlug[] = []
 
+    const parents: typeof relatives = []
+    const children: typeof relatives = []
+    const spouses: typeof relatives = []
     for (const rel of relatives) {
       if (!familyData[rel.id]) continue
-      hiddenNodes.delete(rel.id)
+      if (rel.asSource) parents.push(rel)
+      else if (rel.type === "spouse") spouses.push(rel)
+      else children.push(rel)
+    }
 
+    const anchorNode = nodeRenderData.find((r) => r.simulationData.id === tSlug)
+    const ax = anchorNode?.simulationData.x ?? 0
+    const ay = anchorNode?.simulationData.y ?? 0
+    const gap = 60 / Math.max(currentTransform.k, 0.1)
+
+    function placeGroup(group: typeof relatives, baseX: number, baseY: number) {
+      const count = group.length
+      const totalW = (count - 1) * gap
+      let x = baseX - totalW / 2
+      for (const rel of group) {
+        assignNewNode(rel, x, baseY)
+        x += gap
+      }
+    }
+
+    function assignNewNode(rel: typeof relatives[0], px: number, py: number) {
+      hiddenNodes.delete(rel.id)
       if (!nodeMap.has(rel.id)) {
         if (rel.asSource) gens.set(rel.id, targetGen - 1)
         else if (rel.type === "spouse") gens.set(rel.id, targetGen)
         else gens.set(rel.id, targetGen + 1)
 
         const newFe = familyData[rel.id] as FamilyEntry
-        const n: NodeData = { id: rel.id, text: newFe?.name ?? rel.id, x: undefined, y: undefined }
+        const n: NodeData = { id: rel.id, text: newFe?.name ?? rel.id, x: px, y: py }
+        n.fx = px
+        n.fy = py
         graphData.nodes.push(n)
         nodeMap.set(rel.id, n)
         neighbourhood.add(rel.id)
         newNodeIds.push(rel.id)
-
-        const anchorNode = nodeRenderData.find((r) => r.simulationData.id === tSlug)
-        if (anchorNode?.simulationData.x != null) {
-          n.x = anchorNode.simulationData.x + (Math.random() - 0.5) * 50
-          n.y = anchorNode.simulationData.y + (Math.random() - 0.5) * 50
-        }
       }
+    }
 
+    placeGroup(parents, ax, ay - gap)
+    placeGroup(children, ax, ay + gap)
+    const spouseStartX = ax + gap * (spouses.length > 1 ? 1 : 0.8)
+    placeGroup(spouses, spouseStartX, ay)
+
+    for (const rel of relatives) {
+      if (!familyData[rel.id]) continue
       const src = rel.type === "parent-child" ? (rel.asSource ? rel.id : tSlug) : tSlug
       const tgt = rel.type === "parent-child" ? (rel.asSource ? tSlug : rel.id) : rel.id
       const exists = graphData.links.some(
@@ -972,6 +1003,17 @@ async function renderFamilyGraph(
     }
   })
 
+  function onKeyDown(e: KeyboardEvent) {
+    if (e.key === "Delete" || e.key === "Backspace") {
+      if (selectedNodes.size > 0) {
+        for (const nid of [...selectedNodes]) {
+          if (nid !== center) hideNode(nid)
+        }
+      }
+    }
+  }
+  document.addEventListener("keydown", onKeyDown)
+
   let showNames = false
   let suppressZoomHandler = false
 
@@ -1011,7 +1053,7 @@ async function renderFamilyGraph(
     if (stopAnimation) return
     for (const n of nodeRenderData) {
       const { x, y } = n.simulationData
-      if (!x || !y) continue
+      if (x == null || y == null) continue
       n.gfx.position.set(x + width / 2, y + height / 2)
       if (n.label) n.label.position.set(x + width / 2, y + height / 2)
       n.selRing.position.set(x + width / 2, y + height / 2)
@@ -1037,11 +1079,6 @@ async function renderFamilyGraph(
         l.gfx.moveTo(x1, y1)
         l.gfx.lineTo(x2, y2).stroke({ alpha: l.alpha, width: 1, color: l.color })
       }
-    }
-
-    if (fittingWithLabels) {
-      const t = computeFitTransform()
-      if (t) applyTransform(t)
     }
 
     tweens.forEach((t) => t.update(time))
@@ -1103,19 +1140,6 @@ async function renderFamilyGraph(
     suppressZoomHandler = false
   }
 
-  const origCharge = -100 * repelForce
-  let fittingWithLabels = false
-
-  function cancelFit() {
-    if (!fittingWithLabels) return
-    fittingWithLabels = false
-    simulation.on("end.fit", null)
-    simulation.force("labelCollide", null)
-    simulation.force("charge", forceManyBody().strength(origCharge))
-  }
-
-  const MAX_NODES_FOR_LABEL_SPREAD = 40
-
   function anchorAllNodes() {
     for (const n of graphData.nodes) {
       if (n.x != null && n.y != null && !hiddenNodes.has(n.id)) {
@@ -1127,44 +1151,450 @@ async function renderFamilyGraph(
 
   function fitToView() {
     if (!enableZoom || graphData.nodes.length === 0) return
+    const t = computeFitTransform()
+    if (t) applyTransform(t)
+    anchorAllNodes()
+  }
 
-    cancelFit()
+  // ── Shared layout helpers ──────────────────────────────────────
 
-    if (showNames && graphData.nodes.length <= MAX_NODES_FOR_LABEL_SPREAD) {
-      applyTransform(zoomIdentity)
+  type LayoutUnit = NodeData[]
 
-      const nodeToRender = new Map(nodeRenderData.map((r) => [r.simulationData, r]))
-      const labelCollide = forceCollide<NodeData>((n) => {
-        const rd = nodeToRender.get(n)
-        if (!rd) return nodeRadius(n)
-        const lbl = rd.label
-        return Math.max(nodeRadius(n), (lbl.width * lbl.scale.x) / 2 + 12)
-      }).iterations(6)
-      simulation.force("labelCollide", labelCollide)
-      simulation.force("charge", forceManyBody().strength(origCharge * 3))
-      fittingWithLabels = true
-      simulation.alpha(0.5).restart()
-
-      const fitTimeout = setTimeout(() => {
-        cancelFit()
-        anchorAllNodes()
-      }, 8000)
-
-      simulation.on("end.fit", () => {
-        clearTimeout(fitTimeout)
-        cancelFit()
-        anchorAllNodes()
-      })
-    } else {
-      const t = computeFitTransform()
-      if (t) applyTransform(t)
-      anchorAllNodes()
+  function buildLayoutData() {
+    const visibleNodes = graphData.nodes.filter((n) => !hiddenNodes.has(n.id))
+    const genGroups = new Map<number, NodeData[]>()
+    for (const n of visibleNodes) {
+      const g = gens.get(n.id as SimpleSlug) ?? 0
+      if (!genGroups.has(g)) genGroups.set(g, [])
+      genGroups.get(g)!.push(n)
     }
+    const sortedGens = [...genGroups.keys()].sort((a, b) => a - b)
+
+    const spousePairs = new Map<string, string>()
+    const childrenOf = new Map<string, string[]>()
+    const parentsOf = new Map<string, string[]>()
+    for (const n of visibleNodes) {
+      const fe = familyData[n.id as SimpleSlug] as FamilyEntry | undefined
+      if (!fe) continue
+      for (const sp of fe.spouses) {
+        if (!hiddenNodes.has(sp) && nodeMap.has(sp) && !spousePairs.has(n.id) && !spousePairs.has(sp)) {
+          spousePairs.set(n.id, sp)
+        }
+      }
+      for (const child of fe.children) {
+        if (!hiddenNodes.has(child) && nodeMap.has(child)) {
+          if (!childrenOf.has(n.id)) childrenOf.set(n.id, [])
+          childrenOf.get(n.id)!.push(child)
+        }
+      }
+      for (const p of [fe.father, fe.mother]) {
+        if (p && !hiddenNodes.has(p) && nodeMap.has(p)) {
+          if (!parentsOf.has(n.id)) parentsOf.set(n.id, [])
+          parentsOf.get(n.id)!.push(p)
+        }
+      }
+    }
+
+    const genUnits = new Map<number, LayoutUnit[]>()
+    for (const gen of sortedGens) {
+      const row = genGroups.get(gen)!
+      const units: LayoutUnit[] = []
+      const placed = new Set<string>()
+      for (const n of row) {
+        if (placed.has(n.id)) continue
+        const sp = spousePairs.get(n.id)
+        if (sp && row.some((m) => m.id === sp)) {
+          units.push([n, nodeMap.get(sp)!])
+          placed.add(n.id)
+          placed.add(sp)
+        } else {
+          const rev = [...spousePairs.entries()].find(([, v]) => v === n.id)?.[0]
+          if (rev && row.some((m) => m.id === rev)) continue
+          units.push([n])
+          placed.add(n.id)
+        }
+      }
+      genUnits.set(gen, units)
+    }
+
+    return { visibleNodes, sortedGens, genUnits, childrenOf, parentsOf, spousePairs }
+  }
+
+  const H_SPACING = 120
+  const SPOUSE_GAP = 40
+  const V_SPACING = 120
+
+  function unitLeft(u: LayoutUnit, posX: Map<string, number>) {
+    return Math.min(...u.map((n) => posX.get(n.id) ?? 0))
+  }
+  function unitRight(u: LayoutUnit, posX: Map<string, number>) {
+    return Math.max(...u.map((n) => posX.get(n.id) ?? 0))
+  }
+  function shiftUnit(u: LayoutUnit, dx: number, posX: Map<string, number>) {
+    for (const n of u) posX.set(n.id, (posX.get(n.id) ?? 0) + dx)
+  }
+  function unitCenter(u: LayoutUnit, posX: Map<string, number>) {
+    return u.reduce((s, n) => s + (posX.get(n.id) ?? 0), 0) / u.length
+  }
+
+  function placeUnit(u: LayoutUnit, cx: number, posX: Map<string, number>) {
+    if (u.length === 2) {
+      posX.set(u[0].id, cx - SPOUSE_GAP / 2)
+      posX.set(u[1].id, cx + SPOUSE_GAP / 2)
+    } else {
+      posX.set(u[0].id, cx)
+    }
+  }
+
+  function resolveOverlaps(units: LayoutUnit[], posX: Map<string, number>) {
+    if (units.length < 2) return
+    units.sort((a, b) => unitLeft(a, posX) - unitLeft(b, posX))
+    for (let i = 1; i < units.length; i++) {
+      const overlap = unitRight(units[i - 1], posX) + H_SPACING - unitLeft(units[i], posX)
+      if (overlap > 0) shiftUnit(units[i], overlap, posX)
+    }
+    const totalCenter = (unitLeft(units[0], posX) + unitRight(units[units.length - 1], posX)) / 2
+    for (const u of units) shiftUnit(u, -totalCenter, posX)
+  }
+
+  function avgNeighborX(
+    unit: LayoutUnit,
+    neighborMap: Map<string, string[]>,
+    posX: Map<string, number>,
+  ): number | null {
+    const xs: number[] = []
+    for (const n of unit) {
+      for (const nb of neighborMap.get(n.id) ?? []) {
+        const px = posX.get(nb)
+        if (px != null) xs.push(px)
+      }
+    }
+    return xs.length === 0 ? null : xs.reduce((a, b) => a + b, 0) / xs.length
+  }
+
+  function applyPositions(
+    visibleNodes: NodeData[],
+    sortedGens: number[],
+    posX: Map<string, number>,
+  ) {
+    const minGen = sortedGens[0] ?? 0
+    for (const n of visibleNodes) {
+      const g = gens.get(n.id as SimpleSlug) ?? 0
+      n.fx = posX.get(n.id) ?? 0
+      n.fy = (g - minGen) * V_SPACING
+      n.x = n.fx
+      n.y = n.fy
+    }
+    simulation.alpha(0.3).restart()
+    const t = computeFitTransform()
+    if (t) applyTransform(t)
+  }
+
+  // ── Layout: Force (default D3 simulation) ────────────────────
+
+  function layoutForce() {
+    for (const n of graphData.nodes) {
+      n.fx = null
+      n.fy = null
+    }
+    clearSelection()
+    simulation.alpha(0.3).restart()
+    applyTransform(zoomIdentity)
+  }
+
+  // ── Layout: Layered (Sugiyama with iterative crossing min) ───
+
+  function layoutLayered() {
+    const data = buildLayoutData()
+    if (data.visibleNodes.length === 0) return
+    const { visibleNodes, sortedGens, genUnits, childrenOf, parentsOf } = data
+    const posX = new Map<string, number>()
+
+    // Initial top-down placement sorted by parent barycenter
+    for (const gen of sortedGens) {
+      const units = genUnits.get(gen)!
+      units.sort((a, b) => {
+        const ax = avgNeighborX(a, parentsOf, posX)
+        const bx = avgNeighborX(b, parentsOf, posX)
+        if (ax !== null && bx !== null) return ax - bx
+        if (ax !== null) return -1
+        if (bx !== null) return 1
+        return 0
+      })
+      let totalW = 0
+      for (const u of units) totalW += u.length === 2 ? SPOUSE_GAP : 0
+      totalW += (units.length - 1) * H_SPACING
+      let x = -totalW / 2
+      for (const unit of units) {
+        placeUnit(unit, x + (unit.length === 2 ? SPOUSE_GAP / 2 : 0), posX)
+        x += (unit.length === 2 ? SPOUSE_GAP : 0) + H_SPACING
+      }
+    }
+
+    // 4 iterations of alternating up/down sweeps for crossing minimization
+    for (let iter = 0; iter < 4; iter++) {
+      // Bottom-up: center parents above children
+      for (const gen of [...sortedGens].reverse()) {
+        const units = genUnits.get(gen)!
+        for (const unit of units) {
+          const cx = avgNeighborX(unit, childrenOf, posX)
+          if (cx !== null) shiftUnit(unit, cx - unitCenter(unit, posX), posX)
+        }
+        resolveOverlaps(units, posX)
+      }
+      // Top-down: center children under parents
+      for (const gen of sortedGens) {
+        const units = genUnits.get(gen)!
+        for (const unit of units) {
+          const px = avgNeighborX(unit, parentsOf, posX)
+          if (px !== null) shiftUnit(unit, px - unitCenter(unit, posX), posX)
+        }
+        resolveOverlaps(units, posX)
+      }
+    }
+
+    applyPositions(visibleNodes, sortedGens, posX)
+    anchorAllNodes()
+  }
+
+  // ── Layout: Compact (recursive subtree width allocation) ─────
+
+  function layoutCompact() {
+    const data = buildLayoutData()
+    if (data.visibleNodes.length === 0) return
+    const { visibleNodes, sortedGens, genUnits, childrenOf } = data
+    const posX = new Map<string, number>()
+
+    // Map each child unit to its parent unit
+    const unitChildUnits = new Map<LayoutUnit, LayoutUnit[]>()
+    const claimed = new Set<LayoutUnit>()
+    for (const gen of sortedGens) {
+      const nextUnits = genUnits.get(gen + 1)
+      if (!nextUnits) continue
+      for (const pUnit of genUnits.get(gen)!) {
+        const children: LayoutUnit[] = []
+        for (const p of pUnit) {
+          for (const childId of childrenOf.get(p.id) ?? []) {
+            const cu = nextUnits.find((u) => u.some((m) => m.id === childId))
+            if (cu && !claimed.has(cu) && !children.includes(cu)) {
+              children.push(cu)
+              claimed.add(cu)
+            }
+          }
+        }
+        unitChildUnits.set(pUnit, children)
+      }
+    }
+
+    // Compute subtree widths (bottom-up)
+    const subtreeW = new Map<LayoutUnit, number>()
+    for (const gen of [...sortedGens].reverse()) {
+      for (const unit of genUnits.get(gen)!) {
+        const children = unitChildUnits.get(unit) ?? []
+        const childW = children.reduce((s, cu) => s + (subtreeW.get(cu) ?? 1), 0)
+        subtreeW.set(unit, Math.max(1, childW))
+      }
+    }
+
+    // Position recursively (top-down)
+    function positionSubtree(unit: LayoutUnit, cx: number) {
+      placeUnit(unit, cx, posX)
+      const children = unitChildUnits.get(unit) ?? []
+      if (children.length === 0) return
+      const totalChildW = children.reduce((s, cu) => s + (subtreeW.get(cu) ?? 1), 0)
+      let x = cx - (totalChildW * H_SPACING) / 2
+      for (const cu of children) {
+        const w = (subtreeW.get(cu) ?? 1) * H_SPACING
+        positionSubtree(cu, x + w / 2)
+        x += w
+      }
+    }
+
+    // Start from top generation
+    const topUnits = genUnits.get(sortedGens[0]) ?? []
+    const totalTopW = topUnits.reduce((s, u) => s + (subtreeW.get(u) ?? 1), 0)
+    let topX = -(totalTopW * H_SPACING) / 2
+    for (const unit of topUnits) {
+      const w = (subtreeW.get(unit) ?? 1) * H_SPACING
+      positionSubtree(unit, topX + w / 2)
+      topX += w
+    }
+
+    // Place any orphan units (units not claimed by any parent, in lower generations)
+    for (const gen of sortedGens) {
+      for (const unit of genUnits.get(gen)!) {
+        if (!posX.has(unit[0].id)) {
+          placeUnit(unit, 0, posX)
+        }
+      }
+      resolveOverlaps(genUnits.get(gen)!, posX)
+    }
+
+    applyPositions(visibleNodes, sortedGens, posX)
+    anchorAllNodes()
+  }
+
+  // ── Layout: Horizontal (left-to-right tree) ──────────────────
+
+  function layoutHorizontal() {
+    const data = buildLayoutData()
+    if (data.visibleNodes.length === 0) return
+    const { visibleNodes, sortedGens, genUnits, childrenOf, parentsOf } = data
+    const posY = new Map<string, number>()
+
+    for (const gen of sortedGens) {
+      const units = genUnits.get(gen)!
+      units.sort((a, b) => {
+        const ax = avgNeighborX(a, parentsOf, posY)
+        const bx = avgNeighborX(b, parentsOf, posY)
+        if (ax !== null && bx !== null) return ax - bx
+        if (ax !== null) return -1
+        if (bx !== null) return 1
+        return 0
+      })
+      let totalW = 0
+      for (const u of units) totalW += u.length === 2 ? SPOUSE_GAP : 0
+      totalW += (units.length - 1) * H_SPACING
+      let y = -totalW / 2
+      for (const unit of units) {
+        if (unit.length === 2) {
+          posY.set(unit[0].id, y)
+          posY.set(unit[1].id, y + SPOUSE_GAP)
+          y += SPOUSE_GAP + H_SPACING
+        } else {
+          posY.set(unit[0].id, y)
+          y += H_SPACING
+        }
+      }
+    }
+
+    for (let iter = 0; iter < 4; iter++) {
+      for (const gen of [...sortedGens].reverse()) {
+        const units = genUnits.get(gen)!
+        for (const unit of units) {
+          const cx = avgNeighborX(unit, childrenOf, posY)
+          if (cx !== null) {
+            const uc = unit.reduce((s, n) => s + (posY.get(n.id) ?? 0), 0) / unit.length
+            for (const n of unit) posY.set(n.id, (posY.get(n.id) ?? 0) + (cx - uc))
+          }
+        }
+        resolveOverlaps(units, posY)
+      }
+      for (const gen of sortedGens) {
+        const units = genUnits.get(gen)!
+        for (const unit of units) {
+          const px = avgNeighborX(unit, parentsOf, posY)
+          if (px !== null) {
+            const uc = unit.reduce((s, n) => s + (posY.get(n.id) ?? 0), 0) / unit.length
+            for (const n of unit) posY.set(n.id, (posY.get(n.id) ?? 0) + (px - uc))
+          }
+        }
+        resolveOverlaps(units, posY)
+      }
+    }
+
+    const minGen = sortedGens[0] ?? 0
+    for (const n of visibleNodes) {
+      const g = gens.get(n.id as SimpleSlug) ?? 0
+      n.fx = (g - minGen) * V_SPACING
+      n.fy = posY.get(n.id) ?? 0
+      n.x = n.fx
+      n.y = n.fy
+    }
+    simulation.alpha(0.3).restart()
+    const t = computeFitTransform()
+    if (t) applyTransform(t)
+    anchorAllNodes()
+  }
+
+  // ── Layout: Radial (concentric rings by generation) ──────────
+
+  function layoutRadial() {
+    const data = buildLayoutData()
+    if (data.visibleNodes.length === 0) return
+    const { visibleNodes, sortedGens, genUnits, childrenOf, parentsOf } = data
+
+    const centerGen = gens.get(center) ?? 0
+    const ringSpacing = 140
+
+    const angularPos = new Map<string, number>()
+
+    const gensSorted = [...sortedGens].sort((a, b) => Math.abs(a - centerGen) - Math.abs(b - centerGen))
+
+    for (const gen of gensSorted) {
+      const units = genUnits.get(gen)!
+
+      units.sort((a, b) => {
+        const ax = avgNeighborX(a, parentsOf, angularPos) ?? avgNeighborX(a, childrenOf, angularPos)
+        const bx = avgNeighborX(b, parentsOf, angularPos) ?? avgNeighborX(b, childrenOf, angularPos)
+        if (ax !== null && bx !== null) return ax - bx
+        if (ax !== null) return -1
+        if (bx !== null) return 1
+        return 0
+      })
+
+      const nodeCount = units.reduce((s, u) => s + u.length, 0)
+      if (gen === centerGen && nodeCount <= 2) {
+        let angle = 0
+        for (const unit of units) {
+          for (const n of unit) {
+            angularPos.set(n.id, angle)
+            angle += (2 * Math.PI) / Math.max(nodeCount, 1)
+          }
+        }
+      } else {
+        const totalSlots = Math.max(nodeCount, 6)
+        const sliceSize = (2 * Math.PI) / totalSlots
+        let idx = 0
+        for (const unit of units) {
+          for (const n of unit) {
+            angularPos.set(n.id, idx * sliceSize)
+            idx++
+          }
+        }
+      }
+    }
+
+    for (let iter = 0; iter < 3; iter++) {
+      for (const gen of sortedGens) {
+        if (gen === centerGen) continue
+        const units = genUnits.get(gen)!
+        for (const unit of units) {
+          const parentAngle = avgNeighborX(unit, parentsOf, angularPos)
+          const childAngle = avgNeighborX(unit, childrenOf, angularPos)
+          const target = parentAngle ?? childAngle
+          if (target !== null) {
+            const uc = unit.reduce((s, n) => s + (angularPos.get(n.id) ?? 0), 0) / unit.length
+            const shift = target - uc
+            for (const n of unit) angularPos.set(n.id, (angularPos.get(n.id) ?? 0) + shift)
+          }
+        }
+      }
+    }
+
+    for (const n of visibleNodes) {
+      const g = gens.get(n.id as SimpleSlug) ?? 0
+      const ring = Math.abs(g - centerGen)
+      const angle = angularPos.get(n.id) ?? 0
+      if (ring === 0) {
+        n.fx = 0
+        n.fy = 0
+      } else {
+        const r = ring * ringSpacing
+        n.fx = r * Math.cos(angle - Math.PI / 2)
+        n.fy = r * Math.sin(angle - Math.PI / 2)
+      }
+      n.x = n.fx
+      n.y = n.fy
+    }
+    simulation.alpha(0.3).restart()
+    const t = computeFitTransform()
+    if (t) applyTransform(t)
+    anchorAllNodes()
   }
 
   function resetView() {
     if (!enableZoom) return
-    cancelFit()
     hiddenNodes.clear()
     clearSelection()
     applyVisibility()
@@ -1178,7 +1608,6 @@ async function renderFamilyGraph(
 
   function setShowNames(on: boolean) {
     showNames = on
-    if (!on) cancelFit()
     for (const label of labelsContainer.children) {
       ;(label as Text).alpha = on ? 1 : 0
     }
@@ -1188,6 +1617,7 @@ async function renderFamilyGraph(
     cleanup: () => {
       closeContextMenu()
       stopAnimation = true
+      document.removeEventListener("keydown", onKeyDown)
       app.canvas.removeEventListener("mousedown", onRectMouseDown, true)
       window.removeEventListener("mousemove", onRectMouseMove)
       window.removeEventListener("mouseup", onRectMouseUp)
@@ -1195,6 +1625,13 @@ async function renderFamilyGraph(
     },
     fitToView,
     resetView,
+    applyLayout: (name: string) => {
+      if (name === "layered") layoutLayered()
+      else if (name === "compact") layoutCompact()
+      else if (name === "horizontal") layoutHorizontal()
+      else if (name === "radial") layoutRadial()
+      else layoutForce()
+    },
     setShowNames,
   }
 }
@@ -1411,6 +1848,11 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
       const fitBtn = container.querySelector(".fit-btn")
       fitBtn?.addEventListener("click", () => {
         for (const h of globalGraphHandles) h.fitToView()
+      })
+
+      const layoutSelect = container.querySelector(".layout-select") as HTMLSelectElement | null
+      layoutSelect?.addEventListener("change", () => {
+        for (const h of globalGraphHandles) h.applyLayout(layoutSelect.value)
       })
 
       const resetBtn = container.querySelector(".reset-btn")
