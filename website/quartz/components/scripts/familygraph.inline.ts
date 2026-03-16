@@ -311,6 +311,8 @@ async function renderFamilyGraph(
 
   const width = graph.offsetWidth
   const height = Math.max(graph.offsetHeight, 250)
+  const isTouchDevice = "ontouchstart" in window || navigator.maxTouchPoints > 0
+  const hitPadding = isTouchDevice ? 8 : 0
 
   const genMap = gens
   const simulation = forceSimulation<NodeData>(graphData.nodes)
@@ -512,7 +514,7 @@ async function renderFamilyGraph(
       interactive: true,
       label: nodeId,
       eventMode: "static",
-      hitArea: new Circle(0, 0, nodeRadius(n)),
+      hitArea: new Circle(0, 0, nodeRadius(n) + hitPadding),
       cursor: "pointer",
     })
       .circle(0, 0, nodeRadius(n))
@@ -788,6 +790,7 @@ async function renderFamilyGraph(
     }
     if (dismissHandler) {
       document.removeEventListener("mousedown", dismissHandler)
+      document.removeEventListener("touchstart", dismissHandler as any)
       app.canvas.removeEventListener("mousedown", dismissHandler, true)
       dismissHandler = null
     }
@@ -873,7 +876,7 @@ async function renderFamilyGraph(
         resolution: window.devicePixelRatio * 4,
       })
       label.scale.set(1 / scale)
-      const nodeGfx = new Graphics({ interactive: true, label: nid, eventMode: "static", hitArea: new Circle(0, 0, r), cursor: "pointer" })
+      const nodeGfx = new Graphics({ interactive: true, label: nid, eventMode: "static", hitArea: new Circle(0, 0, r + hitPadding), cursor: "pointer" })
         .circle(0, 0, r).fill({ color: nColor })
         .on("pointerover", () => { updateHoverInfo(nid); if (!dragging) renderPixiFromD3() })
         .on("pointerleave", () => { updateHoverInfo(null); if (!dragging) renderPixiFromD3() })
@@ -979,13 +982,15 @@ async function renderFamilyGraph(
     document.body.appendChild(menu)
     contextMenu = menu
 
-    dismissHandler = (e: MouseEvent) => {
-      if (!menu.contains(e.target as Node)) {
+    dismissHandler = (e: MouseEvent | TouchEvent) => {
+      const target = (e as TouchEvent).touches?.[0]?.target ?? (e as MouseEvent).target
+      if (!menu.contains(target as Node)) {
         closeContextMenu()
       }
     }
     setTimeout(() => {
       document.addEventListener("mousedown", dismissHandler!)
+      document.addEventListener("touchstart", dismissHandler!, { passive: true } as any)
       app.canvas.addEventListener("mousedown", dismissHandler!, true)
     }, 0)
   }
@@ -996,6 +1001,33 @@ async function renderFamilyGraph(
       showContextMenu(hoveredNodeId, e.clientX, e.clientY)
     }
   })
+
+  let longPressTimer: ReturnType<typeof setTimeout> | null = null
+  let longPressNodeId: string | null = null
+
+  app.canvas.addEventListener("touchstart", (e) => {
+    if (e.touches.length !== 1) return
+    const touch = e.touches[0]
+    longPressNodeId = hoveredNodeId
+    longPressTimer = setTimeout(() => {
+      if (longPressNodeId) {
+        showContextMenu(longPressNodeId, touch.clientX, touch.clientY)
+      }
+      longPressTimer = null
+    }, 500)
+  }, { passive: true })
+
+  function cancelLongPress() {
+    if (longPressTimer) {
+      clearTimeout(longPressTimer)
+      longPressTimer = null
+    }
+    longPressNodeId = null
+  }
+
+  app.canvas.addEventListener("touchmove", cancelLongPress, { passive: true })
+  app.canvas.addEventListener("touchend", cancelLongPress, { passive: true })
+  app.canvas.addEventListener("touchcancel", cancelLongPress, { passive: true })
 
   app.canvas.addEventListener("click", (e) => {
     if (!hoveredNodeId && !e.shiftKey && selectedNodes.size > 0) {
