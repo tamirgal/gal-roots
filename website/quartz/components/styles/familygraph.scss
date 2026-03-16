@@ -192,4 +192,10 @@
       background: var(--lightgray);
     }
   }
+
+  .context-menu-divider {
+    margin: 0.2rem 0;
+    border: none;
+    border-top: 1px solid var(--lightgray);
+  }
 }

@@ -232,6 +232,7 @@ type FamilyLinkRenderData = GraphicsInfo & {
 type NodeRenderData = GraphicsInfo & {
   simulationData: NodeData
   label: Text
+  selRing: Graphics
 }
 
 type TweenNode = {
@@ -360,6 +361,7 @@ async function renderFamilyGraph(
   let hoveredNodeId: string | null = null
   const linkRenderData: FamilyLinkRenderData[] = []
   const nodeRenderData: NodeRenderData[] = []
+  const selectedNodes = new Set<string>()
 
   function updateHoverInfo(newHoveredId: string | null) {
     hoveredNodeId = newHoveredId
@@ -386,7 +388,7 @@ async function renderFamilyGraph(
   let dragStartTime = 0
   let dragging = false
   let dragStartPos = { x: 0, y: 0 }
-  let lastDragEvent: { ctrlKey: boolean; metaKey: boolean } | null = null
+  let lastDragEvent: { ctrlKey: boolean; metaKey: boolean; shiftKey?: boolean } | null = null
 
   function renderLinks() {
     tweens.get("link")?.stop()
@@ -481,9 +483,11 @@ async function renderFamilyGraph(
   stage.interactive = false
 
   const labelsContainer = new Container<Text>({ zIndex: 3, isRenderGroup: true })
+  const selectionRingContainer = new Container<Graphics>({ zIndex: 2.5, isRenderGroup: true })
   const nodesContainer = new Container<Graphics>({ zIndex: 2, isRenderGroup: true })
   const linkContainer = new Container<Graphics>({ zIndex: 1, isRenderGroup: true })
-  stage.addChild(nodesContainer, labelsContainer, linkContainer)
+  const selRectGfx = new Graphics({ zIndex: 4, interactive: false, eventMode: "none" })
+  stage.addChild(nodesContainer, labelsContainer, linkContainer, selectionRingContainer, selRectGfx)
 
   for (const n of graphData.nodes) {
     const nodeId = n.id
@@ -523,13 +527,18 @@ async function renderFamilyGraph(
         if (!dragging) renderPixiFromD3()
       })
 
+    const selRing = new Graphics({ interactive: false, eventMode: "none", visible: false })
+    selRing.circle(0, 0, nodeRadius(n) + 3).stroke({ width: 2, color: computedStyleMap["--secondary"] })
+
     nodesContainer.addChild(gfx)
     labelsContainer.addChild(label)
+    selectionRingContainer.addChild(selRing)
 
     nodeRenderData.push({
       simulationData: n,
       gfx,
       label,
+      selRing,
       color: color(n),
       alpha: 1,
       active: false,
@@ -550,66 +559,160 @@ async function renderFamilyGraph(
 
   const onRecenter = options?.onRecenter
 
-  const handleNodeAction = (nodeId: string, modKey: boolean) => {
-    const targ = resolveRelative(fullSlug, nodeId)
-    if (isGlobal) {
-      if (modKey) {
-        window.spaNavigate(new URL(targ, window.location.toString()))
-      } else {
-        onRecenter?.(nodeId as SimpleSlug)
-      }
-    } else {
-      window.spaNavigate(new URL(targ, window.location.toString()))
+  let currentTransform = zoomIdentity
+
+  type InitDragPos = { x: number; y: number; fx: number | null; fy: number | null }
+  let groupDragInitials = new Map<string, InitDragPos>()
+
+  function clearSelection() {
+    selectedNodes.clear()
+  }
+
+  function toStageCoords(screenX: number, screenY: number) {
+    return {
+      x: (screenX - currentTransform.x) / currentTransform.k,
+      y: (screenY - currentTransform.y) / currentTransform.k,
     }
   }
 
-  let currentTransform = zoomIdentity
+  let rectSelecting = false
+  let rectStart = { x: 0, y: 0 }
+
+  function onRectMouseDown(e: MouseEvent) {
+    if (!e.shiftKey || hoveredNodeId) return
+    e.preventDefault()
+    e.stopPropagation()
+    rectSelecting = true
+    const rect = app.canvas.getBoundingClientRect()
+    rectStart = toStageCoords(e.clientX - rect.left, e.clientY - rect.top)
+  }
+
+  function onRectMouseMove(e: MouseEvent) {
+    if (!rectSelecting) return
+    const rect = app.canvas.getBoundingClientRect()
+    const cur = toStageCoords(e.clientX - rect.left, e.clientY - rect.top)
+    const x = Math.min(rectStart.x, cur.x)
+    const y = Math.min(rectStart.y, cur.y)
+    const w = Math.abs(cur.x - rectStart.x)
+    const h = Math.abs(cur.y - rectStart.y)
+    selRectGfx.clear()
+    selRectGfx.rect(x, y, w, h)
+      .stroke({ width: 1.5 / currentTransform.k, color: computedStyleMap["--secondary"], alpha: 0.8 })
+      .fill({ color: computedStyleMap["--secondary"], alpha: 0.1 })
+  }
+
+  function onRectMouseUp(e: MouseEvent) {
+    if (!rectSelecting) return
+    rectSelecting = false
+    const rect = app.canvas.getBoundingClientRect()
+    const cur = toStageCoords(e.clientX - rect.left, e.clientY - rect.top)
+    const x1 = Math.min(rectStart.x, cur.x)
+    const y1 = Math.min(rectStart.y, cur.y)
+    const x2 = Math.max(rectStart.x, cur.x)
+    const y2 = Math.max(rectStart.y, cur.y)
+    selRectGfx.clear()
+
+    if (Math.abs(x2 - x1) < 3 && Math.abs(y2 - y1) < 3) return
+
+    if (!e.shiftKey) selectedNodes.clear()
+    for (const n of nodeRenderData) {
+      const nx = (n.simulationData.x ?? 0) + width / 2
+      const ny = (n.simulationData.y ?? 0) + height / 2
+      if (nx >= x1 && nx <= x2 && ny >= y1 && ny <= y2 && !hiddenNodes.has(n.simulationData.id)) {
+        selectedNodes.add(n.simulationData.id)
+      }
+    }
+  }
+
+  app.canvas.addEventListener("mousedown", onRectMouseDown, true)
+  window.addEventListener("mousemove", onRectMouseMove)
+  window.addEventListener("mouseup", onRectMouseUp)
+
   if (enableDrag) {
     select<HTMLCanvasElement, NodeData | undefined>(app.canvas).call(
       drag<HTMLCanvasElement, NodeData | undefined>()
         .container(() => app.canvas)
-        .subject(() => graphData.nodes.find((n) => n.id === hoveredNodeId))
+        .subject(() => {
+          if (rectSelecting) return undefined
+          return graphData.nodes.find((n) => n.id === hoveredNodeId)
+        })
         .on("start", function dragstarted(event) {
+          if (!event.subject) return
+          const shiftKey = !!event.sourceEvent?.shiftKey
+          const subjectId = event.subject.id as string
+
           if (!event.active) simulation.alphaTarget(0.05).restart()
           event.subject.fx = event.subject.x
           event.subject.fy = event.subject.y
-          ;(event.subject as NodeData & { __initialDragPos?: object }).__initialDragPos = {
-            x: event.subject.x,
-            y: event.subject.y,
-            fx: event.subject.fx,
-            fy: event.subject.fy,
+
+          groupDragInitials.clear()
+          const isGroupDrag = selectedNodes.has(subjectId) && selectedNodes.size > 0
+          const dragSet = isGroupDrag ? selectedNodes : new Set([subjectId])
+
+          for (const nid of dragSet) {
+            const nd = graphData.nodes.find((n) => n.id === nid)
+            if (nd) {
+              nd.fx = nd.x
+              nd.fy = nd.y
+              groupDragInitials.set(nid, { x: nd.x!, y: nd.y!, fx: nd.fx!, fy: nd.fy! })
+            }
           }
+
           dragStartTime = Date.now()
           dragStartPos = { x: event.x, y: event.y }
           dragging = true
         })
         .on("drag", function dragged(event) {
-          lastDragEvent = { ctrlKey: event.sourceEvent?.ctrlKey, metaKey: event.sourceEvent?.metaKey }
-          const initPos = (event.subject as NodeData & { __initialDragPos?: { x: number; y: number; fx: number; fy: number } })
-            .__initialDragPos
-          if (initPos) {
-            event.subject.fx = initPos.x + (event.x - initPos.x) / currentTransform.k
-            event.subject.fy = initPos.y + (event.y - initPos.y) / currentTransform.k
+          if (!event.subject) return
+          lastDragEvent = {
+            ctrlKey: event.sourceEvent?.ctrlKey,
+            metaKey: event.sourceEvent?.metaKey,
+            shiftKey: event.sourceEvent?.shiftKey,
+          }
+          const dx = (event.x - dragStartPos.x) / currentTransform.k
+          const dy = (event.y - dragStartPos.y) / currentTransform.k
+          for (const [nid, init] of groupDragInitials) {
+            const nd = graphData.nodes.find((n) => n.id === nid)
+            if (nd) {
+              nd.fx = init.x + dx
+              nd.fy = init.y + dy
+            }
           }
         })
         .on("end", function dragended(event) {
+          if (!event.subject) return
           if (!event.active) simulation.alphaTarget(0)
           dragging = false
-          const dx = event.x - dragStartPos.x
-          const dy = event.y - dragStartPos.y
-          const dist = Math.sqrt(dx * dx + dy * dy)
+          const dxTotal = event.x - dragStartPos.x
+          const dyTotal = event.y - dragStartPos.y
+          const dist = Math.sqrt(dxTotal * dxTotal + dyTotal * dyTotal)
+          const shiftKey = !!(lastDragEvent?.shiftKey || event.sourceEvent?.shiftKey)
+
           if (dist < 5) {
-            const modKey = !!(lastDragEvent?.ctrlKey || lastDragEvent?.metaKey || event.sourceEvent?.ctrlKey || event.sourceEvent?.metaKey)
-            handleNodeAction(event.subject.id, modKey)
+            const nid = event.subject.id as string
+            if (shiftKey) {
+              if (selectedNodes.has(nid)) selectedNodes.delete(nid)
+              else selectedNodes.add(nid)
+            } else {
+              clearSelection()
+              selectedNodes.add(nid)
+            }
           }
+          groupDragInitials.clear()
           lastDragEvent = null
         }),
     )
   } else {
     for (const node of nodeRenderData) {
       node.gfx.on("click", (e: any) => {
-        const modKey = !!(e?.ctrlKey || e?.metaKey)
-        handleNodeAction(node.simulationData.id, modKey)
+        const nid = node.simulationData.id
+        if (e?.shiftKey) {
+          if (selectedNodes.has(nid)) selectedNodes.delete(nid)
+          else selectedNodes.add(nid)
+        } else {
+          clearSelection()
+          selectedNodes.add(nid)
+        }
       })
     }
   }
@@ -681,6 +784,7 @@ async function renderFamilyGraph(
     }
     if (dismissHandler) {
       document.removeEventListener("mousedown", dismissHandler)
+      app.canvas.removeEventListener("mousedown", dismissHandler, true)
       dismissHandler = null
     }
   }
@@ -742,9 +846,12 @@ async function renderFamilyGraph(
         .circle(0, 0, r).fill({ color: nColor })
         .on("pointerover", () => { updateHoverInfo(nid); if (!dragging) renderPixiFromD3() })
         .on("pointerleave", () => { updateHoverInfo(null); if (!dragging) renderPixiFromD3() })
+      const selRing = new Graphics({ interactive: false, eventMode: "none", visible: false })
+      selRing.circle(0, 0, r + 3).stroke({ width: 2, color: computedStyleMap["--secondary"] })
       nodesContainer.addChild(nodeGfx)
       labelsContainer.addChild(label)
-      nodeRenderData.push({ simulationData: n, gfx: nodeGfx, label, color: nColor, alpha: 1, active: false })
+      selectionRingContainer.addChild(selRing)
+      nodeRenderData.push({ simulationData: n, gfx: nodeGfx, label, selRing, color: nColor, alpha: 1, active: false })
     }
 
     if (newNodeIds.length > 0) {
@@ -817,11 +924,26 @@ async function renderFamilyGraph(
       menu.appendChild(btn)
     }
 
-    menuItem("Hide node", () => hideNode(nodeId))
+    const divider = () => {
+      const hr = document.createElement("hr")
+      hr.className = "context-menu-divider"
+      menu.appendChild(hr)
+    }
+
+    if (isGlobal) {
+      menuItem("Focus on node", () => onRecenter?.(nodeId as SimpleSlug))
+    }
+    menuItem("Open page", () => {
+      const targ = resolveRelative(fullSlug, nodeId)
+      window.spaNavigate(new URL(targ, window.location.toString()))
+    })
+    divider()
     menuItem("Show all links", () => showAllLinks(nodeId))
     menuItem("Show parents", () => showParents(nodeId))
     menuItem("Show children", () => showChildren(nodeId))
     menuItem("Show siblings", () => showSiblings(nodeId))
+    divider()
+    menuItem("Hide node", () => hideNode(nodeId))
 
     document.body.appendChild(menu)
     contextMenu = menu
@@ -831,7 +953,10 @@ async function renderFamilyGraph(
         closeContextMenu()
       }
     }
-    setTimeout(() => document.addEventListener("mousedown", dismissHandler!), 0)
+    setTimeout(() => {
+      document.addEventListener("mousedown", dismissHandler!)
+      app.canvas.addEventListener("mousedown", dismissHandler!, true)
+    }, 0)
   }
 
   app.canvas.addEventListener("contextmenu", (e) => {
@@ -841,10 +966,21 @@ async function renderFamilyGraph(
     }
   })
 
+  app.canvas.addEventListener("click", (e) => {
+    if (!hoveredNodeId && !e.shiftKey && selectedNodes.size > 0) {
+      clearSelection()
+    }
+  })
+
   let showNames = false
   let suppressZoomHandler = false
 
   const zoomBehavior = zoom<HTMLCanvasElement, NodeData>()
+    .filter((event) => {
+      if (event.type === "wheel") return true
+      if (event.shiftKey && !hoveredNodeId) return false
+      return true
+    })
     .extent([
       [0, 0],
       [width, height],
@@ -878,6 +1014,8 @@ async function renderFamilyGraph(
       if (!x || !y) continue
       n.gfx.position.set(x + width / 2, y + height / 2)
       if (n.label) n.label.position.set(x + width / 2, y + height / 2)
+      n.selRing.position.set(x + width / 2, y + height / 2)
+      n.selRing.visible = selectedNodes.has(n.simulationData.id)
     }
 
     for (const l of linkRenderData) {
@@ -978,6 +1116,15 @@ async function renderFamilyGraph(
 
   const MAX_NODES_FOR_LABEL_SPREAD = 40
 
+  function anchorAllNodes() {
+    for (const n of graphData.nodes) {
+      if (n.x != null && n.y != null && !hiddenNodes.has(n.id)) {
+        n.fx = n.x
+        n.fy = n.y
+      }
+    }
+  }
+
   function fitToView() {
     if (!enableZoom || graphData.nodes.length === 0) return
 
@@ -998,15 +1145,20 @@ async function renderFamilyGraph(
       fittingWithLabels = true
       simulation.alpha(0.5).restart()
 
-      const fitTimeout = setTimeout(() => cancelFit(), 8000)
+      const fitTimeout = setTimeout(() => {
+        cancelFit()
+        anchorAllNodes()
+      }, 8000)
 
       simulation.on("end.fit", () => {
         clearTimeout(fitTimeout)
         cancelFit()
+        anchorAllNodes()
       })
     } else {
       const t = computeFitTransform()
       if (t) applyTransform(t)
+      anchorAllNodes()
     }
   }
 
@@ -1014,6 +1166,7 @@ async function renderFamilyGraph(
     if (!enableZoom) return
     cancelFit()
     hiddenNodes.clear()
+    clearSelection()
     applyVisibility()
     for (const n of nodeRenderData) {
       n.simulationData.fx = null
@@ -1035,6 +1188,9 @@ async function renderFamilyGraph(
     cleanup: () => {
       closeContextMenu()
       stopAnimation = true
+      app.canvas.removeEventListener("mousedown", onRectMouseDown, true)
+      window.removeEventListener("mousemove", onRectMouseMove)
+      window.removeEventListener("mouseup", onRectMouseUp)
       app.destroy()
     },
     fitToView,
