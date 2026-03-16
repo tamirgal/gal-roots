@@ -239,6 +239,13 @@ type TweenNode = {
   stop: () => void
 }
 
+type GraphHandle = {
+  cleanup: () => void
+  fitToView: () => void
+  resetView: () => void
+  setShowNames: (on: boolean) => void
+}
+
 let lastClickTime = 0
 let lastClickTarget: string | null = null
 
@@ -252,13 +259,13 @@ async function renderFamilyGraph(
     direction?: Direction
     onRecenter?: (newCenter: SimpleSlug) => void
   },
-): Promise<() => void> {
+): Promise<GraphHandle> {
   const slug = simplifySlug(fullSlug)
   const center = options?.center ?? slug
   const familyData = await getFamilyData()
   const entry = familyData[center]
   if (!entry) {
-    return () => {}
+    return { cleanup: () => {}, fitToView: () => {}, resetView: () => {}, setShowNames: () => {} }
   }
 
   removeAllChildren(graph)
@@ -607,6 +614,233 @@ async function renderFamilyGraph(
     }
   }
 
+  const hiddenNodes = new Set<string>()
+
+  function hideNode(nodeId: string) {
+    hiddenNodes.add(nodeId)
+    hideDisconnected()
+    applyVisibility()
+  }
+
+  function hideDisconnected() {
+    const reachable = new Set<string>()
+    const queue = [center as string]
+    reachable.add(center)
+    while (queue.length > 0) {
+      const cur = queue.shift()!
+      for (const l of graphData.links) {
+        const src = l.source.id as string
+        const tgt = l.target.id as string
+        let neighbour: string | null = null
+        if (src === cur) neighbour = tgt
+        else if (tgt === cur) neighbour = src
+        if (neighbour && !reachable.has(neighbour) && !hiddenNodes.has(neighbour)) {
+          reachable.add(neighbour)
+          queue.push(neighbour)
+        }
+      }
+    }
+    for (const n of nodeRenderData) {
+      const id = n.simulationData.id as string
+      if (!reachable.has(id) && id !== center) {
+        hiddenNodes.add(id)
+      }
+    }
+  }
+
+  function showAllLinks(targetNodeId: string) {
+    const fe = familyData[targetNodeId as SimpleSlug] as FamilyEntry | undefined
+    if (!fe) return
+    const rels: { id: SimpleSlug; type: FamilyLinkType; asSource: boolean }[] = []
+    if (fe.father) rels.push({ id: fe.father, type: "parent-child", asSource: true })
+    if (fe.mother) rels.push({ id: fe.mother, type: "parent-child", asSource: true })
+    for (const sp of fe.spouses) rels.push({ id: sp, type: "spouse", asSource: false })
+    for (const ch of fe.children) rels.push({ id: ch, type: "parent-child", asSource: false })
+    expandRelatives(targetNodeId, rels)
+  }
+
+  function applyVisibility() {
+    for (const n of nodeRenderData) {
+      const hidden = hiddenNodes.has(n.simulationData.id)
+      n.gfx.visible = !hidden
+      n.label.visible = !hidden
+    }
+    for (const l of linkRenderData) {
+      const srcHidden = hiddenNodes.has(l.simulationData.source.id)
+      const tgtHidden = hiddenNodes.has(l.simulationData.target.id)
+      l.gfx.visible = !srcHidden && !tgtHidden
+    }
+  }
+
+  let contextMenu: HTMLDivElement | null = null
+
+  function closeContextMenu() {
+    if (contextMenu) {
+      contextMenu.remove()
+      contextMenu = null
+    }
+    if (dismissHandler) {
+      document.removeEventListener("mousedown", dismissHandler)
+      dismissHandler = null
+    }
+  }
+
+  function expandRelatives(targetNodeId: string, relatives: { id: SimpleSlug; type: FamilyLinkType; asSource: boolean }[]) {
+    const tSlug = targetNodeId as SimpleSlug
+    const targetGen = gens.get(tSlug) ?? 0
+    const newNodeIds: SimpleSlug[] = []
+
+    for (const rel of relatives) {
+      if (!familyData[rel.id]) continue
+      hiddenNodes.delete(rel.id)
+
+      if (!nodeMap.has(rel.id)) {
+        if (rel.asSource) gens.set(rel.id, targetGen - 1)
+        else if (rel.type === "spouse") gens.set(rel.id, targetGen)
+        else gens.set(rel.id, targetGen + 1)
+
+        const newFe = familyData[rel.id] as FamilyEntry
+        const n: NodeData = { id: rel.id, text: newFe?.name ?? rel.id, x: undefined, y: undefined }
+        graphData.nodes.push(n)
+        nodeMap.set(rel.id, n)
+        neighbourhood.add(rel.id)
+        newNodeIds.push(rel.id)
+
+        const anchorNode = nodeRenderData.find((r) => r.simulationData.id === tSlug)
+        if (anchorNode?.simulationData.x != null) {
+          n.x = anchorNode.simulationData.x + (Math.random() - 0.5) * 50
+          n.y = anchorNode.simulationData.y + (Math.random() - 0.5) * 50
+        }
+      }
+
+      const src = rel.type === "parent-child" ? (rel.asSource ? rel.id : tSlug) : tSlug
+      const tgt = rel.type === "parent-child" ? (rel.asSource ? tSlug : rel.id) : rel.id
+      const exists = graphData.links.some(
+        (l) => (l.source.id === src && l.target.id === tgt) || (l.source.id === tgt && l.target.id === src),
+      )
+      if (!exists && nodeMap.get(src) && nodeMap.get(tgt)) {
+        const ld: FamilyLinkData = { source: nodeMap.get(src)!, target: nodeMap.get(tgt)!, type: rel.type }
+        graphData.links.push(ld)
+        const gfx = new Graphics({ interactive: false, eventMode: "none" })
+        linkContainer.addChild(gfx)
+        linkRenderData.push({ simulationData: ld, gfx, color: computedStyleMap["--lightgray"], alpha: 1, active: false })
+      }
+    }
+
+    for (const nid of newNodeIds) {
+      const n = nodeMap.get(nid)!
+      const nColor = nodeColor(nid, center, gens, spouseSet, computedStyleMap)
+      const r = nodeRadius(n)
+      const label = new Text({
+        interactive: false, eventMode: "none", text: n.text,
+        alpha: showNames ? 1 : 0, anchor: { x: 0.5, y: 1.2 },
+        style: { fontSize: fontSize * 15, fill: computedStyleMap["--dark"], fontFamily: computedStyleMap["--bodyFont"] },
+        resolution: window.devicePixelRatio * 4,
+      })
+      label.scale.set(1 / scale)
+      const nodeGfx = new Graphics({ interactive: true, label: nid, eventMode: "static", hitArea: new Circle(0, 0, r), cursor: "pointer" })
+        .circle(0, 0, r).fill({ color: nColor })
+        .on("pointerover", () => { updateHoverInfo(nid); if (!dragging) renderPixiFromD3() })
+        .on("pointerleave", () => { updateHoverInfo(null); if (!dragging) renderPixiFromD3() })
+      nodesContainer.addChild(nodeGfx)
+      labelsContainer.addChild(label)
+      nodeRenderData.push({ simulationData: n, gfx: nodeGfx, label, color: nColor, alpha: 1, active: false })
+    }
+
+    if (newNodeIds.length > 0) {
+      simulation.nodes(graphData.nodes)
+    }
+
+    simulation.force(
+      "link",
+      forceLink(graphData.links)
+        .id((d) => (d as NodeData).id)
+        .distance((l) => ((l as FamilyLinkData).type === "spouse" ? 20 : linkDistance)),
+    )
+
+    hiddenNodes.delete(targetNodeId)
+    simulation.alpha(0.3).restart()
+    applyVisibility()
+  }
+
+  function showParents(targetNodeId: string) {
+    const fe = familyData[targetNodeId as SimpleSlug] as FamilyEntry | undefined
+    if (!fe) return
+    const rels: { id: SimpleSlug; type: FamilyLinkType; asSource: boolean }[] = []
+    if (fe.father) rels.push({ id: fe.father, type: "parent-child", asSource: true })
+    if (fe.mother) rels.push({ id: fe.mother, type: "parent-child", asSource: true })
+    expandRelatives(targetNodeId, rels)
+  }
+
+  function showChildren(targetNodeId: string) {
+    const fe = familyData[targetNodeId as SimpleSlug] as FamilyEntry | undefined
+    if (!fe) return
+    const rels: { id: SimpleSlug; type: FamilyLinkType; asSource: boolean }[] = []
+    for (const ch of fe.children) rels.push({ id: ch, type: "parent-child", asSource: false })
+    expandRelatives(targetNodeId, rels)
+  }
+
+  function showSiblings(targetNodeId: string) {
+    const fe = familyData[targetNodeId as SimpleSlug] as FamilyEntry | undefined
+    if (!fe) return
+    showParents(targetNodeId)
+    for (const parentSlug of [fe.father, fe.mother]) {
+      if (!parentSlug || !familyData[parentSlug]) continue
+      const parentEntry = familyData[parentSlug] as FamilyEntry
+      const sibRels: { id: SimpleSlug; type: FamilyLinkType; asSource: boolean }[] = []
+      for (const sib of parentEntry.children) {
+        sibRels.push({ id: sib, type: "parent-child", asSource: false })
+      }
+      expandRelatives(parentSlug, sibRels)
+    }
+  }
+
+  let dismissHandler: ((e: MouseEvent) => void) | null = null
+
+  function showContextMenu(nodeId: string, clientX: number, clientY: number) {
+    closeContextMenu()
+    const menu = document.createElement("div")
+    menu.className = "family-graph-context-menu"
+    menu.style.position = "fixed"
+    menu.style.left = `${clientX}px`
+    menu.style.top = `${clientY}px`
+
+    const menuItem = (label: string, action: () => void) => {
+      const btn = document.createElement("button")
+      btn.type = "button"
+      btn.textContent = label
+      btn.addEventListener("mousedown", (e) => {
+        e.stopPropagation()
+        action()
+        closeContextMenu()
+      })
+      menu.appendChild(btn)
+    }
+
+    menuItem("Hide node", () => hideNode(nodeId))
+    menuItem("Show all links", () => showAllLinks(nodeId))
+    menuItem("Show parents", () => showParents(nodeId))
+    menuItem("Show children", () => showChildren(nodeId))
+    menuItem("Show siblings", () => showSiblings(nodeId))
+
+    document.body.appendChild(menu)
+    contextMenu = menu
+
+    dismissHandler = (e: MouseEvent) => {
+      if (!menu.contains(e.target as Node)) {
+        closeContextMenu()
+      }
+    }
+    setTimeout(() => document.addEventListener("mousedown", dismissHandler!), 0)
+  }
+
+  app.canvas.addEventListener("contextmenu", (e) => {
+    e.preventDefault()
+    if (hoveredNodeId) {
+      showContextMenu(hoveredNodeId, e.clientX, e.clientY)
+    }
+  })
+
   let showNames = false
   let suppressZoomHandler = false
 
@@ -779,6 +1013,8 @@ async function renderFamilyGraph(
   function resetView() {
     if (!enableZoom) return
     cancelFit()
+    hiddenNodes.clear()
+    applyVisibility()
     for (const n of nodeRenderData) {
       n.simulationData.fx = null
       n.simulationData.fy = null
@@ -797,6 +1033,7 @@ async function renderFamilyGraph(
 
   return {
     cleanup: () => {
+      closeContextMenu()
       stopAnimation = true
       app.destroy()
     },
@@ -804,13 +1041,6 @@ async function renderFamilyGraph(
     resetView,
     setShowNames,
   }
-}
-
-type GraphHandle = {
-  cleanup: () => void
-  fitToView: () => void
-  resetView: () => void
-  setShowNames: (on: boolean) => void
 }
 
 let localGraphHandles: GraphHandle[] = []

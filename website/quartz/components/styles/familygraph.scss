@@ -166,3 +166,30 @@
     display: block;
   }
 }
+
+.family-graph-context-menu {
+  position: absolute;
+  z-index: 10000;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  padding: 0.25rem 0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  min-width: 140px;
+
+  button {
+    display: block;
+    width: 100%;
+    padding: 0.4rem 0.75rem;
+    border: none;
+    background: transparent;
+    text-align: left;
+    font-size: 0.85rem;
+    color: var(--dark);
+    cursor: pointer;
+
+    &:hover {
+      background: var(--lightgray);
+    }
+  }
+}
