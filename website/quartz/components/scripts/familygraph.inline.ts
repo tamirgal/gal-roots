@@ -607,6 +607,8 @@ async function renderFamilyGraph(
     }
   }
 
+  let showNames = false
+
   const zoomBehavior = zoom<HTMLCanvasElement, NodeData>()
     .extent([
       [0, 0],
@@ -617,13 +619,15 @@ async function renderFamilyGraph(
       currentTransform = transform
       stage.scale.set(transform.k, transform.k)
       stage.position.set(transform.x, transform.y)
-          const scaleOpacity = Math.max((transform.k * opacityScale - 1) / 3.75, 0)
-          const activeNodes = nodeRenderData.filter((n) => n.active).flatMap((n) => n.label)
-          for (const label of labelsContainer.children) {
-            if (!activeNodes.includes(label as Text)) {
-              ;(label as Text).alpha = scaleOpacity
-            }
+      if (!showNames) {
+        const scaleOpacity = Math.max((transform.k * opacityScale - 1) / 3.75, 0)
+        const activeNodes = nodeRenderData.filter((n) => n.active).flatMap((n) => n.label)
+        for (const label of labelsContainer.children) {
+          if (!activeNodes.includes(label as Text)) {
+            ;(label as Text).alpha = scaleOpacity
           }
+        }
+      }
     })
   const canvasSelection = select<HTMLCanvasElement, NodeData>(app.canvas)
   if (enableZoom) {
@@ -661,6 +665,10 @@ async function renderFamilyGraph(
       }
     }
 
+    if (fittingWithLabels) {
+      applyTransform(computeFitTransform())
+    }
+
     tweens.forEach((t) => t.update(time))
     app.renderer.render(stage)
     requestAnimationFrame(animate)
@@ -668,18 +676,30 @@ async function renderFamilyGraph(
 
   requestAnimationFrame(animate)
 
-  function fitToView() {
-    if (!enableZoom || graphData.nodes.length === 0) return
+  function computeFitTransform() {
     const padding = 50
     let minX = Infinity, maxX = -Infinity, minY = Infinity, maxY = -Infinity
-    for (const n of graphData.nodes) {
-      if (n.x == null || n.y == null) continue
-      const nx = n.x + width / 2
-      const ny = n.y + height / 2
-      if (nx < minX) minX = nx
-      if (nx > maxX) maxX = nx
-      if (ny < minY) minY = ny
-      if (ny > maxY) maxY = ny
+    for (const n of nodeRenderData) {
+      const sx = n.simulationData.x
+      const sy = n.simulationData.y
+      if (sx == null || sy == null) continue
+      const nx = sx + width / 2
+      const ny = sy + height / 2
+
+      if (showNames) {
+        const lbl = n.label
+        const lblW = (lbl.width * lbl.scale.x) / 2
+        const lblH = lbl.height * lbl.scale.y
+        if (nx - lblW < minX) minX = nx - lblW
+        if (nx + lblW > maxX) maxX = nx + lblW
+        if (ny - lblH < minY) minY = ny - lblH
+        if (ny > maxY) maxY = ny
+      } else {
+        if (nx < minX) minX = nx
+        if (nx > maxX) maxX = nx
+        if (ny < minY) minY = ny
+        if (ny > maxY) maxY = ny
+      }
     }
     const bw = maxX - minX || 1
     const bh = maxY - minY || 1
@@ -688,14 +708,62 @@ async function renderFamilyGraph(
     const cy = (minY + maxY) / 2
     const tx = width / 2 - cx * k
     const ty = height / 2 - cy * k
-    const fitTransform = zoomIdentity.translate(tx, ty).scale(k)
-    currentTransform = fitTransform
-    stage.scale.set(k, k)
-    stage.position.set(tx, ty)
+    return zoomIdentity.translate(tx, ty).scale(k)
+  }
+
+  function applyTransform(t: typeof zoomIdentity) {
+    currentTransform = t
+    stage.scale.set(t.k, t.k)
+    stage.position.set(t.x, t.y)
     for (const n of nodeRenderData) {
-      n.label.scale.set(1 / (scale * k))
+      n.label.scale.set(1 / (scale * t.k))
     }
-    canvasSelection.call(zoomBehavior.transform, fitTransform)
+    canvasSelection.call(zoomBehavior.transform, t)
+  }
+
+  let fittingWithLabels = false
+
+  function fitToView() {
+    if (!enableZoom || graphData.nodes.length === 0) return
+
+    if (showNames) {
+      const labelCollide = forceCollide<NodeData>((n) => {
+        const rd = nodeRenderData.find((r) => r.simulationData === n)
+        if (!rd) return nodeRadius(n)
+        const lbl = rd.label
+        return Math.max(nodeRadius(n), (lbl.width * lbl.scale.x) / 2 + 4)
+      }).iterations(4)
+      simulation.force("labelCollide", labelCollide)
+      fittingWithLabels = true
+      simulation.alpha(0.3).restart()
+      simulation.on("end.fit", () => {
+        simulation.on("end.fit", null)
+        simulation.force("labelCollide", null)
+        fittingWithLabels = false
+      })
+    } else {
+      applyTransform(computeFitTransform())
+    }
+  }
+
+  function resetView() {
+    if (!enableZoom) return
+    fittingWithLabels = false
+    simulation.on("end.fit", null)
+    for (const n of nodeRenderData) {
+      n.simulationData.fx = null
+      n.simulationData.fy = null
+    }
+    simulation.force("labelCollide", null)
+    simulation.alpha(0.3).restart()
+    applyTransform(zoomIdentity)
+  }
+
+  function setShowNames(on: boolean) {
+    showNames = on
+    for (const label of labelsContainer.children) {
+      ;(label as Text).alpha = on ? 1 : 0
+    }
   }
 
   return {
@@ -704,10 +772,17 @@ async function renderFamilyGraph(
       app.destroy()
     },
     fitToView,
+    resetView,
+    setShowNames,
   }
 }
 
-type GraphHandle = { cleanup: () => void; fitToView: () => void }
+type GraphHandle = {
+  cleanup: () => void
+  fitToView: () => void
+  resetView: () => void
+  setShowNames: (on: boolean) => void
+}
 
 let localGraphHandles: GraphHandle[] = []
 let globalGraphHandles: GraphHandle[] = []
@@ -900,9 +975,19 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
         })
       })
 
+      const showNamesCb = container.querySelector(".show-names-cb") as HTMLInputElement
+      showNamesCb?.addEventListener("change", () => {
+        for (const h of globalGraphHandles) h.setShowNames(showNamesCb.checked)
+      })
+
       const fitBtn = container.querySelector(".fit-btn")
       fitBtn?.addEventListener("click", () => {
         for (const h of globalGraphHandles) h.fitToView()
+      })
+
+      const resetBtn = container.querySelector(".reset-btn")
+      resetBtn?.addEventListener("click", () => {
+        for (const h of globalGraphHandles) h.resetView()
       })
 
       if (graphContainer && familyData[currentCenter]) {

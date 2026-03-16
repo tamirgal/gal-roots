@@ -110,8 +110,15 @@ export default ((opts?: Partial<FamilyGraphOptions>) => {
                   <option value="999">All</option>
                 </select>
               </label>
+              <label class="show-names-label">
+                <input class="show-names-cb" type="checkbox" />
+                Names
+              </label>
               <button class="fit-btn" type="button" title="Fit to view">
                 ⤢
+              </button>
+              <button class="reset-btn" type="button" title="Reset view">
+                ↺
               </button>
               <div class="family-direction">
                 <button class="dir-btn" data-dir="up" type="button">
