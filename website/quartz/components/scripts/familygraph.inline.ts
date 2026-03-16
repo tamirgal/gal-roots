@@ -608,14 +608,16 @@ async function renderFamilyGraph(
   }
 
   let showNames = false
+  let suppressZoomHandler = false
 
   const zoomBehavior = zoom<HTMLCanvasElement, NodeData>()
     .extent([
       [0, 0],
       [width, height],
     ])
-    .scaleExtent([0.25, 4])
+    .scaleExtent([0.05, 4])
     .on("zoom", ({ transform }) => {
+      if (suppressZoomHandler) return
       currentTransform = transform
       stage.scale.set(transform.k, transform.k)
       stage.position.set(transform.x, transform.y)
@@ -666,7 +668,8 @@ async function renderFamilyGraph(
     }
 
     if (fittingWithLabels) {
-      applyTransform(computeFitTransform())
+      const t = computeFitTransform()
+      if (t) applyTransform(t)
     }
 
     tweens.forEach((t) => t.update(time))
@@ -676,13 +679,17 @@ async function renderFamilyGraph(
 
   requestAnimationFrame(animate)
 
-  function computeFitTransform() {
+  function computeFitTransform(): typeof zoomIdentity | null {
     const padding = 50
+    const usableW = Math.max(width - padding * 2, 50)
+    const usableH = Math.max(height - padding * 2, 50)
     let minX = Infinity, maxX = -Infinity, minY = Infinity, maxY = -Infinity
+    let validCount = 0
     for (const n of nodeRenderData) {
       const sx = n.simulationData.x
       const sy = n.simulationData.y
       if (sx == null || sy == null) continue
+      validCount++
       const nx = sx + width / 2
       const ny = sy + height / 2
 
@@ -701,9 +708,10 @@ async function renderFamilyGraph(
         if (ny > maxY) maxY = ny
       }
     }
+    if (validCount === 0) return null
     const bw = maxX - minX || 1
     const bh = maxY - minY || 1
-    const k = Math.min((width - padding * 2) / bw, (height - padding * 2) / bh, 2)
+    const k = Math.max(Math.min(usableW / bw, usableH / bh, 2), 0.05)
     const cx = (minX + maxX) / 2
     const cy = (minY + maxY) / 2
     const tx = width / 2 - cx * k
@@ -718,49 +726,70 @@ async function renderFamilyGraph(
     for (const n of nodeRenderData) {
       n.label.scale.set(1 / (scale * t.k))
     }
+    suppressZoomHandler = true
     canvasSelection.call(zoomBehavior.transform, t)
+    suppressZoomHandler = false
   }
 
+  const origCharge = -100 * repelForce
   let fittingWithLabels = false
+
+  function cancelFit() {
+    if (!fittingWithLabels) return
+    fittingWithLabels = false
+    simulation.on("end.fit", null)
+    simulation.force("labelCollide", null)
+    simulation.force("charge", forceManyBody().strength(origCharge))
+  }
+
+  const MAX_NODES_FOR_LABEL_SPREAD = 40
 
   function fitToView() {
     if (!enableZoom || graphData.nodes.length === 0) return
 
-    if (showNames) {
+    cancelFit()
+
+    if (showNames && graphData.nodes.length <= MAX_NODES_FOR_LABEL_SPREAD) {
+      applyTransform(zoomIdentity)
+
+      const nodeToRender = new Map(nodeRenderData.map((r) => [r.simulationData, r]))
       const labelCollide = forceCollide<NodeData>((n) => {
-        const rd = nodeRenderData.find((r) => r.simulationData === n)
+        const rd = nodeToRender.get(n)
         if (!rd) return nodeRadius(n)
         const lbl = rd.label
-        return Math.max(nodeRadius(n), (lbl.width * lbl.scale.x) / 2 + 4)
-      }).iterations(4)
+        return Math.max(nodeRadius(n), (lbl.width * lbl.scale.x) / 2 + 12)
+      }).iterations(6)
       simulation.force("labelCollide", labelCollide)
+      simulation.force("charge", forceManyBody().strength(origCharge * 3))
       fittingWithLabels = true
-      simulation.alpha(0.3).restart()
+      simulation.alpha(0.5).restart()
+
+      const fitTimeout = setTimeout(() => cancelFit(), 8000)
+
       simulation.on("end.fit", () => {
-        simulation.on("end.fit", null)
-        simulation.force("labelCollide", null)
-        fittingWithLabels = false
+        clearTimeout(fitTimeout)
+        cancelFit()
       })
     } else {
-      applyTransform(computeFitTransform())
+      const t = computeFitTransform()
+      if (t) applyTransform(t)
     }
   }
 
   function resetView() {
     if (!enableZoom) return
-    fittingWithLabels = false
-    simulation.on("end.fit", null)
+    cancelFit()
     for (const n of nodeRenderData) {
       n.simulationData.fx = null
       n.simulationData.fy = null
     }
-    simulation.force("labelCollide", null)
     simulation.alpha(0.3).restart()
     applyTransform(zoomIdentity)
   }
 
   function setShowNames(on: boolean) {
     showNames = on
+    if (!on) cancelFit()
     for (const label of labelsContainer.children) {
       ;(label as Text).alpha = on ? 1 : 0
     }
@@ -839,6 +868,13 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   let currentDepth = 2
   let currentDirection: Direction = "both"
   let currentCenter: SimpleSlug = currentSlug
+  let currentShowNames = false
+
+  function syncShowNames() {
+    if (currentShowNames) {
+      for (const h of globalGraphHandles) h.setShowNames(true)
+    }
+  }
 
   async function recenterGraph(newCenter: SimpleSlug) {
     currentCenter = newCenter
@@ -857,6 +893,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
         )
       }
     }
+    syncShowNames()
   }
 
   async function rebuildGraph() {
@@ -875,12 +912,14 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
         )
       }
     }
+    syncShowNames()
   }
 
   async function renderGlobalGraph() {
     currentCenter = currentSlug
     currentDepth = 2
     currentDirection = "both"
+    currentShowNames = false
 
     const depthSel = containers[0]?.querySelector(".family-depth") as HTMLSelectElement
     if (depthSel) {
@@ -891,6 +930,8 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     dirBtns?.forEach((btn) => {
       btn.classList.toggle("active", btn.getAttribute("data-dir") === "both")
     })
+    const showNamesCb = containers[0]?.querySelector(".show-names-cb") as HTMLInputElement
+    if (showNamesCb) showNamesCb.checked = false
 
     for (const container of containers) {
       container.classList.add("active")
@@ -977,6 +1018,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
 
       const showNamesCb = container.querySelector(".show-names-cb") as HTMLInputElement
       showNamesCb?.addEventListener("change", () => {
+        currentShowNames = showNamesCb.checked
         for (const h of globalGraphHandles) h.setShowNames(showNamesCb.checked)
       })
 
