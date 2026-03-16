@@ -44,9 +44,9 @@ const defaultOptions: FamilyGraphOptions = {
     drag: true,
     zoom: true,
     scale: 0.9,
-    repelForce: 0.5,
-    centerForce: 0.2,
-    linkDistance: 30,
+    repelForce: 1.2,
+    centerForce: 0.1,
+    linkDistance: 60,
     fontSize: 0.6,
     opacityScale: 1,
     focusOnHover: true,
@@ -107,8 +107,12 @@ export default ((opts?: Partial<FamilyGraphOptions>) => {
                   <option value="3">3</option>
                   <option value="4">4</option>
                   <option value="5">5</option>
+                  <option value="999">All</option>
                 </select>
               </label>
+              <button class="fit-btn" type="button" title="Fit to view">
+                ⤢
+              </button>
               <div class="family-direction">
                 <button class="dir-btn" data-dir="up" type="button">
                   ↑

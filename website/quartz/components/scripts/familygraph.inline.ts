@@ -316,7 +316,7 @@ async function renderFamilyGraph(
     .force("collide", forceCollide<NodeData>((n) => nodeRadius(n)).iterations(3))
     .force(
       "generation",
-      forceY<NodeData>((d) => (genMap.get(d.id) ?? 0) * 80).strength(0.12),
+      forceY<NodeData>((d) => (genMap.get(d.id) ?? 0) * 120).strength(0.15),
     )
 
   const cssVars = [
@@ -378,6 +378,8 @@ async function renderFamilyGraph(
 
   let dragStartTime = 0
   let dragging = false
+  let dragStartPos = { x: 0, y: 0 }
+  let lastDragEvent: { ctrlKey: boolean; metaKey: boolean } | null = null
 
   function renderLinks() {
     tweens.get("link")?.stop()
@@ -541,17 +543,14 @@ async function renderFamilyGraph(
 
   const onRecenter = options?.onRecenter
 
-  const handleNodeAction = (nodeId: string) => {
+  const handleNodeAction = (nodeId: string, modKey: boolean) => {
     const targ = resolveRelative(fullSlug, nodeId)
-    const now = Date.now()
     if (isGlobal) {
-      if (now - lastClickTime < 400 && lastClickTarget === nodeId) {
+      if (modKey) {
         window.spaNavigate(new URL(targ, window.location.toString()))
       } else {
         onRecenter?.(nodeId as SimpleSlug)
       }
-      lastClickTime = now
-      lastClickTarget = nodeId
     } else {
       window.spaNavigate(new URL(targ, window.location.toString()))
     }
@@ -564,7 +563,7 @@ async function renderFamilyGraph(
         .container(() => app.canvas)
         .subject(() => graphData.nodes.find((n) => n.id === hoveredNodeId))
         .on("start", function dragstarted(event) {
-          if (!event.active) simulation.alphaTarget(1).restart()
+          if (!event.active) simulation.alphaTarget(0.05).restart()
           event.subject.fx = event.subject.x
           event.subject.fy = event.subject.y
           ;(event.subject as NodeData & { __initialDragPos?: object }).__initialDragPos = {
@@ -574,9 +573,11 @@ async function renderFamilyGraph(
             fy: event.subject.fy,
           }
           dragStartTime = Date.now()
+          dragStartPos = { x: event.x, y: event.y }
           dragging = true
         })
         .on("drag", function dragged(event) {
+          lastDragEvent = { ctrlKey: event.sourceEvent?.ctrlKey, metaKey: event.sourceEvent?.metaKey }
           const initPos = (event.subject as NodeData & { __initialDragPos?: { x: number; y: number; fx: number; fy: number } })
             .__initialDragPos
           if (initPos) {
@@ -586,32 +587,36 @@ async function renderFamilyGraph(
         })
         .on("end", function dragended(event) {
           if (!event.active) simulation.alphaTarget(0)
-          event.subject.fx = null
-          event.subject.fy = null
           dragging = false
-          if (Date.now() - dragStartTime < 500) {
-            handleNodeAction(event.subject.id)
+          const dx = event.x - dragStartPos.x
+          const dy = event.y - dragStartPos.y
+          const dist = Math.sqrt(dx * dx + dy * dy)
+          if (dist < 5) {
+            const modKey = !!(lastDragEvent?.ctrlKey || lastDragEvent?.metaKey || event.sourceEvent?.ctrlKey || event.sourceEvent?.metaKey)
+            handleNodeAction(event.subject.id, modKey)
           }
+          lastDragEvent = null
         }),
     )
   } else {
     for (const node of nodeRenderData) {
-      node.gfx.on("click", () => handleNodeAction(node.simulationData.id))
+      node.gfx.on("click", (e: any) => {
+        const modKey = !!(e?.ctrlKey || e?.metaKey)
+        handleNodeAction(node.simulationData.id, modKey)
+      })
     }
   }
 
-  if (enableZoom) {
-    select<HTMLCanvasElement, NodeData>(app.canvas).call(
-      zoom<HTMLCanvasElement, NodeData>()
-        .extent([
-          [0, 0],
-          [width, height],
-        ])
-        .scaleExtent([0.25, 4])
-        .on("zoom", ({ transform }) => {
-          currentTransform = transform
-          stage.scale.set(transform.k, transform.k)
-          stage.position.set(transform.x, transform.y)
+  const zoomBehavior = zoom<HTMLCanvasElement, NodeData>()
+    .extent([
+      [0, 0],
+      [width, height],
+    ])
+    .scaleExtent([0.25, 4])
+    .on("zoom", ({ transform }) => {
+      currentTransform = transform
+      stage.scale.set(transform.k, transform.k)
+      stage.position.set(transform.x, transform.y)
           const scaleOpacity = Math.max((transform.k * opacityScale - 1) / 3.75, 0)
           const activeNodes = nodeRenderData.filter((n) => n.active).flatMap((n) => n.label)
           for (const label of labelsContainer.children) {
@@ -619,8 +624,10 @@ async function renderFamilyGraph(
               ;(label as Text).alpha = scaleOpacity
             }
           }
-        }),
-    )
+    })
+  const canvasSelection = select<HTMLCanvasElement, NodeData>(app.canvas)
+  if (enableZoom) {
+    canvasSelection.call(zoomBehavior)
   }
 
   let stopAnimation = false
@@ -661,27 +668,58 @@ async function renderFamilyGraph(
 
   requestAnimationFrame(animate)
 
-  return () => {
-    stopAnimation = true
-    app.destroy()
+  function fitToView() {
+    if (!enableZoom || graphData.nodes.length === 0) return
+    const padding = 50
+    let minX = Infinity, maxX = -Infinity, minY = Infinity, maxY = -Infinity
+    for (const n of graphData.nodes) {
+      if (n.x == null || n.y == null) continue
+      const nx = n.x + width / 2
+      const ny = n.y + height / 2
+      if (nx < minX) minX = nx
+      if (nx > maxX) maxX = nx
+      if (ny < minY) minY = ny
+      if (ny > maxY) maxY = ny
+    }
+    const bw = maxX - minX || 1
+    const bh = maxY - minY || 1
+    const k = Math.min((width - padding * 2) / bw, (height - padding * 2) / bh, 2)
+    const cx = (minX + maxX) / 2
+    const cy = (minY + maxY) / 2
+    const tx = width / 2 - cx * k
+    const ty = height / 2 - cy * k
+    const fitTransform = zoomIdentity.translate(tx, ty).scale(k)
+    currentTransform = fitTransform
+    stage.scale.set(k, k)
+    stage.position.set(tx, ty)
+    for (const n of nodeRenderData) {
+      n.label.scale.set(1 / (scale * k))
+    }
+    canvasSelection.call(zoomBehavior.transform, fitTransform)
+  }
+
+  return {
+    cleanup: () => {
+      stopAnimation = true
+      app.destroy()
+    },
+    fitToView,
   }
 }
 
-let localGraphCleanups: (() => void)[] = []
-let globalGraphCleanups: (() => void)[] = []
+type GraphHandle = { cleanup: () => void; fitToView: () => void }
+
+let localGraphHandles: GraphHandle[] = []
+let globalGraphHandles: GraphHandle[] = []
 
 function cleanupLocalGraphs() {
-  for (const cleanup of localGraphCleanups) {
-    cleanup()
-  }
-  localGraphCleanups = []
+  for (const h of localGraphHandles) h.cleanup()
+  localGraphHandles = []
 }
 
 function cleanupGlobalGraphs() {
-  for (const cleanup of globalGraphCleanups) {
-    cleanup()
-  }
-  globalGraphCleanups = []
+  for (const h of globalGraphHandles) h.cleanup()
+  globalGraphHandles = []
 }
 
 document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
@@ -704,7 +742,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     const localGraphContainers = document.getElementsByClassName("family-graph-container")
     for (const container of localGraphContainers) {
       if (familyData[currentSlug]) {
-        localGraphCleanups.push(
+        localGraphHandles.push(
           await renderFamilyGraph(container as HTMLElement, slug, false),
         )
       }
@@ -734,7 +772,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
       if (!container.classList.contains("active")) continue
       const graphContainer = container.querySelector(".global-graph-container") as HTMLElement
       if (graphContainer && familyData[newCenter]) {
-        globalGraphCleanups.push(
+        globalGraphHandles.push(
           await renderFamilyGraph(graphContainer, slug, true, {
             center: newCenter,
             depth: currentDepth,
@@ -752,7 +790,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
       if (!container.classList.contains("active")) continue
       const graphContainer = container.querySelector(".global-graph-container") as HTMLElement
       if (graphContainer && familyData[currentCenter]) {
-        globalGraphCleanups.push(
+        globalGraphHandles.push(
           await renderFamilyGraph(graphContainer, slug, true, {
             center: currentCenter,
             depth: currentDepth,
@@ -862,8 +900,13 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
         })
       })
 
+      const fitBtn = container.querySelector(".fit-btn")
+      fitBtn?.addEventListener("click", () => {
+        for (const h of globalGraphHandles) h.fitToView()
+      })
+
       if (graphContainer && familyData[currentCenter]) {
-        globalGraphCleanups.push(
+        globalGraphHandles.push(
           await renderFamilyGraph(graphContainer, slug, true, {
             center: currentCenter,
             depth: currentDepth,

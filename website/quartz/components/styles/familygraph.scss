@@ -88,6 +88,19 @@
         gap: 0.5rem;
         align-items: center;
 
+        & > .fit-btn {
+          padding: 0.2rem 0.4rem;
+          font-size: 0.9rem;
+          border: 1px solid var(--lightgray);
+          border-radius: 4px;
+          background: transparent;
+          cursor: pointer;
+
+          &:hover {
+            background: var(--lightgray);
+          }
+        }
+
         & > .family-direction .dir-btn {
           padding: 0.2rem 0.4rem;
           font-size: 0.9rem;
