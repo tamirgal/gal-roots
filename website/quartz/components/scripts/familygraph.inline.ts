@@ -973,19 +973,42 @@ async function renderFamilyGraph(
     const spouseStartX = ax + gap * (spouses.length > 1 ? 1 : 0.8)
     placeGroup(spouses, spouseStartX, ay)
 
-    for (const rel of relatives) {
-      if (!familyData[rel.id]) continue
-      const src = rel.type === "parent-child" ? (rel.asSource ? rel.id : tSlug) : tSlug
-      const tgt = rel.type === "parent-child" ? (rel.asSource ? tSlug : rel.id) : rel.id
+    function addLinkIfMissing(src: SimpleSlug, tgt: SimpleSlug, type: FamilyLinkType) {
       const exists = graphData.links.some(
         (l) => (l.source.id === src && l.target.id === tgt) || (l.source.id === tgt && l.target.id === src),
       )
       if (!exists && nodeMap.get(src) && nodeMap.get(tgt)) {
-        const ld: FamilyLinkData = { source: nodeMap.get(src)!, target: nodeMap.get(tgt)!, type: rel.type }
+        const ld: FamilyLinkData = { source: nodeMap.get(src)!, target: nodeMap.get(tgt)!, type }
         graphData.links.push(ld)
         const gfx = new Graphics({ interactive: false, eventMode: "none" })
         linkContainer.addChild(gfx)
         linkRenderData.push({ simulationData: ld, gfx, color: computedStyleMap["--lightgray"], alpha: 1, active: false })
+      }
+    }
+
+    for (const rel of relatives) {
+      if (!familyData[rel.id]) continue
+      const src = rel.type === "parent-child" ? (rel.asSource ? rel.id : tSlug) : tSlug
+      const tgt = rel.type === "parent-child" ? (rel.asSource ? tSlug : rel.id) : rel.id
+      addLinkIfMissing(src as SimpleSlug, tgt as SimpleSlug, rel.type)
+    }
+
+    const targetFe = familyData[tSlug] as FamilyEntry | undefined
+    if (targetFe) {
+      const allSpouseIds = (targetFe.spouses ?? []).filter(
+        (sp) => nodeMap.has(sp) && !hiddenNodes.has(sp),
+      )
+      const allChildIds = (targetFe.children ?? []).filter(
+        (ch) => nodeMap.has(ch) && !hiddenNodes.has(ch),
+      )
+      for (const spId of allSpouseIds) {
+        const spFe = familyData[spId] as FamilyEntry | undefined
+        if (!spFe) continue
+        for (const chId of allChildIds) {
+          if (spFe.children.includes(chId)) {
+            addLinkIfMissing(spId, chId, "parent-child")
+          }
+        }
       }
     }
 
