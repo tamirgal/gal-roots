@@ -21,7 +21,7 @@ research_level: 2
 
 ## Details
 
-**Hebrew Name:** 
+**Hebrew Name:** מעין פטאן
 **Birthday:** 2001-12-11
 **Born in:**
 **Families:** [[Families/Patan|Patan]]

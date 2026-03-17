@@ -20,7 +20,7 @@ research_level: 2
 
 ## Details
 
-**Hebrew Name:** 
+**Hebrew Name:** מרי פטאן
 **Birthday:** 1990-04-07
 **Born in:**
 **Families:** [[Families/Patan|Patan]]

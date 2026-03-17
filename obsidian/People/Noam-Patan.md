@@ -20,7 +20,7 @@ research_level: 2
 
 ## Details
 
-**Hebrew Name:** 
+**Hebrew Name:** נועם פטאן
 **Birthday:** 1998-03-09
 **Born in:**
 **Families:** [[Families/Patan|Patan]]

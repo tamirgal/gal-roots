@@ -14,7 +14,7 @@ research_level: 2
 
 ## Details
 
-**Hebrew Name:** עזרא סזי פטאן
+**Hebrew Name:** עזרא פטאן
 **Birthday:** 1953-01-01
 **Born in:**
 **Families:** [[Families/Patan|Patan]]
