@@ -116,7 +116,20 @@ family:
 
 ### Adding new people to the tree
 
-When creating a new person note, **every person must have a `cr_id`**. Without it, the person will not appear in the family graph or the Charted Roots plugin.
+**In Obsidian:** Use the Templater template at `obsidian/Templates/New Person.md`. It auto-increments `cr_id`, prompts for name/birth/sex/parents/portrait, generates the filename, and writes the frontmatter. After using the template, fill in the note body sections manually.
+
+**From scripts/CLI:** Follow the steps below.
+
+#### Filename convention
+
+Filename = full name with spaces replaced by hyphens: `<Given>-<Family>.md`
+Examples: `Tamir-Gal.md`, `Lauren-Witukiewicz-Carmeli.md`, `Aviva-Vicky-Patan-Gal.md`
+
+The file must live in `obsidian/People/`.
+
+#### cr_id (mandatory)
+
+Every person **must** have a `cr_id`. Without it, the person is invisible to the family graph and the Charted Roots plugin.
 
 **ID format:** `ind#####` — sequential numeric IDs. Original migration used `ind00001`–`ind00650` (epatan) and `ind10001`–`ind10308` (ygtree range). New people should continue from the highest existing ID.
 
@@ -126,46 +139,78 @@ When creating a new person note, **every person must have a `cr_id`**. Without i
 grep -r '^cr_id:' obsidian/People/ | sed 's/.*cr_id: //' | sort -t'd' -k1.4 -n | tail -1
 ```
 
-**Required fields for a new person note:**
+#### Required frontmatter fields
 
 | Field | Required | Notes |
 |-------|----------|-------|
-| `cr_id` | **Yes** | Must be unique. Without it, person is invisible to graph and plugin. |
-| `name` | **Yes** | Full display name. |
-| `father` / `father_id` | If known | Wikilink + parent's `cr_id`. |
+| `cr_id` | **Yes** | Must be unique `ind#####`. |
+| `name` | **Yes** | Full display name (e.g. `Tamir Gal`). |
+| `father` / `father_id` | If known | Wikilink `"[[People/Foo-Bar]]"` + parent's `cr_id`. |
 | `mother` / `mother_id` | If known | Wikilink + parent's `cr_id`. |
 | `spouse1` / `spouse1_id` | If known | Wikilink + spouse's `cr_id`. Also set `spouse1_marriage_status`. |
-| `children` / `children_id` | If known | YAML lists of wikilinks + `cr_id` values (same order). |
-| `sex` | If known | `male` or `female`. Omit if unknown. |
-| `born` | If known | Quoted YAML string. |
+| `children` / `children_id` | If known | YAML lists of wikilinks + `cr_id` values (must be same order). |
+| `sex` | If known | `male` or `female`. Omit entirely if unknown. |
+| `born` | If known | **Quoted** YAML string: `"1990-03-15"` or `"1990"`. |
+| `media` | If known | YAML list of wikilinks: `"[[attachments/pictures/photo.jpg]]"`. |
 | `research_level` | Yes | `0` = name only, `1` = date or portrait, `2` = bio + (date or portrait). |
 
-**Also update the other side of every relationship:**
-- If adding a child → update both parents' `children:` / `children_id:` lists.
-- If adding a spouse → update the spouse's `spouse1:` / `spouse1_id:` fields.
-- If adding siblings → update siblings' `**Siblings:**` line in the body.
+#### Reciprocal relationship updates
 
-**Note body structure** (in order):
+**Always update the other side of every relationship:**
+- Adding a child → update both parents' `children:` / `children_id:` YAML lists.
+- Adding a spouse → update the spouse's `spouse1:` / `spouse1_id:` fields.
+- Adding siblings → update each sibling's `**Siblings:**` line in the body.
+
+#### Hebrew name
+
+Add the Hebrew name in **two** places:
+1. `aliases:` frontmatter list (used by Quartz search): `aliases: ["תמיר גל"]`
+2. `**Hebrew Name:**` in the Details section body (source of truth for the graph's Hebrew toggle).
+
+#### Family notes
+
+Each family name should have a stub note at `obsidian/Families/<Name>.md`:
+
+```yaml
+---
+name: Gal
+type: family
+---
+```
+
+If the family note doesn't exist yet, create it. Running `python3 scripts/add_families.py` also auto-creates missing stubs.
+
+#### Note body structure
+
+After the YAML frontmatter, the body follows this structure:
 
 ```markdown
 ## Details
 
-**Hebrew Name:** <first alias or empty>
-**Birthday:** <born date>
-**Born in:** <place wikilink or empty>
-**Families:** [[Families/Name|Name]]
+**Hebrew Name:** <Hebrew name or empty>
+**Birthday:** <born date or empty>
+**Born in:** <[[Places/Name]] wikilink or empty>
+**Families:** [[Families/Name|Name]], [[Families/Other|Other]]
 
 ## Family
 
-**Father:** [[People/...]] | **Mother:** [[People/...]]
-**Spouse:** [[People/...]]
-**Siblings:** [[People/...]], [[People/...]]
-**Children:** [[People/...]], [[People/...]]
+**Father:** [[People/Father-Name|Father Name]] | **Mother:** [[People/Mother-Name|Mother Name]]
+**Spouse:** [[People/Spouse-Name|Spouse Name]]
+**Siblings:** [[People/Sib1|Sib1]], [[People/Sib2|Sib2]]
+**Children:** [[People/Child1|Child1]], [[People/Child2|Child2]]
 
 ## Biography
 
 
 ## Photos
+```
+
+#### After adding people
+
+Rebuild the website to include the new notes:
+
+```bash
+~/git/gal-roots/scripts/build_website.sh
 ```
 
 ---
