@@ -1949,6 +1949,9 @@ async function renderFamilyGraph(
             .id((d) => (d as NodeData).id)
             .distance((l) => ((l as FamilyLinkData).type === "spouse" ? 20 : linkDistance)),
         )
+
+        if (showNames) setShowNames(true)
+        if (hebrewMode) setHebrew(true)
       }
 
       applyVisibility()
