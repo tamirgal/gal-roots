@@ -114,6 +114,60 @@ family:
 - **`marriage_status` mapping**: `married`/`cohabiting` → `current`, `divorced` → `divorced`, `separated` → `separated`, anything else → `unknown`.
 - **`family`**: YAML list of wikilinks to `Families/<Name>` notes, extracted from the person's name by `scripts/add_families.py`.
 
+### Adding new people to the tree
+
+When creating a new person note, **every person must have a `cr_id`**. Without it, the person will not appear in the family graph or the Charted Roots plugin.
+
+**ID format:** `ind#####` — sequential numeric IDs. Original migration used `ind00001`–`ind00650` (epatan) and `ind10001`–`ind10308` (ygtree range). New people should continue from the highest existing ID.
+
+**To find the next available ID:**
+
+```bash
+grep -r '^cr_id:' obsidian/People/ | sed 's/.*cr_id: //' | sort -t'd' -k1.4 -n | tail -1
+```
+
+**Required fields for a new person note:**
+
+| Field | Required | Notes |
+|-------|----------|-------|
+| `cr_id` | **Yes** | Must be unique. Without it, person is invisible to graph and plugin. |
+| `name` | **Yes** | Full display name. |
+| `father` / `father_id` | If known | Wikilink + parent's `cr_id`. |
+| `mother` / `mother_id` | If known | Wikilink + parent's `cr_id`. |
+| `spouse1` / `spouse1_id` | If known | Wikilink + spouse's `cr_id`. Also set `spouse1_marriage_status`. |
+| `children` / `children_id` | If known | YAML lists of wikilinks + `cr_id` values (same order). |
+| `sex` | If known | `male` or `female`. Omit if unknown. |
+| `born` | If known | Quoted YAML string. |
+| `research_level` | Yes | `0` = name only, `1` = date or portrait, `2` = bio + (date or portrait). |
+
+**Also update the other side of every relationship:**
+- If adding a child → update both parents' `children:` / `children_id:` lists.
+- If adding a spouse → update the spouse's `spouse1:` / `spouse1_id:` fields.
+- If adding siblings → update siblings' `**Siblings:**` line in the body.
+
+**Note body structure** (in order):
+
+```markdown
+## Details
+
+**Hebrew Name:** <first alias or empty>
+**Birthday:** <born date>
+**Born in:** <place wikilink or empty>
+**Families:** [[Families/Name|Name]]
+
+## Family
+
+**Father:** [[People/...]] | **Mother:** [[People/...]]
+**Spouse:** [[People/...]]
+**Siblings:** [[People/...]], [[People/...]]
+**Children:** [[People/...]], [[People/...]]
+
+## Biography
+
+
+## Photos
+```
+
 ---
 
 ## Families

@@ -1,7 +1,10 @@
 ---
+cr_id: ind10312
 name: Talia Carmeli
 father: "[[People/Roi-Carmeli]]"
+father_id: ind10309
 mother: "[[People/Lauren-Witukiewicz-Carmeli]]"
+mother_id: ind00310
 sex: female
 research_level: 0
 ---

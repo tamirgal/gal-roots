@@ -6,6 +6,7 @@ father_id: ind00308
 mother: "[[People/Elise-Savdie-Witukiewicz]]"
 mother_id: ind00285
 spouse1: "[[People/Roi-Carmeli]]"
+spouse1_id: ind10309
 spouse1_marriage_status: current
 born: "1979-05-29"
 sex: female
@@ -16,6 +17,10 @@ children:
   - "[[People/Ella-Carmeli]]"
   - "[[People/Zohar-Carmeli]]"
   - "[[People/Talia-Carmeli]]"
+children_id:
+  - ind10310
+  - ind10311
+  - ind10312
 research_level: 1
 ---
 

@@ -1,12 +1,18 @@
 ---
+cr_id: ind10309
 name: Roi Carmeli
 spouse1: "[[People/Lauren-Witukiewicz-Carmeli]]"
+spouse1_id: ind00310
 spouse1_marriage_status: current
 sex: male
 children:
   - "[[People/Ella-Carmeli]]"
   - "[[People/Zohar-Carmeli]]"
   - "[[People/Talia-Carmeli]]"
+children_id:
+  - ind10310
+  - ind10311
+  - ind10312
 research_level: 0
 ---
 
