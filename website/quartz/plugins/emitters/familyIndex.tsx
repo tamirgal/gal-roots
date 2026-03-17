@@ -6,6 +6,7 @@ export interface FamilyEntry {
   name: string
   aliases: string[]
   hebrewName?: string
+  portrait?: string
   sex?: string
   born?: string
   father: SimpleSlug | null
@@ -51,6 +52,16 @@ export const FamilyIndex: QuartzEmitterPlugin = () => ({
         hebrewName = hebrewMatch[1].trim()
       }
 
+      let portrait: string | undefined
+      const mediaRaw = fm.media as string[] | undefined
+      if (Array.isArray(mediaRaw) && mediaRaw.length > 0) {
+        const firstMedia = mediaRaw[0]
+        const mediaMatch = firstMedia.match(/^\[\[([^\]|]+)(?:\|[^\]]*)?\]\]$/)
+        if (mediaMatch) {
+          portrait = mediaMatch[1].trim()
+        }
+      }
+
       const fatherRaw = fm.father as string | undefined
       const motherRaw = fm.mother as string | undefined
       const father = fatherRaw ? extractSlug(fatherRaw) : null
@@ -78,6 +89,7 @@ export const FamilyIndex: QuartzEmitterPlugin = () => ({
         name,
         aliases,
         ...(hebrewName !== undefined && { hebrewName }),
+        ...(portrait !== undefined && { portrait }),
         ...(sex !== undefined && { sex }),
         ...(born !== undefined && { born }),
         father,

@@ -9,6 +9,8 @@ mother: "[[People/Mary-Abada-Patan]]"
 mother_id: ind00147
 born: "1953-01-01"
 sex: male
+media:
+  - "[[attachments/pictures/Ezra-Cesy-Patan.png]]"
 research_level: 2
 ---
 
@@ -26,3 +28,7 @@ research_level: 2
 
 ## Biography
 Ezra (Cesy) Patan is born in [[Places/Cairo]], [[Places/Egypt]], on the First of January 1953. In 1957, he immigrated with the family to [[Places/Israel]],...in [[Places/Ramat Gan]].
+
+## Photos
+
+![[attachments/pictures/Ezra-Cesy-Patan.png]]

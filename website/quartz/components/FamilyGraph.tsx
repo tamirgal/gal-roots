@@ -128,6 +128,10 @@ export default ((opts?: Partial<FamilyGraphOptions>) => {
                   <input class="hebrew-names-cb" type="checkbox" />
                   Hebrew
                 </label>
+                <label class="show-names-label">
+                  <input class="show-photos-cb" type="checkbox" />
+                  Photos
+                </label>
                 <label>
                   Layout
                   <select class="layout-select">

@@ -14,7 +14,7 @@ import {
   drag,
   zoom,
 } from "d3"
-import { Text, Graphics, Application, Container, Circle } from "pixi.js"
+import { Text, Graphics, Application, Container, Circle, Sprite, Texture, Assets } from "pixi.js"
 import { Group as TweenGroup, Tween as Tweened } from "@tweenjs/tween.js"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import {
@@ -35,6 +35,7 @@ interface GraphSnapshot {
   l: string
   n: boolean
   h: boolean
+  ph?: boolean
   z: [number, number, number]
   hd?: string[]
   p: [string, number, number][]
@@ -252,6 +253,7 @@ type NodeRenderData = GraphicsInfo & {
   simulationData: NodeData
   label: Text
   selRing: Graphics
+  portrait?: Container
 }
 
 type TweenNode = {
@@ -266,6 +268,7 @@ type GraphHandle = {
   applyLayout: (name: string) => void
   setShowNames: (on: boolean) => void
   setHebrew: (on: boolean) => void
+  setShowPhotos: (on: boolean) => void
   refreshTheme: () => void
   getSnapshot: () => NodeSnapshot
   restoreSnapshot: (snap: NodeSnapshot) => void
@@ -291,7 +294,7 @@ async function renderFamilyGraph(
   const familyData = await getFamilyData()
   const entry = familyData[center]
   if (!entry) {
-    return { cleanup: () => {}, fitToView: () => {}, resetView: () => {}, applyLayout: () => {}, setShowNames: () => {}, setHebrew: () => {}, refreshTheme: () => {}, getSnapshot: () => ({ positions: [], hidden: [], zoom: [0, 0, 1] }), restoreSnapshot: () => {} }
+    return { cleanup: () => {}, fitToView: () => {}, resetView: () => {}, applyLayout: () => {}, setShowNames: () => {}, setHebrew: () => {}, setShowPhotos: () => {}, refreshTheme: () => {}, getSnapshot: () => ({ positions: [], hidden: [], zoom: [0, 0, 1] }), restoreSnapshot: () => {} }
   }
 
   removeAllChildren(graph)
@@ -497,9 +500,15 @@ async function renderFamilyGraph(
     tweens.get("hover")?.stop()
     const tweenGroup = new TweenGroup()
     for (const n of nodeRenderData) {
-      const alpha =
+      const hoverAlpha =
         hoveredNodeId !== null && focusOnHover ? (n.active ? 1 : 0.2) : 1
-      tweenGroup.add(new Tweened<Graphics>(n.gfx, tweenGroup).to({ alpha }, 200))
+      const hasPortrait = n.portrait && photosMode
+      const gfxAlpha = hasPortrait ? 0 : hoverAlpha
+      tweenGroup.add(new Tweened<Graphics>(n.gfx, tweenGroup).to({ alpha: gfxAlpha }, 200))
+      if (n.portrait) {
+        const pAlpha = photosMode ? hoverAlpha : 0
+        tweenGroup.add(new Tweened<Container>(n.portrait, tweenGroup).to({ alpha: pAlpha }, 200))
+      }
     }
     tweenGroup.getAll().forEach((tw) => tw.start())
     tweens.set("hover", {
@@ -559,11 +568,12 @@ async function renderFamilyGraph(
   }
 
   const labelsContainer = new Container<Text>({ zIndex: 3, isRenderGroup: true })
+  const portraitsContainer = new Container({ zIndex: 2.8, isRenderGroup: true })
   const selectionRingContainer = new Container<Graphics>({ zIndex: 2.5, isRenderGroup: true })
   const nodesContainer = new Container<Graphics>({ zIndex: 2, isRenderGroup: true })
   const linkContainer = new Container<Graphics>({ zIndex: 1, isRenderGroup: true })
   const selRectGfx = new Graphics({ zIndex: 4, interactive: false, eventMode: "none" })
-  stage.addChild(nodesContainer, labelsContainer, linkContainer, selectionRingContainer, selRectGfx)
+  stage.addChild(nodesContainer, portraitsContainer, labelsContainer, linkContainer, selectionRingContainer, selRectGfx)
 
   for (const n of graphData.nodes) {
     const nodeId = n.id
@@ -896,8 +906,11 @@ async function renderFamilyGraph(
   function applyVisibility() {
     for (const n of nodeRenderData) {
       const hidden = hiddenNodes.has(n.simulationData.id)
+      const hasPortrait = n.portrait && photosMode
       n.gfx.visible = !hidden
+      n.gfx.alpha = hasPortrait ? 0 : 1
       n.label.visible = !hidden
+      if (n.portrait) n.portrait.visible = !hidden && photosMode
       if (hidden) n.selRing.visible = false
     }
     for (const l of linkRenderData) {
@@ -1213,10 +1226,17 @@ async function renderFamilyGraph(
     for (const n of nodeRenderData) {
       const { x, y } = n.simulationData
       if (x == null || y == null) continue
-      n.gfx.position.set(x + width / 2, y + height / 2)
-      if (n.label) n.label.position.set(x + width / 2, y + height / 2)
-      n.selRing.position.set(x + width / 2, y + height / 2)
+      const cx = x + width / 2
+      const cy = y + height / 2
+      n.gfx.position.set(cx, cy)
+      let labelOffset = 0
+      if (photosMode) {
+        labelOffset = n.portrait ? portraitSize + 2 : nodeRadius(n.simulationData) + 2
+      }
+      if (n.label) n.label.position.set(cx, cy + labelOffset)
+      n.selRing.position.set(cx, cy)
       n.selRing.visible = selectedNodes.has(n.simulationData.id)
+      if (n.portrait) n.portrait.position.set(cx, cy)
     }
 
     for (const l of linkRenderData) {
@@ -1789,6 +1809,80 @@ async function renderFamilyGraph(
     }
   }
 
+  let photosMode = false
+  const portraitSize = 14
+  const textureCache = new Map<string, Texture | null>()
+
+  async function loadPortraitTexture(portraitPath: string): Promise<Texture | null> {
+    if (textureCache.has(portraitPath)) return textureCache.get(portraitPath)!
+    const slug = getFullSlug(window)
+    const base = pathToRoot(slug)
+    const sanitized = portraitPath.replace(/ /g, "-")
+    const absUrl = new URL(
+      (base ? base + "/" : "") + sanitized,
+      window.location.href,
+    ).toString()
+    try {
+      const tex = await Assets.load<Texture>(absUrl)
+      textureCache.set(portraitPath, tex)
+      return tex
+    } catch {
+      textureCache.set(portraitPath, null)
+      return null
+    }
+  }
+
+  async function ensurePortraits() {
+    const pending: Promise<void>[] = []
+    for (const n of nodeRenderData) {
+      if (n.portrait) continue
+      const fe = familyData[n.simulationData.id] as FamilyEntry | undefined
+      if (!fe?.portrait) continue
+      const portraitPath = fe.portrait
+      pending.push(
+        loadPortraitTexture(portraitPath).then((tex) => {
+          if (!tex) return
+          const r = portraitSize
+          const mask = new Graphics().circle(0, 0, r).fill({ color: 0xffffff })
+          const sprite = new Sprite(tex)
+          const shorter = Math.min(tex.width, tex.height)
+          const spriteScale = (r * 2) / shorter
+          sprite.scale.set(spriteScale)
+          sprite.anchor.set(0.5, 0.5)
+          if (tex.width > tex.height) {
+            sprite.x = 0
+            sprite.y = 0
+          } else {
+            sprite.x = 0
+            sprite.y = 0
+          }
+          const portraitContainer = new Container()
+          portraitContainer.addChild(sprite, mask)
+          sprite.mask = mask
+          portraitContainer.visible = photosMode
+          portraitContainer.eventMode = "none"
+          portraitsContainer.addChild(portraitContainer)
+          n.portrait = portraitContainer
+        }),
+      )
+    }
+    await Promise.all(pending)
+  }
+
+  function setShowPhotos(on: boolean) {
+    photosMode = on
+    for (const n of nodeRenderData) {
+      n.label.anchor.set(0.5, on ? -0.2 : 1.2)
+    }
+    if (on) {
+      ensurePortraits().then(() => {
+        applyVisibility()
+      })
+    } else {
+      applyVisibility()
+    }
+  }
+
   return {
     cleanup: () => {
       closeContextMenu()
@@ -1812,6 +1906,7 @@ async function renderFamilyGraph(
     },
     setShowNames,
     setHebrew,
+    setShowPhotos,
     refreshTheme: () => {
       for (const key of cssVars) {
         computedStyleMap[key] = getComputedStyle(document.documentElement).getPropertyValue(key).trim()
@@ -2031,6 +2126,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   let currentCenter: SimpleSlug = currentSlug
   let currentShowNames = false
   let currentHebrew = false
+  let currentPhotos = false
   let currentLayout = "force"
 
   function showToast(message: string) {
@@ -2126,6 +2222,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
       z: snap.zoom,
       p: snap.positions,
     }
+    if (currentPhotos) state.ph = true
     if (snap.hidden.length > 0) state.hd = snap.hidden
     const compressed = compressToEncodedURIComponent(JSON.stringify(state))
     const url = new URL(window.location.href)
@@ -2167,6 +2264,12 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     }
   }
 
+  function syncPhotos() {
+    if (currentPhotos) {
+      for (const h of globalGraphHandles) h.setShowPhotos(true)
+    }
+  }
+
   async function recenterGraph(newCenter: SimpleSlug) {
     currentCenter = newCenter
     cleanupGlobalGraphs()
@@ -2187,6 +2290,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     }
     syncShowNames()
     syncHebrew()
+    syncPhotos()
     updateSheetSummary()
   }
 
@@ -2209,6 +2313,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     }
     syncShowNames()
     syncHebrew()
+    syncPhotos()
     updateSheetSummary()
   }
 
@@ -2304,6 +2409,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
       currentLayout = snapshot.l || "force"
       currentShowNames = snapshot.n
       currentHebrew = snapshot.h
+      currentPhotos = snapshot.ph ?? false
     } else {
       currentCenter = currentSlug
       currentDepth = 2
@@ -2311,6 +2417,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
       currentLayout = "force"
       currentShowNames = false
       currentHebrew = false
+      currentPhotos = false
     }
 
     const depthSel = containers[0]?.querySelector(".family-depth") as HTMLSelectElement
@@ -2323,6 +2430,8 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     if (showNamesCb) showNamesCb.checked = currentShowNames
     const hebrewCbReset = containers[0]?.querySelector(".hebrew-names-cb") as HTMLInputElement
     if (hebrewCbReset) hebrewCbReset.checked = currentHebrew
+    const photosCbReset = containers[0]?.querySelector(".show-photos-cb") as HTMLInputElement
+    if (photosCbReset) photosCbReset.checked = currentPhotos
     const layoutSel = containers[0]?.querySelector(".layout-select") as HTMLSelectElement
     if (layoutSel) layoutSel.value = currentLayout
 
@@ -2424,6 +2533,12 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
         for (const h of globalGraphHandles) h.setHebrew(hebrewCb.checked)
       }, { signal })
 
+      const photosCb = container.querySelector(".show-photos-cb") as HTMLInputElement
+      photosCb?.addEventListener("change", () => {
+        currentPhotos = photosCb.checked
+        for (const h of globalGraphHandles) h.setShowPhotos(photosCb.checked)
+      }, { signal })
+
       const fitBtn = container.querySelector(".fit-btn")
       fitBtn?.addEventListener("click", () => {
         for (const h of globalGraphHandles) h.fitToView()
@@ -2477,6 +2592,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
       }
       syncShowNames()
       syncHebrew()
+      syncPhotos()
       const nodeSnap: NodeSnapshot = {
         positions: snapshot.p,
         hidden: snapshot.hd ?? [],
