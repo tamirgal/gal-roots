@@ -1,0 +1,4 @@
+---
+name: Netanya
+type: place
+---

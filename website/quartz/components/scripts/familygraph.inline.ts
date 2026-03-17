@@ -266,6 +266,7 @@ type GraphHandle = {
   applyLayout: (name: string) => void
   setShowNames: (on: boolean) => void
   setHebrew: (on: boolean) => void
+  refreshTheme: () => void
   getSnapshot: () => NodeSnapshot
   restoreSnapshot: (snap: NodeSnapshot) => void
 }
@@ -290,7 +291,7 @@ async function renderFamilyGraph(
   const familyData = await getFamilyData()
   const entry = familyData[center]
   if (!entry) {
-    return { cleanup: () => {}, fitToView: () => {}, resetView: () => {}, applyLayout: () => {}, setShowNames: () => {}, setHebrew: () => {}, getSnapshot: () => ({ positions: [], hidden: [], zoom: [0, 0, 1] }), restoreSnapshot: () => {} }
+    return { cleanup: () => {}, fitToView: () => {}, resetView: () => {}, applyLayout: () => {}, setShowNames: () => {}, setHebrew: () => {}, refreshTheme: () => {}, getSnapshot: () => ({ positions: [], hidden: [], zoom: [0, 0, 1] }), restoreSnapshot: () => {} }
   }
 
   removeAllChildren(graph)
@@ -536,23 +537,26 @@ async function renderFamilyGraph(
   stage.interactive = false
 
   let resizeTimer: ReturnType<typeof setTimeout> | null = null
-  const resizeObserver = new ResizeObserver(() => {
-    if (resizeTimer) clearTimeout(resizeTimer)
-    resizeTimer = setTimeout(() => {
-      const newW = graph.offsetWidth
-      const newH = Math.max(graph.offsetHeight, 250)
-      if (newW === width && newH === height) return
-      width = newW
-      height = newH
-      app.renderer.resize(width, height)
-      zoomBehavior.extent([
-        [0, 0],
-        [width, height],
-      ])
-      renderPixiFromD3()
-    }, 150)
-  })
-  resizeObserver.observe(graph)
+  let resizeObserver: ResizeObserver | null = null
+  if (isGlobal) {
+    resizeObserver = new ResizeObserver(() => {
+      if (resizeTimer) clearTimeout(resizeTimer)
+      resizeTimer = setTimeout(() => {
+        const newW = graph.offsetWidth
+        const newH = Math.max(graph.offsetHeight, 250)
+        if (newW === width && newH === height) return
+        width = newW
+        height = newH
+        app.renderer.resize(width, height)
+        zoomBehavior.extent([
+          [0, 0],
+          [width, height],
+        ])
+        renderPixiFromD3()
+      }, 150)
+    })
+    resizeObserver.observe(graph)
+  }
 
   const labelsContainer = new Container<Text>({ zIndex: 3, isRenderGroup: true })
   const selectionRingContainer = new Container<Graphics>({ zIndex: 2.5, isRenderGroup: true })
@@ -1766,7 +1770,7 @@ async function renderFamilyGraph(
     cleanup: () => {
       closeContextMenu()
       stopAnimation = true
-      resizeObserver.disconnect()
+      resizeObserver?.disconnect()
       if (resizeTimer) clearTimeout(resizeTimer)
       document.removeEventListener("keydown", onKeyDown)
       app.canvas.removeEventListener("mousedown", onRectMouseDown, true)
@@ -1785,6 +1789,22 @@ async function renderFamilyGraph(
     },
     setShowNames,
     setHebrew,
+    refreshTheme: () => {
+      for (const key of cssVars) {
+        computedStyleMap[key] = getComputedStyle(document.documentElement).getPropertyValue(key).trim()
+      }
+      for (const n of nodeRenderData) {
+        const newColor = color(n.simulationData)
+        n.color = newColor
+        n.gfx.clear().circle(0, 0, nodeRadius(n.simulationData)).fill({ color: newColor })
+        n.label.style.fill = computedStyleMap["--dark"]
+        n.selRing.clear().circle(0, 0, nodeRadius(n.simulationData) + 3)
+          .stroke({ width: 2, color: computedStyleMap["--secondary"] })
+      }
+      for (const l of linkRenderData) {
+        l.color = computedStyleMap["--lightgray"]
+      }
+    },
     getSnapshot: (): NodeSnapshot => {
       const positions: [string, number, number][] = []
       for (const n of nodeRenderData) {
@@ -2140,7 +2160,13 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     }, { passive: true })
   }
 
+  let toolbarAbort: AbortController | null = null
+
   async function renderGlobalGraph(snapshot?: GraphSnapshot | null) {
+    if (toolbarAbort) toolbarAbort.abort()
+    toolbarAbort = new AbortController()
+    const signal = toolbarAbort.signal
+
     const restoring = snapshot != null
     if (restoring) {
       currentCenter = snapshot.c as SimpleSlug
@@ -2180,7 +2206,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
       registerEscapeHandler(container, hideGlobalGraph)
 
       const closeBtn = container.querySelector(".graph-close-btn")
-      closeBtn?.addEventListener("click", hideGlobalGraph)
+      closeBtn?.addEventListener("click", hideGlobalGraph, { signal })
 
       const searchInput = container.querySelector(".family-search") as HTMLInputElement
       let resultsDiv: HTMLDivElement | null = null
@@ -2225,18 +2251,18 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
             })
             resultsDiv.appendChild(item)
           }
-        })
+        }, { signal })
         searchInput.addEventListener("blur", () => {
           setTimeout(() => {
             if (resultsDiv) resultsDiv.classList.remove("active")
           }, 150)
-        })
+        }, { signal })
         searchInput.addEventListener("keydown", (ev) => {
           if (ev.key === "Escape") {
             if (resultsDiv) resultsDiv.classList.remove("active")
             searchInput.blur()
           }
-        })
+        }, { signal })
       }
 
       const depthSelect = container.querySelector(".family-depth") as HTMLSelectElement
@@ -2244,7 +2270,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
         depthSelect.addEventListener("change", () => {
           currentDepth = parseInt(depthSelect.value, 10)
           void rebuildGraph()
-        })
+        }, { signal })
       }
 
       const dirButtons = container.querySelectorAll(".dir-btn")
@@ -2254,39 +2280,49 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
           currentDirection = dir
           dirButtons.forEach((b) => b.classList.toggle("active", b.getAttribute("data-dir") === dir))
           void rebuildGraph()
-        })
+        }, { signal })
       })
 
       const showNamesCb = container.querySelector(".show-names-cb") as HTMLInputElement
       showNamesCb?.addEventListener("change", () => {
         currentShowNames = showNamesCb.checked
         for (const h of globalGraphHandles) h.setShowNames(showNamesCb.checked)
-      })
+      }, { signal })
 
       const hebrewCb = container.querySelector(".hebrew-names-cb") as HTMLInputElement
       hebrewCb?.addEventListener("change", () => {
         currentHebrew = hebrewCb.checked
         for (const h of globalGraphHandles) h.setHebrew(hebrewCb.checked)
-      })
+      }, { signal })
 
       const fitBtn = container.querySelector(".fit-btn")
       fitBtn?.addEventListener("click", () => {
         for (const h of globalGraphHandles) h.fitToView()
-      })
+      }, { signal })
 
       const layoutSelect = container.querySelector(".layout-select") as HTMLSelectElement | null
       layoutSelect?.addEventListener("change", () => {
         currentLayout = layoutSelect.value
         for (const h of globalGraphHandles) h.applyLayout(layoutSelect.value)
-      })
+      }, { signal })
 
       const resetBtn = container.querySelector(".reset-btn")
       resetBtn?.addEventListener("click", () => {
         for (const h of globalGraphHandles) h.resetView()
-      })
+      }, { signal })
 
       const shareBtn = container.querySelector(".share-btn")
-      shareBtn?.addEventListener("click", () => captureAndShare())
+      shareBtn?.addEventListener("click", () => captureAndShare(), { signal })
+
+      const themeBtn = container.querySelector(".theme-btn")
+      themeBtn?.addEventListener("click", () => {
+        const current = document.documentElement.getAttribute("saved-theme")
+        const newTheme = current === "dark" ? "light" : "dark"
+        document.documentElement.setAttribute("saved-theme", newTheme)
+        localStorage.setItem("theme", newTheme)
+        document.dispatchEvent(new CustomEvent("themechange", { detail: { theme: newTheme } }))
+        for (const h of globalGraphHandles) h.refreshTheme()
+      }, { signal })
 
       const toolbar = container.querySelector(".global-graph-toolbar") as HTMLElement | null
       if (toolbar) initBottomSheet(toolbar)
@@ -2323,6 +2359,10 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   }
 
   function hideGlobalGraph() {
+    if (toolbarAbort) {
+      toolbarAbort.abort()
+      toolbarAbort = null
+    }
     cleanupGlobalGraphs()
     for (const container of containers) {
       container.classList.remove("active")

@@ -149,6 +149,9 @@ export default ((opts?: Partial<FamilyGraphOptions>) => {
                 <button class="share-btn" type="button" title="Share this view">
                   🔗
                 </button>
+                <button class="theme-btn" type="button" title="Toggle light/dark">
+                  🌓
+                </button>
                 <div class="family-direction">
                   <button class="dir-btn" data-dir="up" type="button">
                     ↑

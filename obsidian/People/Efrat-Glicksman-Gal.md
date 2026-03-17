@@ -3,6 +3,10 @@ cr_id: ind00654
 name: Efrat Glicksman Gal
 aliases:
   - "אפרת גליקסמן גל"
+father: "[[People/Dori-Glicksman]]"
+father_id: ind10313
+mother: "[[People/Daniella-Hajduska-Glicksman]]"
+mother_id: ind10314
 spouse1: "[[People/Tamir-Gal]]"
 spouse1_id: ind00007
 spouse1_marriage_status: current
@@ -38,7 +42,9 @@ research_level: 2
 
 ## Family
 
+**Father:** [[People/Dori-Glicksman|Dori Glicksman]] | **Mother:** [[People/Daniella-Hajduska-Glicksman|Daniella Hajduska Glicksman]]
 **Spouse:** [[People/Tamir-Gal|Tamir Gal]]
+**Siblings:** [[People/Hagai-Glicksman|Hagai Glicksman]], [[People/Yael-Glicksman|Yael Glicksman]], [[People/Shira-Glicksman-Peled|Shira Glicksman Peled]]
 **Children:** [[People/Shaked-Gal|Shaked Gal]], [[People/Nadav-Gal|Nadav Gal]], [[People/Mika-Gal|Mika Gal]]
 
 ## Biography
