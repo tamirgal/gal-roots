@@ -20,7 +20,7 @@ research_level: 1
 
 ## Details
 
-**Hebrew Name:** 
+**Hebrew Name:** עמרי פטאן
 **Birthday:** 1991-07-03
 **Born in:**
 **Families:** [[Families/Patan|Patan]]

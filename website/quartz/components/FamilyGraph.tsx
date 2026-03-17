@@ -90,66 +90,75 @@ export default ((opts?: Partial<FamilyGraphOptions>) => {
           </button>
         </div>
         <div class="global-graph-outer">
+          <div class="global-graph-container" data-cfg={JSON.stringify(globalGraph)}></div>
           <div class="global-graph-toolbar">
-            <input
-              class="family-search"
-              type="text"
-              placeholder="Search person..."
-            />
-            <div class="family-controls">
-              <label>
-                Depth
-                <select class="family-depth">
-                  <option value="1">1</option>
-                  <option value="2" selected>
-                    2
-                  </option>
-                  <option value="3">3</option>
-                  <option value="4">4</option>
-                  <option value="5">5</option>
-                  <option value="999">All</option>
-                </select>
-              </label>
-              <label class="show-names-label">
-                <input class="show-names-cb" type="checkbox" />
-                Names
-              </label>
-              <label class="show-names-label">
-                <input class="hebrew-names-cb" type="checkbox" />
-                Hebrew
-              </label>
-              <label>
-                Layout
-                <select class="layout-select">
-                  <option value="force" selected>
-                    Force
-                  </option>
-                  <option value="layered">Layered</option>
-                  <option value="compact">Compact</option>
-                  <option value="horizontal">Horizontal</option>
-                  <option value="radial">Radial</option>
-                </select>
-              </label>
-              <button class="fit-btn" type="button" title="Fit to view">
-                ⤢
-              </button>
-              <button class="reset-btn" type="button" title="Reset view">
-                ↺
-              </button>
-              <div class="family-direction">
-                <button class="dir-btn" data-dir="up" type="button">
-                  ↑
+            <div class="sheet-handle">
+              <div class="sheet-handle-bar"></div>
+            </div>
+            <div class="sheet-summary">
+              <span class="sheet-summary-name"></span>
+              <span class="sheet-summary-info"></span>
+            </div>
+            <div class="sheet-controls">
+              <input
+                class="family-search"
+                type="text"
+                placeholder="Search person..."
+              />
+              <div class="family-controls">
+                <label>
+                  Depth
+                  <select class="family-depth">
+                    <option value="1">1</option>
+                    <option value="2" selected>
+                      2
+                    </option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="999">All</option>
+                  </select>
+                </label>
+                <label class="show-names-label">
+                  <input class="show-names-cb" type="checkbox" />
+                  Names
+                </label>
+                <label class="show-names-label">
+                  <input class="hebrew-names-cb" type="checkbox" />
+                  Hebrew
+                </label>
+                <label>
+                  Layout
+                  <select class="layout-select">
+                    <option value="force" selected>
+                      Force
+                    </option>
+                    <option value="layered">Layered</option>
+                    <option value="compact">Compact</option>
+                    <option value="horizontal">Horizontal</option>
+                    <option value="radial">Radial</option>
+                  </select>
+                </label>
+                <button class="fit-btn" type="button" title="Fit to view">
+                  ⤢
                 </button>
-                <button class="dir-btn active" data-dir="both" type="button">
-                  ↕
+                <button class="reset-btn" type="button" title="Reset view">
+                  ↺
                 </button>
-                <button class="dir-btn" data-dir="down" type="button">
-                  ↓
-                </button>
+                <div class="family-direction">
+                  <button class="dir-btn" data-dir="up" type="button">
+                    ↑
+                  </button>
+                  <button class="dir-btn active" data-dir="both" type="button">
+                    ↕
+                  </button>
+                  <button class="dir-btn" data-dir="down" type="button">
+                    ↓
+                  </button>
+                </div>
               </div>
             </div>
           </div>
-          <div class="global-graph-container" data-cfg={JSON.stringify(globalGraph)}></div>
         </div>
       </div>
     )

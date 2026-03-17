@@ -36,7 +36,7 @@ research_level: 2
 
 ## Details
 
-**Hebrew Name:** שמואל (סמי) פטאן
+**Hebrew Name:** סמי פטאן
 **Birthday:** 1956-12-27
 **Born in:**
 **Families:** [[Families/Patan|Patan]]

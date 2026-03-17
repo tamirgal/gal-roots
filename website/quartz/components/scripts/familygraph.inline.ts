@@ -367,6 +367,33 @@ async function renderFamilyGraph(
   const nodeRenderData: NodeRenderData[] = []
   const selectedNodes = new Set<string>()
 
+  function hitTestNode(screenX: number, screenY: number): string | null {
+    const rect = app.canvas.getBoundingClientRect()
+    const canvasX = screenX - rect.left
+    const canvasY = screenY - rect.top
+    const stageX = (canvasX - currentTransform.x) / currentTransform.k
+    const stageY = (canvasY - currentTransform.y) / currentTransform.k
+    const simX = stageX - width / 2
+    const simY = stageY - height / 2
+    let bestId: string | null = null
+    let bestDist = Infinity
+    const touchSlop = isTouchDevice ? 20 : 8
+    for (const n of nodeRenderData) {
+      if (hiddenNodes?.has(n.simulationData.id)) continue
+      const nx = n.simulationData.x ?? 0
+      const ny = n.simulationData.y ?? 0
+      const dx = simX - nx
+      const dy = simY - ny
+      const dist = Math.sqrt(dx * dx + dy * dy)
+      const r = nodeRadius(n.simulationData) + touchSlop
+      if (dist < r && dist < bestDist) {
+        bestDist = dist
+        bestId = n.simulationData.id
+      }
+    }
+    return bestId
+  }
+
   function updateHoverInfo(newHoveredId: string | null) {
     hoveredNodeId = newHoveredId
 
@@ -632,12 +659,35 @@ async function renderFamilyGraph(
   window.addEventListener("mousemove", onRectMouseMove)
   window.addEventListener("mouseup", onRectMouseUp)
 
+  let longPressTimer: ReturnType<typeof setTimeout> | null = null
+  let longPressFired = false
+
+  function cancelLongPress() {
+    if (longPressTimer) {
+      clearTimeout(longPressTimer)
+      longPressTimer = null
+    }
+  }
+
   if (enableDrag) {
     select<HTMLCanvasElement, NodeData | undefined>(app.canvas).call(
       drag<HTMLCanvasElement, NodeData | undefined>()
         .container(() => app.canvas)
-        .subject(() => {
+        .subject((event) => {
           if (rectSelecting) return undefined
+          if (isTouchDevice && event.sourceEvent) {
+            const touch = (event.sourceEvent as TouchEvent).touches?.[0]
+              ?? (event.sourceEvent as PointerEvent)
+            const cx = touch.clientX
+            const cy = touch.clientY
+            if (cx != null && cy != null) {
+              const id = hitTestNode(cx, cy)
+              if (id) {
+                updateHoverInfo(id)
+                return graphData.nodes.find((n) => n.id === id)
+              }
+            }
+          }
           return graphData.nodes.find((n) => n.id === hoveredNodeId)
         })
         .on("start", function dragstarted(event) {
@@ -665,9 +715,25 @@ async function renderFamilyGraph(
           dragStartTime = Date.now()
           dragStartPos = { x: event.x, y: event.y }
           dragging = true
+          longPressFired = false
+          cancelLongPress()
+
+          if (isTouchDevice) {
+            const se = event.sourceEvent as PointerEvent
+            const sx = se?.clientX ?? 0
+            const sy = se?.clientY ?? 0
+            longPressTimer = setTimeout(() => {
+              longPressFired = true
+              dragging = false
+              simulation.alphaTarget(0)
+              showContextMenu(subjectId, sx, sy)
+              longPressTimer = null
+            }, 600)
+          }
         })
         .on("drag", function dragged(event) {
           if (!event.subject) return
+          if (longPressFired) return
           lastDragEvent = {
             ctrlKey: event.sourceEvent?.ctrlKey,
             metaKey: event.sourceEvent?.metaKey,
@@ -675,6 +741,8 @@ async function renderFamilyGraph(
           }
           const dx = (event.x - dragStartPos.x) / currentTransform.k
           const dy = (event.y - dragStartPos.y) / currentTransform.k
+          const rawDist = Math.sqrt(dx * dx + dy * dy)
+          if (rawDist > 3) cancelLongPress()
           for (const [nid, init] of groupDragInitials) {
             const nd = graphData.nodes.find((n) => n.id === nid)
             if (nd) {
@@ -686,7 +754,14 @@ async function renderFamilyGraph(
         .on("end", function dragended(event) {
           if (!event.subject) return
           if (!event.active) simulation.alphaTarget(0)
+          cancelLongPress()
           dragging = false
+          if (longPressFired) {
+            longPressFired = false
+            groupDragInitials.clear()
+            lastDragEvent = null
+            return
+          }
           const dxTotal = event.x - dragStartPos.x
           const dyTotal = event.y - dragStartPos.y
           const dist = Math.sqrt(dxTotal * dxTotal + dyTotal * dyTotal)
@@ -694,13 +769,17 @@ async function renderFamilyGraph(
 
           if (dist < 5) {
             const nid = event.subject.id as string
-            if (shiftKey) {
+            if (shiftKey || isTouchDevice) {
               if (selectedNodes.has(nid)) selectedNodes.delete(nid)
               else selectedNodes.add(nid)
             } else {
               clearSelection()
               selectedNodes.add(nid)
             }
+          }
+          if (isTouchDevice) {
+            updateHoverInfo(null)
+            renderPixiFromD3()
           }
           groupDragInitials.clear()
           lastDragEvent = null
@@ -710,7 +789,7 @@ async function renderFamilyGraph(
     for (const node of nodeRenderData) {
       node.gfx.on("click", (e: any) => {
         const nid = node.simulationData.id
-        if (e?.shiftKey) {
+        if (e?.shiftKey || isTouchDevice) {
           if (selectedNodes.has(nid)) selectedNodes.delete(nid)
           else selectedNodes.add(nid)
         } else {
@@ -790,9 +869,7 @@ async function renderFamilyGraph(
       contextMenu = null
     }
     if (dismissHandler) {
-      document.removeEventListener("mousedown", dismissHandler)
-      document.removeEventListener("touchstart", dismissHandler as any)
-      app.canvas.removeEventListener("mousedown", dismissHandler, true)
+      document.removeEventListener("pointerdown", dismissHandler)
       dismissHandler = null
     }
   }
@@ -937,7 +1014,7 @@ async function renderFamilyGraph(
     }
   }
 
-  let dismissHandler: ((e: MouseEvent) => void) | null = null
+  let dismissHandler: ((e: PointerEvent) => void) | null = null
 
   function showContextMenu(nodeId: string, clientX: number, clientY: number) {
     closeContextMenu()
@@ -951,8 +1028,9 @@ async function renderFamilyGraph(
       const btn = document.createElement("button")
       btn.type = "button"
       btn.textContent = label
-      btn.addEventListener("mousedown", (e) => {
+      btn.addEventListener("pointerdown", (e) => {
         e.stopPropagation()
+        e.preventDefault()
         action()
         closeContextMenu()
       })
@@ -983,17 +1061,14 @@ async function renderFamilyGraph(
     document.body.appendChild(menu)
     contextMenu = menu
 
-    dismissHandler = (e: MouseEvent | TouchEvent) => {
-      const target = (e as TouchEvent).touches?.[0]?.target ?? (e as MouseEvent).target
-      if (!menu.contains(target as Node)) {
+    dismissHandler = (e: PointerEvent) => {
+      if (!menu.contains(e.target as Node)) {
         closeContextMenu()
       }
     }
     setTimeout(() => {
-      document.addEventListener("mousedown", dismissHandler!)
-      document.addEventListener("touchstart", dismissHandler!, { passive: true } as any)
-      app.canvas.addEventListener("mousedown", dismissHandler!, true)
-    }, 0)
+      document.addEventListener("pointerdown", dismissHandler!)
+    }, 100)
   }
 
   app.canvas.addEventListener("contextmenu", (e) => {
@@ -1003,36 +1078,14 @@ async function renderFamilyGraph(
     }
   })
 
-  let longPressTimer: ReturnType<typeof setTimeout> | null = null
-  let longPressNodeId: string | null = null
-
-  app.canvas.addEventListener("touchstart", (e) => {
-    if (e.touches.length !== 1) return
-    const touch = e.touches[0]
-    longPressNodeId = hoveredNodeId
-    longPressTimer = setTimeout(() => {
-      if (longPressNodeId) {
-        showContextMenu(longPressNodeId, touch.clientX, touch.clientY)
-      }
-      longPressTimer = null
-    }, 500)
-  }, { passive: true })
-
-  function cancelLongPress() {
-    if (longPressTimer) {
-      clearTimeout(longPressTimer)
-      longPressTimer = null
-    }
-    longPressNodeId = null
-  }
-
-  app.canvas.addEventListener("touchmove", cancelLongPress, { passive: true })
-  app.canvas.addEventListener("touchend", cancelLongPress, { passive: true })
-  app.canvas.addEventListener("touchcancel", cancelLongPress, { passive: true })
-
   app.canvas.addEventListener("click", (e) => {
-    if (!hoveredNodeId && !e.shiftKey && selectedNodes.size > 0) {
+    const nodeUnderClick = isTouchDevice ? hitTestNode(e.clientX, e.clientY) : hoveredNodeId
+    if (!nodeUnderClick && selectedNodes.size > 0) {
       clearSelection()
+      if (isTouchDevice) {
+        updateHoverInfo(null)
+        renderPixiFromD3()
+      }
     }
   })
 
@@ -1776,6 +1829,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     }
     syncShowNames()
     syncHebrew()
+    updateSheetSummary()
   }
 
   async function rebuildGraph() {
@@ -1796,6 +1850,77 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     }
     syncShowNames()
     syncHebrew()
+    updateSheetSummary()
+  }
+
+  const isMobile = window.matchMedia("(max-width: 768px)").matches
+
+  function updateSheetSummary() {
+    for (const container of containers) {
+      const nameEl = container.querySelector(".sheet-summary-name")
+      const infoEl = container.querySelector(".sheet-summary-info")
+      if (nameEl) {
+        const entry = familyData[currentCenter] as FamilyEntry | undefined
+        nameEl.textContent = entry?.name ?? String(currentCenter)
+      }
+      if (infoEl) {
+        const depthLabel = currentDepth >= 999 ? "All" : String(currentDepth)
+        const layoutSel = container.querySelector(".layout-select") as HTMLSelectElement | null
+        const layoutLabel = layoutSel?.selectedOptions[0]?.text ?? "Force"
+        infoEl.textContent = `Depth ${depthLabel} · ${layoutLabel}`
+      }
+    }
+  }
+
+  function initBottomSheet(toolbar: HTMLElement) {
+    if (!isMobile) return
+    toolbar.classList.add("sheet-minimized")
+    updateSheetSummary()
+
+    const handle = toolbar.querySelector(".sheet-handle") as HTMLElement | null
+    if (!handle) return
+
+    let sheetState: "minimized" | "expanded" | "hidden" = "minimized"
+    let touchStartY = 0
+    let touchDeltaY = 0
+
+    function setSheetState(state: "minimized" | "expanded" | "hidden") {
+      sheetState = state
+      toolbar.classList.remove("sheet-minimized", "sheet-expanded", "sheet-hidden")
+      toolbar.classList.add(`sheet-${state}`)
+      if (state === "minimized") updateSheetSummary()
+    }
+
+    handle.addEventListener("click", () => {
+      if (sheetState === "minimized") setSheetState("expanded")
+      else if (sheetState === "expanded") setSheetState("minimized")
+      else setSheetState("minimized")
+    })
+
+    toolbar.addEventListener("touchstart", (e) => {
+      const target = e.target as HTMLElement
+      if (target.closest(".sheet-controls")) return
+      if (e.touches.length !== 1) return
+      touchStartY = e.touches[0].clientY
+      touchDeltaY = 0
+    }, { passive: true })
+
+    toolbar.addEventListener("touchmove", (e) => {
+      if (e.touches.length !== 1) return
+      touchDeltaY = e.touches[0].clientY - touchStartY
+    }, { passive: true })
+
+    toolbar.addEventListener("touchend", () => {
+      if (Math.abs(touchDeltaY) < 30) return
+      if (touchDeltaY < 0) {
+        if (sheetState === "hidden") setSheetState("minimized")
+        else if (sheetState === "minimized") setSheetState("expanded")
+      } else {
+        if (sheetState === "expanded") setSheetState("minimized")
+        else if (sheetState === "minimized") setSheetState("hidden")
+      }
+      touchDeltaY = 0
+    }, { passive: true })
   }
 
   async function renderGlobalGraph() {
@@ -1929,6 +2054,9 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
         for (const h of globalGraphHandles) h.resetView()
       })
 
+      const toolbar = container.querySelector(".global-graph-toolbar") as HTMLElement | null
+      if (toolbar) initBottomSheet(toolbar)
+
       if (graphContainer && familyData[currentCenter]) {
         globalGraphHandles.push(
           await renderFamilyGraph(graphContainer, slug, true, {
@@ -1939,6 +2067,8 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
           }),
         )
       }
+
+      updateSheetSummary()
     }
   }
 
@@ -1948,6 +2078,10 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
       container.classList.remove("active")
       const sidebar = container.closest(".sidebar") as HTMLElement
       if (sidebar) sidebar.style.zIndex = ""
+      const toolbar = container.querySelector(".global-graph-toolbar") as HTMLElement | null
+      if (toolbar) {
+        toolbar.classList.remove("sheet-minimized", "sheet-expanded", "sheet-hidden")
+      }
     }
   }
 
