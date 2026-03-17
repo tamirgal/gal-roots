@@ -1921,19 +1921,24 @@ async function renderFamilyGraph(
 
         for (const nid of newNodeIds) {
           const n = nodeMap.get(nid)!
+          const fe = familyData[nid] as FamilyEntry | undefined
+          const displayText = hebrewMode && fe?.hebrewName ? fe.hebrewName : (fe?.name ?? nid)
           const nColor = nodeColor(nid, center, gens, spouseSet, computedStyleMap)
           const r = nodeRadius(n)
+          const labelAlpha = showNames ? 1 : 0
           const label = new Text({
-            interactive: false, eventMode: "none", text: n.text,
-            alpha: 0, anchor: { x: 0.5, y: 1.2 },
+            interactive: false, eventMode: "none", text: displayText,
+            alpha: labelAlpha, anchor: { x: 0.5, y: 1.2 },
             style: { fontSize: fontSize * 15, fill: computedStyleMap["--dark"], fontFamily: computedStyleMap["--bodyFont"] },
             resolution: window.devicePixelRatio * 4,
           })
           label.scale.set(1 / scale)
+          n.text = displayText
+          let oldLabelOpacity = labelAlpha
           const nodeGfx = new Graphics({ interactive: true, label: nid, eventMode: "static", hitArea: new Circle(0, 0, r + hitPadding), cursor: "pointer" })
             .circle(0, 0, r).fill({ color: nColor })
-            .on("pointerover", () => { updateHoverInfo(nid); if (!dragging) renderPixiFromD3() })
-            .on("pointerleave", () => { updateHoverInfo(null); if (!dragging) renderPixiFromD3() })
+            .on("pointerover", () => { updateHoverInfo(nid); oldLabelOpacity = label.alpha; if (!dragging) renderPixiFromD3() })
+            .on("pointerleave", () => { updateHoverInfo(null); label.alpha = oldLabelOpacity; if (!dragging) renderPixiFromD3() })
           const selRing = new Graphics({ interactive: false, eventMode: "none", visible: false })
           selRing.circle(0, 0, r + 3).stroke({ width: 2, color: computedStyleMap["--secondary"] })
           nodesContainer.addChild(nodeGfx)
@@ -1949,9 +1954,6 @@ async function renderFamilyGraph(
             .id((d) => (d as NodeData).id)
             .distance((l) => ((l as FamilyLinkData).type === "spouse" ? 20 : linkDistance)),
         )
-
-        if (showNames) setShowNames(true)
-        if (hebrewMode) setHebrew(true)
       }
 
       applyVisibility()
