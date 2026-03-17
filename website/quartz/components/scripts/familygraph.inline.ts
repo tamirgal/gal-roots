@@ -1850,6 +1850,107 @@ async function renderFamilyGraph(
       for (const id of snap.hidden) {
         hiddenNodes.add(id)
       }
+
+      const newNodeIds: SimpleSlug[] = []
+      for (const [id, x, y] of snap.positions) {
+        const slug = id as SimpleSlug
+        if (nodeMap.has(slug)) continue
+        const fe = familyData[slug] as FamilyEntry | undefined
+        if (!fe) continue
+
+        const gen = computeGenerations(familyData, center, new Set([center, slug])).get(slug) ?? 0
+        gens.set(slug, gen)
+
+        const n: NodeData = { id: slug, text: fe.name ?? slug, x, y }
+        n.fx = x
+        n.fy = y
+        graphData.nodes.push(n)
+        nodeMap.set(slug, n)
+        neighbourhood.add(slug)
+        newNodeIds.push(slug)
+      }
+
+      if (newNodeIds.length > 0) {
+        const allVisible = new Set(snap.positions.map(([id]) => id as SimpleSlug))
+        for (const nid of newNodeIds) {
+          const fe = familyData[nid] as FamilyEntry | undefined
+          if (!fe) continue
+          for (const parent of [fe.father, fe.mother]) {
+            if (parent && allVisible.has(parent) && nodeMap.has(parent)) {
+              const exists = graphData.links.some(
+                (l) => (l.source.id === parent && l.target.id === nid) || (l.source.id === nid && l.target.id === parent),
+              )
+              if (!exists) {
+                const ld: FamilyLinkData = { source: nodeMap.get(parent)!, target: nodeMap.get(nid)!, type: "parent-child" }
+                graphData.links.push(ld)
+                const gfx = new Graphics({ interactive: false, eventMode: "none" })
+                linkContainer.addChild(gfx)
+                linkRenderData.push({ simulationData: ld, gfx, color: computedStyleMap["--lightgray"], alpha: 1, active: false })
+              }
+            }
+          }
+          for (const sp of fe.spouses) {
+            if (allVisible.has(sp) && nodeMap.has(sp)) {
+              const exists = graphData.links.some(
+                (l) => (l.source.id === sp && l.target.id === nid) || (l.source.id === nid && l.target.id === sp),
+              )
+              if (!exists) {
+                const ld: FamilyLinkData = { source: nodeMap.get(nid)!, target: nodeMap.get(sp)!, type: "spouse" }
+                graphData.links.push(ld)
+                const gfx = new Graphics({ interactive: false, eventMode: "none" })
+                linkContainer.addChild(gfx)
+                linkRenderData.push({ simulationData: ld, gfx, color: computedStyleMap["--lightgray"], alpha: 1, active: false })
+              }
+            }
+          }
+          for (const ch of fe.children) {
+            if (allVisible.has(ch) && nodeMap.has(ch)) {
+              const exists = graphData.links.some(
+                (l) => (l.source.id === nid && l.target.id === ch) || (l.source.id === ch && l.target.id === nid),
+              )
+              if (!exists) {
+                const ld: FamilyLinkData = { source: nodeMap.get(nid)!, target: nodeMap.get(ch)!, type: "parent-child" }
+                graphData.links.push(ld)
+                const gfx = new Graphics({ interactive: false, eventMode: "none" })
+                linkContainer.addChild(gfx)
+                linkRenderData.push({ simulationData: ld, gfx, color: computedStyleMap["--lightgray"], alpha: 1, active: false })
+              }
+            }
+          }
+        }
+
+        for (const nid of newNodeIds) {
+          const n = nodeMap.get(nid)!
+          const nColor = nodeColor(nid, center, gens, spouseSet, computedStyleMap)
+          const r = nodeRadius(n)
+          const label = new Text({
+            interactive: false, eventMode: "none", text: n.text,
+            alpha: 0, anchor: { x: 0.5, y: 1.2 },
+            style: { fontSize: fontSize * 15, fill: computedStyleMap["--dark"], fontFamily: computedStyleMap["--bodyFont"] },
+            resolution: window.devicePixelRatio * 4,
+          })
+          label.scale.set(1 / scale)
+          const nodeGfx = new Graphics({ interactive: true, label: nid, eventMode: "static", hitArea: new Circle(0, 0, r + hitPadding), cursor: "pointer" })
+            .circle(0, 0, r).fill({ color: nColor })
+            .on("pointerover", () => { updateHoverInfo(nid); if (!dragging) renderPixiFromD3() })
+            .on("pointerleave", () => { updateHoverInfo(null); if (!dragging) renderPixiFromD3() })
+          const selRing = new Graphics({ interactive: false, eventMode: "none", visible: false })
+          selRing.circle(0, 0, r + 3).stroke({ width: 2, color: computedStyleMap["--secondary"] })
+          nodesContainer.addChild(nodeGfx)
+          labelsContainer.addChild(label)
+          selectionRingContainer.addChild(selRing)
+          nodeRenderData.push({ simulationData: n, gfx: nodeGfx, label, selRing, color: nColor, alpha: 1, active: false })
+        }
+
+        simulation.nodes(graphData.nodes)
+        simulation.force(
+          "link",
+          forceLink(graphData.links)
+            .id((d) => (d as NodeData).id)
+            .distance((l) => ((l as FamilyLinkData).type === "spouse" ? 20 : linkDistance)),
+        )
+      }
+
       applyVisibility()
       for (const [id, x, y] of snap.positions) {
         const nd = graphData.nodes.find((n) => n.id === id)
