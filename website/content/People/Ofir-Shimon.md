@@ -15,11 +15,17 @@ research_level: 2
 
 ![[attachments/pictures/shimon_ofir_passport_2.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 2010-02-15
+**Born in:**
+**Families:** [[Families/Shimon|Shimon]]
+
 ## Family
 
 **Father:** [[People/Chaim-Shimon|Chaim Shimon]] | **Mother:** [[People/Meirav-Rappaport-Shimon|Meirav Rappaport Shimon]]
 **Siblings:** [[People/Noam-Shimon|Noam Shimon]], [[People/Yuval-Shimon|Yuval Shimon]]
-**Families:** [[Families/Shimon|Shimon]]
 
 ## Biography
 Ofir Shimon is born in [[Places/Safed]], Israel, on 15-2-2010

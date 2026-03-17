@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/geva_adi.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1987-03-03
+**Born in:**
+**Families:** [[Families/Geva|Geva]]
+
 ## Family
 
 **Father:** [[People/Shabetay-Zuckerberger-Geva|Shabetay Zuckerberger Geva]] | **Mother:** [[People/Tsipora-Geva|Tsipora Geva]]
 **Siblings:** [[People/Liran-Geva|Liran Geva]], [[People/Eyal-Geva|Eyal Geva]]
-**Families:** [[Families/Geva|Geva]]
 
 ## Biography
 

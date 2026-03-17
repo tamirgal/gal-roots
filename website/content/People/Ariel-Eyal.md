@@ -18,11 +18,17 @@ research_level: 1
 
 ![[attachments/pictures/eyal_ariel.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1957-11-13
+**Born in:**
+**Families:** [[Families/Eyal|Eyal]]
+
 ## Family
 
 **Spouse:** [[People/Tsipora-Steiner-Eyal|Tsipora Steiner Eyal]]
 **Children:** [[People/Liat-Eyal|Liat Eyal]]
-**Families:** [[Families/Eyal|Eyal]]
 
 ## Biography
 

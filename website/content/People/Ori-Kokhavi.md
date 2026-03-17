@@ -9,10 +9,16 @@ sex: male
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Kokhavi|Kokhavi]]
+
 ## Family
 
 **Father:** [[People/Yogev-Kokhavi|Yogev Kokhavi]] | **Mother:** [[People/Liat-Shimon-Kokhavi|Liat (Shimon) Kokhavi]]
-**Families:** [[Families/Kokhavi|Kokhavi]]
 
 ## Biography
 

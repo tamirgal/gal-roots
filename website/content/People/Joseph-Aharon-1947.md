@@ -25,13 +25,19 @@ children_id:
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1947
+**Born in:**
+**Families:** [[Families/Aharon|Aharon]]
+
 ## Family
 
 **Father:** [[People/Mordechai-Aharon|Mordechai Aharon]] | **Mother:** [[People/Rivka-Aharon|Rivka Aharon]]
 **Spouse:** [[People/Tova-Aharon|Tova Aharon]]
 **Siblings:** [[People/Lea-Aharon|Lea Aharon]]
 **Children:** [[People/Erez-Aharon|Erez Aharon]], [[People/Moshit-Aharon|Moshit Aharon]], [[People/Michael-Aharon|Michael Aharon]], [[People/Mor-Aharon|Mor Aharon]], [[People/Unknown-ind10214|Unknown]]
-**Families:** [[Families/Aharon|Aharon]]
 
 ## Biography
 

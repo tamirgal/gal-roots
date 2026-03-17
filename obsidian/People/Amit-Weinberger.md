@@ -10,11 +10,17 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1993
+**Born in:**
+**Families:** [[Families/Weinberger|Weinberger]]
+
 ## Family
 
 **Father:** [[People/Menachem-Weinberger|Menachem Weinberger]] | **Mother:** [[People/Batya-Aharoni-Weinberger|Batya Aharoni Weinberger]]
 **Siblings:** [[People/Shai-Weinberger|Shai Weinberger]], [[People/Nir-Weinberger|Nir Weinberger]]
-**Families:** [[Families/Weinberger|Weinberger]]
 
 ## Biography
 

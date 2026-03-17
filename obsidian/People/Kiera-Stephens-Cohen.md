@@ -22,11 +22,17 @@ research_level: 2
 
 ![[attachments/pictures/Cohen Rony wedding 05.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1976-11-26
+**Born in:**
+**Families:** [[Families/Stephens|Stephens]], [[Families/Cohen|Cohen]]
+
 ## Family
 
 **Spouse:** [[People/Rony-Cohen|Rony Cohen]]
 **Children:** [[People/Unknown-ind00566|Unknown ind00566]]
-**Families:** [[Families/Stephens|Stephens]], [[Families/Cohen|Cohen]]
 
 ## Biography
 Kiera Stephens, born in th UK 26 November 1976. Married to Rony Cohen - 10 September 2004.

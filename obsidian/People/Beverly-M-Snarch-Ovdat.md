@@ -22,11 +22,17 @@ research_level: 2
 
 ![[attachments/pictures/Ovdat Beverly passport.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1948-07-20
+**Born in:**
+**Families:** [[Families/Snarch|Snarch]], [[Families/Ovdat|Ovdat]]
+
 ## Family
 
 **Spouse:** [[People/Saul-Abada-Ovdat|Saul Abada Ovdat]]
 **Children:** [[People/Tamara-J-Ovdat-Lesser|Tamara J. Ovdat Lesser]], [[People/Alan-D-Ovdat|Alan D. Ovdat]]
-**Families:** [[Families/Snarch|Snarch]], [[Families/Ovdat|Ovdat]]
 
 ## Biography
 I'm born on 20 July 1948,... Married to Saul Ovdat (Abada) in [[Places/Montreal]] ([[Places/Canada]]) on 13 September 1971. We moved to [[Places/California]] ([[Places/USA]]) in April 1978. Graduated from MCGILL UNIVERSITY ([[Places/Montreal]]) in Psychology . Taught music and piano (my passion), before joining my husband in our Real Estate business.

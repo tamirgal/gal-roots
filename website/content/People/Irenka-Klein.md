@@ -10,11 +10,17 @@ sex: female
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1914
+**Born in:**
+**Families:** [[Families/Klein|Klein]]
+
 ## Family
 
 **Father:** [[People/Herman-Haim-Klein|Herman Haim Klein]] | **Mother:** [[People/Frida-Klein|Frida Klein]]
 **Siblings:** [[People/Benyamin-Klein|Benyamin Klein]], [[People/Yehoshua-Klein|Yehoshua Klein]]
-**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 Irenka was married and had children. All the family perished in Nazi concentration camps

@@ -17,11 +17,17 @@ research_level: 1
 
 ![[attachments/pictures/Abada Eyal.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1975-06-07
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Riri-Ernest-Abada|Riri Ernest Abada]] | **Mother:** [[People/Aimee-Abada|Aimee Abada]]
 **Siblings:** [[People/Chantal-Abada|Chantal Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

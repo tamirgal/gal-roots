@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/phyllismiller_rachel.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1990-02-28
+**Born in:**
+**Families:** [[Families/Miller|Miller]]
+
 ## Family
 
 **Father:** [[People/Seth-Miller|Seth Miller]] | **Mother:** [[People/Ellen-Mina-Hirschman-Miller|Ellen Mina Hirschman Miller]]
 **Siblings:** [[People/Jonathan-David-Miller|Jonathan David Miller]]
-**Families:** [[Families/Miller|Miller]]
 
 ## Biography
 

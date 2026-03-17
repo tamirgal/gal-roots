@@ -15,11 +15,17 @@ children_id:
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1936-01-05
+**Born in:**
+**Families:** [[Families/Goldmann|Goldmann]]
+
 ## Family
 
 **Spouse:** [[People/Rachel-Abadi-Goldmann|Rachel Abadi Goldmann]]
 **Children:** [[People/Guily-Goldmann|Guily Goldmann]], [[People/Roni-Goldmann|Roni Goldmann]]
-**Families:** [[Families/Goldmann|Goldmann]]
 
 ## Biography
 Yonathan Goldann, married to Rahel Abadi, in [[Places/Israel]], 5 September 1961.

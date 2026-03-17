@@ -14,11 +14,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Halztshy|Halztshy]]
+
 ## Family
 
 **Spouse:** [[People/Hatoune-Abed-Halztshy|Hatoune Abed Halztshy]]
 **Children:** [[People/Ahlam-Halztshy|Ahlam Halztshy]], [[People/Nina-Halztshy-Touena|Nina Halztshy Touena]]
-**Families:** [[Families/Halztshy|Halztshy]]
 
 ## Biography
 

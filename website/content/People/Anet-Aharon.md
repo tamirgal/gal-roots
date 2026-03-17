@@ -19,11 +19,17 @@ children_id:
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1926-01-17
+**Born in:**
+**Families:** [[Families/Aharon|Aharon]]
+
 ## Family
 
 **Spouse:** [[People/Arie-Leopold-Aharon|Arie Leopold Aharon]]
 **Children:** [[People/Leo-Aharon|Leo Aharon]], [[People/Peter-Aharon|Peter Aharon]], [[People/Suzan-Aharon-Reinolds|Suzan Aharon Reinolds]], [[People/Monique-Aharon-Preiss|Monique Aharon Preiss]]
-**Families:** [[Families/Aharon|Aharon]]
 
 ## Biography
 

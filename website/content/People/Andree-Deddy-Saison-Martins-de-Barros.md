@@ -29,13 +29,19 @@ research_level: 1
 
 ![[attachments/pictures/Deddy a la campagne.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1942-06-28
+**Born in:**
+**Families:** [[Families/Saison|Saison]], [[Families/Martins|Martins]], [[Families/Barros|Barros]]
+
 ## Family
 
 **Father:** [[People/Jacques-Sasson-Saison|Jacques Sasson Saison]] | **Mother:** [[People/Leonie-Mizrahi-Saison|Leonie Mizrahi Saison]]
 **Spouse:** [[People/Andre-Martins-de-Barros|Andre Martins de Barros]]
 **Siblings:** [[People/Marlene-Saison-Barouh|Marlene Saison Barouh]], [[People/Isaac-Saison|Isaac Saison]], [[People/Doris-Saison-Remnant|Doris Saison Remnant]]
 **Children:** [[People/Fanny-Martins-de-Barros|Fanny Martins de Barros]], [[People/Cyril-Martins-de-Barros|Cyril Martins de Barros]]
-**Families:** [[Families/Saison|Saison]], [[Families/Martins|Martins]], [[Families/Barros|Barros]]
 
 ## Biography
 

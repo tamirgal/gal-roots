@@ -29,11 +29,17 @@ research_level: 2
 
 ![[attachments/pictures/Hanan Vicky.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1932-12-17
+**Born in:**
+**Families:** [[Families/Hanan|Hanan]]
+
 ## Family
 
 **Spouse:** [[People/Rosette-Rosy-Cohen-Hanan|Rosette (Rosy) Cohen Hanan]], [[People/Andree-Yakoel-Hanan|Andree Yakoel Hanan]]
 **Children:** [[People/Yacov-Hanan|Yacov Hanan]], [[People/Moshe-Hanan|Moshe Hanan]]
-**Families:** [[Families/Hanan|Hanan]]
 
 ## Biography
 Born in [[Places/Egypt]], 17 December 1932. Son of Yacov and Esther Hanan. In 1950 the family emigrated to [[Places/Israel]] where they lived in a new agricultural settlement called "[[Places/Beit Zait]]", It is a splendid place , in the heart of the beautiful mountains surrounding [[Places/Jerusalem]]. On 4 September 1951, married to Rosette Cohen, they continue to live in [[Places/Beit Zait]],... 2 sons were born, Yacov and Moshe,.. After Rosette's death in 1965, Hayim remarried to Andree Yakoel in 1968,... she died in 1993.

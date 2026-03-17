@@ -24,13 +24,19 @@ research_level: 2
 
 ![[attachments/pictures/Barouh Frederic passeport.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1964-11-13
+**Born in:**
+**Families:** [[Families/Barouh|Barouh]]
+
 ## Family
 
 **Father:** [[People/Maurice-Barouh|Maurice Barouh]] | **Mother:** [[People/Marlene-Saison-Barouh|Marlene Saison Barouh]]
 **Spouse:** [[People/Nathalie-Bourcheix|Nathalie Bourcheix]]
 **Siblings:** [[People/Cecille-Barouh-Benezra|Cecille Barouh Benezra]]
 **Children:** [[People/Benjamin-Barouh|Benjamin Barouh]]
-**Families:** [[Families/Barouh|Barouh]]
 
 ## Biography
 Fils de Maurice et Marlene Barouh, Frederic est ne a Paris le 13 Novembre 1964. Termine ses etudes et diplome d'etudes superieures, specialise en Gestion finance. Il a effectue son service militaire au commissariat a l'energie atomique, qu'il a integre par la suite, comme controleur de gestion. Vit avec Nathalie Bourcheix, et habitent dans la region parisienne pres de Versailles

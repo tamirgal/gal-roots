@@ -18,11 +18,17 @@ research_level: 1
 
 ![[attachments/pictures/Kariv Guil.jpg]]
 
+## Details
+
+**Hebrew Name:** גיל קריב
+**Birthday:** 2001-11-04
+**Born in:**
+**Families:** [[Families/Kariv|Kariv]]
+
 ## Family
 
 **Father:** [[People/Itay-Kariv|Itay Kariv]] | **Mother:** [[People/Anat-Goldstein-Kariv|Anat Goldstein Kariv]]
 **Siblings:** [[People/Tal-Kariv|Tal Kariv]], [[People/Tom-Kariv|Tom Kariv]], [[People/Bar-Kariv|Bar Kariv]]
-**Families:** [[Families/Kariv|Kariv]]
 
 ## Biography
 

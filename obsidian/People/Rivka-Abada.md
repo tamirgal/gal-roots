@@ -9,11 +9,17 @@ sex: female
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Hayim-Abada|Hayim Abada]] | **Mother:** [[People/Esther-Attiya-Abada|Esther Attiya Abada]]
 **Siblings:** [[People/Regina-Jina-Abada-Shimon|Regina (Jina) (Abada) Shimon]], [[People/David-Abada-Ovdat|David (Abada) Ovdat]], [[People/Herzl-Abada-Ovdat|Herzl (Abada) Ovdat]], [[People/Sarah-Abada-Zeitouni|Sarah (Abada) Zeitouni]], [[People/Yosseph-Yossi-Abada-Ovdat|Yosseph (Yossi Abada) Ovdat]], [[People/Elie-Abada|Elie Abada]], [[People/Marcelle-Abada-Zeitouni|Marcelle (Abada) Zeitouni]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

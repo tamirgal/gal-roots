@@ -10,10 +10,16 @@ sex: female
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1989-12-08
+**Born in:**
+**Families:** [[Families/Guttmann|Guttmann]]
+
 ## Family
 
 **Father:** [[People/Eyal-Guttmann|Eyal Guttmann]] | **Mother:** [[People/Rina-Abada-Guttmann|Rina Abada Guttmann]]
-**Families:** [[Families/Guttmann|Guttmann]]
 
 ## Biography
 

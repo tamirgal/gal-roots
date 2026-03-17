@@ -25,11 +25,17 @@ research_level: 1
 
 ![[attachments/pictures/Abada Aimee.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1936-09-07
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Spouse:** [[People/Riri-Ernest-Abada|Riri Ernest Abada]]
 **Children:** [[People/Chantal-Abada|Chantal Abada]], [[People/Eyal-Abada|Eyal Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

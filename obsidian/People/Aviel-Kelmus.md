@@ -12,11 +12,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Kelmus|Kelmus]]
+
 ## Family
 
 **Spouse:** [[People/Einat-Fuchs-Kelmus|Einat Fuchs Kelmus]]
 **Children:** [[People/Yuval-Kelmus|Yuval Kelmus]]
-**Families:** [[Families/Kelmus|Kelmus]]
 
 ## Biography
 

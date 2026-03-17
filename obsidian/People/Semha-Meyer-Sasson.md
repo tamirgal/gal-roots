@@ -20,11 +20,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Sasson|Sasson]]
+
 ## Family
 
 **Spouse:** [[People/Khalifa-Khelef-Sasson|Khalifa Khelef Sasson]]
 **Children:** [[People/Khalifa-Sasson-1856|Khalifa Sasson]], [[People/Habiba-Sasson-1860|Habiba Sasson]], [[People/Youssef-Sasson|Youssef Sasson]], [[People/Itshak-Sasson|Itshak Sasson]], [[People/Farha-Sasson-Ambar|Farha Sasson Ambar]]
-**Families:** [[Families/Sasson|Sasson]]
 
 ## Biography
 

@@ -26,13 +26,19 @@ research_level: 1
 
 ![[attachments/pictures/Ventura Allegra.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1923-07
+**Born in:**
+**Families:** [[Families/Abada|Abada]], [[Families/Ventura|Ventura]]
+
 ## Family
 
 **Father:** [[People/Solimane-Abada|Solimane Abada]] | **Mother:** [[People/Linda-Ashkenazi-Abada|Linda Ashkenazi Abada]]
 **Spouse:** [[People/Sami-Ventura|Sami Ventura]]
 **Siblings:** [[People/David-Edouard-Abada|David Edouard Abada]], [[People/Alice-Abada-Harari|Alice Abada Harari]], [[People/Ernest-Zouzi-Abada|Ernest Zouzi Abada]], [[People/Freddy-Ephraim-Abada-Alitsour|Freddy (Ephraim) Abada (Alitsour)]]
 **Children:** [[People/Lina-Ventura|Lina Ventura]], [[People/Ety-Ventura|Ety Ventura]], [[People/Orly-Ventura|Orly Ventura]]
-**Families:** [[Families/Abada|Abada]], [[Families/Ventura|Ventura]]
 
 ## Biography
 

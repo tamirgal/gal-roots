@@ -28,11 +28,17 @@ research_level: 1
 
 ![[attachments/pictures/Bonan Zaki Portrait.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Bonan|Bonan]]
+
 ## Family
 
 **Spouse:** [[People/Marie-Israel-Bonan|Marie Israel Bonan]]
 **Children:** [[People/Leon-Oni-Bonan|Leon Oni Bonan]], [[People/Israel-Isi-Bonan|Israel Isi Bonan]], [[People/Celine-Bonan-Eliahou|Celine Bonan Eliahou]]
-**Families:** [[Families/Bonan|Bonan]]
 
 ## Biography
 

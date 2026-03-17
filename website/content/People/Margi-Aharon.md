@@ -10,11 +10,17 @@ sex: female
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1927
+**Born in:**
+**Families:** [[Families/Aharon|Aharon]]
+
 ## Family
 
 **Father:** [[People/Joseph-Aharon-1887|Joseph Aharon]] | **Mother:** [[People/Berta-Farkas-Aharon|Berta Farkas Aharon]]
 **Siblings:** [[People/Lenka-Aharon|Lenka Aharon]], [[People/Mordechai-Aharon|Mordechai Aharon]], [[People/Henrik-Yeheskel-Aroni|Henrik (Yeheskel) Aroni]], [[People/Herman-Aharon|Herman Aharon]], [[People/Zvi-Miklosh-Aharoni|Zvi Miklosh Aharoni]], [[People/Frida-Aharon|Frida Aharon]], [[People/Elias-Aharon|Elias Aharon]]
-**Families:** [[Families/Aharon|Aharon]]
 
 ## Biography
 

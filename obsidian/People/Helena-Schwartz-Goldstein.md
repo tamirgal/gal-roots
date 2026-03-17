@@ -13,11 +13,17 @@ children_id:
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1910
+**Born in:**
+**Families:** [[Families/Schwartz|Schwartz]], [[Families/Goldstein|Goldstein]]
+
 ## Family
 
 **Spouse:** [[People/Paul-Polie-Goldstein|Paul (Polie) Goldstein]]
 **Children:** [[People/Unknown-Goldstein|Unknown Goldstein]]
-**Families:** [[Families/Schwartz|Schwartz]], [[Families/Goldstein|Goldstein]]
 
 ## Biography
 

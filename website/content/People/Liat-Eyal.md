@@ -15,10 +15,16 @@ research_level: 1
 
 ![[attachments/pictures/eyal_liat.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1984-11-09
+**Born in:**
+**Families:** [[Families/Eyal|Eyal]]
+
 ## Family
 
 **Father:** [[People/Ariel-Eyal|Ariel Eyal]] | **Mother:** [[People/Tsipora-Steiner-Eyal|Tsipora Steiner Eyal]]
-**Families:** [[Families/Eyal|Eyal]]
 
 ## Biography
 

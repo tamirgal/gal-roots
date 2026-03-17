@@ -14,10 +14,16 @@ research_level: 1
 
 ![[attachments/pictures/Ovdat Shelly passport.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Varon|Varon]], [[Families/Ovdat|Ovdat]]
+
 ## Family
 
 **Spouse:** [[People/Alan-D-Ovdat|Alan D. Ovdat]]
-**Families:** [[Families/Varon|Varon]], [[Families/Ovdat|Ovdat]]
 
 ## Biography
 

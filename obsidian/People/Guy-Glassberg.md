@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/guy_glassberg.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1995-08-05
+**Born in:**
+**Families:** [[Families/Glassberg|Glassberg]]
+
 ## Family
 
 **Father:** [[People/Ofer-Glassberg|Ofer Glassberg]] | **Mother:** [[People/Ronit-Lublin-Glassberg|Ronit Lublin Glassberg]]
 **Siblings:** [[People/Tal-Glassberg|Tal Glassberg]]
-**Families:** [[Families/Glassberg|Glassberg]]
 
 ## Biography
 

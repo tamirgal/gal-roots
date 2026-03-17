@@ -17,11 +17,17 @@ research_level: 1
 
 ![[attachments/pictures/Saison Maya.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1984
+**Born in:**
+**Families:** [[Families/Saison|Saison]]
+
 ## Family
 
 **Father:** [[People/Isaac-Saison|Isaac Saison]] | **Mother:** [[People/Toula-Saison|Toula Saison]]
 **Siblings:** [[People/Tamar-Saison|Tamar Saison]]
-**Families:** [[Families/Saison|Saison]]
 
 ## Biography
 

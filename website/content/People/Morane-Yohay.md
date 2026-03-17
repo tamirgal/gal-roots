@@ -15,10 +15,16 @@ research_level: 1
 
 ![[attachments/pictures/Yohay Morane.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1980-08-18
+**Born in:**
+**Families:** [[Families/Yohay|Yohay]]
+
 ## Family
 
 **Father:** [[People/Moshe-Yohay|Moshe Yohay]] | **Mother:** [[People/Rachel|Rachel]]
-**Families:** [[Families/Yohay|Yohay]]
 
 ## Biography
 

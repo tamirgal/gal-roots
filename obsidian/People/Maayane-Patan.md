@@ -19,11 +19,17 @@ research_level: 2
 
 ![[attachments/pictures/Maayane seule.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 2001-12-11
+**Born in:**
+**Families:** [[Families/Patan|Patan]]
+
 ## Family
 
 **Father:** [[People/Sami-Patan|Sami Patan]] | **Mother:** [[People/Rahel-Talker-Patan|Rahel Talker Patan]]
 **Siblings:** [[People/Mary-Patan|Mary Patan]], [[People/Omri-Patan|Omri Patan]], [[People/Noam-Patan|Noam Patan]]
-**Families:** [[Families/Patan|Patan]]
 
 ## Biography
 You can't deny,..I'm pretty

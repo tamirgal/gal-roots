@@ -17,11 +17,17 @@ children_id:
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1943-12-17
+**Born in:**
+**Families:** [[Families/Blake|Blake]]
+
 ## Family
 
 **Spouse:** [[People/Rachel-Clyne-Blake|Rachel Clyne Blake]]
 **Children:** [[People/Victoria-Blake|Victoria Blake]], [[People/Rosanne-Blake|Rosanne Blake]], [[People/Charlotte-Blake|Charlotte Blake]]
-**Families:** [[Families/Blake|Blake]]
 
 ## Biography
 

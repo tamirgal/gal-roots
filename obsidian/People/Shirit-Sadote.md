@@ -10,11 +10,17 @@ sex: female
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1973-07-17
+**Born in:**
+**Families:** [[Families/Sadote|Sadote]]
+
 ## Family
 
 **Father:** [[People/Aharon-Sadote|Aharon Sadote]] | **Mother:** [[People/Gabriela-Kaminski-Sleppin|Gabriela Kaminski Sleppin]]
 **Siblings:** [[People/Revital-Sadote|Revital Sadote]]
-**Families:** [[Families/Sadote|Sadote]]
 
 ## Biography
 

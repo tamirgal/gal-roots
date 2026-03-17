@@ -15,11 +15,17 @@ children_id:
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1971-10-02
+**Born in:**
+**Families:** [[Families/Fried|Fried]]
+
 ## Family
 
 **Spouse:** [[People/David-Fried|David Fried]]
 **Children:** [[People/Zoi-Fried|Zoi Fried]], [[People/Tali-Fried|Tali Fried]]
-**Families:** [[Families/Fried|Fried]]
 
 ## Biography
 

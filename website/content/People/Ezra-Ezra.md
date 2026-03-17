@@ -9,11 +9,17 @@ sex: male
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Ezra|Ezra]]
+
 ## Family
 
 **Father:** [[People/Shaoul-Ezra|Shaoul Ezra]] | **Mother:** [[People/Bekhora-Sasson-Ezra|Bekhora Sasson Ezra]]
 **Siblings:** [[People/Joseph-Soussou-Ezra|Joseph Soussou Ezra]]
-**Families:** [[Families/Ezra|Ezra]]
 
 ## Biography
 

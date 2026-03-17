@@ -16,11 +16,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Tarzi|Tarzi]], [[Families/Attar|Attar]]
+
 ## Family
 
 **Spouse:** [[People/Emam-Attar|Emam Attar]]
 **Children:** [[People/Marietta-Attar-Sasson|Marietta Attar Sasson]], [[People/Aharon-Attar|Aharon Attar]], [[People/Nouzha-Attar-Betesh|Nouzha Attar Betesh]]
-**Families:** [[Families/Tarzi|Tarzi]], [[Families/Attar|Attar]]
 
 ## Biography
 

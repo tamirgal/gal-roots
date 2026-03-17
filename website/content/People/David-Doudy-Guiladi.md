@@ -20,11 +20,17 @@ research_level: 2
 
 ![[attachments/pictures/Guiladi David (Doudy).jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1968-06-18
+**Born in:**
+**Families:** [[Families/Guiladi|Guiladi]]
+
 ## Family
 
 **Spouse:** [[People/Keren-Itshaki-Guiladi|Keren Itshaki Guiladi]]
 **Children:** [[People/Eden-Guiladi|Eden Guiladi]]
-**Families:** [[Families/Guiladi|Guiladi]]
 
 ## Biography
 David Guiladi, married in [[Places/Israel]] to Keren Itshaki, on 29 August 1995.

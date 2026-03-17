@@ -17,11 +17,17 @@ children_id:
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1890
+**Born in:**
+**Families:** [[Families/Klein|Klein]]
+
 ## Family
 
 **Spouse:** [[People/Herman-Haim-Klein|Herman Haim Klein]]
 **Children:** [[People/Benyamin-Klein|Benyamin Klein]], [[People/Yehoshua-Klein|Yehoshua Klein]], [[People/Irenka-Klein|Irenka Klein]]
-**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 

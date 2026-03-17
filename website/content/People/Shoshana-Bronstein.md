@@ -9,10 +9,16 @@ sex: female
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Bronstein|Bronstein]]
+
 ## Family
 
 **Father:** [[People/Yacov-Bronstein|Yacov Bronstein]] | **Mother:** [[People/Tsipora-Bronstein|Tsipora Bronstein]]
-**Families:** [[Families/Bronstein|Bronstein]]
 
 ## Biography
 

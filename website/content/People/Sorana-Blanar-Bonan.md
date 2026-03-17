@@ -26,11 +26,17 @@ research_level: 2
 
 ![[attachments/pictures/Bonan passport Sorana.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1950-01-19
+**Born in:**
+**Families:** [[Families/Blanar|Blanar]], [[Families/Bonan|Bonan]]
+
 ## Family
 
 **Spouse:** [[People/Israel-Isi-Bonan|Israel Isi Bonan]]
 **Children:** [[People/Jacques-Bonan|Jacques Bonan]], [[People/Marc-Bonan|Marc Bonan]]
-**Families:** [[Families/Blanar|Blanar]], [[Families/Bonan|Bonan]]
 
 ## Biography
 I was born in Botosani, [[Places/Romania]] (January 19 1950) In 1962 , I immigrated to the [[Places/USA]], with my parents , Sully Blanar and Anie Blanar (nee Reichman) We had to leave under duress, after the Communist government took all our wealth and jailed my father for a couple of years. Married to [[Places/Israel]] Bonan , March 15 1975

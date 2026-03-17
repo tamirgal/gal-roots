@@ -8,10 +8,16 @@ sex: male
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Dub|Dub]]
+
 ## Family
 
 **Spouse:** [[People/Lenka-Aharon|Lenka Aharon]]
-**Families:** [[Families/Dub|Dub]]
 
 ## Biography
 

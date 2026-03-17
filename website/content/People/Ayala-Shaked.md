@@ -17,11 +17,17 @@ research_level: 2
 
 ![[attachments/pictures/shaked_ayala.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1990-10-05
+**Born in:**
+**Families:** [[Families/Shaked|Shaked]]
+
 ## Family
 
 **Father:** [[People/Ytshak-Itsik-Shaked|Ytshak (Itsik) Shaked]] | **Mother:** [[People/Ronit-Kalkstein-Shaked|Ronit Kalkstein Shaked]]
 **Siblings:** [[People/Maya-Shaked-Rabi|Maya Shaked Rabi]], [[People/Tamar-Shaked|Tamar Shaked]]
-**Families:** [[Families/Shaked|Shaked]]
 
 ## Biography
 Maya is born in [[Places/Timrat]] (Israel)

@@ -13,12 +13,18 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1890
+**Born in:**
+**Families:** [[Families/Ambar|Ambar]]
+
 ## Family
 
 **Father:** [[People/Menashe-Ambar|Menashe Ambar]] | **Mother:** [[People/Farha-Sasson-Ambar|Farha Sasson Ambar]]
 **Spouse:** [[People/Farha-Shohat-Ambar|Farha Shohat Ambar]]
 **Siblings:** [[People/Saada-Ambar-Bolafi|Saada Ambar Bolafi]], [[People/Simha-Ambar-Harari|Simha Ambar Harari]], [[People/Ezra-Ambar|Ezra Ambar]], [[People/Jeanne-Hannah-Ambar-Shammass-Shemesh|Jeanne (Hannah) Ambar Shammass (Shemesh)]], [[People/Rachel-Ambar-Levy|Rachel Ambar Levy]]
-**Families:** [[Families/Ambar|Ambar]]
 
 ## Biography
 

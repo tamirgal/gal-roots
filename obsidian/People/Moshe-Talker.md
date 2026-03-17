@@ -9,11 +9,17 @@ sex: male
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Talker|Talker]]
+
 ## Family
 
 **Father:** [[People/Shlomo-Talker|Shlomo Talker]] | **Mother:** [[People/Sarah-Talker|Sarah Talker]]
 **Siblings:** [[People/Pinhass-Talker|Pinhass Talker]], [[People/Batsheba-Talker-Berkovitz|Batsheba Talker Berkovitz]], [[People/Bentsion-Talker|Bentsion Talker]], [[People/Shmouel-Talker|Shmouel Talker]], [[People/Rahel-Talker-Patan|Rahel Talker Patan]]
-**Families:** [[Families/Talker|Talker]]
 
 ## Biography
 

@@ -13,10 +13,16 @@ research_level: 1
 
 ![[attachments/pictures/Abada France.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Abada|Abada]], [[Families/Ronen|Ronen]]
+
 ## Family
 
 **Spouse:** [[People/Elie-Lili-Abada-Ronen|Elie (Lili) Abada Ronen]]
-**Families:** [[Families/Abada|Abada]], [[Families/Ronen|Ronen]]
 
 ## Biography
 

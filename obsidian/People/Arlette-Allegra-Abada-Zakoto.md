@@ -22,13 +22,19 @@ research_level: 1
 
 ![[attachments/pictures/Zaccoto Allegra.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1920
+**Born in:**
+**Families:** [[Families/Abada|Abada]], [[Families/Zakoto|Zakoto]]
+
 ## Family
 
 **Father:** [[People/Menashe-Abada|Menashe Abada]] | **Mother:** [[People/Gorgia-Danous-Abada|Gorgia Danous Abada]]
 **Spouse:** [[People/Jacques-Zakoto|Jacques Zakoto]]
 **Siblings:** [[People/Victor-Abada-ind00327|Victor Abada]], [[People/Aimee-Abada-Sardass|Aimee Abada Sardass]], [[People/Elie-Lili-Abada-Ronen|Elie (Lili) Abada Ronen]], [[People/Edouard-Dolly-Abada|Edouard (Dolly) Abada]]
 **Children:** [[People/Camille-Zakoto|Camille Zakoto]]
-**Families:** [[Families/Abada|Abada]], [[Families/Zakoto|Zakoto]]
 
 ## Biography
 

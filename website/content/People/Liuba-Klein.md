@@ -17,11 +17,17 @@ children_id:
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1947-08-10
+**Born in:**
+**Families:** [[Families/Klein|Klein]]
+
 ## Family
 
 **Spouse:** [[People/Gabriel-Klein-1949|Gabriel Klein]]
 **Children:** [[People/Mark-Klein|Mark Klein]], [[People/Einat-Klein|Einat Klein]], [[People/Danny-Klein|Danny Klein]]
-**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 

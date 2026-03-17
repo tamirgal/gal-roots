@@ -20,13 +20,19 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Hayim-Abada|Hayim Abada]] | **Mother:** [[People/Esther-Attiya-Abada|Esther Attiya Abada]]
 **Spouse:** [[People/Sarah-Logassi-Abada|Sarah (Logassi) Abada]]
 **Siblings:** [[People/Regina-Jina-Abada-Shimon|Regina (Jina) (Abada) Shimon]], [[People/David-Abada-Ovdat|David (Abada) Ovdat]], [[People/Herzl-Abada-Ovdat|Herzl (Abada) Ovdat]], [[People/Rivka-Abada|Rivka Abada]], [[People/Sarah-Abada-Zeitouni|Sarah (Abada) Zeitouni]], [[People/Yosseph-Yossi-Abada-Ovdat|Yosseph (Yossi Abada) Ovdat]], [[People/Marcelle-Abada-Zeitouni|Marcelle (Abada) Zeitouni]]
 **Children:** [[People/Lital-Abada|Lital Abada]], [[People/Haim-Abada|Haim Abada]], [[People/Dana-Abada|Dana Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

@@ -22,11 +22,17 @@ research_level: 1
 
 ![[attachments/pictures/Ventura Sami.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1911
+**Born in:**
+**Families:** [[Families/Ventura|Ventura]]
+
 ## Family
 
 **Spouse:** [[People/Allegra-Abada-Ventura|Allegra Abada Ventura]]
 **Children:** [[People/Lina-Ventura|Lina Ventura]], [[People/Ety-Ventura|Ety Ventura]], [[People/Orly-Ventura|Orly Ventura]]
-**Families:** [[Families/Ventura|Ventura]]
 
 ## Biography
 

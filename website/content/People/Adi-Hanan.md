@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/Hanan Adi.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1985-05-26
+**Born in:**
+**Families:** [[Families/Hanan|Hanan]]
+
 ## Family
 
 **Father:** [[People/Moshe-Hanan|Moshe Hanan]] | **Mother:** [[People/Arlette-Wahba-Hanan|Arlette Wahba Hanan]]
 **Siblings:** [[People/Hayim-Hanan|Hayim Hanan]]
-**Families:** [[Families/Hanan|Hanan]]
 
 ## Biography
 

@@ -30,13 +30,19 @@ research_level: 2
 
 ![[attachments/pictures/Guiladi Keren.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1974-11-04
+**Born in:**
+**Families:** [[Families/Itshaki|Itshaki]], [[Families/Guiladi|Guiladi]]
+
 ## Family
 
 **Father:** [[People/Elie-Itshaki|Elie Itshaki]] | **Mother:** [[People/Vicky-Cohen-Itshaki|Vicky Cohen Itshaki]]
 **Spouse:** [[People/David-Doudy-Guiladi|David (Doudy) Guiladi]]
 **Siblings:** [[People/Yosseph-Yossi-Itshaki|Yosseph (Yossi) Itshaki]], [[People/Eyaal-Itshaki|Eyaal Itshaki]], [[People/Erez-Itshaki|Erez Itshaki]]
 **Children:** [[People/Eden-Guiladi|Eden Guiladi]]
-**Families:** [[Families/Itshaki|Itshaki]], [[Families/Guiladi|Guiladi]]
 
 ## Biography
 Keren Itshaki, married in [[Places/Israel]] to David Guiladi on, 29 August 1995.

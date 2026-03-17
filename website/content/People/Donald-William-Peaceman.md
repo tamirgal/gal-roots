@@ -25,13 +25,19 @@ research_level: 2
 
 ![[attachments/pictures/peaceman_donald.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1926-06-01
+**Born in:**
+**Families:** [[Families/Peaceman|Peaceman]]
+
 ## Family
 
 **Father:** [[People/Morris-Peaceman|Morris Peaceman]] | **Mother:** [[People/Ida-Rabinowitz-Peaceman|Ida Rabinowitz Peaceman]]
 **Spouse:** [[People/Ruth-Klein-Peaceman|Ruth Klein Peaceman]]
 **Siblings:** [[People/Howard-Peaceman|Howard Peaceman]]
 **Children:** [[People/Caren-Beth-Peaceman-Cowan|Caren Beth Peaceman Cowan]], [[People/Alan-Mark-Peaceman|Alan Mark Peaceman]]
-**Families:** [[Families/Peaceman|Peaceman]]
 
 ## Biography
 Lives in Huston, [[Places/Texas]].

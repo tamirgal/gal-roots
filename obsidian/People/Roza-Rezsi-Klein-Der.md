@@ -24,13 +24,19 @@ research_level: 1
 
 ![[attachments/pictures/der_rezsi.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1903
+**Born in:**
+**Families:** [[Families/Klein|Klein]], [[Families/Der|Der]]
+
 ## Family
 
 **Father:** [[People/Avraham-Izhak-Klein|Avraham-Izhak Klein]] | **Mother:** [[People/Hensha-Klein|Hensha Klein]]
 **Spouse:** [[People/Miksa-Der|Miksa Der]]
 **Siblings:** [[People/Moshe-Israel-Klein|Moshe Israel Klein]], [[People/Antonia-Klein-Goldstein|Antonia Klein Goldstein]], [[People/David-Klein|David Klein]], [[People/Bernard-Klein|Bernard Klein]], [[People/Yehuda-Klein|Yehuda Klein]]
 **Children:** [[People/Istvan-Pitue-Der|Istvan (Pitue) Der]]
-**Families:** [[Families/Klein|Klein]], [[Families/Der|Der]]
 
 ## Biography
 

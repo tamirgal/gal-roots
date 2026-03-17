@@ -16,11 +16,17 @@ research_level: 1
 
 ![[attachments/pictures/arnon_glassberg.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1967-07-31
+**Born in:**
+**Families:** [[Families/Glassberg|Glassberg]]
+
 ## Family
 
 **Father:** [[People/Galil-Glassberg|Galil Glassberg]] | **Mother:** [[People/Tsipora-Zuckerberger-Glassberg|Tsipora Zuckerberger Glassberg]]
 **Siblings:** [[People/Ofer-Glassberg|Ofer Glassberg]]
-**Families:** [[Families/Glassberg|Glassberg]]
 
 ## Biography
 

@@ -28,13 +28,19 @@ research_level: 1
 
 ![[attachments/pictures/friedrachel.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1946-12-21
+**Born in:**
+**Families:** [[Families/Aroni|Aroni]], [[Families/Fried|Fried]]
+
 ## Family
 
 **Father:** [[People/Henrik-Yeheskel-Aroni|Henrik (Yeheskel) Aroni]] | **Mother:** [[People/Ilus-Rivka-Davidovic-Aroni|Ilus Rivka Davidovic Aroni]]
 **Spouse:** [[People/Tab-Tibor-Fried|Tab (Tibor) Fried]]
 **Siblings:** [[People/Ben-Zion-Aroni|Ben-Zion Aroni]]
 **Children:** [[People/David-Fried|David Fried]], [[People/Elie-Fried|Elie Fried]], [[People/Debbie-Fried|Debbie Fried]]
-**Families:** [[Families/Aroni|Aroni]], [[Families/Fried|Fried]]
 
 ## Biography
 

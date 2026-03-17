@@ -32,13 +32,19 @@ research_level: 1
 
 ![[attachments/pictures/pic00367.0.blake_rachel.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1950-07-04
+**Born in:**
+**Families:** [[Families/Clyne|Clyne]], [[Families/Blake|Blake]]
+
 ## Family
 
 **Father:** [[People/Ondrej-Clyne|Ondrej Clyne]] | **Mother:** [[People/Ellen-Cooper-Clyne|Ellen Cooper Clyne]]
 **Spouse:** [[People/David-Blake|David Blake]]
 **Siblings:** [[People/Paula-Clyne-Ridley|Paula Clyne Ridley]], [[People/Charles-Clyne|Charles Clyne]]
 **Children:** [[People/Victoria-Blake|Victoria Blake]], [[People/Rosanne-Blake|Rosanne Blake]], [[People/Charlotte-Blake|Charlotte Blake]]
-**Families:** [[Families/Clyne|Clyne]], [[Families/Blake|Blake]]
 
 ## Biography
 

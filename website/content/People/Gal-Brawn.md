@@ -10,10 +10,16 @@ sex: female
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1998
+**Born in:**
+**Families:** [[Families/Brawn|Brawn]]
+
 ## Family
 
 **Father:** [[People/Sharon-Brawn|Sharon Brawn]] | **Mother:** [[People/Hagit-Wissotsky-Brawn|Hagit Wissotsky Brawn]]
-**Families:** [[Families/Brawn|Brawn]]
 
 ## Biography
 

@@ -31,13 +31,19 @@ research_level: 2
 
 ![[attachments/pictures/Abada Victor  2.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1931
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Moussa-Abada|Moussa Abada]] | **Mother:** [[People/Freha-Mekayess-Abada|Freha Mekayess Abada]]
 **Spouse:** [[People/Fortunee-Hanan-Abada|Fortunee Hanan Abada]]
 **Siblings:** [[People/Helene-Abada-Sasson|Helene Abada Sasson]], [[People/Esther-Abada|Esther Abada]], [[People/David-Doudou-Abada|David Doudou Abada]], [[People/Claire-Abada-Cohenca|Claire Abada Cohenca]], [[People/Yehezkel-Ernest-Abada|Yehezkel Ernest Abada]], [[People/Jacques-Abada|Jacques Abada]], [[People/Edith-Ida-Abada-Yohay|Edith (Ida) Abada Yohay]], [[People/Felix-Abada|Felix Abada]]
 **Children:** [[People/Esther-Ety-Abada|Esther Ety Abada]], [[People/Moshe-Abada-ind00505|Moshe Abada]], [[People/Clara-Abada|Clara Abada]], [[People/Orly-Abada-ind00503|Orly Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 Victor Abada est ne au [[Places/Cairo]] en1931. Marie a Fortunee Hanan en 1955, au [[Places/Cairo]], il travaille comme technicien dans une usine de metallurgie. En 1957, apres la guerre de Suez, ils quittent l'[[Places/Egypt]] avec leur premier enfant, et arrivent en [[Places/Israel]] a la maabara de Lod. Un certain temps, Victor travaille dans la metallurgie, mais change de profession et travaille a l'hotel Sheraton de [[Places/Tel Aviv]], jusqu'a sa retraite. Ils habitent a Petah-Tikva, mais demenagent pour Rishon Le Tsion. Trois autres enfants sont nes en [[Places/Israel]].

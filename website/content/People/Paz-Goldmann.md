@@ -10,11 +10,17 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1996-12-23
+**Born in:**
+**Families:** [[Families/Goldmann|Goldmann]]
+
 ## Family
 
 **Father:** [[People/Roni-Goldmann|Roni Goldmann]] | **Mother:** [[People/Efrat-Kessari-Goldmann|Efrat Kessari Goldmann]]
 **Siblings:** [[People/Lital-Goldmann|Lital Goldmann]]
-**Families:** [[Families/Goldmann|Goldmann]]
 
 ## Biography
 

@@ -16,11 +16,17 @@ research_level: 1
 
 ![[attachments/pictures/Lesser Emilie passport.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 2001-05-16
+**Born in:**
+**Families:** [[Families/Lesser|Lesser]]
+
 ## Family
 
 **Father:** [[People/Joshua-A-Lesser|Joshua A. Lesser]] | **Mother:** [[People/Tamara-J-Ovdat-Lesser|Tamara J. Ovdat Lesser]]
 **Siblings:** [[People/Daniel-E-Lesser|Daniel E Lesser]]
-**Families:** [[Families/Lesser|Lesser]]
 
 ## Biography
 

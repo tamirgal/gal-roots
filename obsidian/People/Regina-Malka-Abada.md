@@ -40,13 +40,19 @@ research_level: 2
 
 ![[attachments/pictures/Portrait Regina.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1895
+**Born in:**
+**Families:** [[Families/Malka|Malka]], [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Hougi-Malka|Hougi Malka]] | **Mother:** [[People/Massouda-Malka|Massouda Malka]]
 **Spouse:** [[People/Shaoul-Abada-1889|Shaoul Abada]]
 **Siblings:** [[People/Yehezkiel-Malka|Yehezkiel Malka]], [[People/Simha-Malka-Ghazal|Simha Malka Ghazal]]
 **Children:** [[People/Esther-Abada-Nefoussi|Esther Abada Nefoussi]], [[People/Alice-Abada-Abadi|Alice Abada Abadi]], [[People/David-Abada|David Abada]], [[People/Hayim-Abada-ind00281|Hayim Abada]], [[People/Joseph-Abada|Joseph Abada]], [[People/Arlette-Abada-Savdie|Arlette Abada Savdie]], [[People/Mary-Abada-Patan|Mary Abada Patan]], [[People/Ernest-Nisso-Abada|Ernest (Nisso) Abada]], [[People/Claude-Hayim-Abada|Claude (Hayim) Abada]]
-**Families:** [[Families/Malka|Malka]], [[Families/Abada|Abada]]
 
 ## Biography
 Regina Malka, mariee a Shaoul Abada au [[Places/Cairo]], ([[Places/Egypt]]), ou elle vecut avec son mari et ses enfants. Son mari mourut de "Phlebite",en Fevrier 1951, a l'hopital Israelite du [[Places/Cairo]] . Elle emigra en [[Places/Israel]] en 1957,... vecut parmis ses enfants, et mourut a Kiryat Hayim ([[Places/Haifa]]) en 1965.

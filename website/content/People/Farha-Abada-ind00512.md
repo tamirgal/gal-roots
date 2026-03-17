@@ -15,11 +15,17 @@ research_level: 2
 
 ![[attachments/pictures/Abada Farha.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Daoud-Abada|Daoud Abada]] | **Mother:** [[People/Regina-Abada|Regina Abada]]
 **Siblings:** [[People/Hayim-Abada|Hayim Abada]], [[People/Touna-Abada|Touna Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 Touna et sa soeur Farha, resterent en [[Places/Egypt]] et fonderent chacune sa famille. Apres la mort de leur pere, et le voyage definitif de leur frere Hayim pour [[Places/Israel]], elles resterent en [[Places/Egypt]]. Meme apres l'emigration de leur maman Regina pour [[Places/Israel]], elles sont restees en [[Places/Egypt]], et les relations avec elles sont rompues.

@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/Rebecca Mintz.JPG]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1986-06-16
+**Born in:**
+**Families:** [[Families/Mintz|Mintz]]
+
 ## Family
 
 **Father:** [[People/Paul-Mintz|Paul Mintz]] | **Mother:** [[People/Solange-Israel-Mintz|Solange Israel Mintz]]
 **Siblings:** [[People/Leah-Mintz|Leah Mintz]]
-**Families:** [[Families/Mintz|Mintz]]
 
 ## Biography
 

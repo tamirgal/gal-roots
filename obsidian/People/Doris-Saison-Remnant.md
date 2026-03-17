@@ -31,13 +31,19 @@ research_level: 2
 
 ![[attachments/pictures/Remnant Doris 1983.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1949-05-04
+**Born in:**
+**Families:** [[Families/Saison|Saison]], [[Families/Remnant|Remnant]]
+
 ## Family
 
 **Father:** [[People/Jacques-Sasson-Saison|Jacques Sasson Saison]] | **Mother:** [[People/Leonie-Mizrahi-Saison|Leonie Mizrahi Saison]]
 **Spouse:** [[People/Peter-John-Remnant|Peter John Remnant]]
 **Siblings:** [[People/Marlene-Saison-Barouh|Marlene Saison Barouh]], [[People/Andree-Deddy-Saison-Martins-de-Barros|Andree (Deddy) Saison Martins de Barros]], [[People/Isaac-Saison|Isaac Saison]]
 **Children:** [[People/Fiona-Remnant|Fiona Remnant]], [[People/David-Remnant|David Remnant]]
-**Families:** [[Families/Saison|Saison]], [[Families/Remnant|Remnant]]
 
 ## Biography
 Doris, la plus jeune enfant de Jacques et Leonie Sasson, nee au [[Places/Cairo]] ([[Places/Egypt]])le 4 Mai 1949. En 1957, elle emigre avec sa famille en [[Places/France]]. En 1970, elle voyage en Grande Bretagne, s'y installe , et se marie avec Peter Remnant le 15 Juillet 1972.

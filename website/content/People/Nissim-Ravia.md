@@ -31,12 +31,18 @@ research_level: 2
 
 ![[attachments/pictures/Ravia Nissim.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1932-02-11
+**Born in:**
+**Families:** [[Families/Ravia|Ravia]]
+
 ## Family
 
 **Father:** [[People/Haim-Vita-Rabie|Haim (Vita) Rabie]] | **Mother:** [[People/Helene-Mizrahi-Rabie|Helene (Mizrahi) Rabie]]
 **Spouse:** [[People/Miriam-Patan-Ravia|Miriam Patan Ravia]]
 **Children:** [[People/Hayim-Ravia|Hayim Ravia]], [[People/Ilana-Ravia-Messoubi|Ilana Ravia Messoubi]]
-**Families:** [[Families/Ravia|Ravia]]
 
 ## Biography
 NISSIM RAVIA, born in [[Places/Cairo]], the 11th of February 1932… Immigrated in [[Places/Israel]], with his family in 1949. After his military service, graduated from the Israeli University in [[Places/Tel Aviv]],(Economics), worked some years in important auditor offices and then opened his own private auditing office Married to Miriam Patan in [[Places/Tel Aviv]], on 27th September 1959…

@@ -16,11 +16,17 @@ research_level: 1
 
 ![[attachments/pictures/Cohen Tamar.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1985-03-14
+**Born in:**
+**Families:** [[Families/Cohen|Cohen]]
+
 ## Family
 
 **Father:** [[People/Moshe-Cohen|Moshe Cohen]] | **Mother:** [[People/Leah-Friedman-Cohen|Leah Friedman Cohen]]
 **Siblings:** [[People/Erez-Cohen|Erez Cohen]], [[People/Allon-Cohen|Allon Cohen]]
-**Families:** [[Families/Cohen|Cohen]]
 
 ## Biography
 

@@ -19,13 +19,19 @@ children_id:
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1972
+**Born in:**
+**Families:** [[Families/Nefoussi|Nefoussi]], [[Families/Tamir|Tamir]]
+
 ## Family
 
 **Father:** [[People/Shaoul-Nefoussi|Shaoul Nefoussi]] | **Mother:** [[People/Pnina-Vine-Nefoussi|Pnina Vine Nefoussi]]
 **Spouse:** [[People/Nahoum-Tamir|Nahoum Tamir]]
 **Siblings:** [[People/Moly-Shmouel-Nefoussi|Moly Shmouel Nefoussi]], [[People/Morane-Nefoussi|Morane Nefoussi]]
 **Children:** [[People/Oren-Tamir|Oren Tamir]], [[People/Noy-Tamir|Noy Tamir]]
-**Families:** [[Families/Nefoussi|Nefoussi]], [[Families/Tamir|Tamir]]
 
 ## Biography
 Guila Nefoussi, married to Nahoum Tamir in [[Places/Israel]], in 1992.

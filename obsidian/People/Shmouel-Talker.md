@@ -25,13 +25,19 @@ research_level: 1
 
 ![[attachments/pictures/Talker Shmouel 2.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Talker|Talker]]
+
 ## Family
 
 **Father:** [[People/Shlomo-Talker|Shlomo Talker]] | **Mother:** [[People/Sarah-Talker|Sarah Talker]]
 **Spouse:** [[People/Tova-Berkovitz-Talker|Tova Berkovitz Talker]]
 **Siblings:** [[People/Moshe-Talker|Moshe Talker]], [[People/Pinhass-Talker|Pinhass Talker]], [[People/Batsheba-Talker-Berkovitz|Batsheba Talker Berkovitz]], [[People/Bentsion-Talker|Bentsion Talker]], [[People/Rahel-Talker-Patan|Rahel Talker Patan]]
 **Children:** [[People/Lior-Talker|Lior Talker]], [[People/Lital-Talker|Lital Talker]], [[People/Almog-Talker|Almog Talker]]
-**Families:** [[Families/Talker|Talker]]
 
 ## Biography
 

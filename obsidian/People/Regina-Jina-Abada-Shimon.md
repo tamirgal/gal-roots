@@ -31,13 +31,19 @@ research_level: 2
 
 ![[attachments/pictures/shimon_regina_abada.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1951-05-07
+**Born in:**
+**Families:** [[Families/Shimon|Shimon]]
+
 ## Family
 
 **Father:** [[People/Hayim-Abada|Hayim Abada]] | **Mother:** [[People/Esther-Attiya-Abada|Esther Attiya Abada]]
 **Spouse:** [[People/Amir-Sami-Shimon|Amir (Sami) Shimon]]
 **Siblings:** [[People/David-Abada-Ovdat|David (Abada) Ovdat]], [[People/Herzl-Abada-Ovdat|Herzl (Abada) Ovdat]], [[People/Rivka-Abada|Rivka Abada]], [[People/Sarah-Abada-Zeitouni|Sarah (Abada) Zeitouni]], [[People/Yosseph-Yossi-Abada-Ovdat|Yosseph (Yossi Abada) Ovdat]], [[People/Elie-Abada|Elie Abada]], [[People/Marcelle-Abada-Zeitouni|Marcelle (Abada) Zeitouni]]
 **Children:** [[People/Chaim-Shimon|Chaim Shimon]], [[People/Liat-Shimon-Kokhavi|Liat (Shimon) Kokhavi]], [[People/Keren-Shimon-Haiman|Keren (Shimon) Haiman]], [[People/Maya-Shimon-Davida|Maya (Shimon) Davida]], [[People/Shani-Shimon|Shani Shimon]]
-**Families:** [[Families/Shimon|Shimon]]
 
 ## Biography
 Regina (Abada) Shimon is born in [[Places/Haifa]]. Israel on 7 May 1951 Married to Shimon Amir, in [[Places/Bat Galim]], [[Places/Haifa]], Israel - date:16-11-1970

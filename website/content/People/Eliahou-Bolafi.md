@@ -9,10 +9,16 @@ sex: male
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1876
+**Born in:**
+**Families:** [[Families/Bolafi|Bolafi]]
+
 ## Family
 
 **Spouse:** [[People/Saada-Ambar-Bolafi|Saada Ambar Bolafi]]
-**Families:** [[Families/Bolafi|Bolafi]]
 
 ## Biography
 Eliahu Bolafi, born in 1876, in [[Places/Italy]], married to Saada Ambar in [[Places/Cairo]], died in [[Places/Cairo]].

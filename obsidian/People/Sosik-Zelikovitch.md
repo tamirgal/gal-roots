@@ -10,10 +10,16 @@ sex: female
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1929
+**Born in:**
+**Families:** [[Families/Zelikovitch|Zelikovitch]]
+
 ## Family
 
 **Father:** [[People/Izaak-Zelikovitch|Izaak Zelikovitch]] | **Mother:** [[People/Rachel-Aharon-Zelikovitch|Rachel Aharon Zelikovitch]]
-**Families:** [[Families/Zelikovitch|Zelikovitch]]
 
 ## Biography
 

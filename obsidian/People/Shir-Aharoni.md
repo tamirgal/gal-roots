@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/passport_aharoni_shir.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1994
+**Born in:**
+**Families:** [[Families/Aharoni|Aharoni]]
+
 ## Family
 
 **Father:** [[People/Chaim-Aharoni|Chaim Aharoni]] | **Mother:** [[People/Judy-Mauer-Aharoni|Judy Mauer Aharoni]]
 **Siblings:** [[People/Rotem-Aharoni|Rotem Aharoni]], [[People/Maor-Aharoni|Maor Aharoni]], [[People/Shachar-Aharoni|Shachar Aharoni]], [[People/Hadar-Aharoni|Hadar Aharoni]], [[People/Gil-Aharoni|Gil Aharoni]]
-**Families:** [[Families/Aharoni|Aharoni]]
 
 ## Biography
 

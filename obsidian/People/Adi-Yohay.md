@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/Yohay Adi.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1994-10-17
+**Born in:**
+**Families:** [[Families/Yohay|Yohay]]
+
 ## Family
 
 **Father:** [[People/Rony-Yehoshua-Yohay|Rony Yehoshua Yohay]] | **Mother:** [[People/Nily-Raykh-Yohay|Nily Raykh Yohay]]
 **Siblings:** [[People/Shahar-Yohay|Shahar Yohay]]
-**Families:** [[Families/Yohay|Yohay]]
 
 ## Biography
 

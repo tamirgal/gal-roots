@@ -30,13 +30,19 @@ research_level: 2
 
 ![[attachments/pictures/Abada David.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1921-08-06
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Shaoul-Abada-1889|Shaoul Abada]] | **Mother:** [[People/Regina-Malka-Abada|Regina Malka Abada]]
 **Spouse:** [[People/Juliette-Pariente-Abada|Juliette Pariente Abada]]
 **Siblings:** [[People/Esther-Abada-Nefoussi|Esther Abada Nefoussi]], [[People/Alice-Abada-Abadi|Alice Abada Abadi]], [[People/Hayim-Abada-ind00281|Hayim Abada]], [[People/Joseph-Abada|Joseph Abada]], [[People/Arlette-Abada-Savdie|Arlette Abada Savdie]], [[People/Mary-Abada-Patan|Mary Abada Patan]], [[People/Ernest-Nisso-Abada|Ernest (Nisso) Abada]], [[People/Claude-Hayim-Abada|Claude (Hayim) Abada]]
 **Children:** [[People/Saul-Abada-Ovdat|Saul Abada Ovdat]], [[People/Miriam-Abada-Harari|Miriam Abada Harari]], [[People/Yacov-Abada|Yacov Abada]], [[People/Avner-Abada-Ovdat|Avner Abada Ovdat]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 Wedding of David Abada and Juliette Pariente in [[Places/Cairo]] [[Places/Egypt]] 24 0ctobre1943

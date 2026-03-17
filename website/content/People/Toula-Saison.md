@@ -22,11 +22,17 @@ research_level: 1
 
 ![[attachments/pictures/Saison Toula.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Saison|Saison]]
+
 ## Family
 
 **Spouse:** [[People/Isaac-Saison|Isaac Saison]]
 **Children:** [[People/Maya-Saison|Maya Saison]], [[People/Tamar-Saison|Tamar Saison]]
-**Families:** [[Families/Saison|Saison]]
 
 ## Biography
 

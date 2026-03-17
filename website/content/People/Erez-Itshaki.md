@@ -29,13 +29,19 @@ research_level: 2
 
 ![[attachments/pictures/Itshaki Erez 3.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1969-07-03
+**Born in:**
+**Families:** [[Families/Itshaki|Itshaki]]
+
 ## Family
 
 **Father:** [[People/Elie-Itshaki|Elie Itshaki]] | **Mother:** [[People/Vicky-Cohen-Itshaki|Vicky Cohen Itshaki]]
 **Spouse:** [[People/Sharon-Albanay-Itshaki|Sharon Albanay Itshaki]]
 **Siblings:** [[People/Yosseph-Yossi-Itshaki|Yosseph (Yossi) Itshaki]], [[People/Eyaal-Itshaki|Eyaal Itshaki]], [[People/Keren-Itshaki-Guiladi|Keren Itshaki Guiladi]]
 **Children:** [[People/Sapir-Itshaki|Sapir Itshaki]], [[People/Eyal-Itshaki|Eyal Itshaki]]
-**Families:** [[Families/Itshaki|Itshaki]]
 
 ## Biography
 Erez Itshaki, married in [[Places/Israel]] to Sharon Albanay, on 1.October 1995.

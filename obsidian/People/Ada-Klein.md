@@ -12,11 +12,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Klein|Klein]]
+
 ## Family
 
 **Spouse:** [[People/Andrei-Klein|Andrei Klein]]
 **Children:** [[People/Amit-Klein|Amit Klein]]
-**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 

@@ -27,11 +27,17 @@ research_level: 2
 
 ![[attachments/pictures/2014shakedbirthday3.jpg]]
 
+## Details
+
+**Hebrew Name:** שקד גל
+**Birthday:** 2012-03-11
+**Born in:**
+**Families:** [[Families/Gal|Gal]]
+
 ## Family
 
 **Father:** [[People/Tamir-Gal|Tamir Gal]] | **Mother:** [[People/Efrat-Glicksman-Gal|Efrat Glicksman Gal]]
 **Siblings:** [[People/Nadav-Gal|Nadav Gal]], [[People/Mika-Gal|Mika Gal]]
-**Families:** [[Families/Gal|Gal]]
 
 ## Biography
 Shaked Gal, born (11/3/2012) in [[Places/Ramat Gan]], Israel.

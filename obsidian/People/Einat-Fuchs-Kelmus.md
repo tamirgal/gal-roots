@@ -23,13 +23,19 @@ research_level: 1
 
 ![[attachments/pictures/fuchs__einat.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1977-04-06
+**Born in:**
+**Families:** [[Families/Fuchs|Fuchs]], [[Families/Kelmus|Kelmus]]
+
 ## Family
 
 **Father:** [[People/Shabetay-Fuchs|Shabetay Fuchs]] | **Mother:** [[People/Ahuva-Gesthatter-Fuchs|Ahuva Gesthatter Fuchs]]
 **Spouse:** [[People/Aviel-Kelmus|Aviel Kelmus]]
 **Siblings:** [[People/Tamar-Fuchs|Tamar Fuchs]], [[People/Aviad-Fuchs|Aviad Fuchs]]
 **Children:** [[People/Yuval-Kelmus|Yuval Kelmus]]
-**Families:** [[Families/Fuchs|Fuchs]], [[Families/Kelmus|Kelmus]]
 
 ## Biography
 

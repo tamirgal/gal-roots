@@ -33,11 +33,17 @@ research_level: 2
 
 ![[attachments/pictures/passport_adi_1.jpg]]
 
+## Details
+
+**Hebrew Name:** עדי דולב גל
+**Birthday:** 1978-08-25
+**Born in:**
+**Families:** [[Families/Dolev|Dolev]], [[Families/Gal|Gal]]
+
 ## Family
 
 **Spouse:** [[People/Asaf-Gal|Asaf Gal]]
 **Children:** [[People/Shahar-Gal|Shahar Gal]], [[People/Yael-Gal|Yael Gal]], [[People/Ori-Gal|Ori Gal]]
-**Families:** [[Families/Dolev|Dolev]], [[Families/Gal|Gal]]
 
 ## Biography
 Born in Beer-Sheba, Israel and raised in Kibbutz Hatzerim. Daughter of Tzvi and (the late) Rivka Dolev. Has two younger brothers - Chen and Shay. She served as an instructor and commander in-charge of Air Traffic Control Course in the Israeli Air force. After touring East Asia for a while, she studied in the Technion, and graduated in Computer Science and Mathematics as well as in Science Education (Mathematics). After graduation she worked in several Hi-Tech companies as a software engineer. On 21st of August 2008, she married Asaf in Kibbutz Hatzerim. Together they traveled to Scotland, Canary Islands and spent their honeymoon in Costa Rica. On 25th of October 2009 they had their beautiful first daughter: Shahar.

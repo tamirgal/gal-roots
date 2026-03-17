@@ -10,11 +10,17 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1975-05-26
+**Born in:**
+**Families:** [[Families/Harari|Harari]]
+
 ## Family
 
 **Father:** [[People/Rafi-Harari|Rafi Harari]] | **Mother:** [[People/Miriam-Abada-Harari|Miriam Abada Harari]]
 **Siblings:** [[People/Ravit-Harari-Caspi|Ravit Harari Caspi]], [[People/Rinat-Harari|Rinat Harari]]
-**Families:** [[Families/Harari|Harari]]
 
 ## Biography
 

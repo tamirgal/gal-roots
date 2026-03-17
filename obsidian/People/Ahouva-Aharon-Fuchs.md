@@ -25,13 +25,19 @@ research_level: 1
 
 ![[attachments/pictures/aharon_ahuva_fuchs.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1917-09-20
+**Born in:**
+**Families:** [[Families/Aharon|Aharon]], [[Families/Fuchs|Fuchs]]
+
 ## Family
 
 **Father:** [[People/Shabtay-Aharon|Shabtay Aharon]] | **Mother:** [[People/Tsipora-Zuckerberger-Aharon|Tsipora Zuckerberger Aharon]]
 **Spouse:** [[People/Moshe-Fuchs|Moshe Fuchs]]
 **Siblings:** [[People/Avigdor-Zuckerberger|Avigdor Zuckerberger]], [[People/Arie-Leopold-Aharon|Arie Leopold Aharon]], [[People/Mordechay-Aharon|Mordechay Aharon]], [[People/Leah-Aharon-Steiner|Leah Aharon Steiner]]
 **Children:** [[People/Chaya-Fuchs|Chaya Fuchs]], [[People/Shabetay-Fuchs|Shabetay Fuchs]]
-**Families:** [[Families/Aharon|Aharon]], [[Families/Fuchs|Fuchs]]
 
 ## Biography
 

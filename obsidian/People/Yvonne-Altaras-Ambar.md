@@ -9,10 +9,16 @@ sex: female
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1902
+**Born in:**
+**Families:** [[Families/Altaras|Altaras]], [[Families/Ambar|Ambar]]
+
 ## Family
 
 **Spouse:** [[People/Ezra-Ambar|Ezra Ambar]]
-**Families:** [[Families/Altaras|Altaras]], [[Families/Ambar|Ambar]]
 
 ## Biography
 Yvonne Altaras, is born in [[Places/Aleppo]],[[Places/Syria]], in 1902.

@@ -10,10 +10,16 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1989
+**Born in:**
+**Families:** [[Families/Klein|Klein]]
+
 ## Family
 
 **Father:** [[People/Andrei-Klein|Andrei Klein]] | **Mother:** [[People/Ada-Klein|Ada Klein]]
-**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 

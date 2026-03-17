@@ -26,13 +26,19 @@ research_level: 2
 
 ![[attachments/pictures/Nefoussi Shaoul.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1946
+**Born in:**
+**Families:** [[Families/Nefoussi|Nefoussi]]
+
 ## Family
 
 **Father:** [[People/Samuel-Nefoussi|Samuel Nefoussi]] | **Mother:** [[People/Esther-Abada-Nefoussi|Esther Abada Nefoussi]]
 **Spouse:** [[People/Pnina-Vine-Nefoussi|Pnina Vine Nefoussi]]
 **Siblings:** [[People/Lina-Nefoussi-Brawn|Lina Nefoussi Brawn]], [[People/Elie-Nefoussi-Niv|Elie Nefoussi Niv]], [[People/Regy-Nefoussi-Fuchs|Regy Nefoussi Fuchs]]
 **Children:** [[People/Guila-Nefoussi-Tamir|Guila Nefoussi Tamir]], [[People/Moly-Shmouel-Nefoussi|Moly Shmouel Nefoussi]], [[People/Morane-Nefoussi|Morane Nefoussi]]
-**Families:** [[Families/Nefoussi|Nefoussi]]
 
 ## Biography
 Shaoul Nefoussi, married to Pnina Vine in [[Places/Israel]], in 1970

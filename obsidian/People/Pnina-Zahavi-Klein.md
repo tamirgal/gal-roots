@@ -17,11 +17,17 @@ children_id:
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1944-11-17
+**Born in:**
+**Families:** [[Families/Zahavi|Zahavi]], [[Families/Klein|Klein]]
+
 ## Family
 
 **Spouse:** [[People/Raphael-Klein|Raphael Klein]]
 **Children:** [[People/Ophir-Klein|Ophir Klein]], [[People/Doron-Klein|Doron Klein]], [[People/Yonathan-Klein|Yonathan Klein]]
-**Families:** [[Families/Zahavi|Zahavi]], [[Families/Klein|Klein]]
 
 ## Biography
 

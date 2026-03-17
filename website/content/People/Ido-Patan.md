@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/Patan Ido.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1997-08-25
+**Born in:**
+**Families:** [[Families/Patan|Patan]]
+
 ## Family
 
 **Father:** [[People/Ilan-Patan|Ilan Patan]] | **Mother:** [[People/Orly-Patan|Orly Patan]]
 **Siblings:** [[People/Nir-Patan|Nir Patan]]
-**Families:** [[Families/Patan|Patan]]
 
 ## Biography
 

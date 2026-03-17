@@ -19,13 +19,19 @@ children_id:
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1903
+**Born in:**
+**Families:** [[Families/Klein|Klein]]
+
 ## Family
 
 **Father:** [[People/Shmuel-Klein|Shmuel Klein]] | **Mother:** [[People/Malka-Klein|Malka Klein]]
 **Spouse:** [[People/Yulanda-Weinberger-Klein|Yulanda Weinberger Klein]]
 **Siblings:** [[People/Naphtali-Klein|Naphtali Klein]]
 **Children:** [[People/Thomas-Klein-Clyne|Thomas Klein Clyne]], [[People/Louis-Klein|Louis Klein]]
-**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 Lived and died in [[Places/Uzhgorod]]. At certain time was the under-secretary of the Jewish Organization in [[Places/Uzhgorod]].

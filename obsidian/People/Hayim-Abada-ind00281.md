@@ -14,11 +14,17 @@ research_level: 1
 
 ![[attachments/pictures/Hayim Abada.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Shaoul-Abada-1889|Shaoul Abada]] | **Mother:** [[People/Regina-Malka-Abada|Regina Malka Abada]]
 **Siblings:** [[People/Esther-Abada-Nefoussi|Esther Abada Nefoussi]], [[People/Alice-Abada-Abadi|Alice Abada Abadi]], [[People/David-Abada|David Abada]], [[People/Joseph-Abada|Joseph Abada]], [[People/Arlette-Abada-Savdie|Arlette Abada Savdie]], [[People/Mary-Abada-Patan|Mary Abada Patan]], [[People/Ernest-Nisso-Abada|Ernest (Nisso) Abada]], [[People/Claude-Hayim-Abada|Claude (Hayim) Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

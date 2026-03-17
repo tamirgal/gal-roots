@@ -14,11 +14,17 @@ research_level: 1
 
 ![[attachments/pictures/Talker BenZion.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Talker|Talker]]
+
 ## Family
 
 **Father:** [[People/Shlomo-Talker|Shlomo Talker]] | **Mother:** [[People/Sarah-Talker|Sarah Talker]]
 **Siblings:** [[People/Moshe-Talker|Moshe Talker]], [[People/Pinhass-Talker|Pinhass Talker]], [[People/Batsheba-Talker-Berkovitz|Batsheba Talker Berkovitz]], [[People/Shmouel-Talker|Shmouel Talker]], [[People/Rahel-Talker-Patan|Rahel Talker Patan]]
-**Families:** [[Families/Talker|Talker]]
 
 ## Biography
 

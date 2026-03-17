@@ -27,11 +27,17 @@ research_level: 2
 
 ![[attachments/pictures/add photo male.JPG]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Levy|Levy]]
+
 ## Family
 
 **Spouse:** [[People/Aziza-Abed-Levy|Aziza (Abed) Levy]]
 **Children:** [[People/Nouri-Levy|Nouri Levy]], [[People/Nagy-Levy|Nagy Levy]], [[People/Hanina-Levy|Hanina Levy]], [[People/Loula-Levy|Loula Levy]], [[People/Nathan-Nazem-Levy|Nathan (Nazem) Levy]], [[People/Lea-Levy|Lea Levy]]
-**Families:** [[Families/Levy|Levy]]
 
 ## Biography
 Ezra Levy, born in [[Places/Baghdad]] ([[Places/Iraq]]), married to Aziza Abed. They have 6 children

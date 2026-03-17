@@ -21,12 +21,18 @@ research_level: 2
 
 ![[attachments/pictures/Ovdat Alan passport.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1974-09-30
+**Born in:**
+**Families:** [[Families/Ovdat|Ovdat]]
+
 ## Family
 
 **Father:** [[People/Saul-Abada-Ovdat|Saul Abada Ovdat]] | **Mother:** [[People/Beverly-M-Snarch-Ovdat|Beverly M. Snarch Ovdat]]
 **Spouse:** [[People/Shelly-Varon-Ovdat|Shelly Varon Ovdat]]
 **Siblings:** [[People/Tamara-J-Ovdat-Lesser|Tamara J. Ovdat Lesser]]
-**Families:** [[Families/Ovdat|Ovdat]]
 
 ## Biography
 Born on September 30 - 1974 ,... Grew up in Agoura hills, graduated from GEORGETOWN University {Washington) . Married to Shelly Varon.

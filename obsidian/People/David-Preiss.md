@@ -14,11 +14,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Preiss|Preiss]]
+
 ## Family
 
 **Spouse:** [[People/Monique-Aharon-Preiss|Monique Aharon Preiss]]
 **Children:** [[People/Nicole-Preiss|Nicole Preiss]], [[People/Maya-Preiss|Maya Preiss]]
-**Families:** [[Families/Preiss|Preiss]]
 
 ## Biography
 

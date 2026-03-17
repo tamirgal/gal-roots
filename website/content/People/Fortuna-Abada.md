@@ -18,11 +18,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Spouse:** [[People/Abdallah-Abada|Abdallah Abada]]
 **Children:** [[People/Esther-Abada-ind00359|Esther Abada]], [[People/Renee-Abada|Renee Abada]], [[People/Lucy-Abada|Lucy Abada]], [[People/Lolla-Abada|Lolla Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

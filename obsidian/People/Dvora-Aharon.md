@@ -13,11 +13,17 @@ children_id:
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1914
+**Born in:**
+**Families:** [[Families/Aharon|Aharon]]
+
 ## Family
 
 **Spouse:** [[People/Mordechai-Aharon|Mordechai Aharon]]
 **Children:** [[People/Abraham-Aharon|Abraham Aharon]]
-**Families:** [[Families/Aharon|Aharon]]
 
 ## Biography
 Dvora Aharon and her son Abraham, both died in Mouthausen nazi extermination camp

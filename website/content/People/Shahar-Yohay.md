@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/Yohay Shahar.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1991-09-03
+**Born in:**
+**Families:** [[Families/Yohay|Yohay]]
+
 ## Family
 
 **Father:** [[People/Rony-Yehoshua-Yohay|Rony Yehoshua Yohay]] | **Mother:** [[People/Nily-Raykh-Yohay|Nily Raykh Yohay]]
 **Siblings:** [[People/Adi-Yohay|Adi Yohay]]
-**Families:** [[Families/Yohay|Yohay]]
 
 ## Biography
 

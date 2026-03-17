@@ -22,11 +22,17 @@ research_level: 1
 
 ![[attachments/pictures/Abada Gili.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1962-04-12
+**Born in:**
+**Families:** [[Families/Yashar|Yashar]], [[Families/Abada|Abada]]
+
 ## Family
 
 **Spouse:** [[People/Moshe-Abada|Moshe Abada]]
 **Children:** [[People/Daniel-Abada|Daniel Abada]], [[People/Gay-Abada|Gay Abada]], [[People/Yair-Abada|Yair Abada]]
-**Families:** [[Families/Yashar|Yashar]], [[Families/Abada|Abada]]
 
 ## Biography
 

@@ -17,11 +17,17 @@ research_level: 1
 
 ![[attachments/pictures/clyne_jonathan.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1979-11-25
+**Born in:**
+**Families:** [[Families/Clyne|Clyne]]
+
 ## Family
 
 **Father:** [[People/Charles-Clyne|Charles Clyne]] | **Mother:** [[People/Elizabeth-Heagney-Clyne|Elizabeth Heagney Clyne]]
 **Siblings:** [[People/Alexandra-Clyne|Alexandra Clyne]], [[People/Suzanne-Clyne|Suzanne Clyne]]
-**Families:** [[Families/Clyne|Clyne]]
 
 ## Biography
 

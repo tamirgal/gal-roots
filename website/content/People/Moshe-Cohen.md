@@ -27,13 +27,19 @@ research_level: 2
 
 ![[attachments/pictures/Cohen Moshe junior 2.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1956-03-11
+**Born in:**
+**Families:** [[Families/Cohen|Cohen]]
+
 ## Family
 
 **Father:** [[People/David-Cohen|David Cohen]] | **Mother:** [[People/Mary-Ruben-Cohen|Mary Ruben Cohen]]
 **Spouse:** [[People/Leah-Friedman-Cohen|Leah Friedman Cohen]]
 **Siblings:** [[People/Esther-Etty-Cohen-Laniado|Esther (Etty) Cohen Laniado]], [[People/Rony-Cohen|Rony Cohen]]
 **Children:** [[People/Tamar-Cohen|Tamar Cohen]], [[People/Erez-Cohen|Erez Cohen]], [[People/Allon-Cohen|Allon Cohen]]
-**Families:** [[Families/Cohen|Cohen]]
 
 ## Biography
 Moshe Cohen, married to Leah, 31 May 1983. Living in Los Angeles.

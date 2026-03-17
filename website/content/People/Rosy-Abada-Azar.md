@@ -27,12 +27,18 @@ research_level: 1
 
 ![[attachments/pictures/Azar Rosy Abada.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1951-05-21
+**Born in:**
+**Families:** [[Families/Abada|Abada]], [[Families/Azar|Azar]]
+
 ## Family
 
 **Father:** [[People/Albert-Abada|Albert Abada]] | **Mother:** [[People/Daisy-Seroussi-Abada|Daisy Seroussi Abada]]
 **Spouse:** [[People/Yehoshuah-Azar|Yehoshuah Azar]]
 **Children:** [[People/Nitsa-Azar|Nitsa Azar]], [[People/David-Azar|David Azar]], [[People/Ehoud-Azar|Ehoud Azar]]
-**Families:** [[Families/Abada|Abada]], [[Families/Azar|Azar]]
 
 ## Biography
 

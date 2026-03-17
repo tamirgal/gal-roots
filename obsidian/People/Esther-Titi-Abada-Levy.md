@@ -29,13 +29,19 @@ research_level: 2
 
 ![[attachments/pictures/portrait Titi.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1957-02-21
+**Born in:**
+**Families:** [[Families/Abada|Abada]], [[Families/Levy|Levy]]
+
 ## Family
 
 **Father:** [[People/Ernest-Nisso-Abada|Ernest (Nisso) Abada]] | **Mother:** [[People/Liliane-Abada|Liliane Abada]]
 **Spouse:** [[People/Bension-Bensi-Levy|Bension Bensi Levy]]
 **Siblings:** [[People/Avi-Abada|Avi Abada]]
 **Children:** [[People/Gal-Levy|Gal Levy]], [[People/Eyal-Levy|Eyal Levy]]
-**Families:** [[Families/Abada|Abada]], [[Families/Levy|Levy]]
 
 ## Biography
 Photo pise chez Sami et Rahel a [[Places/Karmiel]] ,... Avril 2002 .

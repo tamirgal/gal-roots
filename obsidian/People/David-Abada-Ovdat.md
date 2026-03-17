@@ -24,13 +24,19 @@ research_level: 1
 
 ![[attachments/pictures/BarMitzva Abada David.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Ovdat|Ovdat]]
+
 ## Family
 
 **Father:** [[People/Hayim-Abada|Hayim Abada]] | **Mother:** [[People/Esther-Attiya-Abada|Esther Attiya Abada]]
 **Spouse:** [[People/Yossefa-Barazani-Ovdat|Yossefa (Barazani) Ovdat]]
 **Siblings:** [[People/Regina-Jina-Abada-Shimon|Regina (Jina) (Abada) Shimon]], [[People/Herzl-Abada-Ovdat|Herzl (Abada) Ovdat]], [[People/Rivka-Abada|Rivka Abada]], [[People/Sarah-Abada-Zeitouni|Sarah (Abada) Zeitouni]], [[People/Yosseph-Yossi-Abada-Ovdat|Yosseph (Yossi Abada) Ovdat]], [[People/Elie-Abada|Elie Abada]], [[People/Marcelle-Abada-Zeitouni|Marcelle (Abada) Zeitouni]]
 **Children:** [[People/Tal-Ovdat|Tal Ovdat]], [[People/Haim-Ovdat|Haim Ovdat]]
-**Families:** [[Families/Ovdat|Ovdat]]
 
 ## Biography
 

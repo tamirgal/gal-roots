@@ -9,11 +9,17 @@ sex: female
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Erlich|Erlich]]
+
 ## Family
 
 **Father:** [[People/Joseph-Erlich|Joseph Erlich]] | **Mother:** [[People/Michelle-Schwartz-Erlich|Michelle Schwartz Erlich]]
 **Siblings:** [[People/Max-Erlich|Max Erlich]]
-**Families:** [[Families/Erlich|Erlich]]
 
 ## Biography
 

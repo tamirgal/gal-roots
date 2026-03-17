@@ -9,10 +9,16 @@ sex: male
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Goldstein|Goldstein]]
+
 ## Family
 
 **Father:** [[People/Paul-Polie-Goldstein|Paul (Polie) Goldstein]] | **Mother:** [[People/Helena-Schwartz-Goldstein|Helena Schwartz Goldstein]]
-**Families:** [[Families/Goldstein|Goldstein]]
 
 ## Biography
 

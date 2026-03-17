@@ -20,11 +20,17 @@ research_level: 1
 
 ![[attachments/pictures/fuchs_moshe.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1909-05-01
+**Born in:**
+**Families:** [[Families/Fuchs|Fuchs]]
+
 ## Family
 
 **Spouse:** [[People/Ahouva-Aharon-Fuchs|Ahouva Aharon Fuchs]]
 **Children:** [[People/Chaya-Fuchs|Chaya Fuchs]], [[People/Shabetay-Fuchs|Shabetay Fuchs]]
-**Families:** [[Families/Fuchs|Fuchs]]
 
 ## Biography
 

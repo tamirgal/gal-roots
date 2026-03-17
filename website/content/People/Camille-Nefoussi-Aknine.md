@@ -18,13 +18,19 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Nefoussi|Nefoussi]], [[Families/Aknine|Aknine]]
+
 ## Family
 
 **Father:** [[People/Elie-Nefoussi|Elie Nefoussi]] | **Mother:** [[People/Nefoussi|Nefoussi]]
 **Spouse:** [[People/Joseph-Aknine|Joseph Aknine]]
 **Siblings:** [[People/Samuel-Nefoussi|Samuel Nefoussi]], [[People/Regine-Nefoussi-Brakha|Regine Nefoussi Brakha]]
 **Children:** [[People/Rahel-Aknine|Rahel Aknine]], [[People/Bekhor-Aknine|Bekhor Aknine]]
-**Families:** [[Families/Nefoussi|Nefoussi]], [[Families/Aknine|Aknine]]
 
 ## Biography
 

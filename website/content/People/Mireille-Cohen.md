@@ -17,11 +17,17 @@ research_level: 2
 
 ![[attachments/pictures/Cohen Mireille.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1936-07-25
+**Born in:**
+**Families:** [[Families/Cohen|Cohen]]
+
 ## Family
 
 **Father:** [[People/Maurice-Moshe-Cohen|Maurice (Moshe) Cohen]] | **Mother:** [[People/Esther-Sasson-Cohen|Esther Sasson Cohen]]
 **Siblings:** [[People/David-Cohen|David Cohen]], [[People/Rosette-Rosy-Cohen-Hanan|Rosette (Rosy) Cohen Hanan]], [[People/Itshak-Zako-Cohen|Itshak (Zako) Cohen]], [[People/Vicky-Cohen-Itshaki|Vicky Cohen Itshaki]]
-**Families:** [[Families/Cohen|Cohen]]
 
 ## Biography
 Born in [[Places/Cairo]] ([[Places/Egypt]]), 25 July 1936. In December 1949, the family emigrated to [[Places/Israel]] where they lived in a new agricultural settlement called "[[Places/Beit Zait]]", It is a splendid place , in the heart of the beautiful mountains surrounding [[Places/Jerusalem]]. Some years later, Mireille Cohen died after a long and painful sickness, aged 19.

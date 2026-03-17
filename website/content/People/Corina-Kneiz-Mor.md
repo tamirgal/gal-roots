@@ -25,13 +25,19 @@ research_level: 1
 
 ![[attachments/pictures/corina_mor_passport.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1972-01-01
+**Born in:**
+**Families:** [[Families/Kneiz|Kneiz]], [[Families/Mor|Mor]]
+
 ## Family
 
 **Father:** [[People/Ditmar-Kneiz|Ditmar Kneiz]] | **Mother:** [[People/Judith-Hirsch-Kneiz|Judith Hirsch Kneiz]]
 **Spouse:** [[People/Itzhak-Mor|Itzhak Mor]]
 **Siblings:** [[People/Claudia-Kneiz|Claudia Kneiz]]
 **Children:** [[People/Anthony-Mor|Anthony Mor]], [[People/Milan-Mor|Milan Mor]]
-**Families:** [[Families/Kneiz|Kneiz]], [[Families/Mor|Mor]]
 
 ## Biography
 

@@ -22,11 +22,17 @@ research_level: 2
 
 ![[attachments/pictures/Abada Esty 1.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1951-10-05
+**Born in:**
+**Families:** [[Families/Yacobinsky|Yacobinsky]], [[Families/Abada|Abada]]
+
 ## Family
 
 **Spouse:** [[People/Yacov-Abada|Yacov Abada]]
 **Children:** [[People/Einav-Abada-Avieli|Einav Abada Avieli]], [[People/Adi-Abada|Adi Abada]], [[People/Omer-Abada|Omer Abada]]
-**Families:** [[Families/Yacobinsky|Yacobinsky]], [[Families/Abada|Abada]]
 
 ## Biography
 Wedding of Esther Yacobinsky, and Yacov Abada, in [[Places/Israel]] 10 December 1972

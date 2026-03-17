@@ -10,11 +10,17 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1933
+**Born in:**
+**Families:** [[Families/Klein|Klein]]
+
 ## Family
 
 **Father:** [[People/Shimon-Klein|Shimon Klein]] | **Mother:** [[People/Yulanda-Weinberger-Klein|Yulanda Weinberger Klein]]
 **Siblings:** [[People/Thomas-Klein-Clyne|Thomas Klein Clyne]]
-**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 

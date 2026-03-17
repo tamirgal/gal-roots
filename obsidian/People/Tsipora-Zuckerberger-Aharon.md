@@ -26,11 +26,17 @@ research_level: 1
 
 ![[attachments/pictures/aharon_tzipora.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Zuckerberger|Zuckerberger]], [[Families/Aharon|Aharon]]
+
 ## Family
 
 **Spouse:** [[People/Shabtay-Aharon|Shabtay Aharon]]
 **Children:** [[People/Avigdor-Zuckerberger|Avigdor Zuckerberger]], [[People/Ahouva-Aharon-Fuchs|Ahouva Aharon Fuchs]], [[People/Arie-Leopold-Aharon|Arie Leopold Aharon]], [[People/Mordechay-Aharon|Mordechay Aharon]], [[People/Leah-Aharon-Steiner|Leah Aharon Steiner]]
-**Families:** [[Families/Zuckerberger|Zuckerberger]], [[Families/Aharon|Aharon]]
 
 ## Biography
 

@@ -28,13 +28,19 @@ research_level: 2
 
 ![[attachments/pictures/phyllisfenstermacher_janet.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1961-02-19
+**Born in:**
+**Families:** [[Families/Hirschman|Hirschman]], [[Families/Fenstermacher|Fenstermacher]]
+
 ## Family
 
 **Father:** [[People/Howard-Hirschman|Howard Hirschman]] | **Mother:** [[People/Phyllis-Hirschman-Newmark|Phyllis Hirschman Newmark]]
 **Spouse:** [[People/Hans-Fenstermacher|Hans Fenstermacher]]
 **Siblings:** [[People/Ellen-Mina-Hirschman-Miller|Ellen Mina Hirschman Miller]], [[People/Dale-Linda-Hirschman|Dale Linda Hirschman]]
 **Children:** [[People/Amy-Claire-Fenstermacher|Amy Claire Fenstermacher]], [[People/Lucas-Daniel-Fenstermacher|Lucas Daniel Fenstermacher]], [[People/Samuel-Mark-Fenstermacher|Samuel Mark Fenstermacher]]
-**Families:** [[Families/Hirschman|Hirschman]], [[Families/Fenstermacher|Fenstermacher]]
 
 ## Biography
 Janet was born and raised in Maplewood, [[Places/New Jersey]]. Attended Tufts College of Engineering for undergraduate study in chemical engineering and got a M.S. in chemical engineering at Rutgers University in [[Places/New Jersey]]. Later on Janet received her doctorate in chemical engineering in 1991. Since 1989 Janet worked in the industry before she decided in 1997 that she needed to be home with the kids for awhile. Later on Janet decided it was time to prepare for the career that she always wanted and has gotten a teaching certificate. Since 2001, Janet is teaching at the local high school.

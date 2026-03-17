@@ -22,11 +22,17 @@ research_level: 1
 
 ![[attachments/pictures/shaked_itsik.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1949-09-17
+**Born in:**
+**Families:** [[Families/Shaked|Shaked]]
+
 ## Family
 
 **Spouse:** [[People/Ronit-Kalkstein-Shaked|Ronit Kalkstein Shaked]]
 **Children:** [[People/Maya-Shaked-Rabi|Maya Shaked Rabi]], [[People/Tamar-Shaked|Tamar Shaked]], [[People/Ayala-Shaked|Ayala Shaked]]
-**Families:** [[Families/Shaked|Shaked]]
 
 ## Biography
 

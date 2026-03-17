@@ -31,13 +31,19 @@ research_level: 2
 
 ![[attachments/pictures/kalkstein_miriam.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1929-05-01
+**Born in:**
+**Families:** [[Families/Farkas|Farkas]], [[Families/Kalkstein|Kalkstein]]
+
 ## Family
 
 **Father:** [[People/Yehuda-Wolf-Farkas|Yehuda Wolf Farkas]] | **Mother:** [[People/Frida-Aharon-Farkas|Frida Aharon Farkas]]
 **Spouse:** [[People/Zvi-Kalkstein|Zvi Kalkstein]]
 **Siblings:** [[People/Moshe-Farkas|Moshe Farkas]], [[People/Sarah-Sandra-Farkas-Schwartz|Sarah (Sandra) Farkas Schwartz]], [[People/Zipora-Farkas-Hirsch|Zipora Farkas Hirsch]], [[People/Chaya-Farkas-Goldstein|Chaya Farkas Goldstein]], [[People/Kalman-Farkas|Kalman Farkas]], [[People/Shimshon-Farkas|Shimshon Farkas]]
 **Children:** [[People/Avraham-Avi-Kalkstein|Avraham (Avi) Kalkstein]], [[People/Ronit-Kalkstein-Shaked|Ronit Kalkstein Shaked]]
-**Families:** [[Families/Farkas|Farkas]], [[Families/Kalkstein|Kalkstein]]
 
 ## Biography
 Miriam (Monzi) Farkas, born in [[Places/Tyachiv]]. She lived in this small village, with her family and some 1500 Jews. . At the origin, the village was under the Austro-Hungarian government, …in 1920, it passed to the new Czechoslovakian state. After some years, it was shifted back to [[Places/Hungary]], untill World War 2. As many Jewish villages in the area, it was victim of the Nazi persecution, and their "Final solution". Jews were gathered in central ghetto in the village. Some were sent to Nazi labor camps, while others were deported to [[Places/Auschwitz]] and other extermination camps, between the years 1942-1944. That was also the destiny of the Farkash family, … Some members died in that holocaust, some escaped, some survived, in spite their capture and detention in those camps, … Miriam , and her 3 sisters survived, and were liberated at the end of the war in 1945 . The rest of the family died in the Holaucost. She decided to immigrate to [[Places/Palestine]], She lives in [[Places/Haifa]] , Israel , near her sister Chaya.

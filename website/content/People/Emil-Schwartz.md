@@ -17,11 +17,17 @@ research_level: 1
 
 ![[attachments/pictures/schwartz_emil.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Schwartz|Schwartz]]
+
 ## Family
 
 **Spouse:** [[People/Sarah-Sandra-Farkas-Schwartz|Sarah (Sandra) Farkas Schwartz]]
 **Children:** [[People/Michelle-Schwartz-Erlich|Michelle Schwartz Erlich]]
-**Families:** [[Families/Schwartz|Schwartz]]
 
 ## Biography
 

@@ -12,11 +12,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Kokhavi|Kokhavi]]
+
 ## Family
 
 **Spouse:** [[People/Liat-Shimon-Kokhavi|Liat (Shimon) Kokhavi]]
 **Children:** [[People/Ori-Kokhavi|Ori Kokhavi]]
-**Families:** [[Families/Kokhavi|Kokhavi]]
 
 ## Biography
 

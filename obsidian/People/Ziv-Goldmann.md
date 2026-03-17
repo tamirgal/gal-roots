@@ -10,11 +10,17 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1998-06-06
+**Born in:**
+**Families:** [[Families/Goldmann|Goldmann]]
+
 ## Family
 
 **Father:** [[People/Guily-Goldmann|Guily Goldmann]] | **Mother:** [[People/Talia-Yacovson-Goldmann|Talia Yacovson Goldmann]]
 **Siblings:** [[People/More-Goldmann|More Goldmann]], [[People/Noa-Goldmann|Noa Goldmann]]
-**Families:** [[Families/Goldmann|Goldmann]]
 
 ## Biography
 

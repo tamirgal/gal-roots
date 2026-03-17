@@ -29,13 +29,19 @@ research_level: 2
 
 ![[attachments/pictures/Solange.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1952-09-30
+**Born in:**
+**Families:** [[Families/Israel|Israel]], [[Families/Mintz|Mintz]]
+
 ## Family
 
 **Father:** [[People/Shaoul-Israel|Shaoul Israel]] | **Mother:** [[People/Pauline-Cohen-Israel|Pauline Cohen Israel]]
 **Spouse:** [[People/Paul-Mintz|Paul Mintz]]
 **Siblings:** [[People/Aimee-Israel-Pelletier|Aimee Israel Pelletier]], [[People/Ytshak-Israel|Ytshak Israel]], [[People/Solomon-Israel|Solomon Israel]]
 **Children:** [[People/Rebecca-Mintz|Rebecca Mintz]], [[People/Leah-Mintz|Leah Mintz]]
-**Families:** [[Families/Israel|Israel]], [[Families/Mintz|Mintz]]
 
 ## Biography
 Solange,... born in [[Places/Cairo]] ([[Places/Egypt]]), September 30 , 1952 . She immigrated to the [[Places/USA]] with her parents in December 1961. Married to Paul Mintz on August 26, 1984, in bridgewater, [[Places/New Jersey]].

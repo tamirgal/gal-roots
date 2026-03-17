@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/frieddebbie.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1982-05-03
+**Born in:**
+**Families:** [[Families/Fried|Fried]]
+
 ## Family
 
 **Father:** [[People/Tab-Tibor-Fried|Tab (Tibor) Fried]] | **Mother:** [[People/Eva-Rachel-Aroni-Fried|Eva (Rachel) Aroni Fried]]
 **Siblings:** [[People/David-Fried|David Fried]], [[People/Elie-Fried|Elie Fried]]
-**Families:** [[Families/Fried|Fried]]
 
 ## Biography
 

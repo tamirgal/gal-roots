@@ -17,10 +17,16 @@ research_level: 1
 
 ![[attachments/pictures/klein_rachel_hirsh.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Hirsh|Hirsh]], [[Families/Klein|Klein]]
+
 ## Family
 
 **Spouse:** [[People/Yehuda-Klein|Yehuda Klein]]
-**Families:** [[Families/Hirsh|Hirsh]], [[Families/Klein|Klein]]
 
 ## Biography
 

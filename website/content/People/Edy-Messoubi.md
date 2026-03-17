@@ -24,11 +24,17 @@ research_level: 1
 
 ![[attachments/pictures/Edy seul.JPG]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1961-06-19
+**Born in:**
+**Families:** [[Families/Messoubi|Messoubi]]
+
 ## Family
 
 **Spouse:** [[People/Ilana-Ravia-Messoubi|Ilana Ravia Messoubi]]
 **Children:** [[People/Mikhal-Messoubi|Mikhal Messoubi]], [[People/Ido-Messoubi|Ido Messoubi]], [[People/Tamar-Messoubi|Tamar Messoubi]]
-**Families:** [[Families/Messoubi|Messoubi]]
 
 ## Biography
 

@@ -13,12 +13,18 @@ sex: female
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1891
+**Born in:**
+**Families:** [[Families/Sasson|Sasson]], [[Families/Yehya|Yehya]]
+
 ## Family
 
 **Father:** [[People/Youssef-Sasson|Youssef Sasson]] | **Mother:** [[People/Rachel-Sasson|Rachel Sasson]]
 **Spouse:** [[People/Yehya-Yehya|Yehya Yehya]]
 **Siblings:** [[People/Bekhora-Sasson-Ezra|Bekhora Sasson Ezra]], [[People/Nissim-Sasson|Nissim Sasson]], [[People/Regina-Sasson|Regina Sasson]], [[People/Moussa-Moshe-Sasson|Moussa Moshe Sasson]], [[People/Semha-Sasson-Cohen|Semha Sasson Cohen]], [[People/David-Sasson|David Sasson]]
-**Families:** [[Families/Sasson|Sasson]], [[Families/Yehya|Yehya]]
 
 ## Biography
 

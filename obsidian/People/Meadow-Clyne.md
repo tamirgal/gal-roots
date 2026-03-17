@@ -9,10 +9,16 @@ sex: female
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Clyne|Clyne]]
+
 ## Family
 
 **Father:** [[People/Francis-Ridley|Francis Ridley]] | **Mother:** [[People/Jemima-French|Jemima French]]
-**Families:** [[Families/Clyne|Clyne]]
 
 ## Biography
 

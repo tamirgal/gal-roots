@@ -10,11 +10,17 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1995
+**Born in:**
+**Families:** [[Families/Tamir|Tamir]]
+
 ## Family
 
 **Father:** [[People/Nahoum-Tamir|Nahoum Tamir]] | **Mother:** [[People/Guila-Nefoussi-Tamir|Guila Nefoussi Tamir]]
 **Siblings:** [[People/Noy-Tamir|Noy Tamir]]
-**Families:** [[Families/Tamir|Tamir]]
 
 ## Biography
 

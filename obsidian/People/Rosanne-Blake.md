@@ -17,11 +17,17 @@ research_level: 1
 
 ![[attachments/pictures/blak_rosanne.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1979-10-08
+**Born in:**
+**Families:** [[Families/Blake|Blake]]
+
 ## Family
 
 **Father:** [[People/David-Blake|David Blake]] | **Mother:** [[People/Rachel-Clyne-Blake|Rachel Clyne Blake]]
 **Siblings:** [[People/Victoria-Blake|Victoria Blake]], [[People/Charlotte-Blake|Charlotte Blake]]
-**Families:** [[Families/Blake|Blake]]
 
 ## Biography
 

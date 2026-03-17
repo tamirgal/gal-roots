@@ -17,11 +17,17 @@ research_level: 1
 
 ![[attachments/pictures/Passport Ravia Itay 1.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1992-05-29
+**Born in:**
+**Families:** [[Families/Ravia|Ravia]]
+
 ## Family
 
 **Father:** [[People/Hayim-Ravia|Hayim Ravia]] | **Mother:** [[People/Hadass-Tsour-Ravia|Hadass Tsour Ravia]]
 **Siblings:** [[People/Gal-Ravia|Gal Ravia]], [[People/Niv-Ravia|Niv Ravia]]
-**Families:** [[Families/Ravia|Ravia]]
 
 ## Biography
 

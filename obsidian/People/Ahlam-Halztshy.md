@@ -9,11 +9,17 @@ sex: female
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Halztshy|Halztshy]]
+
 ## Family
 
 **Father:** [[People/Jacob-Halztshy|Jacob Halztshy]] | **Mother:** [[People/Hatoune-Abed-Halztshy|Hatoune Abed Halztshy]]
 **Siblings:** [[People/Nina-Halztshy-Touena|Nina Halztshy Touena]]
-**Families:** [[Families/Halztshy|Halztshy]]
 
 ## Biography
 

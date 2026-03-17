@@ -38,11 +38,17 @@ research_level: 2
 
 ![[attachments/pictures/Maurice Cohen 1931.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1901-02-10
+**Born in:**
+**Families:** [[Families/Cohen|Cohen]]
+
 ## Family
 
 **Spouse:** [[People/Esther-Sasson-Cohen|Esther Sasson Cohen]]
 **Children:** [[People/David-Cohen|David Cohen]], [[People/Rosette-Rosy-Cohen-Hanan|Rosette (Rosy) Cohen Hanan]], [[People/Mireille-Cohen|Mireille Cohen]], [[People/Itshak-Zako-Cohen|Itshak (Zako) Cohen]], [[People/Vicky-Cohen-Itshaki|Vicky Cohen Itshaki]]
-**Families:** [[Families/Cohen|Cohen]]
 
 ## Biography
 Maurice Cohen, is the eldest son of David and Warda Cohen. His brothers are :Elie, Joseph, Jack,... his sisters are :Fortuna, Alice. On 22.2.1931, married to Esther Sasson ... They lived in [[Places/Heliopolis]], [[Places/Cairo]], and had a store of house ware goods. In 1950 the family emigrated to [[Places/Israel]] with their 5 children, Maurice (Moshe) Cohen loved Israel, and agreed to live in an agicultural environment in the middle of nature. At their arrival in [[Places/Israel]], they lived in a new settlement called "[[Places/Beit Zait]]", It is a splendid place , in the middle of the beautiful mountains surrounding [[Places/Jerusalem]]. He worked as a guardian in the Keren Kayemet Le Israel, In the sixties, the family moved to the city of [[Places/Holon]], where he died on the 21.2.1985, aged 84 years old.

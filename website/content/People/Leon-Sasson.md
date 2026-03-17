@@ -24,11 +24,17 @@ research_level: 2
 
 ![[attachments/pictures/Sasson Leon.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1908
+**Born in:**
+**Families:** [[Families/Sasson|Sasson]]
+
 ## Family
 
 **Spouse:** [[People/Helene-Abada-Sasson|Helene Abada Sasson]]
 **Children:** [[People/Sophie-Fifi-Sasson|Sophie Fifi Sasson]], [[People/David-Deddy-Sasson|David Deddy Sasson]], [[People/Esther-Sasson-ind00489|Esther Sasson]]
-**Families:** [[Families/Sasson|Sasson]]
 
 ## Biography
 Leon Sasson, est ne au [[Places/Cairo]] en 1908. Il se marie avec Helene Abada en 1938, et eurent 3 enfants. Il a un magasin de glaces.En 1957, apres la guerre de Suez, il se joint a la grande vague d'emigration juive, et la famille arrive en [[Places/Israel]], et s'installe a Ashkelon. Il mourut en 1990.

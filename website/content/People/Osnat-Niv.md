@@ -16,11 +16,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Niv|Niv]]
+
 ## Family
 
 **Spouse:** [[People/Amir-Niv|Amir Niv]]
 **Children:** [[People/Idane-Niv|Idane Niv]], [[People/Sapyr-Niv|Sapyr Niv]], [[People/Shany-Niv|Shany Niv]]
-**Families:** [[Families/Niv|Niv]]
 
 ## Biography
 Osnat Niv , married to Amir Niv in [[Places/Israel]], in 1987

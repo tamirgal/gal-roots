@@ -28,11 +28,17 @@ research_level: 1
 
 ![[attachments/pictures/rosenthal_ephraim.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Rosenthal|Rosenthal]]
+
 ## Family
 
 **Spouse:** [[People/Dvora-Bronstein-Rosenthal|Dvora Bronstein Rosenthal]]
 **Children:** [[People/Moshe-Rosenthal|Moshe Rosenthal]], [[People/Shoshana-Rosenthal|Shoshana Rosenthal]], [[People/Joseph-Rosenthal|Joseph Rosenthal]], [[People/Yona-Rosenthal|Yona Rosenthal]], [[People/Ronnie-Rosenthal|Ronnie Rosenthal]]
-**Families:** [[Families/Rosenthal|Rosenthal]]
 
 ## Biography
 

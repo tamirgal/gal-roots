@@ -27,11 +27,17 @@ research_level: 1
 
 ![[attachments/pictures/clyneellen.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1920-11-28
+**Born in:**
+**Families:** [[Families/Cooper|Cooper]], [[Families/Clyne|Clyne]]
+
 ## Family
 
 **Spouse:** [[People/Ondrej-Clyne|Ondrej Clyne]]
 **Children:** [[People/Paula-Clyne-Ridley|Paula Clyne Ridley]], [[People/Charles-Clyne|Charles Clyne]], [[People/Rachel-Clyne-Blake|Rachel Clyne Blake]]
-**Families:** [[Families/Cooper|Cooper]], [[Families/Clyne|Clyne]]
 
 ## Biography
 

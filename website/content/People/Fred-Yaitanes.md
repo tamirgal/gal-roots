@@ -13,10 +13,16 @@ research_level: 2
 
 ![[attachments/pictures/Yaitanes Fred.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Yaitanes|Yaitanes]]
+
 ## Family
 
 **Spouse:** [[People/Nadine-Israel|Nadine Israel]]
-**Families:** [[Families/Yaitanes|Yaitanes]]
 
 ## Biography
 Fred Yaitanes The Fred and Nadine Team,Realtors® Real Estate…As It Should Be®. www.fredandnadine.com

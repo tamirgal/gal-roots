@@ -24,13 +24,19 @@ research_level: 1
 
 ![[attachments/pictures/Berkovitz Batsheva.JPG]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Talker|Talker]], [[Families/Berkovitz|Berkovitz]]
+
 ## Family
 
 **Father:** [[People/Shlomo-Talker|Shlomo Talker]] | **Mother:** [[People/Sarah-Talker|Sarah Talker]]
 **Spouse:** [[People/Moshe-Berkovitz|Moshe Berkovitz]]
 **Siblings:** [[People/Moshe-Talker|Moshe Talker]], [[People/Pinhass-Talker|Pinhass Talker]], [[People/Bentsion-Talker|Bentsion Talker]], [[People/Shmouel-Talker|Shmouel Talker]], [[People/Rahel-Talker-Patan|Rahel Talker Patan]]
 **Children:** [[People/Eliran-Berkovitz|Eliran Berkovitz]], [[People/Shiran-Berkovitz|Shiran Berkovitz]]
-**Families:** [[Families/Talker|Talker]], [[Families/Berkovitz|Berkovitz]]
 
 ## Biography
 

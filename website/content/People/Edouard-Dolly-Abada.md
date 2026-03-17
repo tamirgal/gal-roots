@@ -26,13 +26,19 @@ research_level: 1
 
 ![[attachments/pictures/Abada Dolly 1.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1931-12-31
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Menashe-Abada|Menashe Abada]] | **Mother:** [[People/Gorgia-Danous-Abada|Gorgia Danous Abada]]
 **Spouse:** [[People/Shoulamit-Yoselewitsh-Abada|Shoulamit Yoselewitsh Abada]]
 **Siblings:** [[People/Victor-Abada-ind00327|Victor Abada]], [[People/Arlette-Allegra-Abada-Zakoto|Arlette (Allegra) Abada Zakoto]], [[People/Aimee-Abada-Sardass|Aimee Abada Sardass]], [[People/Elie-Lili-Abada-Ronen|Elie (Lili) Abada Ronen]]
 **Children:** [[People/Orly-Abada|Orly Abada]], [[People/Moshe-Abada|Moshe Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

@@ -21,11 +21,17 @@ research_level: 1
 
 ![[attachments/pictures/kalkstein_zvi.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1925-03-15
+**Born in:**
+**Families:** [[Families/Kalkstein|Kalkstein]]
+
 ## Family
 
 **Spouse:** [[People/Miriam-Farkas-Kalkstein|Miriam Farkas Kalkstein]]
 **Children:** [[People/Avraham-Avi-Kalkstein|Avraham (Avi) Kalkstein]], [[People/Ronit-Kalkstein-Shaked|Ronit Kalkstein Shaked]]
-**Families:** [[Families/Kalkstein|Kalkstein]]
 
 ## Biography
 

@@ -16,11 +16,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Betesh|Betesh]]
+
 ## Family
 
 **Spouse:** [[People/Nouzha-Attar-Betesh|Nouzha Attar Betesh]]
 **Children:** [[People/Aharon-Betesh|Aharon Betesh]], [[People/Abramino-Betesh|Abramino Betesh]], [[People/Benyamine-Betesh|Benyamine Betesh]]
-**Families:** [[Families/Betesh|Betesh]]
 
 ## Biography
 

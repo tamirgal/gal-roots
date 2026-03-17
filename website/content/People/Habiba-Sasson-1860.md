@@ -10,11 +10,17 @@ sex: female
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1860
+**Born in:**
+**Families:** [[Families/Sasson|Sasson]]
+
 ## Family
 
 **Father:** [[People/Khalifa-Khelef-Sasson|Khalifa Khelef Sasson]] | **Mother:** [[People/Semha-Meyer-Sasson|Semha Meyer Sasson]]
 **Siblings:** [[People/Khalifa-Sasson-1856|Khalifa Sasson]], [[People/Youssef-Sasson|Youssef Sasson]], [[People/Itshak-Sasson|Itshak Sasson]], [[People/Farha-Sasson-Ambar|Farha Sasson Ambar]]
-**Families:** [[Families/Sasson|Sasson]]
 
 ## Biography
 

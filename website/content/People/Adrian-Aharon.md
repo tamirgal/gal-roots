@@ -9,10 +9,16 @@ sex: male
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Aharon|Aharon]]
+
 ## Family
 
 **Father:** [[People/Mordechay-Aharon|Mordechay Aharon]] | **Mother:** [[People/Margaret|Margaret]]
-**Families:** [[Families/Aharon|Aharon]]
 
 ## Biography
 

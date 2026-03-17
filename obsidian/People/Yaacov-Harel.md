@@ -21,11 +21,17 @@ research_level: 1
 
 ![[attachments/pictures/harel_yacov.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1950-04-08
+**Born in:**
+**Families:** [[Families/Harel|Harel]]
+
 ## Family
 
 **Spouse:** [[People/Ilana-Steiner-Harel|Ilana Steiner Harel]]
 **Children:** [[People/Tal-Harel|Tal Harel]], [[People/Liran-Harel|Liran Harel]]
-**Families:** [[Families/Harel|Harel]]
 
 ## Biography
 

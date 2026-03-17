@@ -12,11 +12,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Einav|Einav]]
+
 ## Family
 
 **Spouse:** [[People/Mikhal-Cohen-Einav|Mikhal Cohen Einav]]
 **Children:** [[People/Tom-Einav|Tom Einav]]
-**Families:** [[Families/Einav|Einav]]
 
 ## Biography
 Married to Mikhal Cohen on 3 January 2002.

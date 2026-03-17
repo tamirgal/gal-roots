@@ -9,11 +9,17 @@ sex: male
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Kaminski|Kaminski]]
+
 ## Family
 
 **Father:** [[People/Samuel-Kaminski|Samuel Kaminski]] | **Mother:** [[People/Edith-Klein-Kaminski|Edith Klein Kaminski]]
 **Siblings:** [[People/Gabriela-Kaminski-Sleppin|Gabriela Kaminski Sleppin]]
-**Families:** [[Families/Kaminski|Kaminski]]
 
 ## Biography
 

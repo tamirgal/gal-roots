@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/Uzan Elsa.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1986-01-19
+**Born in:**
+**Families:** [[Families/Uzan|Uzan]]
+
 ## Family
 
 **Father:** [[People/Elie-Uzan|Elie Uzan]] | **Mother:** [[People/Gina-Savdie-Uzan|Gina Savdie Uzan]]
 **Siblings:** [[People/Lea-Uzan|Lea Uzan]]
-**Families:** [[Families/Uzan|Uzan]]
 
 ## Biography
 

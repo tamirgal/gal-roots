@@ -12,11 +12,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Bronstein|Bronstein]]
+
 ## Family
 
 **Spouse:** [[People/Yacov-Bronstein|Yacov Bronstein]]
 **Children:** [[People/Shoshana-Bronstein|Shoshana Bronstein]]
-**Families:** [[Families/Bronstein|Bronstein]]
 
 ## Biography
 

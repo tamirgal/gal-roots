@@ -27,13 +27,19 @@ research_level: 2
 
 ![[attachments/pictures/Fuchs Regy.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1953
+**Born in:**
+**Families:** [[Families/Nefoussi|Nefoussi]], [[Families/Fuchs|Fuchs]]
+
 ## Family
 
 **Father:** [[People/Samuel-Nefoussi|Samuel Nefoussi]] | **Mother:** [[People/Esther-Abada-Nefoussi|Esther Abada Nefoussi]]
 **Spouse:** [[People/Moshe-Fuchs-ind00306|Moshe Fuchs]]
 **Siblings:** [[People/Lina-Nefoussi-Brawn|Lina Nefoussi Brawn]], [[People/Elie-Nefoussi-Niv|Elie Nefoussi Niv]], [[People/Shaoul-Nefoussi|Shaoul Nefoussi]]
 **Children:** [[People/Lyat-Fuchs-Kalo|Lyat Fuchs Kalo]], [[People/Shay-Fuchs|Shay Fuchs]], [[People/Lirone-Fuchs|Lirone Fuchs]]
-**Families:** [[Families/Nefoussi|Nefoussi]], [[Families/Fuchs|Fuchs]]
 
 ## Biography
 Regy (Ruty) Nefoussi, married to Moshe Fuchs in [[Places/Israel]] in 1973.

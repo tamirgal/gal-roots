@@ -9,11 +9,17 @@ sex: female
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Hava|Hava]]
+
 ## Family
 
 **Father:** [[People/Zvi-Hava|Zvi Hava]] | **Mother:** [[People/Dalia-Hava|Dalia Hava]]
 **Siblings:** [[People/Royi-Hava|Royi Hava]], [[People/Mikhal-Hava|Mikhal Hava]]
-**Families:** [[Families/Hava|Hava]]
 
 ## Biography
 

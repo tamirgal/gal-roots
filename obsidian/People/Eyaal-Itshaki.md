@@ -20,11 +20,17 @@ research_level: 2
 
 ![[attachments/pictures/Itshaki Eyaal 2.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1967-08-13
+**Born in:**
+**Families:** [[Families/Itshaki|Itshaki]]
+
 ## Family
 
 **Father:** [[People/Elie-Itshaki|Elie Itshaki]] | **Mother:** [[People/Vicky-Cohen-Itshaki|Vicky Cohen Itshaki]]
 **Siblings:** [[People/Yosseph-Yossi-Itshaki|Yosseph (Yossi) Itshaki]], [[People/Erez-Itshaki|Erez Itshaki]], [[People/Keren-Itshaki-Guiladi|Keren Itshaki Guiladi]]
-**Families:** [[Families/Itshaki|Itshaki]]
 
 ## Biography
 Eyaal, died young bachelor , aged 20 years from heart disease complications.

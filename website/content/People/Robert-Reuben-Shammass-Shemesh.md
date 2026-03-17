@@ -10,11 +10,17 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1924
+**Born in:**
+**Families:** [[Families/Shammass|Shammass]]
+
 ## Family
 
 **Father:** [[People/Aharon-Shammass-Shemesh|Aharon Shammass (Shemesh)]] | **Mother:** [[People/Jeanne-Hannah-Ambar-Shammass-Shemesh|Jeanne (Hannah) Ambar Shammass (Shemesh)]]
 **Siblings:** [[People/Joseph-Peppo-Shammass-Shemesh|Joseph Peppo Shammass (Shemesh)]]
-**Families:** [[Families/Shammass|Shammass]]
 
 ## Biography
 

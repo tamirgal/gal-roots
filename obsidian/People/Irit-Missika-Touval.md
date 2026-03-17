@@ -16,11 +16,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Missika|Missika]], [[Families/Touval|Touval]]
+
 ## Family
 
 **Spouse:** [[People/Avi-Touena-Touval|Avi Touena Touval]]
 **Children:** [[People/Shahar-Touval|Shahar Touval]], [[People/Itay-Touval|Itay Touval]], [[People/Saguy-Touval|Saguy Touval]]
-**Families:** [[Families/Missika|Missika]], [[Families/Touval|Touval]]
 
 ## Biography
 

@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/Gabra Lucy.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Abdallah-Abada|Abdallah Abada]] | **Mother:** [[People/Fortuna-Abada|Fortuna Abada]]
 **Siblings:** [[People/Esther-Abada-ind00359|Esther Abada]], [[People/Renee-Abada|Renee Abada]], [[People/Lolla-Abada|Lolla Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

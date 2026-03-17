@@ -29,13 +29,19 @@ research_level: 2
 
 ![[attachments/pictures/Eliahou Shaoul.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1940-07-04
+**Born in:**
+**Families:** [[Families/Eliahou|Eliahou]]
+
 ## Family
 
 **Father:** [[People/Saleh-Eliahou|Saleh Eliahou]] | **Mother:** [[People/Helene-Israel-Eliahou|Helene Israel Eliahou]]
 **Spouse:** [[People/Danielle-Obadia-Eliahou|Danielle Obadia Eliahou]]
 **Siblings:** [[People/Elie-Eliahou|Elie Eliahou]], [[People/Isaac-Eliahou|Isaac Eliahou]], [[People/Joseph-Eliahou|Joseph Eliahou]]
 **Children:** [[People/Alexandre-Eliahou|Alexandre Eliahou]], [[People/Ludivine-Eliahou|Ludivine Eliahou]]
-**Families:** [[Families/Eliahou|Eliahou]]
 
 ## Biography
 Shaoul Eliahou , ne au [[Places/Cairo]] ([[Places/Egypt]]) le 4.7.194O , marie a Danielle Obadia le 28.12.1975, a la Synaguogue de La Duchere , Lyon , [[Places/France]].

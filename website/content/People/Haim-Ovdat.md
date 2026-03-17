@@ -9,11 +9,17 @@ sex: male
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Ovdat|Ovdat]]
+
 ## Family
 
 **Father:** [[People/David-Abada-Ovdat|David (Abada) Ovdat]] | **Mother:** [[People/Yossefa-Barazani-Ovdat|Yossefa (Barazani) Ovdat]]
 **Siblings:** [[People/Tal-Ovdat|Tal Ovdat]]
-**Families:** [[Families/Ovdat|Ovdat]]
 
 ## Biography
 

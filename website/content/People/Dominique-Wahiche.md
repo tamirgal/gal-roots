@@ -14,11 +14,17 @@ research_level: 1
 
 ![[attachments/pictures/Wahiche Dominique.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Wahiche|Wahiche]]
+
 ## Family
 
 **Father:** [[People/Henri-Wahiche|Henri Wahiche]] | **Mother:** [[People/Pauline-Israel-Wahiche|Pauline Israel Wahiche]]
 **Siblings:** [[People/Marc-Alain-Wahiche|Marc Alain Wahiche]]
-**Families:** [[Families/Wahiche|Wahiche]]
 
 ## Biography
 

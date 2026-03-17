@@ -18,13 +18,19 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Malka|Malka]], [[Families/Ghazal|Ghazal]]
+
 ## Family
 
 **Father:** [[People/Hougi-Malka|Hougi Malka]] | **Mother:** [[People/Massouda-Malka|Massouda Malka]]
 **Spouse:** [[People/Ghazal|Ghazal]]
 **Siblings:** [[People/Regina-Malka-Abada|Regina Malka Abada]], [[People/Yehezkiel-Malka|Yehezkiel Malka]]
 **Children:** [[People/Yossef-Ghazal|Yossef Ghazal]], [[People/Touna-Ghazal-Halawani|Touna Ghazal Halawani]]
-**Families:** [[Families/Malka|Malka]], [[Families/Ghazal|Ghazal]]
 
 ## Biography
 

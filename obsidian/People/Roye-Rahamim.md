@@ -16,11 +16,17 @@ research_level: 1
 
 ![[attachments/pictures/Rahamim Roye.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1990-04-29
+**Born in:**
+**Families:** [[Families/Rahamim|Rahamim]]
+
 ## Family
 
 **Father:** [[People/Raphael-Rafi-Rahamim|Raphael Rafi Rahamim]] | **Mother:** [[People/Esther-Esty-Yohay-Rahamim|Esther (Esty) Yohay Rahamim]]
 **Siblings:** [[People/Hila-Rahamim|Hila Rahamim]]
-**Families:** [[Families/Rahamim|Rahamim]]
 
 ## Biography
 

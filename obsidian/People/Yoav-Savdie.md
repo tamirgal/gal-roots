@@ -17,11 +17,17 @@ research_level: 1
 
 ![[attachments/pictures/Savdie Yoav 6 ans.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1996-08-17
+**Born in:**
+**Families:** [[Families/Savdie|Savdie]]
+
 ## Family
 
 **Father:** [[People/Soly-Savdie|Soly Savdie]] | **Mother:** [[People/Ronit-Abada-Savdie|Ronit Abada Savdie]]
 **Siblings:** [[People/Dan-Savdie|Dan Savdie]]
-**Families:** [[Families/Savdie|Savdie]]
 
 ## Biography
 

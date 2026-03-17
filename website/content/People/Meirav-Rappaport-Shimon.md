@@ -23,11 +23,17 @@ research_level: 2
 
 ![[attachments/pictures/shimon_merav_passport_2.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1978-02-08
+**Born in:**
+**Families:** [[Families/Rappaport|Rappaport]], [[Families/Shimon|Shimon]]
+
 ## Family
 
 **Spouse:** [[People/Chaim-Shimon|Chaim Shimon]]
 **Children:** [[People/Noam-Shimon|Noam Shimon]], [[People/Yuval-Shimon|Yuval Shimon]], [[People/Ofir-Shimon|Ofir Shimon]]
-**Families:** [[Families/Rappaport|Rappaport]], [[Families/Shimon|Shimon]]
 
 ## Biography
 Merav (Rappaport) Shimon is born in [[Places/Haifa]] , Israel on 8-2-1978 Married to Chaim Shimon in [[Places/Haifa]] , Israel, on the 28 february 2001 Lives in [[Places/Karmiel]]

@@ -27,13 +27,19 @@ research_level: 1
 
 ![[attachments/pictures/phyllismiller_ellen.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1954-09-16
+**Born in:**
+**Families:** [[Families/Hirschman|Hirschman]], [[Families/Miller|Miller]]
+
 ## Family
 
 **Father:** [[People/Howard-Hirschman|Howard Hirschman]] | **Mother:** [[People/Phyllis-Hirschman-Newmark|Phyllis Hirschman Newmark]]
 **Spouse:** [[People/Seth-Miller|Seth Miller]]
 **Siblings:** [[People/Dale-Linda-Hirschman|Dale Linda Hirschman]], [[People/Janet-Ann-Hirschman-Fenstermacher|Janet Ann Hirschman Fenstermacher]]
 **Children:** [[People/Jonathan-David-Miller|Jonathan David Miller]], [[People/Rachel-Ann-Miller|Rachel Ann Miller]]
-**Families:** [[Families/Hirschman|Hirschman]], [[Families/Miller|Miller]]
 
 ## Biography
 

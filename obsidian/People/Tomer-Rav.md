@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/Rav Tomer.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1995-05-07
+**Born in:**
+**Families:** [[Families/Rav|Rav]]
+
 ## Family
 
 **Father:** [[People/Nahoum-Rav|Nahoum Rav]] | **Mother:** [[People/Ronit-Cohen-Rav|Ronit Cohen Rav]]
 **Siblings:** [[People/Noah-Rav|Noah Rav]]
-**Families:** [[Families/Rav|Rav]]
 
 ## Biography
 

@@ -17,11 +17,17 @@ research_level: 1
 
 ![[attachments/pictures/Zaccoto Jacques.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Zakoto|Zakoto]]
+
 ## Family
 
 **Spouse:** [[People/Arlette-Allegra-Abada-Zakoto|Arlette (Allegra) Abada Zakoto]]
 **Children:** [[People/Camille-Zakoto|Camille Zakoto]]
-**Families:** [[Families/Zakoto|Zakoto]]
 
 ## Biography
 

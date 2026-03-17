@@ -9,11 +9,17 @@ sex: female
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Touena|Touena]]
+
 ## Family
 
 **Father:** [[People/Yacob-Touena|Yacob Touena]] | **Mother:** [[People/Liat-Alon-Touena|Liat Alon Touena]]
 **Siblings:** [[People/Tamar-Touena|Tamar Touena]]
-**Families:** [[Families/Touena|Touena]]
 
 ## Biography
 

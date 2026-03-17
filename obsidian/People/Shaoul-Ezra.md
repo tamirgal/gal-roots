@@ -14,11 +14,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Ezra|Ezra]]
+
 ## Family
 
 **Spouse:** [[People/Bekhora-Sasson-Ezra|Bekhora Sasson Ezra]]
 **Children:** [[People/Ezra-Ezra|Ezra Ezra]], [[People/Joseph-Soussou-Ezra|Joseph Soussou Ezra]]
-**Families:** [[Families/Ezra|Ezra]]
 
 ## Biography
 

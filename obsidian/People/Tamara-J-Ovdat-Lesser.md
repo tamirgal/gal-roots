@@ -26,13 +26,19 @@ research_level: 2
 
 ![[attachments/pictures/Lesser Tamara passport.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1972-12-09
+**Born in:**
+**Families:** [[Families/Ovdat|Ovdat]], [[Families/Lesser|Lesser]]
+
 ## Family
 
 **Father:** [[People/Saul-Abada-Ovdat|Saul Abada Ovdat]] | **Mother:** [[People/Beverly-M-Snarch-Ovdat|Beverly M. Snarch Ovdat]]
 **Spouse:** [[People/Joshua-A-Lesser|Joshua A. Lesser]]
 **Siblings:** [[People/Alan-D-Ovdat|Alan D. Ovdat]]
 **Children:** [[People/Emilie-F-Lesser|Emilie F. Lesser]], [[People/Daniel-E-Lesser|Daniel E Lesser]]
-**Families:** [[Families/Ovdat|Ovdat]], [[Families/Lesser|Lesser]]
 
 ## Biography
 Born on December 9 - 1972,... Grew up in Agoura hills, graduated with a degree in business from LOYOLA MARYMOUNT University (Los Angeles). Employed as a financial analyst,... Married on August 29-1998, to Joshua Lesser. Now , a full time mom.

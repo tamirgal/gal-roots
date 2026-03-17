@@ -17,11 +17,17 @@ research_level: 1
 
 ![[attachments/pictures/Itshaki Sapir3.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1997-05-09
+**Born in:**
+**Families:** [[Families/Itshaki|Itshaki]]
+
 ## Family
 
 **Father:** [[People/Erez-Itshaki|Erez Itshaki]] | **Mother:** [[People/Sharon-Albanay-Itshaki|Sharon Albanay Itshaki]]
 **Siblings:** [[People/Eyal-Itshaki|Eyal Itshaki]]
-**Families:** [[Families/Itshaki|Itshaki]]
 
 ## Biography
 

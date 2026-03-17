@@ -10,11 +10,17 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1983-09-01
+**Born in:**
+**Families:** [[Families/Klein|Klein]]
+
 ## Family
 
 **Father:** [[People/Raphael-Klein|Raphael Klein]] | **Mother:** [[People/Pnina-Zahavi-Klein|Pnina Zahavi Klein]]
 **Siblings:** [[People/Ophir-Klein|Ophir Klein]], [[People/Doron-Klein|Doron Klein]]
-**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 

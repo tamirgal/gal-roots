@@ -18,11 +18,17 @@ research_level: 1
 
 ![[attachments/pictures/MartdBar Cyril.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1978-11-17
+**Born in:**
+**Families:** [[Families/Martins|Martins]], [[Families/Barros|Barros]]
+
 ## Family
 
 **Father:** [[People/Andre-Martins-de-Barros|Andre Martins de Barros]] | **Mother:** [[People/Andree-Deddy-Saison-Martins-de-Barros|Andree (Deddy) Saison Martins de Barros]]
 **Siblings:** [[People/Fanny-Martins-de-Barros|Fanny Martins de Barros]]
-**Families:** [[Families/Martins|Martins]], [[Families/Barros|Barros]]
 
 ## Biography
 

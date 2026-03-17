@@ -23,13 +23,19 @@ research_level: 1
 
 ![[attachments/pictures/Yohay Moshe 2.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1959-05-08
+**Born in:**
+**Families:** [[Families/Yohay|Yohay]]
+
 ## Family
 
 **Father:** [[People/Yossef-Yohay|Yossef Yohay]] | **Mother:** [[People/Edith-Ida-Abada-Yohay|Edith (Ida) Abada Yohay]]
 **Spouse:** [[People/Rachel|Rachel]]
 **Siblings:** [[People/Rony-Yehoshua-Yohay|Rony Yehoshua Yohay]], [[People/Esther-Esty-Yohay-Rahamim|Esther (Esty) Yohay Rahamim]]
 **Children:** [[People/Morane-Yohay|Morane Yohay]]
-**Families:** [[Families/Yohay|Yohay]]
 
 ## Biography
 

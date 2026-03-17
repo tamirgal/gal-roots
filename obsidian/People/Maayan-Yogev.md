@@ -16,11 +16,17 @@ research_level: 1
 
 ![[attachments/pictures/yogev_maayan.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1985-12-10
+**Born in:**
+**Families:** [[Families/Yogev|Yogev]]
+
 ## Family
 
 **Father:** [[People/Hans-Yogev|Hans Yogev]] | **Mother:** [[People/Irit-Hirsch-Yogev|Irit Hirsch Yogev]]
 **Siblings:** [[People/Eyal-Yogev|Eyal Yogev]]
-**Families:** [[Families/Yogev|Yogev]]
 
 ## Biography
 

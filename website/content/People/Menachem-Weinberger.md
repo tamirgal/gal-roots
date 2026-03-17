@@ -17,11 +17,17 @@ children_id:
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1949
+**Born in:**
+**Families:** [[Families/Weinberger|Weinberger]]
+
 ## Family
 
 **Spouse:** [[People/Batya-Aharoni-Weinberger|Batya Aharoni Weinberger]]
 **Children:** [[People/Shai-Weinberger|Shai Weinberger]], [[People/Nir-Weinberger|Nir Weinberger]], [[People/Amit-Weinberger|Amit Weinberger]]
-**Families:** [[Families/Weinberger|Weinberger]]
 
 ## Biography
 

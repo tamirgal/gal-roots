@@ -21,13 +21,19 @@ children_id:
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1966
+**Born in:**
+**Families:** [[Families/Niv|Niv]]
+
 ## Family
 
 **Father:** [[People/Elie-Nefoussi-Niv|Elie Nefoussi Niv]] | **Mother:** [[People/Ruty-Matatiahou-Niv|Ruty Matatiahou Niv]]
 **Spouse:** [[People/Osnat-Niv|Osnat Niv]]
 **Siblings:** [[People/Shemer-Niv|Shemer Niv]], [[People/Keren-Niv-Bornstein|Keren Niv Bornstein]]
 **Children:** [[People/Idane-Niv|Idane Niv]], [[People/Sapyr-Niv|Sapyr Niv]], [[People/Shany-Niv|Shany Niv]]
-**Families:** [[Families/Niv|Niv]]
 
 ## Biography
 Amir Niv , married to Osnat Niv in [[Places/Israel]], in 1987

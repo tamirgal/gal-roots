@@ -10,11 +10,17 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1972-03-08
+**Born in:**
+**Families:** [[Families/Elias|Elias]]
+
 ## Family
 
 **Father:** [[People/Ezra-Elias|Ezra Elias]] | **Mother:** [[People/Noah-Klein-Elias|Noah Klein Elias]]
 **Siblings:** [[People/Oren-Elias|Oren Elias]]
-**Families:** [[Families/Elias|Elias]]
 
 ## Biography
 

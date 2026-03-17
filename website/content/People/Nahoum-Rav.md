@@ -20,11 +20,17 @@ research_level: 2
 
 ![[attachments/pictures/Rav Nahoum.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1962-09-23
+**Born in:**
+**Families:** [[Families/Rav|Rav]]
+
 ## Family
 
 **Spouse:** [[People/Ronit-Cohen-Rav|Ronit Cohen Rav]]
 **Children:** [[People/Tomer-Rav|Tomer Rav]], [[People/Noah-Rav|Noah Rav]]
-**Families:** [[Families/Rav|Rav]]
 
 ## Biography
 Nahoum Rav, married to Ronit Cohen, on 5 September 1990.

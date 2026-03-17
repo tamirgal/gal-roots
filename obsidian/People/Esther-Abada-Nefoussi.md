@@ -30,13 +30,19 @@ research_level: 1
 
 ![[attachments/pictures/Portrait Esther.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1913
+**Born in:**
+**Families:** [[Families/Abada|Abada]], [[Families/Nefoussi|Nefoussi]]
+
 ## Family
 
 **Father:** [[People/Shaoul-Abada-1889|Shaoul Abada]] | **Mother:** [[People/Regina-Malka-Abada|Regina Malka Abada]]
 **Spouse:** [[People/Samuel-Nefoussi|Samuel Nefoussi]]
 **Siblings:** [[People/Alice-Abada-Abadi|Alice Abada Abadi]], [[People/David-Abada|David Abada]], [[People/Hayim-Abada-ind00281|Hayim Abada]], [[People/Joseph-Abada|Joseph Abada]], [[People/Arlette-Abada-Savdie|Arlette Abada Savdie]], [[People/Mary-Abada-Patan|Mary Abada Patan]], [[People/Ernest-Nisso-Abada|Ernest (Nisso) Abada]], [[People/Claude-Hayim-Abada|Claude (Hayim) Abada]]
 **Children:** [[People/Lina-Nefoussi-Brawn|Lina Nefoussi Brawn]], [[People/Elie-Nefoussi-Niv|Elie Nefoussi Niv]], [[People/Shaoul-Nefoussi|Shaoul Nefoussi]], [[People/Regy-Nefoussi-Fuchs|Regy Nefoussi Fuchs]]
-**Families:** [[Families/Abada|Abada]], [[Families/Nefoussi|Nefoussi]]
 
 ## Biography
 

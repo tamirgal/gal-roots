@@ -19,11 +19,17 @@ research_level: 2
 
 ![[attachments/pictures/Uzan Elie.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Uzan|Uzan]]
+
 ## Family
 
 **Spouse:** [[People/Gina-Savdie-Uzan|Gina Savdie Uzan]]
 **Children:** [[People/Elsa-Uzan|Elsa Uzan]], [[People/Lea-Uzan|Lea Uzan]]
-**Families:** [[Families/Uzan|Uzan]]
 
 ## Biography
 Elie Uzan et Gina, sont divorces.

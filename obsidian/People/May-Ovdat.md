@@ -9,11 +9,17 @@ sex: female
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Ovdat|Ovdat]]
+
 ## Family
 
 **Father:** [[People/Yosseph-Yossi-Abada-Ovdat|Yosseph (Yossi Abada) Ovdat]] | **Mother:** [[People/Mikhal-Abargel-Ovdat|Mikhal (Abargel) Ovdat]]
 **Siblings:** [[People/Chen-Ovdat|Chen Ovdat]], [[People/Danielle-Ovdat|Danielle Ovdat]]
-**Families:** [[Families/Ovdat|Ovdat]]
 
 ## Biography
 

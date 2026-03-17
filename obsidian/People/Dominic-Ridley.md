@@ -9,11 +9,17 @@ sex: male
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Ridley|Ridley]]
+
 ## Family
 
 **Father:** [[People/Ferdinand-Ridley|Ferdinand Ridley]] | **Mother:** [[People/Paula-Clyne-Ridley|Paula Clyne Ridley]]
 **Siblings:** [[People/Francis-Ridley|Francis Ridley]], [[People/Caroline-Ridley|Caroline Ridley]]
-**Families:** [[Families/Ridley|Ridley]]
 
 ## Biography
 

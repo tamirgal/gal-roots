@@ -14,11 +14,17 @@ research_level: 2
 
 ![[attachments/pictures/Sasson Esther.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Sasson|Sasson]]
+
 ## Family
 
 **Father:** [[People/Leon-Sasson|Leon Sasson]] | **Mother:** [[People/Helene-Abada-Sasson|Helene Abada Sasson]]
 **Siblings:** [[People/Sophie-Fifi-Sasson|Sophie Fifi Sasson]], [[People/David-Deddy-Sasson|David Deddy Sasson]]
-**Families:** [[Families/Sasson|Sasson]]
 
 ## Biography
 Esther Sasson, nee au [[Places/Cairo]], mariee en [[Places/Israel]] et habite a Rehovot.

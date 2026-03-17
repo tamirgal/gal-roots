@@ -23,11 +23,17 @@ research_level: 1
 
 ![[attachments/pictures/Passport Ravia Hadas.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1958-08-29
+**Born in:**
+**Families:** [[Families/Tsour|Tsour]], [[Families/Ravia|Ravia]]
+
 ## Family
 
 **Spouse:** [[People/Hayim-Ravia|Hayim Ravia]]
 **Children:** [[People/Gal-Ravia|Gal Ravia]], [[People/Itay-Ravia|Itay Ravia]], [[People/Niv-Ravia|Niv Ravia]]
-**Families:** [[Families/Tsour|Tsour]], [[Families/Ravia|Ravia]]
 
 ## Biography
 

@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/friedelie.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1972-02-15
+**Born in:**
+**Families:** [[Families/Fried|Fried]]
+
 ## Family
 
 **Father:** [[People/Tab-Tibor-Fried|Tab (Tibor) Fried]] | **Mother:** [[People/Eva-Rachel-Aroni-Fried|Eva (Rachel) Aroni Fried]]
 **Siblings:** [[People/David-Fried|David Fried]], [[People/Debbie-Fried|Debbie Fried]]
-**Families:** [[Families/Fried|Fried]]
 
 ## Biography
 

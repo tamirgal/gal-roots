@@ -15,11 +15,17 @@ research_level: 2
 
 ![[attachments/pictures/shimon_yuval_passport_1.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 2005-07-25
+**Born in:**
+**Families:** [[Families/Shimon|Shimon]]
+
 ## Family
 
 **Father:** [[People/Chaim-Shimon|Chaim Shimon]] | **Mother:** [[People/Meirav-Rappaport-Shimon|Meirav Rappaport Shimon]]
 **Siblings:** [[People/Noam-Shimon|Noam Shimon]], [[People/Ofir-Shimon|Ofir Shimon]]
-**Families:** [[Families/Shimon|Shimon]]
 
 ## Biography
 Yuval Shimon is born in [[Places/Haifa]], Israel on 25-7-2005

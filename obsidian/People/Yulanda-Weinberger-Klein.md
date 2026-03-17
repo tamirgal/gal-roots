@@ -15,11 +15,17 @@ children_id:
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1903
+**Born in:**
+**Families:** [[Families/Weinberger|Weinberger]], [[Families/Klein|Klein]]
+
 ## Family
 
 **Spouse:** [[People/Shimon-Klein|Shimon Klein]]
 **Children:** [[People/Thomas-Klein-Clyne|Thomas Klein Clyne]], [[People/Louis-Klein|Louis Klein]]
-**Families:** [[Families/Weinberger|Weinberger]], [[Families/Klein|Klein]]
 
 ## Biography
 

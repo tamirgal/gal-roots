@@ -16,11 +16,17 @@ research_level: 1
 
 ![[attachments/pictures/peacehana.jpe]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1991-02-02
+**Born in:**
+**Families:** [[Families/Peaceman|Peaceman]]
+
 ## Family
 
 **Father:** [[People/Matthew-David-Peaceman|Matthew David Peaceman]] | **Mother:** [[People/Heike-Deckert-Peaceman|Heike Deckert Peaceman]]
 **Siblings:** [[People/Joshua-Henry-Peaceman|Joshua Henry Peaceman]]
-**Families:** [[Families/Peaceman|Peaceman]]
 
 ## Biography
 

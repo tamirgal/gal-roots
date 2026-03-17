@@ -15,10 +15,16 @@ research_level: 1
 
 ![[attachments/pictures/Israel Rachel.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Salem|Salem]], [[Families/Israel|Israel]]
+
 ## Family
 
 **Spouse:** [[People/Ezra-Israel|Ezra Israel]]
-**Families:** [[Families/Salem|Salem]], [[Families/Israel|Israel]]
 
 ## Biography
 

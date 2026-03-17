@@ -21,11 +21,17 @@ research_level: 1
 
 ![[attachments/pictures/Yohay Nily.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1965-05-08
+**Born in:**
+**Families:** [[Families/Raykh|Raykh]], [[Families/Yohay|Yohay]]
+
 ## Family
 
 **Spouse:** [[People/Rony-Yehoshua-Yohay|Rony Yehoshua Yohay]]
 **Children:** [[People/Shahar-Yohay|Shahar Yohay]], [[People/Adi-Yohay|Adi Yohay]]
-**Families:** [[Families/Raykh|Raykh]], [[Families/Yohay|Yohay]]
 
 ## Biography
 

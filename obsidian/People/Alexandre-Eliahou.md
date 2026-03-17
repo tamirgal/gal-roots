@@ -17,11 +17,17 @@ research_level: 2
 
 ![[attachments/pictures/Eliahou Alexandre 2.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1977-08-01
+**Born in:**
+**Families:** [[Families/Eliahou|Eliahou]]
+
 ## Family
 
 **Father:** [[People/Shaoul-Eliahou|Shaoul Eliahou]] | **Mother:** [[People/Danielle-Obadia-Eliahou|Danielle Obadia Eliahou]]
 **Siblings:** [[People/Ludivine-Eliahou|Ludivine Eliahou]]
-**Families:** [[Families/Eliahou|Eliahou]]
 
 ## Biography
 Alexandre est ne a Boulogne

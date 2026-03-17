@@ -8,10 +8,16 @@ sex: male
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Cohen|Cohen]]
+
 ## Family
 
 **Spouse:** [[People/Semha-Sasson-Cohen|Semha Sasson Cohen]]
-**Families:** [[Families/Cohen|Cohen]]
 
 ## Biography
 

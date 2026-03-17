@@ -15,11 +15,17 @@ research_level: 2
 
 ![[attachments/pictures/Abada Esther (Moussa).jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1921
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Moussa-Abada|Moussa Abada]] | **Mother:** [[People/Freha-Mekayess-Abada|Freha Mekayess Abada]]
 **Siblings:** [[People/Helene-Abada-Sasson|Helene Abada Sasson]], [[People/David-Doudou-Abada|David Doudou Abada]], [[People/Claire-Abada-Cohenca|Claire Abada Cohenca]], [[People/Yehezkel-Ernest-Abada|Yehezkel Ernest Abada]], [[People/Jacques-Abada|Jacques Abada]], [[People/Victor-Abada|Victor Abada]], [[People/Edith-Ida-Abada-Yohay|Edith (Ida) Abada Yohay]], [[People/Felix-Abada|Felix Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 Esther Abada est nee a Tanta, ville Egyptienne au nord du delta du Nil, et morte au [[Places/Cairo]], celibataire a l'age de 21 ans.

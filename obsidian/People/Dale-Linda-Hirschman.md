@@ -16,11 +16,17 @@ research_level: 1
 
 ![[attachments/pictures/phyllishirshman_dale.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1958-01-08
+**Born in:**
+**Families:** [[Families/Hirschman|Hirschman]]
+
 ## Family
 
 **Father:** [[People/Howard-Hirschman|Howard Hirschman]] | **Mother:** [[People/Phyllis-Hirschman-Newmark|Phyllis Hirschman Newmark]]
 **Siblings:** [[People/Ellen-Mina-Hirschman-Miller|Ellen Mina Hirschman Miller]], [[People/Janet-Ann-Hirschman-Fenstermacher|Janet Ann Hirschman Fenstermacher]]
-**Families:** [[Families/Hirschman|Hirschman]]
 
 ## Biography
 

@@ -23,11 +23,17 @@ research_level: 1
 
 ![[attachments/pictures/01_passport_yael.jpg]]
 
+## Details
+
+**Hebrew Name:** יעל גל
+**Birthday:** 2011-04-23
+**Born in:**
+**Families:** [[Families/Gal|Gal]]
+
 ## Family
 
 **Father:** [[People/Asaf-Gal|Asaf Gal]] | **Mother:** [[People/Adi-Dolev-Gal|Adi Dolev Gal]]
 **Siblings:** [[People/Shahar-Gal|Shahar Gal]], [[People/Ori-Gal|Ori Gal]]
-**Families:** [[Families/Gal|Gal]]
 
 ## Biography
 

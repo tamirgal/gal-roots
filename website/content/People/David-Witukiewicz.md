@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/Witukievitz David.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1987-07-21
+**Born in:**
+**Families:** [[Families/Witukiewicz|Witukiewicz]]
+
 ## Family
 
 **Father:** [[People/Ladys-Witukiewicz|Ladys Witukiewicz]] | **Mother:** [[People/Elise-Savdie-Witukiewicz|Elise Savdie Witukiewicz]]
-**Siblings:** [[People/Myriam-Witukiewicz|Myriam Witukiewicz]], [[People/Lauren-Witukiewicz|Lauren Witukiewicz]]
-**Families:** [[Families/Witukiewicz|Witukiewicz]]
+**Siblings:** [[People/Myriam-Witukiewicz|Myriam Witukiewicz]], [[People/Lauren-Witukiewicz-Carmeli|Lauren Witukiewicz Carmeli]]
 
 ## Biography
 

@@ -27,13 +27,19 @@ research_level: 2
 
 ![[attachments/pictures/Passport Hava Zvi.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Hava|Hava]]
+
 ## Family
 
 **Father:** [[People/Nissim-Hava|Nissim Hava]] | **Mother:** [[People/Flora-Abed-Hava|Flora (Abed) Hava]]
 **Spouse:** [[People/Dalia-Hava|Dalia Hava]]
 **Siblings:** [[People/David-Hava|David Hava]], [[People/Yehouda-Hava|Yehouda Hava]]
 **Children:** [[People/Ety-Hava|Ety Hava]], [[People/Royi-Hava|Royi Hava]], [[People/Mikhal-Hava|Mikhal Hava]]
-**Families:** [[Families/Hava|Hava]]
 
 ## Biography
 Zvi Hava, born in [[Places/Iraq]]. In 1950, he emigrated to [[Places/Israel]] with his family. Married in [[Places/Israel]] to Dalia

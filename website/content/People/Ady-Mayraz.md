@@ -9,11 +9,17 @@ sex: female
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Mayraz|Mayraz]]
+
 ## Family
 
 **Father:** [[People/Yossy-Mayraz|Yossy Mayraz]] | **Mother:** [[People/Hagit-Touena-Mayraz|Hagit Touena Mayraz]]
 **Siblings:** [[People/Omer-Mayraz|Omer Mayraz]]
-**Families:** [[Families/Mayraz|Mayraz]]
 
 ## Biography
 

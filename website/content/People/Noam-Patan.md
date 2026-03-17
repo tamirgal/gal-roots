@@ -18,11 +18,17 @@ research_level: 2
 
 ![[attachments/pictures/Noam seul.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1998-03-09
+**Born in:**
+**Families:** [[Families/Patan|Patan]]
+
 ## Family
 
 **Father:** [[People/Sami-Patan|Sami Patan]] | **Mother:** [[People/Rahel-Talker-Patan|Rahel Talker Patan]]
 **Siblings:** [[People/Mary-Patan|Mary Patan]], [[People/Omri-Patan|Omri Patan]], [[People/Maayane-Patan|Maayane Patan]]
-**Families:** [[Families/Patan|Patan]]
 
 ## Biography
 Fascinated by this fireworks,...

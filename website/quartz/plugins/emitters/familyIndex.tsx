@@ -5,6 +5,7 @@ import { write } from "./helpers"
 export interface FamilyEntry {
   name: string
   aliases: string[]
+  hebrewName?: string
   sex?: string
   born?: string
   father: SimpleSlug | null
@@ -43,6 +44,13 @@ export const FamilyIndex: QuartzEmitterPlugin = () => ({
       const sex = fm.sex as string | undefined
       const born = fm.born != null ? String(fm.born) : undefined
 
+      let hebrewName: string | undefined
+      const bodyText = file.data.text ?? ""
+      const hebrewMatch = bodyText.match(/Hebrew Name:\s*([\u0590-\u05FF][\u0590-\u05FF\s()]+)/)
+      if (hebrewMatch) {
+        hebrewName = hebrewMatch[1].trim()
+      }
+
       const fatherRaw = fm.father as string | undefined
       const motherRaw = fm.mother as string | undefined
       const father = fatherRaw ? extractSlug(fatherRaw) : null
@@ -69,6 +77,7 @@ export const FamilyIndex: QuartzEmitterPlugin = () => ({
       index[simpleSlug] = {
         name,
         aliases,
+        ...(hebrewName !== undefined && { hebrewName }),
         ...(sex !== undefined && { sex }),
         ...(born !== undefined && { born }),
         father,

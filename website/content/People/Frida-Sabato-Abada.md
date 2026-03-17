@@ -22,11 +22,17 @@ research_level: 1
 
 ![[attachments/pictures/Abada Frida.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1944
+**Born in:**
+**Families:** [[Families/Sabato|Sabato]], [[Families/Abada|Abada]]
+
 ## Family
 
 **Spouse:** [[People/Ernest-Zouzi-Abada|Ernest Zouzi Abada]]
 **Children:** [[People/Linda-Abada-Adato|Linda Abada Adato]], [[People/Revital-Abada|Revital Abada]], [[People/Shlomit-Abada|Shlomit Abada]]
-**Families:** [[Families/Sabato|Sabato]], [[Families/Abada|Abada]]
 
 ## Biography
 

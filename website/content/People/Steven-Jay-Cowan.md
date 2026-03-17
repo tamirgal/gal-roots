@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/cowan_steven.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1985-01-22
+**Born in:**
+**Families:** [[Families/Cowan|Cowan]]
+
 ## Family
 
 **Father:** [[People/David-Mark-Cowan|David Mark Cowan]] | **Mother:** [[People/Caren-Beth-Peaceman-Cowan|Caren Beth Peaceman Cowan]]
 **Siblings:** [[People/Michael-Aaron-Cowan|Michael Aaron Cowan]]
-**Families:** [[Families/Cowan|Cowan]]
 
 ## Biography
 

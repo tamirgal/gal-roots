@@ -18,10 +18,16 @@ research_level: 1
 
 ![[attachments/pictures/yuval_kelmus_passport.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 2004-10-03
+**Born in:**
+**Families:** [[Families/Kelmus|Kelmus]]
+
 ## Family
 
 **Father:** [[People/Aviel-Kelmus|Aviel Kelmus]] | **Mother:** [[People/Einat-Fuchs-Kelmus|Einat Fuchs Kelmus]]
-**Families:** [[Families/Kelmus|Kelmus]]
 
 ## Biography
 

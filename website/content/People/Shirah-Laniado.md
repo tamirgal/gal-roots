@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/Lagnado Shirah.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1990-05-04
+**Born in:**
+**Families:** [[Families/Laniado|Laniado]]
+
 ## Family
 
 **Father:** [[People/Tsion-Laniado|Tsion Laniado]] | **Mother:** [[People/Esther-Etty-Cohen-Laniado|Esther (Etty) Cohen Laniado]]
 **Siblings:** [[People/Yoss-Laniado|Yoss Laniado]]
-**Families:** [[Families/Laniado|Laniado]]
 
 ## Biography
 

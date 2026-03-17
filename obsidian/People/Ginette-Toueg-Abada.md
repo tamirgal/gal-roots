@@ -30,13 +30,19 @@ research_level: 2
 
 ![[attachments/pictures/Abada Ginette.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1944-01-20
+**Born in:**
+**Families:** [[Families/Toueg|Toueg]], [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Maurice-Toueg|Maurice Toueg]] | **Mother:** [[People/Nelly-Toueg|Nelly Toueg]]
 **Spouse:** [[People/Claude-Hayim-Abada|Claude (Hayim) Abada]]
 **Siblings:** [[People/Momo-Toueg|Momo Toueg]]
 **Children:** [[People/Shaoul-Abada-1962|Shaoul Abada]], [[People/Ronit-Abada-Savdie|Ronit Abada Savdie]]
-**Families:** [[Families/Toueg|Toueg]], [[Families/Abada|Abada]]
 
 ## Biography
 Photo prise chez Sami et Rahel Patan a [[Places/Karmiel]],... Avril 2002 .

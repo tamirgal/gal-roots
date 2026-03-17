@@ -22,11 +22,17 @@ research_level: 2
 
 ![[attachments/pictures/Portrait Robert.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1911-01-08
+**Born in:**
+**Families:** [[Families/Abadi|Abadi]]
+
 ## Family
 
 **Spouse:** [[People/Alice-Abada-Abadi|Alice Abada Abadi]]
 **Children:** [[People/Rachel-Abadi-Goldmann|Rachel Abadi Goldmann]], [[People/Meyer-Abadi|Meyer Abadi]]
-**Families:** [[Families/Abadi|Abadi]]
 
 ## Biography
 Wedding of Robert Abadi and Alice Abada in 1939, in [[Places/Cairo]] [[Places/Egypt]]. In 1957, they emigrated in [[Places/Israel]].

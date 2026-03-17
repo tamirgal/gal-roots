@@ -19,11 +19,17 @@ children_id:
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1963-01-11
+**Born in:**
+**Families:** [[Families/Peleg|Peleg]]
+
 ## Family
 
 **Spouse:** [[People/Ety-Cohen-Peleg|Ety Cohen Peleg]]
 **Children:** [[People/Guy-Peleg|Guy Peleg]], [[People/Gali-Peleg|Gali Peleg]], [[People/Tal-Peleg|Tal Peleg]], [[People/Aviv-Peleg|Aviv Peleg]]
-**Families:** [[Families/Peleg|Peleg]]
 
 ## Biography
 Shmoulik Peleg, married to Ety Cohen, on 26 July 1988.

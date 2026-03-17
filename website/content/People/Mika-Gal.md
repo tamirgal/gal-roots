@@ -22,11 +22,17 @@ research_level: 2
 
 ![[attachments/pictures/2017_07_05_mika_for_web_03.jpg]]
 
+## Details
+
+**Hebrew Name:** מיקה גל
+**Birthday:** 2017-07-05
+**Born in:** [[Places/Haifa]]
+**Families:** [[Families/Gal|Gal]]
+
 ## Family
 
 **Father:** [[People/Tamir-Gal|Tamir Gal]] | **Mother:** [[People/Efrat-Glicksman-Gal|Efrat Glicksman Gal]]
 **Siblings:** [[People/Shaked-Gal|Shaked Gal]], [[People/Nadav-Gal|Nadav Gal]]
-**Families:** [[Families/Gal|Gal]]
 
 ## Biography
 Mika Gal Birth date - Wednesday 5 July 2017 Birth time - 14.00 hour P.M. Birth place - Rambam Hospital Birth town - [[Places/Haifa]] (Israel) Weight - 3.5 kgs

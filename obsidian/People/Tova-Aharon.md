@@ -21,11 +21,17 @@ children_id:
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1949
+**Born in:**
+**Families:** [[Families/Aharon|Aharon]]
+
 ## Family
 
 **Spouse:** [[People/Joseph-Aharon-1947|Joseph Aharon]]
 **Children:** [[People/Erez-Aharon|Erez Aharon]], [[People/Moshit-Aharon|Moshit Aharon]], [[People/Michael-Aharon|Michael Aharon]], [[People/Mor-Aharon|Mor Aharon]], [[People/Unknown-ind10214|Unknown]]
-**Families:** [[Families/Aharon|Aharon]]
 
 ## Biography
 

@@ -9,10 +9,16 @@ sex: female
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Clyne|Clyne]]
+
 ## Family
 
 **Father:** [[People/Thomas-Klein-Clyne|Thomas Klein Clyne]] | **Mother:** [[People/Roberta-Clyne|Roberta Clyne]]
-**Families:** [[Families/Clyne|Clyne]]
 
 ## Biography
 

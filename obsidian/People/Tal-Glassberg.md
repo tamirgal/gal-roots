@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/tal_glassberg.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1998-07-06
+**Born in:**
+**Families:** [[Families/Glassberg|Glassberg]]
+
 ## Family
 
 **Father:** [[People/Ofer-Glassberg|Ofer Glassberg]] | **Mother:** [[People/Ronit-Lublin-Glassberg|Ronit Lublin Glassberg]]
 **Siblings:** [[People/Guy-Glassberg|Guy Glassberg]]
-**Families:** [[Families/Glassberg|Glassberg]]
 
 ## Biography
 

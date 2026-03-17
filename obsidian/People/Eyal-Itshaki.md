@@ -16,11 +16,17 @@ research_level: 1
 
 ![[attachments/pictures/Itshaki Eyal.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 2000-06-25
+**Born in:**
+**Families:** [[Families/Itshaki|Itshaki]]
+
 ## Family
 
 **Father:** [[People/Erez-Itshaki|Erez Itshaki]] | **Mother:** [[People/Sharon-Albanay-Itshaki|Sharon Albanay Itshaki]]
 **Siblings:** [[People/Sapir-Itshaki|Sapir Itshaki]]
-**Families:** [[Families/Itshaki|Itshaki]]
 
 ## Biography
 

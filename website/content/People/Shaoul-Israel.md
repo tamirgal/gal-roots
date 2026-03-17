@@ -33,13 +33,19 @@ research_level: 2
 
 ![[attachments/pictures/Shaoul Israel.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1918-02-22
+**Born in:**
+**Families:** [[Families/Israel|Israel]]
+
 ## Family
 
 **Father:** [[People/Israel-Ezra-Israel|Israel Ezra Israel]] | **Mother:** [[People/Hamama-Sasson-Israel|Hamama Sasson Israel]]
 **Spouse:** [[People/Pauline-Cohen-Israel|Pauline Cohen Israel]]
 **Siblings:** [[People/Helene-Israel-Eliahou|Helene Israel Eliahou]], [[People/Ezra-Israel|Ezra Israel]], [[People/Marie-Israel-Bonan|Marie Israel Bonan]], [[People/Zaki-Israel|Zaki Israel]], [[People/Joseph-Israel|Joseph Israel]], [[People/Pauline-Israel-Wahiche|Pauline Israel Wahiche]], [[People/Clemence-Israel-Saphir|Clemence Israel Saphir]]
 **Children:** [[People/Aimee-Israel-Pelletier|Aimee Israel Pelletier]], [[People/Solange-Israel-Mintz|Solange Israel Mintz]], [[People/Ytshak-Israel|Ytshak Israel]], [[People/Solomon-Israel|Solomon Israel]]
-**Families:** [[Families/Israel|Israel]]
 
 ## Biography
 Shaoul ,... born February 22 ,1918 in [[Places/Assiut]] ([[Places/Egypt]]),...married to Pauline Cohen in February 21, 1948, in [[Places/Cairo]]. They emigrated to the [[Places/USA]], with their family in, December 1961.

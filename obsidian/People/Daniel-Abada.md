@@ -16,11 +16,17 @@ research_level: 1
 
 ![[attachments/pictures/Abada Daniel.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1992-02-06
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Moshe-Abada|Moshe Abada]] | **Mother:** [[People/Gili-Yashar-Abada|Gili Yashar Abada]]
 **Siblings:** [[People/Gay-Abada|Gay Abada]], [[People/Yair-Abada|Yair Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

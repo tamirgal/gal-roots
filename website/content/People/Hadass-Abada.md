@@ -17,11 +17,17 @@ research_level: 1
 
 ![[attachments/pictures/Abada Hadass.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1994-03-14
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Avi-Abada|Avi Abada]] | **Mother:** [[People/Yael-Bar-El-Abada|Yael Bar El Abada]]
 **Siblings:** [[People/Roye-Abada|Roye Abada]], [[People/Oded-Abada|Oded Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

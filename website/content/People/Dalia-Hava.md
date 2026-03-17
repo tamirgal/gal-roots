@@ -22,11 +22,17 @@ research_level: 2
 
 ![[attachments/pictures/passport Hava Dalia.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Hava|Hava]]
+
 ## Family
 
 **Spouse:** [[People/Zvi-Hava|Zvi Hava]]
 **Children:** [[People/Ety-Hava|Ety Hava]], [[People/Royi-Hava|Royi Hava]], [[People/Mikhal-Hava|Mikhal Hava]]
-**Families:** [[Families/Hava|Hava]]
 
 ## Biography
 Married in [[Places/Israel]] to Zvi Hava

@@ -10,11 +10,17 @@ sex: female
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1910
+**Born in:**
+**Families:** [[Families/Sasson|Sasson]]
+
 ## Family
 
 **Father:** [[People/Nissim-Sasson|Nissim Sasson]] | **Mother:** [[People/Sarina-Ronen-Sasson|Sarina Ronen Sasson]]
 **Siblings:** [[People/Habiba-Sasson-1912|Habiba Sasson]], [[People/Yossef-Sasson-1913|Yossef Sasson]], [[People/Vita-Sasson|Vita Sasson]], [[People/Esther-Sasson|Esther Sasson]], [[People/Yacov-Sasson|Yacov Sasson]]
-**Families:** [[Families/Sasson|Sasson]]
 
 ## Biography
 

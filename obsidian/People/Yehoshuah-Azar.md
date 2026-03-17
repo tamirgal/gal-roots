@@ -21,11 +21,17 @@ research_level: 1
 
 ![[attachments/pictures/Azar Yehoshua.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Azar|Azar]]
+
 ## Family
 
 **Spouse:** [[People/Rosy-Abada-Azar|Rosy Abada Azar]]
 **Children:** [[People/Nitsa-Azar|Nitsa Azar]], [[People/David-Azar|David Azar]], [[People/Ehoud-Azar|Ehoud Azar]]
-**Families:** [[Families/Azar|Azar]]
 
 ## Biography
 

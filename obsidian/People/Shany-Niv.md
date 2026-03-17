@@ -10,11 +10,17 @@ sex: female
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 2001
+**Born in:**
+**Families:** [[Families/Niv|Niv]]
+
 ## Family
 
 **Father:** [[People/Amir-Niv|Amir Niv]] | **Mother:** [[People/Osnat-Niv|Osnat Niv]]
 **Siblings:** [[People/Idane-Niv|Idane Niv]], [[People/Sapyr-Niv|Sapyr Niv]]
-**Families:** [[Families/Niv|Niv]]
 
 ## Biography
 

@@ -10,11 +10,17 @@ sex: female
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1975-01-23
+**Born in:**
+**Families:** [[Families/Klein|Klein]]
+
 ## Family
 
 **Father:** [[People/Gabriel-Klein-1949|Gabriel Klein]] | **Mother:** [[People/Liuba-Klein|Liuba Klein]]
 **Siblings:** [[People/Mark-Klein|Mark Klein]], [[People/Danny-Klein|Danny Klein]]
-**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 

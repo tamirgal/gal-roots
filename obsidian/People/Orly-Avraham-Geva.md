@@ -8,10 +8,16 @@ sex: female
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Geva|Geva]]
+
 ## Family
 
 **Spouse:** [[People/Eyal-Geva|Eyal Geva]]
-**Families:** [[Families/Geva|Geva]]
 
 ## Biography
 

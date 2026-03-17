@@ -8,10 +8,16 @@ sex: female
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Aharon|Aharon]]
+
 ## Family
 
 **Spouse:** [[People/Leo-Aharon|Leo Aharon]]
-**Families:** [[Families/Aharon|Aharon]]
 
 ## Biography
 

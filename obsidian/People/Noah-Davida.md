@@ -9,10 +9,16 @@ sex: female
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Davida|Davida]]
+
 ## Family
 
 **Father:** [[People/Ilan-Davida|Ilan Davida]] | **Mother:** [[People/Maya-Shimon-Davida|Maya (Shimon) Davida]]
-**Families:** [[Families/Davida|Davida]]
 
 ## Biography
 

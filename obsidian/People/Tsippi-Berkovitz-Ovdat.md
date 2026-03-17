@@ -24,11 +24,17 @@ research_level: 2
 
 ![[attachments/pictures/Ovdat Tsippi 2.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1957-07-15
+**Born in:**
+**Families:** [[Families/Berkovitz|Berkovitz]], [[Families/Ovdat|Ovdat]]
+
 ## Family
 
 **Spouse:** [[People/Avner-Abada-Ovdat|Avner Abada Ovdat]]
 **Children:** [[People/Tamar-Ovdat|Tamar Ovdat]], [[People/Yael-Ovdat|Yael Ovdat]], [[People/Oded-Ovdat|Oded Ovdat]]
-**Families:** [[Families/Berkovitz|Berkovitz]], [[Families/Ovdat|Ovdat]]
 
 ## Biography
 Tsippi and Avner married in [[Places/Israel]] 6 July 1978

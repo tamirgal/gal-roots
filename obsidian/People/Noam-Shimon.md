@@ -15,11 +15,17 @@ research_level: 2
 
 ![[attachments/pictures/shimon_noam_passport_2.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 2002-01-14
+**Born in:**
+**Families:** [[Families/Shimon|Shimon]]
+
 ## Family
 
 **Father:** [[People/Chaim-Shimon|Chaim Shimon]] | **Mother:** [[People/Meirav-Rappaport-Shimon|Meirav Rappaport Shimon]]
 **Siblings:** [[People/Yuval-Shimon|Yuval Shimon]], [[People/Ofir-Shimon|Ofir Shimon]]
-**Families:** [[Families/Shimon|Shimon]]
 
 ## Biography
 Noam Shimon is born in [[Places/Nahariya]], Israel on : 14 January 2002

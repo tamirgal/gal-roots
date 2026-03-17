@@ -17,11 +17,17 @@ children_id:
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1963-03-15
+**Born in:**
+**Families:** [[Families/Yacovson|Yacovson]], [[Families/Goldmann|Goldmann]]
+
 ## Family
 
 **Spouse:** [[People/Guily-Goldmann|Guily Goldmann]]
 **Children:** [[People/More-Goldmann|More Goldmann]], [[People/Noa-Goldmann|Noa Goldmann]], [[People/Ziv-Goldmann|Ziv Goldmann]]
-**Families:** [[Families/Yacovson|Yacovson]], [[Families/Goldmann|Goldmann]]
 
 ## Biography
 Talia Yacovson , married to Guily Goldmann in [[Places/Israel]], 29 August 1995.

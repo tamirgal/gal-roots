@@ -18,12 +18,18 @@ research_level: 1
 
 ![[attachments/pictures/geva_eyal1.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1978-06-24
+**Born in:**
+**Families:** [[Families/Geva|Geva]]
+
 ## Family
 
 **Father:** [[People/Shabetay-Zuckerberger-Geva|Shabetay Zuckerberger Geva]] | **Mother:** [[People/Tsipora-Geva|Tsipora Geva]]
 **Spouse:** [[People/Orly-Avraham-Geva|Orly Avraham Geva]]
 **Siblings:** [[People/Liran-Geva|Liran Geva]], [[People/Adi-Geva|Adi Geva]]
-**Families:** [[Families/Geva|Geva]]
 
 ## Biography
 

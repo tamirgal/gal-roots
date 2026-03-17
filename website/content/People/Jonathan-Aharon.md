@@ -10,11 +10,17 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1975
+**Born in:**
+**Families:** [[Families/Aharon|Aharon]]
+
 ## Family
 
 **Father:** [[People/Ernest-Aharon|Ernest Aharon]] | **Mother:** [[People/Deborah-Nestrovsky-Aharon|Deborah Nestrovsky Aharon]]
 **Siblings:** [[People/Sandra-Aharon|Sandra Aharon]]
-**Families:** [[Families/Aharon|Aharon]]
 
 ## Biography
 

@@ -27,13 +27,19 @@ research_level: 2
 
 ![[attachments/pictures/shimon_chaim_passport_2.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1971-07-30
+**Born in:**
+**Families:** [[Families/Shimon|Shimon]]
+
 ## Family
 
 **Father:** [[People/Amir-Sami-Shimon|Amir (Sami) Shimon]] | **Mother:** [[People/Regina-Jina-Abada-Shimon|Regina (Jina) (Abada) Shimon]]
 **Spouse:** [[People/Meirav-Rappaport-Shimon|Meirav Rappaport Shimon]]
 **Siblings:** [[People/Liat-Shimon-Kokhavi|Liat (Shimon) Kokhavi]], [[People/Keren-Shimon-Haiman|Keren (Shimon) Haiman]], [[People/Maya-Shimon-Davida|Maya (Shimon) Davida]], [[People/Shani-Shimon|Shani Shimon]]
 **Children:** [[People/Noam-Shimon|Noam Shimon]], [[People/Yuval-Shimon|Yuval Shimon]], [[People/Ofir-Shimon|Ofir Shimon]]
-**Families:** [[Families/Shimon|Shimon]]
 
 ## Biography
 Chaim Shimon is born in [[Places/Haifa]], Israel, on the 30-7-1971. Married to Merav Rappaport in [[Places/Haifa]] , Israel, on the 28 february 2001 Lives in [[Places/Karmiel]]

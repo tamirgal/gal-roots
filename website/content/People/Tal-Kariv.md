@@ -18,11 +18,17 @@ research_level: 1
 
 ![[attachments/pictures/Kariv Tal.jpg]]
 
+## Details
+
+**Hebrew Name:** טל קריב
+**Birthday:** 1989-07-19
+**Born in:**
+**Families:** [[Families/Kariv|Kariv]]
+
 ## Family
 
 **Father:** [[People/Itay-Kariv|Itay Kariv]] | **Mother:** [[People/Anat-Goldstein-Kariv|Anat Goldstein Kariv]]
 **Siblings:** [[People/Tom-Kariv|Tom Kariv]], [[People/Bar-Kariv|Bar Kariv]], [[People/Gil-Kariv|Gil Kariv]]
-**Families:** [[Families/Kariv|Kariv]]
 
 ## Biography
 

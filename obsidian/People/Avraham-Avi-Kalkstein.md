@@ -17,11 +17,17 @@ research_level: 2
 
 ![[attachments/pictures/kalkstein_avi.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1951-10-23
+**Born in:**
+**Families:** [[Families/Kalkstein|Kalkstein]]
+
 ## Family
 
 **Father:** [[People/Zvi-Kalkstein|Zvi Kalkstein]] | **Mother:** [[People/Miriam-Farkas-Kalkstein|Miriam Farkas Kalkstein]]
 **Siblings:** [[People/Ronit-Kalkstein-Shaked|Ronit Kalkstein Shaked]]
-**Families:** [[Families/Kalkstein|Kalkstein]]
 
 ## Biography
 Born in [[Places/Haifa]] , 23.october 1951,... He lives in NY, [[Places/USA]].

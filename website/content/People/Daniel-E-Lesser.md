@@ -10,11 +10,17 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 2003-03-25
+**Born in:**
+**Families:** [[Families/Lesser|Lesser]]
+
 ## Family
 
 **Father:** [[People/Joshua-A-Lesser|Joshua A. Lesser]] | **Mother:** [[People/Tamara-J-Ovdat-Lesser|Tamara J. Ovdat Lesser]]
 **Siblings:** [[People/Emilie-F-Lesser|Emilie F. Lesser]]
-**Families:** [[Families/Lesser|Lesser]]
 
 ## Biography
 

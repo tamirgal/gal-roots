@@ -14,11 +14,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Kneiz|Kneiz]]
+
 ## Family
 
 **Spouse:** [[People/Judith-Hirsch-Kneiz|Judith Hirsch Kneiz]]
 **Children:** [[People/Corina-Kneiz-Mor|Corina Kneiz Mor]], [[People/Claudia-Kneiz|Claudia Kneiz]]
-**Families:** [[Families/Kneiz|Kneiz]]
 
 ## Biography
 

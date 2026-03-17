@@ -15,10 +15,16 @@ research_level: 2
 
 ![[attachments/pictures/Nancy Israel.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1966-01-31
+**Born in:**
+**Families:** [[Families/Israel|Israel]]
+
 ## Family
 
 **Spouse:** [[People/Solomon-Israel|Solomon Israel]]
-**Families:** [[Families/Israel|Israel]]
 
 ## Biography
 Nancy,...born in [[Places/Montreal]], [[Places/Quebec]] ([[Places/Canada]]). Married to Solomon on May 28, 2000 , in [[Places/Dallas]] , [[Places/Texas]].

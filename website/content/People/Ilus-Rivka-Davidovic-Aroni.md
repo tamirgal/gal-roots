@@ -15,11 +15,17 @@ children_id:
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1921-03-25
+**Born in:**
+**Families:** [[Families/Davidovic|Davidovic]], [[Families/Aroni|Aroni]]
+
 ## Family
 
 **Spouse:** [[People/Henrik-Yeheskel-Aroni|Henrik (Yeheskel) Aroni]]
 **Children:** [[People/Eva-Rachel-Aroni-Fried|Eva (Rachel) Aroni Fried]], [[People/Ben-Zion-Aroni|Ben-Zion Aroni]]
-**Families:** [[Families/Davidovic|Davidovic]], [[Families/Aroni|Aroni]]
 
 ## Biography
 

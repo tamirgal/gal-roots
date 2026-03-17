@@ -31,13 +31,19 @@ children_id:
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1855
+**Born in:**
+**Families:** [[Families/Klein|Klein]]
+
 ## Family
 
 **Father:** [[People/Klein-ind10142|Klein]] | **Mother:** [[People/Klein-ind10141|Klein]]
 **Spouse:** [[People/Rachel-Levy-Klein|Rachel Levy Klein]]
 **Siblings:** [[People/Avraham-Izhak-Klein|Avraham-Izhak Klein]], [[People/Unknown-Klein|Unknown Klein]]
 **Children:** [[People/Shmuel-Klein|Shmuel Klein]], [[People/Yossef-Klein|Yossef Klein]], [[People/Herman-Haim-Klein|Herman Haim Klein]], [[People/Elchanan-Klein|Elchanan Klein]], [[People/Yehoshua-Yehuda-Klein|Yehoshua Yehuda Klein]], [[People/Zali-Klein|Zali Klein]], [[People/Sarah-Klein-1901|Sarah Klein]], [[People/Nathan-Klein|Nathan Klein]]
-**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 Moshe Klein was a vineyard expert. His job was to produce and improve excellent wines, specially the "Elicant"specie. Special care and attention were given to Kosher wines,... as many of the clients were jews.

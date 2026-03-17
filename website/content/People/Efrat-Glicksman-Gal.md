@@ -29,11 +29,17 @@ research_level: 2
 
 ![[attachments/pictures/01_passport_efrat.jpg]]
 
+## Details
+
+**Hebrew Name:** אפרת גליקסמן גל
+**Birthday:** 1981-01-19
+**Born in:** [[Places/Haifa]]
+**Families:** [[Families/Glicksman|Glicksman]], [[Families/Gal|Gal]]
+
 ## Family
 
 **Spouse:** [[People/Tamir-Gal|Tamir Gal]]
 **Children:** [[People/Shaked-Gal|Shaked Gal]], [[People/Nadav-Gal|Nadav Gal]], [[People/Mika-Gal|Mika Gal]]
-**Families:** [[Families/Glicksman|Glicksman]], [[Families/Gal|Gal]]
 
 ## Biography
 Efrat , (born Glicksman - 19/1/81) in [[Places/Haifa]], Israel and raised in [[Places/Nofit]]. After her military service, she studied Occupational Therapy in the [[Places/Tel Aviv]] University. Married to Tamir Gal in [[Places/Nofit]] on 27 May 2011. She currently lives in [[Places/Herzliya]], and works as Occupational Therapist for children.

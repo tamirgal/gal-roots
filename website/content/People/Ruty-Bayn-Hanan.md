@@ -22,11 +22,17 @@ research_level: 2
 
 ![[attachments/pictures/Hanan Ruti.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1956-07-05
+**Born in:**
+**Families:** [[Families/Bayn|Bayn]], [[Families/Hanan|Hanan]]
+
 ## Family
 
 **Spouse:** [[People/Yacov-Hanan|Yacov Hanan]]
 **Children:** [[People/Vered-Hanan|Vered Hanan]], [[People/Tahel-Hanan|Tahel Hanan]], [[People/Hagay-Hanan|Hagay Hanan]]
-**Families:** [[Families/Bayn|Bayn]], [[Families/Hanan|Hanan]]
 
 ## Biography
 Ruty Bayn , married to Yacov Hanan, 1 August 1978 Ruty is the daughter of [[Places/Israel]] and Malka Bayn.

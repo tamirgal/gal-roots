@@ -10,10 +10,16 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 2002-06-18
+**Born in:**
+**Families:** [[Families/Einav|Einav]]
+
 ## Family
 
 **Father:** [[People/Husband-Einav|Husband Einav]] | **Mother:** [[People/Mikhal-Cohen-Einav|Mikhal Cohen Einav]]
-**Families:** [[Families/Einav|Einav]]
 
 ## Biography
 

@@ -27,13 +27,19 @@ research_level: 2
 
 ![[attachments/pictures/Ovdat Avner 2.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1955-05-17
+**Born in:**
+**Families:** [[Families/Abada|Abada]], [[Families/Ovdat|Ovdat]]
+
 ## Family
 
 **Father:** [[People/David-Abada|David Abada]] | **Mother:** [[People/Juliette-Pariente-Abada|Juliette Pariente Abada]]
 **Spouse:** [[People/Tsippi-Berkovitz-Ovdat|Tsippi Berkovitz Ovdat]]
 **Siblings:** [[People/Saul-Abada-Ovdat|Saul Abada Ovdat]], [[People/Miriam-Abada-Harari|Miriam Abada Harari]], [[People/Yacov-Abada|Yacov Abada]]
 **Children:** [[People/Tamar-Ovdat|Tamar Ovdat]], [[People/Yael-Ovdat|Yael Ovdat]], [[People/Oded-Ovdat|Oded Ovdat]]
-**Families:** [[Families/Abada|Abada]], [[Families/Ovdat|Ovdat]]
 
 ## Biography
 Avner and Tsippi married in [[Places/Israel]] 6 July 1978

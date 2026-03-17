@@ -20,11 +20,17 @@ research_level: 2
 
 ![[attachments/pictures/Remnant Fiona 16 avril 2000.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1975-04-14
+**Born in:**
+**Families:** [[Families/Remnant|Remnant]]
+
 ## Family
 
 **Father:** [[People/Peter-John-Remnant|Peter John Remnant]] | **Mother:** [[People/Doris-Saison-Remnant|Doris Saison Remnant]]
 **Siblings:** [[People/David-Remnant|David Remnant]]
-**Families:** [[Families/Remnant|Remnant]]
 
 ## Biography
 Fiona, born in [[Places/Cambridge]], 14 April 1975,at 16 h26. Finished her studies in Bath university, (French and italian languages).

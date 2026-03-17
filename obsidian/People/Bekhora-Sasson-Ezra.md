@@ -19,13 +19,19 @@ children_id:
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1878
+**Born in:**
+**Families:** [[Families/Sasson|Sasson]], [[Families/Ezra|Ezra]]
+
 ## Family
 
 **Father:** [[People/Youssef-Sasson|Youssef Sasson]] | **Mother:** [[People/Rachel-Sasson|Rachel Sasson]]
 **Spouse:** [[People/Shaoul-Ezra|Shaoul Ezra]]
 **Siblings:** [[People/Nissim-Sasson|Nissim Sasson]], [[People/Regina-Sasson|Regina Sasson]], [[People/Moussa-Moshe-Sasson|Moussa Moshe Sasson]], [[People/Rebecca-Sasson-Yehya|Rebecca Sasson Yehya]], [[People/Semha-Sasson-Cohen|Semha Sasson Cohen]], [[People/David-Sasson|David Sasson]]
 **Children:** [[People/Ezra-Ezra|Ezra Ezra]], [[People/Joseph-Soussou-Ezra|Joseph Soussou Ezra]]
-**Families:** [[Families/Sasson|Sasson]], [[Families/Ezra|Ezra]]
 
 ## Biography
 

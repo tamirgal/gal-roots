@@ -27,11 +27,17 @@ children_id:
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1891
+**Born in:**
+**Families:** [[Families/Farkas|Farkas]], [[Families/Aharon|Aharon]]
+
 ## Family
 
 **Spouse:** [[People/Joseph-Aharon-1887|Joseph Aharon]]
 **Children:** [[People/Lenka-Aharon|Lenka Aharon]], [[People/Mordechai-Aharon|Mordechai Aharon]], [[People/Henrik-Yeheskel-Aroni|Henrik (Yeheskel) Aroni]], [[People/Herman-Aharon|Herman Aharon]], [[People/Zvi-Miklosh-Aharoni|Zvi Miklosh Aharoni]], [[People/Frida-Aharon|Frida Aharon]], [[People/Elias-Aharon|Elias Aharon]], [[People/Margi-Aharon|Margi Aharon]]
-**Families:** [[Families/Farkas|Farkas]], [[Families/Aharon|Aharon]]
 
 ## Biography
 

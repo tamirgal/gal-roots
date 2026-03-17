@@ -26,13 +26,19 @@ research_level: 1
 
 ![[attachments/pictures/Abada Shaoul (Claude).jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1962-05-17
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Claude-Hayim-Abada|Claude (Hayim) Abada]] | **Mother:** [[People/Ginette-Toueg-Abada|Ginette Toueg Abada]]
 **Spouse:** [[People/Dalit-HarEl-Abada|Dalit HarEl Abada]]
 **Siblings:** [[People/Ronit-Abada-Savdie|Ronit Abada Savdie]]
 **Children:** [[People/Elia-Abada|Elia Abada]], [[People/Ouria-Abada|Ouria Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

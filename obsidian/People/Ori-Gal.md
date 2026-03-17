@@ -19,11 +19,17 @@ research_level: 1
 
 ![[attachments/pictures/2014_10_ori_gal_15.jpg]]
 
+## Details
+
+**Hebrew Name:** אורי גל
+**Birthday:** 2014-10-14
+**Born in:**
+**Families:** [[Families/Gal|Gal]]
+
 ## Family
 
 **Father:** [[People/Asaf-Gal|Asaf Gal]] | **Mother:** [[People/Adi-Dolev-Gal|Adi Dolev Gal]]
 **Siblings:** [[People/Shahar-Gal|Shahar Gal]], [[People/Yael-Gal|Yael Gal]]
-**Families:** [[Families/Gal|Gal]]
 
 ## Biography
 

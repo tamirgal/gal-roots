@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/Lagnado Yoss.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1992-02-05
+**Born in:**
+**Families:** [[Families/Laniado|Laniado]]
+
 ## Family
 
 **Father:** [[People/Tsion-Laniado|Tsion Laniado]] | **Mother:** [[People/Esther-Etty-Cohen-Laniado|Esther (Etty) Cohen Laniado]]
 **Siblings:** [[People/Shirah-Laniado|Shirah Laniado]]
-**Families:** [[Families/Laniado|Laniado]]
 
 ## Biography
 

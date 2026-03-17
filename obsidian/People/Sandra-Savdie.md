@@ -15,10 +15,16 @@ research_level: 1
 
 ![[attachments/pictures/Savdie Sandra.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1985-04-23
+**Born in:**
+**Families:** [[Families/Savdie|Savdie]]
+
 ## Family
 
 **Father:** [[People/Jacky-Savdie|Jacky Savdie]] | **Mother:** [[People/Monique-Haroche-Savdie|Monique Haroche Savdie]]
-**Families:** [[Families/Savdie|Savdie]]
 
 ## Biography
 

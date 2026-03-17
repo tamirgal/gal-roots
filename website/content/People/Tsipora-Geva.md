@@ -24,11 +24,17 @@ research_level: 1
 
 ![[attachments/pictures/geva_tsipi.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1948-12-21
+**Born in:**
+**Families:** [[Families/Geva|Geva]]
+
 ## Family
 
 **Spouse:** [[People/Shabetay-Zuckerberger-Geva|Shabetay Zuckerberger Geva]]
 **Children:** [[People/Liran-Geva|Liran Geva]], [[People/Eyal-Geva|Eyal Geva]], [[People/Adi-Geva|Adi Geva]]
-**Families:** [[Families/Geva|Geva]]
 
 ## Biography
 

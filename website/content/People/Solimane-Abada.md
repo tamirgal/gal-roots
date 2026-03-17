@@ -30,13 +30,19 @@ research_level: 2
 
 ![[attachments/pictures/Abada Solimane.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1900
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Yehezkel-Abada|Yehezkel Abada]] | **Mother:** [[People/Farha-Abada-ind00312|Farha Abada]]
 **Spouse:** [[People/Linda-Ashkenazi-Abada|Linda Ashkenazi Abada]]
 **Siblings:** [[People/Shaoul-Abada-1889|Shaoul Abada]], [[People/Daoud-Abada|Daoud Abada]], [[People/Moussa-Abada|Moussa Abada]], [[People/Menashe-Abada|Menashe Abada]], [[People/Abdallah-Abada|Abdallah Abada]], [[People/Albert-Abada|Albert Abada]]
 **Children:** [[People/Allegra-Abada-Ventura|Allegra Abada Ventura]], [[People/David-Edouard-Abada|David Edouard Abada]], [[People/Alice-Abada-Harari|Alice Abada Harari]], [[People/Ernest-Zouzi-Abada|Ernest Zouzi Abada]], [[People/Freddy-Ephraim-Abada-Alitsour|Freddy (Ephraim) Abada (Alitsour)]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 Les racines de la famille Abada, remontent a [[Places/Baghdad]], capitale d'[[Places/Iraq]], En cette fin du 19 eme siecle , tout le moyen orient faisait partie de l'empire Ottoman.C'est alors que Yehezkel Abada, sa femme et ses 7 enfants, tous des garcons, emigrerent vers l'[[Places/Egypt]], via le Liban et la [[Places/Palestine]]. Ils s'etablirent a Tanta, ville dans le delta Egyptien au nord du [[Places/Cairo]]. Solimane Abada , 6 eme garcon, se maria au [[Places/Cairo]], avec Linda Ashkenazi , et eurent 5 enfants. Solimane, comme la plupart de ses freres, travaillait dans le textile et avait un petit magasin a "Haret El Yahoud", c'est l'antique quartier juif du [[Places/Cairo]].,...Apres les evenements de la guerre de Suez, la famille decide de quitter l'[[Places/Egypt]], et en 1957 elle emigre en [[Places/Israel]], et s'installe a Bat-Yam. Solimane mourut en 1964.

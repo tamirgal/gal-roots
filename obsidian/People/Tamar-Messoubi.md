@@ -16,11 +16,17 @@ research_level: 1
 
 ![[attachments/pictures/Messoubi Tamar.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 2002-05-05
+**Born in:**
+**Families:** [[Families/Messoubi|Messoubi]]
+
 ## Family
 
 **Father:** [[People/Edy-Messoubi|Edy Messoubi]] | **Mother:** [[People/Ilana-Ravia-Messoubi|Ilana Ravia Messoubi]]
 **Siblings:** [[People/Mikhal-Messoubi|Mikhal Messoubi]], [[People/Ido-Messoubi|Ido Messoubi]]
-**Families:** [[Families/Messoubi|Messoubi]]
 
 ## Biography
 

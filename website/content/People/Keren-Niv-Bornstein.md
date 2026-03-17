@@ -17,13 +17,19 @@ children_id:
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1974
+**Born in:**
+**Families:** [[Families/Niv|Niv]], [[Families/Bornstein|Bornstein]]
+
 ## Family
 
 **Father:** [[People/Elie-Nefoussi-Niv|Elie Nefoussi Niv]] | **Mother:** [[People/Ruty-Matatiahou-Niv|Ruty Matatiahou Niv]]
 **Spouse:** [[People/Amir-Bornstein|Amir Bornstein]]
 **Siblings:** [[People/Amir-Niv|Amir Niv]], [[People/Shemer-Niv|Shemer Niv]]
 **Children:** [[People/Rotem-Bornstein|Rotem Bornstein]]
-**Families:** [[Families/Niv|Niv]], [[Families/Bornstein|Bornstein]]
 
 ## Biography
 Keren Niv, married to Amir Bornstein in [[Places/Israel]], in 1998

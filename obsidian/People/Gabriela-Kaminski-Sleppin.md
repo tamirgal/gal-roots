@@ -29,13 +29,19 @@ research_level: 1
 
 ![[attachments/pictures/kaminsky_gabi_2.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1946-08-21
+**Born in:**
+**Families:** [[Families/Kaminski|Kaminski]], [[Families/Sleppin|Sleppin]]
+
 ## Family
 
 **Father:** [[People/Samuel-Kaminski|Samuel Kaminski]] | **Mother:** [[People/Edith-Klein-Kaminski|Edith Klein Kaminski]]
 **Spouse:** [[People/Aharon-Sadote|Aharon Sadote]], [[People/Michael-Sleppin|Michael Sleppin]]
 **Siblings:** [[People/David-Kaminski|David Kaminski]]
 **Children:** [[People/Revital-Sadote|Revital Sadote]], [[People/Shirit-Sadote|Shirit Sadote]]
-**Families:** [[Families/Kaminski|Kaminski]], [[Families/Sleppin|Sleppin]]
 
 ## Biography
 

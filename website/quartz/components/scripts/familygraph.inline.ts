@@ -246,6 +246,7 @@ type GraphHandle = {
   resetView: () => void
   applyLayout: (name: string) => void
   setShowNames: (on: boolean) => void
+  setHebrew: (on: boolean) => void
 }
 
 let lastClickTime = 0
@@ -267,7 +268,7 @@ async function renderFamilyGraph(
   const familyData = await getFamilyData()
   const entry = familyData[center]
   if (!entry) {
-    return { cleanup: () => {}, fitToView: () => {}, resetView: () => {}, applyLayout: () => {}, setShowNames: () => {} }
+    return { cleanup: () => {}, fitToView: () => {}, resetView: () => {}, applyLayout: () => {}, setShowNames: () => {}, setHebrew: () => {} }
   }
 
   removeAllChildren(graph)
@@ -1645,6 +1646,23 @@ async function renderFamilyGraph(
     }
   }
 
+  let hebrewMode = false
+
+  function setHebrew(on: boolean) {
+    hebrewMode = on
+    for (const n of nodeRenderData) {
+      const fe = familyData[n.simulationData.id] as FamilyEntry | undefined
+      if (on && fe?.hebrewName) {
+        n.label.text = fe.hebrewName
+        n.simulationData.text = fe.hebrewName
+      } else {
+        const engName = fe?.name ?? n.simulationData.id
+        n.label.text = engName
+        n.simulationData.text = engName
+      }
+    }
+  }
+
   return {
     cleanup: () => {
       closeContextMenu()
@@ -1665,6 +1683,7 @@ async function renderFamilyGraph(
       else layoutForce()
     },
     setShowNames,
+    setHebrew,
   }
 }
 
@@ -1724,10 +1743,17 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   let currentDirection: Direction = "both"
   let currentCenter: SimpleSlug = currentSlug
   let currentShowNames = false
+  let currentHebrew = false
 
   function syncShowNames() {
     if (currentShowNames) {
       for (const h of globalGraphHandles) h.setShowNames(true)
+    }
+  }
+
+  function syncHebrew() {
+    if (currentHebrew) {
+      for (const h of globalGraphHandles) h.setHebrew(true)
     }
   }
 
@@ -1749,6 +1775,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
       }
     }
     syncShowNames()
+    syncHebrew()
   }
 
   async function rebuildGraph() {
@@ -1768,6 +1795,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
       }
     }
     syncShowNames()
+    syncHebrew()
   }
 
   async function renderGlobalGraph() {
@@ -1775,6 +1803,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     currentDepth = 2
     currentDirection = "both"
     currentShowNames = false
+    currentHebrew = false
 
     const depthSel = containers[0]?.querySelector(".family-depth") as HTMLSelectElement
     if (depthSel) {
@@ -1787,6 +1816,8 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     })
     const showNamesCb = containers[0]?.querySelector(".show-names-cb") as HTMLInputElement
     if (showNamesCb) showNamesCb.checked = false
+    const hebrewCbReset = containers[0]?.querySelector(".hebrew-names-cb") as HTMLInputElement
+    if (hebrewCbReset) hebrewCbReset.checked = false
 
     for (const container of containers) {
       container.classList.add("active")
@@ -1875,6 +1906,12 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
       showNamesCb?.addEventListener("change", () => {
         currentShowNames = showNamesCb.checked
         for (const h of globalGraphHandles) h.setShowNames(showNamesCb.checked)
+      })
+
+      const hebrewCb = container.querySelector(".hebrew-names-cb") as HTMLInputElement
+      hebrewCb?.addEventListener("change", () => {
+        currentHebrew = hebrewCb.checked
+        for (const h of globalGraphHandles) h.setHebrew(hebrewCb.checked)
       })
 
       const fitBtn = container.querySelector(".fit-btn")

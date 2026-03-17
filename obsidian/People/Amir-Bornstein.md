@@ -12,11 +12,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Bornstein|Bornstein]]
+
 ## Family
 
 **Spouse:** [[People/Keren-Niv-Bornstein|Keren Niv Bornstein]]
 **Children:** [[People/Rotem-Bornstein|Rotem Bornstein]]
-**Families:** [[Families/Bornstein|Bornstein]]
 
 ## Biography
 Amir Bornstein, married to Keren Niv in [[Places/Israel]], in 1998

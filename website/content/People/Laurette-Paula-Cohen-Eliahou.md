@@ -26,11 +26,17 @@ research_level: 2
 
 ![[attachments/pictures/Eliahou Laurette 1.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1945-06-01
+**Born in:**
+**Families:** [[Families/Cohen|Cohen]], [[Families/Eliahou|Eliahou]]
+
 ## Family
 
 **Spouse:** [[People/Joseph-Eliahou|Joseph Eliahou]]
 **Children:** [[People/David-Eliahou|David Eliahou]], [[People/Rachel-Eliahou|Rachel Eliahou]], [[People/Eric-Haim-Eliahou|Eric Haim Eliahou]]
-**Families:** [[Families/Cohen|Cohen]], [[Families/Eliahou|Eliahou]]
 
 ## Biography
 Laurette (Paula) Cohen, nee au [[Places/Cairo]] ([[Places/Egypt]]) le 1.6.1945, mariee a Joseph Eliahou, ne au [[Places/Cairo]] le 16.6.1942, Le mariage civil eut lieu en [[Places/France]] le 21.5.1976. Le mariage religieux eut lieu en [[Places/Israel]] le 17.6.1976.

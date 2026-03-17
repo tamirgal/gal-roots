@@ -10,10 +10,16 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1942
+**Born in:**
+**Families:** [[Families/Aharon|Aharon]]
+
 ## Family
 
 **Father:** [[People/Mordechai-Aharon|Mordechai Aharon]] | **Mother:** [[People/Dvora-Aharon|Dvora Aharon]]
-**Families:** [[Families/Aharon|Aharon]]
 
 ## Biography
 

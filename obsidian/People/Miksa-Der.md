@@ -13,11 +13,17 @@ children_id:
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1898
+**Born in:**
+**Families:** [[Families/Der|Der]]
+
 ## Family
 
 **Spouse:** [[People/Roza-Rezsi-Klein-Der|Roza (Rezsi) Klein Der]]
 **Children:** [[People/Istvan-Pitue-Der|Istvan (Pitue) Der]]
-**Families:** [[Families/Der|Der]]
 
 ## Biography
 

@@ -21,11 +21,17 @@ research_level: 1
 
 ![[attachments/pictures/victor_chaya_shosh_miriam.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1916-09-07
+**Born in:**
+**Families:** [[Families/Smilovitz|Smilovitz]], [[Families/Zuckerberger|Zuckerberger]]
+
 ## Family
 
 **Spouse:** [[People/Avigdor-Zuckerberger|Avigdor Zuckerberger]]
 **Children:** [[People/Tsipora-Zuckerberger-Glassberg|Tsipora Zuckerberger Glassberg]], [[People/Shabetay-Zuckerberger-Geva|Shabetay Zuckerberger Geva]]
-**Families:** [[Families/Smilovitz|Smilovitz]], [[Families/Zuckerberger|Zuckerberger]]
 
 ## Biography
 

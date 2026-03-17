@@ -16,11 +16,17 @@ research_level: 1
 
 ![[attachments/pictures/elias_oren.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1975-07-15
+**Born in:**
+**Families:** [[Families/Elias|Elias]]
+
 ## Family
 
 **Father:** [[People/Ezra-Elias|Ezra Elias]] | **Mother:** [[People/Noah-Klein-Elias|Noah Klein Elias]]
 **Siblings:** [[People/Yuval-Elias|Yuval Elias]]
-**Families:** [[Families/Elias|Elias]]
 
 ## Biography
 

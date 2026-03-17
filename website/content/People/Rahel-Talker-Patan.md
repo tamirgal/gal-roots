@@ -34,13 +34,19 @@ research_level: 2
 
 ![[attachments/pictures/Rahel 1.jpg]]
 
+## Details
+
+**Hebrew Name:** רחל טלקר פטאן
+**Birthday:** 1962-10-25
+**Born in:**
+**Families:** [[Families/Talker|Talker]], [[Families/Patan|Patan]]
+
 ## Family
 
 **Father:** [[People/Shlomo-Talker|Shlomo Talker]] | **Mother:** [[People/Sarah-Talker|Sarah Talker]]
 **Spouse:** [[People/Sami-Patan|Sami Patan]]
 **Siblings:** [[People/Moshe-Talker|Moshe Talker]], [[People/Pinhass-Talker|Pinhass Talker]], [[People/Batsheba-Talker-Berkovitz|Batsheba Talker Berkovitz]], [[People/Bentsion-Talker|Bentsion Talker]], [[People/Shmouel-Talker|Shmouel Talker]]
 **Children:** [[People/Mary-Patan|Mary Patan]], [[People/Omri-Patan|Omri Patan]], [[People/Noam-Patan|Noam Patan]], [[People/Maayane-Patan|Maayane Patan]]
-**Families:** [[Families/Talker|Talker]], [[Families/Patan|Patan]]
 
 ## Biography
 Wedding of Rahel Talker and Sami Patan, in [[Places/Tel Aviv]], Israel 11 October 1988

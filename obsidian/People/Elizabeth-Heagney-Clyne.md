@@ -23,11 +23,17 @@ research_level: 2
 
 ![[attachments/pictures/clyne_elisabeth.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1947-09-17
+**Born in:**
+**Families:** [[Families/Heagney|Heagney]], [[Families/Clyne|Clyne]]
+
 ## Family
 
 **Spouse:** [[People/Charles-Clyne|Charles Clyne]]
 **Children:** [[People/Alexandra-Clyne|Alexandra Clyne]], [[People/Jonathan-Clyne|Jonathan Clyne]], [[People/Suzanne-Clyne|Suzanne Clyne]]
-**Families:** [[Families/Heagney|Heagney]], [[Families/Clyne|Clyne]]
 
 ## Biography
 Daughter of Antony and Edna Heagney

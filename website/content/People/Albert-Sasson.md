@@ -30,12 +30,18 @@ research_level: 2
 
 ![[attachments/pictures/Albert Sasson seul.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1909-10-24
+**Born in:**
+**Families:** [[Families/Sasson|Sasson]]
+
 ## Family
 
 **Father:** [[People/Itshak-Sasson|Itshak Sasson]] | **Mother:** [[People/Marietta-Attar-Sasson|Marietta Attar Sasson]]
 **Spouse:** [[People/Emilie-Cohen-Sasson|Emilie Cohen Sasson]]
 **Siblings:** [[People/Meyer-Sasson|Meyer Sasson]], [[People/Hamama-Sasson-Israel|Hamama Sasson Israel]], [[People/Jacques-Sasson-Saison|Jacques Sasson Saison]], [[People/Victoria-Sasson-Patan|Victoria Sasson Patan]], [[People/Esther-Sasson-Cohen|Esther Sasson Cohen]]
-**Families:** [[Families/Sasson|Sasson]]
 
 ## Biography
 ALBERT (Abraham) SASSON, born in [[Places/Luxor]], the 24th of October 1909…Married to Emilie Cohen in [[Places/Cairo]] on the 28th of February 1937. He worked as a teacher of Mathematics, in the government schools, till his retirement. They have no children. In 1982, he left [[Places/Egypt]] with his wife, and emigrated to [[Places/Israel]], and lived in the city of [[Places/Holon]], where he died on the 28th of January 1993, aged 83 years

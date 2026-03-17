@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/phyllisfenster_lucas.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1993-01-23
+**Born in:**
+**Families:** [[Families/Fenstermacher|Fenstermacher]]
+
 ## Family
 
 **Father:** [[People/Hans-Fenstermacher|Hans Fenstermacher]] | **Mother:** [[People/Janet-Ann-Hirschman-Fenstermacher|Janet Ann Hirschman Fenstermacher]]
 **Siblings:** [[People/Amy-Claire-Fenstermacher|Amy Claire Fenstermacher]], [[People/Samuel-Mark-Fenstermacher|Samuel Mark Fenstermacher]]
-**Families:** [[Families/Fenstermacher|Fenstermacher]]
 
 ## Biography
 

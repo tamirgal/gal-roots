@@ -28,13 +28,19 @@ research_level: 1
 
 ![[attachments/pictures/shaked_ronit.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1953-04-09
+**Born in:**
+**Families:** [[Families/Kalkstein|Kalkstein]], [[Families/Shaked|Shaked]]
+
 ## Family
 
 **Father:** [[People/Zvi-Kalkstein|Zvi Kalkstein]] | **Mother:** [[People/Miriam-Farkas-Kalkstein|Miriam Farkas Kalkstein]]
 **Spouse:** [[People/Ytshak-Itsik-Shaked|Ytshak (Itsik) Shaked]]
 **Siblings:** [[People/Avraham-Avi-Kalkstein|Avraham (Avi) Kalkstein]]
 **Children:** [[People/Maya-Shaked-Rabi|Maya Shaked Rabi]], [[People/Tamar-Shaked|Tamar Shaked]], [[People/Ayala-Shaked|Ayala Shaked]]
-**Families:** [[Families/Kalkstein|Kalkstein]], [[Families/Shaked|Shaked]]
 
 ## Biography
 

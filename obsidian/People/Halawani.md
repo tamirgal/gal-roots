@@ -8,6 +8,12 @@ sex: male
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+
 ## Family
 
 **Spouse:** [[People/Touna-Ghazal-Halawani|Touna Ghazal Halawani]]

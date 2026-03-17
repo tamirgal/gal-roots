@@ -13,12 +13,18 @@ sex: male
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1946-07-02
+**Born in:**
+**Families:** [[Families/Aharon|Aharon]]
+
 ## Family
 
 **Father:** [[People/Arie-Leopold-Aharon|Arie Leopold Aharon]] | **Mother:** [[People/Anet-Aharon|Anet Aharon]]
 **Spouse:** [[People/Rosaline-Aharon|Rosaline Aharon]]
 **Siblings:** [[People/Peter-Aharon|Peter Aharon]], [[People/Suzan-Aharon-Reinolds|Suzan Aharon Reinolds]], [[People/Monique-Aharon-Preiss|Monique Aharon Preiss]]
-**Families:** [[Families/Aharon|Aharon]]
 
 ## Biography
 Leo, married to Rosaline, They have 2 sons.

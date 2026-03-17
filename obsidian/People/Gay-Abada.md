@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/Abada Gay.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1997-08-20
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Moshe-Abada|Moshe Abada]] | **Mother:** [[People/Gili-Yashar-Abada|Gili Yashar Abada]]
 **Siblings:** [[People/Daniel-Abada|Daniel Abada]], [[People/Yair-Abada|Yair Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

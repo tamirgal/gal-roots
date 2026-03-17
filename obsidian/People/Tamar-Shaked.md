@@ -16,11 +16,17 @@ research_level: 2
 
 ![[attachments/pictures/passport_shaked_tamar.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1982-06-18
+**Born in:**
+**Families:** [[Families/Shaked|Shaked]]
+
 ## Family
 
 **Father:** [[People/Ytshak-Itsik-Shaked|Ytshak (Itsik) Shaked]] | **Mother:** [[People/Ronit-Kalkstein-Shaked|Ronit Kalkstein Shaked]]
 **Siblings:** [[People/Maya-Shaked-Rabi|Maya Shaked Rabi]], [[People/Ayala-Shaked|Ayala Shaked]]
-**Families:** [[Families/Shaked|Shaked]]
 
 ## Biography
 Tamar was born in [[Places/Haifa]] (Israel) and lives in [[Places/Timrat]], Israel. She is currently an officer in the IDF (Israeli Defens Forces).

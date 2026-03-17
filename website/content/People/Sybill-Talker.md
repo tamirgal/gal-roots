@@ -13,10 +13,16 @@ research_level: 1
 
 ![[attachments/pictures/Talker Syvill.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Talker|Talker]]
+
 ## Family
 
 **Spouse:** [[People/Pinhass-Talker|Pinhass Talker]]
-**Families:** [[Families/Talker|Talker]]
 
 ## Biography
 

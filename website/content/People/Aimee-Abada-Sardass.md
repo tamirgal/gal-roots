@@ -17,12 +17,18 @@ research_level: 1
 
 ![[attachments/pictures/Sardass Aimee.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Abada|Abada]], [[Families/Sardass|Sardass]]
+
 ## Family
 
 **Father:** [[People/Menashe-Abada|Menashe Abada]] | **Mother:** [[People/Gorgia-Danous-Abada|Gorgia Danous Abada]]
 **Spouse:** [[People/Leon-Sardass|Leon Sardass]]
 **Siblings:** [[People/Victor-Abada-ind00327|Victor Abada]], [[People/Arlette-Allegra-Abada-Zakoto|Arlette (Allegra) Abada Zakoto]], [[People/Elie-Lili-Abada-Ronen|Elie (Lili) Abada Ronen]], [[People/Edouard-Dolly-Abada|Edouard (Dolly) Abada]]
-**Families:** [[Families/Abada|Abada]], [[Families/Sardass|Sardass]]
 
 ## Biography
 

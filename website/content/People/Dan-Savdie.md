@@ -17,11 +17,17 @@ research_level: 1
 
 ![[attachments/pictures/Savdie Dan 9 ans.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1992-12-11
+**Born in:**
+**Families:** [[Families/Savdie|Savdie]]
+
 ## Family
 
 **Father:** [[People/Soly-Savdie|Soly Savdie]] | **Mother:** [[People/Ronit-Abada-Savdie|Ronit Abada Savdie]]
 **Siblings:** [[People/Yoav-Savdie|Yoav Savdie]]
-**Families:** [[Families/Savdie|Savdie]]
 
 ## Biography
 

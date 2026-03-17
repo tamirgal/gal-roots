@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/yogev_eyal.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1989-03-08
+**Born in:**
+**Families:** [[Families/Yogev|Yogev]]
+
 ## Family
 
 **Father:** [[People/Hans-Yogev|Hans Yogev]] | **Mother:** [[People/Irit-Hirsch-Yogev|Irit Hirsch Yogev]]
 **Siblings:** [[People/Maayan-Yogev|Maayan Yogev]]
-**Families:** [[Families/Yogev|Yogev]]
 
 ## Biography
 

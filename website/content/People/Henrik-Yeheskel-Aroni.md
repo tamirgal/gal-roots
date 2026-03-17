@@ -26,13 +26,19 @@ research_level: 2
 
 ![[attachments/pictures/aronihaskel.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1914-03-12
+**Born in:**
+**Families:** [[Families/Aroni|Aroni]]
+
 ## Family
 
 **Father:** [[People/Joseph-Aharon-1887|Joseph Aharon]] | **Mother:** [[People/Berta-Farkas-Aharon|Berta Farkas Aharon]]
 **Spouse:** [[People/Ilus-Rivka-Davidovic-Aroni|Ilus Rivka Davidovic Aroni]]
 **Siblings:** [[People/Lenka-Aharon|Lenka Aharon]], [[People/Mordechai-Aharon|Mordechai Aharon]], [[People/Herman-Aharon|Herman Aharon]], [[People/Zvi-Miklosh-Aharoni|Zvi Miklosh Aharoni]], [[People/Frida-Aharon|Frida Aharon]], [[People/Elias-Aharon|Elias Aharon]], [[People/Margi-Aharon|Margi Aharon]]
 **Children:** [[People/Eva-Rachel-Aroni-Fried|Eva (Rachel) Aroni Fried]], [[People/Ben-Zion-Aroni|Ben-Zion Aroni]]
-**Families:** [[Families/Aroni|Aroni]]
 
 ## Biography
 Haskel Aharon, the 3rd son of Joseph Aharon, grew up in Komarno. Around 1935, he moved to [[Places/Budapest]] and studied to become a tailor. He met Ilus-Rivka (Eilona) Davidovic and married her in 1942. Life in [[Places/Budapest]] during the war were very difficult for Jews. Many of them where sent to labor camps and did not survived while others were killed from air bombs. The others were sent to [[Places/Auschwitz]] just before the end of the war as a special effort of Adolf Aichman. Eilona was sent as well to [[Places/Auschwitz]] while Haskel was on the run and found a shelter in a deserted house in [[Places/Budapest]]. Miraculously, Eilona survived and returned back to [[Places/Budapest]] to reunion with Haskel. After a while they decided to join the other Aharon brothers, Mordechai and Milklosh, and they had boarded as well to the same ship, Theodore Herzl, on their way to [[Places/Palestine]] (Israel). Longer trip than expected, they had to stop 6 month in Belgium (where their daughter Rachel were born) and then 21 (!) month were kept in [[Places/Cyprus]] by the British, and finally arrived to [[Places/Israel]] only after Israel got it independence in January 1949. Haskel worked as a tailor here, second son , Ben-Zion (Bennie) was born in 1955 but in 1959 they decided to try their luck in [[Places/Australia]] and moved to [[Places/Melbourne]]. Haskel changed his official his private name to Henrik. Like his brother in [[Places/Israel]], he changed his name to Aharoni but write is as Aroni.

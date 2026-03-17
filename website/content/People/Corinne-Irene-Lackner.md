@@ -10,11 +10,17 @@ sex: female
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1980-07-28
+**Born in:**
+**Families:** [[Families/Lackner|Lackner]]
+
 ## Family
 
 **Father:** [[People/Arthur-Lackner|Arthur Lackner]] | **Mother:** [[People/Gale-Joanne-Peaceman-Lackner|Gale Joanne Peaceman Lackner]]
 **Siblings:** [[People/David-Grant-Lackner|David Grant Lackner]]
-**Families:** [[Families/Lackner|Lackner]]
 
 ## Biography
 Corrine studies in Rutgers University Animal Science.

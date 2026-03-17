@@ -13,11 +13,17 @@ children_id:
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1955-03-25
+**Born in:**
+**Families:** [[Families/Aroni|Aroni]]
+
 ## Family
 
 **Spouse:** [[People/Ben-Zion-Aroni|Ben-Zion Aroni]]
 **Children:** [[People/Hannah-Aroni|Hannah Aroni]]
-**Families:** [[Families/Aroni|Aroni]]
 
 ## Biography
 

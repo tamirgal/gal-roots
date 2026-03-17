@@ -10,11 +10,17 @@ sex: male
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1910
+**Born in:**
+**Families:** [[Families/Klein|Klein]]
+
 ## Family
 
 **Father:** [[People/Herman-Haim-Klein|Herman Haim Klein]] | **Mother:** [[People/Frida-Klein|Frida Klein]]
 **Siblings:** [[People/Yehoshua-Klein|Yehoshua Klein]], [[People/Irenka-Klein|Irenka Klein]]
-**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 Benyamin was married and had children. All the family perished in Nazi concentration camps

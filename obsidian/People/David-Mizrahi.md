@@ -13,10 +13,16 @@ research_level: 1
 
 ![[attachments/pictures/Mizrahi David.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Mizrahi|Mizrahi]]
+
 ## Family
 
 **Spouse:** [[People/Mireille-Cohenca-Mizrahi|Mireille Cohenca Mizrahi]]
-**Families:** [[Families/Mizrahi|Mizrahi]]
 
 ## Biography
 

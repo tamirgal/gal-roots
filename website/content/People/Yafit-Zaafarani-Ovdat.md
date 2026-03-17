@@ -20,11 +20,17 @@ research_level: 2
 
 ![[attachments/pictures/Ovdat Yafit.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Zaafarani|Zaafarani]], [[Families/Ovdat|Ovdat]]
+
 ## Family
 
 **Spouse:** [[People/Herzl-Abada-Ovdat|Herzl (Abada) Ovdat]]
 **Children:** [[People/Reut-Ovdat-Harari|Reut (Ovdat) Harari]], [[People/Omrie-Ovdat|Omrie Ovdat]]
-**Families:** [[Families/Zaafarani|Zaafarani]], [[Families/Ovdat|Ovdat]]
 
 ## Biography
 Born in 8 August 1957

@@ -10,11 +10,17 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1924
+**Born in:**
+**Families:** [[Families/Sasson|Sasson]]
+
 ## Family
 
 **Father:** [[People/David-Sasson|David Sasson]] | **Mother:** [[People/Sarah-Ambar-Sasson|Sarah Ambar Sasson]]
 **Siblings:** [[People/Rahel-Sasson-1922|Rahel Sasson]], [[People/Abraham-Sasson|Abraham Sasson]], [[People/Yossef-Sasson-1930|Yossef Sasson]]
-**Families:** [[Families/Sasson|Sasson]]
 
 ## Biography
 

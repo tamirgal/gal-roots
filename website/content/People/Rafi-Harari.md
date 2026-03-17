@@ -22,11 +22,17 @@ research_level: 2
 
 ![[attachments/pictures/Harari Rafi.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1944-12-09
+**Born in:**
+**Families:** [[Families/Harari|Harari]]
+
 ## Family
 
 **Spouse:** [[People/Miriam-Abada-Harari|Miriam Abada Harari]]
 **Children:** [[People/Ravit-Harari-Caspi|Ravit Harari Caspi]], [[People/Erane-Harari|Erane Harari]], [[People/Rinat-Harari|Rinat Harari]]
-**Families:** [[Families/Harari|Harari]]
 
 ## Biography
 Wedding of Rafi Harari and Miriam Abada in [[Places/Israel]] 4 June 1970

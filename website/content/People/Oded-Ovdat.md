@@ -10,11 +10,17 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1990-05-02
+**Born in:**
+**Families:** [[Families/Ovdat|Ovdat]]
+
 ## Family
 
 **Father:** [[People/Avner-Abada-Ovdat|Avner Abada Ovdat]] | **Mother:** [[People/Tsippi-Berkovitz-Ovdat|Tsippi Berkovitz Ovdat]]
 **Siblings:** [[People/Tamar-Ovdat|Tamar Ovdat]], [[People/Yael-Ovdat|Yael Ovdat]]
-**Families:** [[Families/Ovdat|Ovdat]]
 
 ## Biography
 

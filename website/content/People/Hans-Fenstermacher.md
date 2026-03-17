@@ -23,11 +23,17 @@ research_level: 2
 
 ![[attachments/pictures/phyllisfenster_hans.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1961-09-03
+**Born in:**
+**Families:** [[Families/Fenstermacher|Fenstermacher]]
+
 ## Family
 
 **Spouse:** [[People/Janet-Ann-Hirschman-Fenstermacher|Janet Ann Hirschman Fenstermacher]]
 **Children:** [[People/Amy-Claire-Fenstermacher|Amy Claire Fenstermacher]], [[People/Lucas-Daniel-Fenstermacher|Lucas Daniel Fenstermacher]], [[People/Samuel-Mark-Fenstermacher|Samuel Mark Fenstermacher]]
-**Families:** [[Families/Fenstermacher|Fenstermacher]]
 
 ## Biography
 Hans was born in Munich, Germany. His parents were both American. His dad, Wayne, taught music in the schools for American servicemen's children. He passed away 9 years ago. His mother, Helen, is a retired opera singer and voice teacher.They returned to the US when Hans was in Junior High School. Hans has always been an extraordinary linguist (Russian, German, Spanish, Italian, Spanish, Portuguese, and English are his fluent languages, and he can get by in many others). He attended Princeton University, and then continued on to graduate school at the Fletcher School of Law and Diplomacy. In 1994 Hans started his "globalization and localization" company where he does a great deal of technical documentation translation.

@@ -34,11 +34,17 @@ research_level: 2
 
 ![[attachments/pictures/Pauline Israel.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1923-04-21
+**Born in:**
+**Families:** [[Families/Cohen|Cohen]], [[Families/Israel|Israel]]
+
 ## Family
 
 **Spouse:** [[People/Shaoul-Israel|Shaoul Israel]]
 **Children:** [[People/Aimee-Israel-Pelletier|Aimee Israel Pelletier]], [[People/Solange-Israel-Mintz|Solange Israel Mintz]], [[People/Ytshak-Israel|Ytshak Israel]], [[People/Solomon-Israel|Solomon Israel]]
-**Families:** [[Families/Cohen|Cohen]], [[Families/Israel|Israel]]
 
 ## Biography
 Pauline , ... born April 21, 1923 in [[Places/Cairo]] ([[Places/Egypt]]),...married to Shaoul in February 21, 1948, in [[Places/Cairo]]. They emigrated to the [[Places/USA]], with their family in, December 1961.

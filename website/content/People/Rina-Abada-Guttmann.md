@@ -17,12 +17,18 @@ children_id:
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1965-12-03
+**Born in:**
+**Families:** [[Families/Abada|Abada]], [[Families/Guttmann|Guttmann]]
+
 ## Family
 
 **Father:** [[People/Joseph-Abada|Joseph Abada]] | **Mother:** [[People/Olga-Abada|Olga Abada]]
 **Spouse:** [[People/Eyal-Guttmann|Eyal Guttmann]]
 **Children:** [[People/Yamit-Guttmann|Yamit Guttmann]]
-**Families:** [[Families/Abada|Abada]], [[Families/Guttmann|Guttmann]]
 
 ## Biography
 Rina et Eyal Guttman se sont maries en Fevrier 1989 et divorces en 1997.

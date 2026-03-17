@@ -25,12 +25,18 @@ research_level: 1
 
 ![[attachments/pictures/uri72.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1948-05-29
+**Born in:**
+**Families:** [[Families/Aharon|Aharon]]
+
 ## Family
 
 **Father:** [[People/Mordechay-Aharon|Mordechay Aharon]] | **Mother:** [[People/Erika-Weissenberg-Aharon|Erika Weissenberg Aharon]]
 **Spouse:** [[People/Deborah-Nestrovsky-Aharon|Deborah Nestrovsky Aharon]]
 **Children:** [[People/Jonathan-Aharon|Jonathan Aharon]], [[People/Sandra-Aharon|Sandra Aharon]]
-**Families:** [[Families/Aharon|Aharon]]
 
 ## Biography
 

@@ -33,16 +33,22 @@ research_level: 2
 
 ![[attachments/pictures/Kariv Naty.jpg]]
 
+## Details
+
+**Hebrew Name:** ענת גולדשטיין קריב
+**Birthday:** 1961-12-16
+**Born in:**
+**Families:** [[Families/Goldstein|Goldstein]], [[Families/Kariv|Kariv]]
+
 ## Family
 
 **Father:** [[People/Moshe-Miki-Goldstein|Moshe (Miki) Goldstein]] | **Mother:** [[People/Chaya-Farkas-Goldstein|Chaya Farkas Goldstein]]
 **Spouse:** [[People/Itay-Kariv|Itay Kariv]]
 **Siblings:** [[People/Joseph-Goldstein-Gal|Joseph Goldstein Gal]]
 **Children:** [[People/Tal-Kariv|Tal Kariv]], [[People/Tom-Kariv|Tom Kariv]], [[People/Bar-Kariv|Bar Kariv]], [[People/Gil-Kariv|Gil Kariv]]
-**Families:** [[Families/Goldstein|Goldstein]], [[Families/Kariv|Kariv]]
 
 ## Biography
-Anat (Nati ) Goldstein , married to Itay Kariv in [[Places/Israel]] , 12-7-1987.
+Anat (Nati) Goldstein , married to Itay Kariv in [[Places/Israel]] , 12-7-1987.
 
 ## Photos
 

@@ -31,13 +31,19 @@ research_level: 2
 
 ![[attachments/pictures/Miriam transprnt.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1933-11-18
+**Born in:**
+**Families:** [[Families/Patan|Patan]], [[Families/Ravia|Ravia]]
+
 ## Family
 
 **Father:** [[People/Ezra-Patan|Ezra Patan]] | **Mother:** [[People/Victoria-Sasson-Patan|Victoria Sasson Patan]]
 **Spouse:** [[People/Nissim-Ravia|Nissim Ravia]]
 **Siblings:** [[People/Elie-Patan|Elie Patan]], [[People/Isaac-Patan|Isaac Patan]]
 **Children:** [[People/Hayim-Ravia|Hayim Ravia]], [[People/Ilana-Ravia-Messoubi|Ilana Ravia Messoubi]]
-**Families:** [[Families/Patan|Patan]], [[Families/Ravia|Ravia]]
 
 ## Biography
 MIRIAM RAVIA, born in [[Places/Cairo]], the 18th of November 1933… She was graduated from the English mission college in [[Places/Cairo]]. In 1957, after the Suez canal war, she immigrated with all the family to [[Places/Israel]]. Married in [[Places/Tel Aviv]] to Nissim Ravia, on 27th September 1959. Worked as an English secretary in different offices in [[Places/Tel Aviv]].

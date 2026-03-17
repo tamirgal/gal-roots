@@ -38,13 +38,19 @@ research_level: 2
 
 ![[attachments/pictures/Itshaki Vicky.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1941-07-25
+**Born in:**
+**Families:** [[Families/Cohen|Cohen]], [[Families/Itshaki|Itshaki]]
+
 ## Family
 
 **Father:** [[People/Maurice-Moshe-Cohen|Maurice (Moshe) Cohen]] | **Mother:** [[People/Esther-Sasson-Cohen|Esther Sasson Cohen]]
 **Spouse:** [[People/Elie-Itshaki|Elie Itshaki]]
 **Siblings:** [[People/David-Cohen|David Cohen]], [[People/Rosette-Rosy-Cohen-Hanan|Rosette (Rosy) Cohen Hanan]], [[People/Mireille-Cohen|Mireille Cohen]], [[People/Itshak-Zako-Cohen|Itshak (Zako) Cohen]]
 **Children:** [[People/Yosseph-Yossi-Itshaki|Yosseph (Yossi) Itshaki]], [[People/Eyaal-Itshaki|Eyaal Itshaki]], [[People/Erez-Itshaki|Erez Itshaki]], [[People/Keren-Itshaki-Guiladi|Keren Itshaki Guiladi]]
-**Families:** [[Families/Cohen|Cohen]], [[Families/Itshaki|Itshaki]]
 
 ## Biography
 Born in [[Places/Cairo]] 25 July 1941, In December 1949, the family emigrated to [[Places/Israel]] where they lived in a new agricultural settlement called "[[Places/Beit Zait]]", It is a splendid place , in the heart of the beautiful mountains surrounding [[Places/Jerusalem]]. In the middle sixties, she moved with her family to the city of [[Places/Holon]]. On 31 July 1963, married to Elie Itshaki and continue to live in [[Places/Holon]].

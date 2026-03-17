@@ -8,10 +8,16 @@ sex: male
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Avieli|Avieli]]
+
 ## Family
 
 **Spouse:** [[People/Einav-Abada-Avieli|Einav Abada Avieli]]
-**Families:** [[Families/Avieli|Avieli]]
 
 ## Biography
 

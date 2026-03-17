@@ -17,7 +17,7 @@ media:
   - "[[attachments/pictures/Witu family.jpg]]"
 children:
   - "[[People/Myriam-Witukiewicz]]"
-  - "[[People/Lauren-Witukiewicz]]"
+  - "[[People/Lauren-Witukiewicz-Carmeli]]"
   - "[[People/David-Witukiewicz]]"
 children_id:
   - ind00311
@@ -28,13 +28,19 @@ research_level: 1
 
 ![[attachments/pictures/Witukievitz Elise.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1952-04-22
+**Born in:**
+**Families:** [[Families/Savdie|Savdie]], [[Families/Witukiewicz|Witukiewicz]]
+
 ## Family
 
 **Father:** [[People/Salvator-Savdie|Salvator Savdie]] | **Mother:** [[People/Arlette-Abada-Savdie|Arlette Abada Savdie]]
 **Spouse:** [[People/Ladys-Witukiewicz|Ladys Witukiewicz]]
 **Siblings:** [[People/Jacky-Savdie|Jacky Savdie]], [[People/Soly-Savdie|Soly Savdie]], [[People/Gina-Savdie-Uzan|Gina Savdie Uzan]]
-**Children:** [[People/Myriam-Witukiewicz|Myriam Witukiewicz]], [[People/Lauren-Witukiewicz|Lauren Witukiewicz]], [[People/David-Witukiewicz|David Witukiewicz]]
-**Families:** [[Families/Savdie|Savdie]], [[Families/Witukiewicz|Witukiewicz]]
+**Children:** [[People/Myriam-Witukiewicz|Myriam Witukiewicz]], [[People/Lauren-Witukiewicz-Carmeli|Lauren Witukiewicz Carmeli]], [[People/David-Witukiewicz|David Witukiewicz]]
 
 ## Biography
 

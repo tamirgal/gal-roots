@@ -9,11 +9,17 @@ sex: female
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Preiss|Preiss]]
+
 ## Family
 
 **Father:** [[People/David-Preiss|David Preiss]] | **Mother:** [[People/Monique-Aharon-Preiss|Monique Aharon Preiss]]
 **Siblings:** [[People/Maya-Preiss|Maya Preiss]]
-**Families:** [[Families/Preiss|Preiss]]
 
 ## Biography
 

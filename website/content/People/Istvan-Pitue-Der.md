@@ -19,10 +19,16 @@ research_level: 1
 
 ![[attachments/pictures/der_pitue.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1931
+**Born in:**
+**Families:** [[Families/Der|Der]]
+
 ## Family
 
 **Father:** [[People/Miksa-Der|Miksa Der]] | **Mother:** [[People/Roza-Rezsi-Klein-Der|Roza (Rezsi) Klein Der]]
-**Families:** [[Families/Der|Der]]
 
 ## Biography
 

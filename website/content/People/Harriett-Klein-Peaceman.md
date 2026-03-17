@@ -37,13 +37,19 @@ research_level: 1
 
 ![[attachments/pictures/peaceman_harriett__3.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1925-08-12
+**Born in:**
+**Families:** [[Families/Klein|Klein]], [[Families/Peaceman|Peaceman]]
+
 ## Family
 
 **Father:** [[People/David-Klein|David Klein]] | **Mother:** [[People/Clara-Klein|Clara Klein]]
 **Spouse:** [[People/Howard-Peaceman|Howard Peaceman]]
 **Siblings:** [[People/Ruth-Klein-Peaceman|Ruth Klein Peaceman]], [[People/Phyllis-Hirschman-Newmark|Phyllis Hirschman Newmark]]
 **Children:** [[People/Amy-Mina-Peaceman-Schlundt|Amy Mina Peaceman Schlundt]], [[People/Gale-Joanne-Peaceman-Lackner|Gale Joanne Peaceman Lackner]], [[People/Matthew-David-Peaceman|Matthew David Peaceman]]
-**Families:** [[Families/Klein|Klein]], [[Families/Peaceman|Peaceman]]
 
 ## Biography
 

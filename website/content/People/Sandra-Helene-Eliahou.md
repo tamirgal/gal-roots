@@ -10,11 +10,17 @@ sex: female
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1970-06-24
+**Born in:**
+**Families:** [[Families/Eliahou|Eliahou]]
+
 ## Family
 
 **Father:** [[People/Isaac-Eliahou|Isaac Eliahou]] | **Mother:** [[People/Suzanne-Joseph-Eliahou|Suzanne Joseph Eliahou]]
 **Siblings:** [[People/Dan-Saleh-Eliahou|Dan Saleh Eliahou]]
-**Families:** [[Families/Eliahou|Eliahou]]
 
 ## Biography
 

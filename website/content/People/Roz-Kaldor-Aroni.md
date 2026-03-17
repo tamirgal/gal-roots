@@ -13,11 +13,17 @@ children_id:
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1962-12-20
+**Born in:**
+**Families:** [[Families/Kaldor|Kaldor]], [[Families/Aroni|Aroni]]
+
 ## Family
 
 **Spouse:** [[People/Ben-Zion-Aroni|Ben-Zion Aroni]]
 **Children:** [[People/Gideon-Aroni|Gideon Aroni]]
-**Families:** [[Families/Kaldor|Kaldor]], [[Families/Aroni|Aroni]]
 
 ## Biography
 

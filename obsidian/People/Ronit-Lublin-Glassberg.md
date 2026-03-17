@@ -15,11 +15,17 @@ children_id:
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1962-09-15
+**Born in:**
+**Families:** [[Families/Lublin|Lublin]], [[Families/Glassberg|Glassberg]]
+
 ## Family
 
 **Spouse:** [[People/Ofer-Glassberg|Ofer Glassberg]]
 **Children:** [[People/Guy-Glassberg|Guy Glassberg]], [[People/Tal-Glassberg|Tal Glassberg]]
-**Families:** [[Families/Lublin|Lublin]], [[Families/Glassberg|Glassberg]]
 
 ## Biography
 Ronit, graduated Israel Institute of Technology ([[Places/Haifa]], Isarel) as Computers Engineers and works for Qualcomm.

@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/Patan Nir.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1998-12-06
+**Born in:**
+**Families:** [[Families/Patan|Patan]]
+
 ## Family
 
 **Father:** [[People/Ilan-Patan|Ilan Patan]] | **Mother:** [[People/Orly-Patan|Orly Patan]]
 **Siblings:** [[People/Ido-Patan|Ido Patan]]
-**Families:** [[Families/Patan|Patan]]
 
 ## Biography
 

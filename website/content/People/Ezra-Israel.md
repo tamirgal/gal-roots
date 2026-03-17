@@ -21,12 +21,18 @@ research_level: 1
 
 ![[attachments/pictures/Ezra  Israel 1931.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Israel|Israel]]
+
 ## Family
 
 **Father:** [[People/Israel-Ezra-Israel|Israel Ezra Israel]] | **Mother:** [[People/Hamama-Sasson-Israel|Hamama Sasson Israel]]
 **Spouse:** [[People/Rachel-Salem-Israel|Rachel Salem Israel]]
 **Siblings:** [[People/Helene-Israel-Eliahou|Helene Israel Eliahou]], [[People/Marie-Israel-Bonan|Marie Israel Bonan]], [[People/Zaki-Israel|Zaki Israel]], [[People/Shaoul-Israel|Shaoul Israel]], [[People/Joseph-Israel|Joseph Israel]], [[People/Pauline-Israel-Wahiche|Pauline Israel Wahiche]], [[People/Clemence-Israel-Saphir|Clemence Israel Saphir]]
-**Families:** [[Families/Israel|Israel]]
 
 ## Biography
 

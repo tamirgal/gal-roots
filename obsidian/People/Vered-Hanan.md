@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/Hanan Vered.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1979-05-25
+**Born in:**
+**Families:** [[Families/Hanan|Hanan]]
+
 ## Family
 
 **Father:** [[People/Yacov-Hanan|Yacov Hanan]] | **Mother:** [[People/Ruty-Bayn-Hanan|Ruty Bayn Hanan]]
 **Siblings:** [[People/Tahel-Hanan|Tahel Hanan]], [[People/Hagay-Hanan|Hagay Hanan]]
-**Families:** [[Families/Hanan|Hanan]]
 
 ## Biography
 

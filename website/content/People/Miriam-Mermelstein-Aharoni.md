@@ -20,11 +20,17 @@ research_level: 1
 
 ![[attachments/pictures/aharoni_miriam.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Mermelstein|Mermelstein]], [[Families/Aharoni|Aharoni]]
+
 ## Family
 
 **Spouse:** [[People/Zvi-Miklosh-Aharoni|Zvi Miklosh Aharoni]]
 **Children:** [[People/Chaim-Aharoni|Chaim Aharoni]], [[People/Batya-Aharoni-Weinberger|Batya Aharoni Weinberger]]
-**Families:** [[Families/Mermelstein|Mermelstein]], [[Families/Aharoni|Aharoni]]
 
 ## Biography
 

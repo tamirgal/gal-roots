@@ -24,13 +24,19 @@ research_level: 2
 
 ![[attachments/pictures/Brown Rahel.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1940-05-05
+**Born in:**
+**Families:** [[Families/Abadi|Abadi]], [[Families/Goldmann|Goldmann]]
+
 ## Family
 
 **Father:** [[People/Robert-Abadi|Robert Abadi]] | **Mother:** [[People/Alice-Abada-Abadi|Alice Abada Abadi]]
 **Spouse:** [[People/Yonathan-Goldmann|Yonathan Goldmann]]
 **Siblings:** [[People/Meyer-Abadi|Meyer Abadi]]
 **Children:** [[People/Guily-Goldmann|Guily Goldmann]], [[People/Roni-Goldmann|Roni Goldmann]]
-**Families:** [[Families/Abadi|Abadi]], [[Families/Goldmann|Goldmann]]
 
 ## Biography
 Rahel Abadi, married to Yonathan Goldmann in [[Places/Israel]], 5 September 1961.

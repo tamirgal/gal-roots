@@ -18,11 +18,17 @@ research_level: 2
 
 ![[attachments/pictures/Aviv Patan.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1996-03-28
+**Born in:**
+**Families:** [[Families/Patan|Patan]]
+
 ## Family
 
 **Father:** [[People/Raphael-Rafi-Patan|Raphael (Rafi) Patan]] | **Mother:** [[People/Pnina-Patan|Pnina Patan]]
 **Siblings:** [[People/Assaf-Patan|Assaf Patan]]
-**Families:** [[Families/Patan|Patan]]
 
 ## Biography
 Aviv Patan is born in Assaf-Harofey Hospital in [[Places/Israel]].

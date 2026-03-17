@@ -17,11 +17,17 @@ research_level: 1
 
 ![[attachments/pictures/clyne_suzanne.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1981-03-01
+**Born in:**
+**Families:** [[Families/Clyne|Clyne]]
+
 ## Family
 
 **Father:** [[People/Charles-Clyne|Charles Clyne]] | **Mother:** [[People/Elizabeth-Heagney-Clyne|Elizabeth Heagney Clyne]]
 **Siblings:** [[People/Alexandra-Clyne|Alexandra Clyne]], [[People/Jonathan-Clyne|Jonathan Clyne]]
-**Families:** [[Families/Clyne|Clyne]]
 
 ## Biography
 

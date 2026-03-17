@@ -18,13 +18,19 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Touena|Touena]], [[Families/Mayraz|Mayraz]]
+
 ## Family
 
 **Father:** [[People/Sabah-Touena|Sabah Touena]] | **Mother:** [[People/Nina-Halztshy-Touena|Nina Halztshy Touena]]
 **Spouse:** [[People/Yossy-Mayraz|Yossy Mayraz]]
 **Siblings:** [[People/Avi-Touena-Touval|Avi Touena Touval]], [[People/Yacob-Touena|Yacob Touena]]
 **Children:** [[People/Ady-Mayraz|Ady Mayraz]], [[People/Omer-Mayraz|Omer Mayraz]]
-**Families:** [[Families/Touena|Touena]], [[Families/Mayraz|Mayraz]]
 
 ## Biography
 

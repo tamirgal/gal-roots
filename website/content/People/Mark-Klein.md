@@ -19,13 +19,19 @@ children_id:
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1968
+**Born in:**
+**Families:** [[Families/Klein|Klein]]
+
 ## Family
 
 **Father:** [[People/Gabriel-Klein-1949|Gabriel Klein]] | **Mother:** [[People/Liuba-Klein|Liuba Klein]]
 **Spouse:** [[People/Liora-Mashapour-Klein|Liora Mashapour Klein]]
 **Siblings:** [[People/Einat-Klein|Einat Klein]], [[People/Danny-Klein|Danny Klein]]
 **Children:** [[People/Roee-Klein|Roee Klein]], [[People/Shiri-Klein|Shiri Klein]]
-**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 

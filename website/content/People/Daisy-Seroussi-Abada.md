@@ -17,11 +17,17 @@ research_level: 1
 
 ![[attachments/pictures/Daisy.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Seroussi|Seroussi]], [[Families/Abada|Abada]]
+
 ## Family
 
 **Spouse:** [[People/Albert-Abada|Albert Abada]]
 **Children:** [[People/Rosy-Abada-Azar|Rosy Abada Azar]]
-**Families:** [[Families/Seroussi|Seroussi]], [[Families/Abada|Abada]]
 
 ## Biography
 

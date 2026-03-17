@@ -31,13 +31,19 @@ research_level: 2
 
 ![[attachments/pictures/Itshaki Yossi.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1965-10-26
+**Born in:**
+**Families:** [[Families/Itshaki|Itshaki]]
+
 ## Family
 
 **Father:** [[People/Elie-Itshaki|Elie Itshaki]] | **Mother:** [[People/Vicky-Cohen-Itshaki|Vicky Cohen Itshaki]]
 **Spouse:** [[People/Vered-Alfassi-Itshaki|Vered Alfassi Itshaki]]
 **Siblings:** [[People/Eyaal-Itshaki|Eyaal Itshaki]], [[People/Erez-Itshaki|Erez Itshaki]], [[People/Keren-Itshaki-Guiladi|Keren Itshaki Guiladi]]
 **Children:** [[People/Kineret-Itshaki|Kineret Itshaki]], [[People/Gal-Itshaki|Gal Itshaki]], [[People/Yuval-Itshaki|Yuval Itshaki]]
-**Families:** [[Families/Itshaki|Itshaki]]
 
 ## Biography
 Yosseph Itshaki, married in [[Places/Israel]] to Vered Alfassi, on 5 July 1989.

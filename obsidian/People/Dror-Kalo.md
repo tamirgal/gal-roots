@@ -12,11 +12,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Kalo|Kalo]]
+
 ## Family
 
 **Spouse:** [[People/Lyat-Fuchs-Kalo|Lyat Fuchs Kalo]]
 **Children:** [[People/Tal-Kalo|Tal Kalo]]
-**Families:** [[Families/Kalo|Kalo]]
 
 ## Biography
 Dror Kalo, married to Lyat Fuchs in [[Places/Israel]] , in 1997.

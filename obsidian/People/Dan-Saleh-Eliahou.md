@@ -10,11 +10,17 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1972-12-28
+**Born in:**
+**Families:** [[Families/Eliahou|Eliahou]]
+
 ## Family
 
 **Father:** [[People/Isaac-Eliahou|Isaac Eliahou]] | **Mother:** [[People/Suzanne-Joseph-Eliahou|Suzanne Joseph Eliahou]]
 **Siblings:** [[People/Sandra-Helene-Eliahou|Sandra Helene Eliahou]]
-**Families:** [[Families/Eliahou|Eliahou]]
 
 ## Biography
 

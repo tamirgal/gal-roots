@@ -9,11 +9,17 @@ sex: female
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Elie-Abada|Elie Abada]] | **Mother:** [[People/Sarah-Logassi-Abada|Sarah (Logassi) Abada]]
 **Siblings:** [[People/Lital-Abada|Lital Abada]], [[People/Haim-Abada|Haim Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

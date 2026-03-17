@@ -21,13 +21,19 @@ children_id:
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1874
+**Born in:**
+**Families:** [[Families/Attar|Attar]], [[Families/Betesh|Betesh]]
+
 ## Family
 
 **Father:** [[People/Shimon-Tarzi-Attar|Shimon Tarzi Attar]] | **Mother:** [[People/Emam-Attar|Emam Attar]]
 **Spouse:** [[People/Moshe-Betesh|Moshe Betesh]]
 **Siblings:** [[People/Marietta-Attar-Sasson|Marietta Attar Sasson]], [[People/Aharon-Attar|Aharon Attar]]
 **Children:** [[People/Aharon-Betesh|Aharon Betesh]], [[People/Abramino-Betesh|Abramino Betesh]], [[People/Benyamine-Betesh|Benyamine Betesh]]
-**Families:** [[Families/Attar|Attar]], [[Families/Betesh|Betesh]]
 
 ## Biography
 

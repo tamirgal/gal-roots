@@ -15,10 +15,16 @@ research_level: 1
 
 ![[attachments/pictures/aronibennie_child.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1990-09-26
+**Born in:**
+**Families:** [[Families/Aroni|Aroni]]
+
 ## Family
 
 **Father:** [[People/Ben-Zion-Aroni|Ben-Zion Aroni]] | **Mother:** [[People/Rosalie-Aroni|Rosalie Aroni]]
-**Families:** [[Families/Aroni|Aroni]]
 
 ## Biography
 

@@ -12,11 +12,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Cohen|Cohen]], [[Families/Sasson|Sasson]]
+
 ## Family
 
 **Spouse:** [[People/Khalifa-Sasson-1856|Khalifa Sasson]]
 **Children:** [[People/Toffaha-Sasson-Ambar|Toffaha Sasson Ambar]]
-**Families:** [[Families/Cohen|Cohen]], [[Families/Sasson|Sasson]]
 
 ## Biography
 

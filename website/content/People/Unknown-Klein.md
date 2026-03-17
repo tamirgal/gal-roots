@@ -9,11 +9,17 @@ sex: male
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Klein|Klein]]
+
 ## Family
 
 **Father:** [[People/Klein-ind10142|Klein]] | **Mother:** [[People/Klein-ind10141|Klein]]
 **Siblings:** [[People/Moshe-Klein|Moshe Klein]], [[People/Avraham-Izhak-Klein|Avraham-Izhak Klein]]
-**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 Moshe and Avraham-Itzhak Klein had a third brother, which we do not have any information about him. We do know he owned a mill, sold it and moved with his family to [[Places/Budapest]] and became a flour trader.

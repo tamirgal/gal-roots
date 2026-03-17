@@ -18,11 +18,17 @@ research_level: 1
 
 ![[attachments/pictures/Kariv Tom.jpg]]
 
+## Details
+
+**Hebrew Name:** תם קריב
+**Birthday:** 1991-01-24
+**Born in:**
+**Families:** [[Families/Kariv|Kariv]]
+
 ## Family
 
 **Father:** [[People/Itay-Kariv|Itay Kariv]] | **Mother:** [[People/Anat-Goldstein-Kariv|Anat Goldstein Kariv]]
 **Siblings:** [[People/Tal-Kariv|Tal Kariv]], [[People/Bar-Kariv|Bar Kariv]], [[People/Gil-Kariv|Gil Kariv]]
-**Families:** [[Families/Kariv|Kariv]]
 
 ## Biography
 

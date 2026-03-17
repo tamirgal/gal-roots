@@ -16,11 +16,17 @@ research_level: 1
 
 ![[attachments/pictures/peacejo.jpe]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1993-09-27
+**Born in:**
+**Families:** [[Families/Peaceman|Peaceman]]
+
 ## Family
 
 **Father:** [[People/Matthew-David-Peaceman|Matthew David Peaceman]] | **Mother:** [[People/Heike-Deckert-Peaceman|Heike Deckert Peaceman]]
 **Siblings:** [[People/Hannah-Lisa-Peaceman|Hannah Lisa Peaceman]]
-**Families:** [[Families/Peaceman|Peaceman]]
 
 ## Biography
 

@@ -21,11 +21,17 @@ research_level: 1
 
 ![[attachments/pictures/Toueg Nelly.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Toueg|Toueg]]
+
 ## Family
 
 **Spouse:** [[People/Maurice-Toueg|Maurice Toueg]]
 **Children:** [[People/Ginette-Toueg-Abada|Ginette Toueg Abada]], [[People/Momo-Toueg|Momo Toueg]]
-**Families:** [[Families/Toueg|Toueg]]
 
 ## Biography
 

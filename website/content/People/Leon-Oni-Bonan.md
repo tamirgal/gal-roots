@@ -31,13 +31,19 @@ research_level: 2
 
 ![[attachments/pictures/BonaPasspLeon.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1942
+**Born in:**
+**Families:** [[Families/Bonan|Bonan]]
+
 ## Family
 
 **Father:** [[People/Zaki-Bonan|Zaki Bonan]] | **Mother:** [[People/Marie-Israel-Bonan|Marie Israel Bonan]]
 **Spouse:** [[People/Agnes-Bonan|Agnes Bonan]]
 **Siblings:** [[People/Israel-Isi-Bonan|Israel Isi Bonan]], [[People/Celine-Bonan-Eliahou|Celine Bonan Eliahou]]
 **Children:** [[People/Michelle-Bonan-Hamill|Michelle Bonan Hamill]], [[People/David-Bonan|David Bonan]]
-**Families:** [[Families/Bonan|Bonan]]
 
 ## Biography
 Born in [[Places/Cairo]] , [[Places/Egypt]] - September 22 , 1942 Married to Agnes August 22 , 1971 .

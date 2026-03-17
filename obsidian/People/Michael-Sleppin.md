@@ -8,10 +8,16 @@ sex: male
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Sleppin|Sleppin]]
+
 ## Family
 
 **Spouse:** [[People/Gabriela-Kaminski-Sleppin|Gabriela Kaminski Sleppin]]
-**Families:** [[Families/Sleppin|Sleppin]]
 
 ## Biography
 

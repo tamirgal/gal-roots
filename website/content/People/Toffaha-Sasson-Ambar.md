@@ -12,11 +12,17 @@ sex: female
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Sasson|Sasson]], [[Families/Ambar|Ambar]]
+
 ## Family
 
 **Father:** [[People/Khalifa-Sasson-1856|Khalifa Sasson]] | **Mother:** [[People/Massouda-Cohen-Sasson|Massouda Cohen Sasson]]
 **Spouse:** [[People/Youssef-Ambar|Youssef Ambar]]
-**Families:** [[Families/Sasson|Sasson]], [[Families/Ambar|Ambar]]
 
 ## Biography
 

@@ -13,11 +13,17 @@ children_id:
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1974
+**Born in:**
+**Families:** [[Families/Wissotsky|Wissotsky]], [[Families/Brawn|Brawn]]
+
 ## Family
 
 **Spouse:** [[People/Sharon-Brawn|Sharon Brawn]]
 **Children:** [[People/Gal-Brawn|Gal Brawn]]
-**Families:** [[Families/Wissotsky|Wissotsky]], [[Families/Brawn|Brawn]]
 
 ## Biography
 Hagit Wissotsky, married to Sharon Brawn, in [[Places/Israel]] in 1995 .

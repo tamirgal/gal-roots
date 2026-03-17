@@ -16,11 +16,17 @@ research_level: 1
 
 ![[attachments/pictures/Leah Mintz.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1989-04-16
+**Born in:**
+**Families:** [[Families/Mintz|Mintz]]
+
 ## Family
 
 **Father:** [[People/Paul-Mintz|Paul Mintz]] | **Mother:** [[People/Solange-Israel-Mintz|Solange Israel Mintz]]
 **Siblings:** [[People/Rebecca-Mintz|Rebecca Mintz]]
-**Families:** [[Families/Mintz|Mintz]]
 
 ## Biography
 

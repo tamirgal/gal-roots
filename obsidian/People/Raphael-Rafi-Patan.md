@@ -28,13 +28,19 @@ research_level: 2
 
 ![[attachments/pictures/Rafi Patan.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1964-12-06
+**Born in:**
+**Families:** [[Families/Patan|Patan]]
+
 ## Family
 
 **Father:** [[People/Isaac-Patan|Isaac Patan]] | **Mother:** [[People/Ady-Kremer-Patan|Ady Kremer Patan]]
 **Spouse:** [[People/Pnina-Patan|Pnina Patan]]
 **Siblings:** [[People/Ilan-Patan|Ilan Patan]]
 **Children:** [[People/Assaf-Patan|Assaf Patan]], [[People/Aviv-Patan|Aviv Patan]]
-**Families:** [[Families/Patan|Patan]]
 
 ## Biography
 Rafi is born the 6 of december 1964 in Bat-Yam Israel, and married to Pnina on 8-8-1988

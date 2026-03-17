@@ -21,11 +21,17 @@ research_level: 2
 
 ![[attachments/pictures/glassberg_galil.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1938-02-28
+**Born in:**
+**Families:** [[Families/Glassberg|Glassberg]]
+
 ## Family
 
 **Spouse:** [[People/Tsipora-Zuckerberger-Glassberg|Tsipora Zuckerberger Glassberg]]
 **Children:** [[People/Ofer-Glassberg|Ofer Glassberg]], [[People/Arnon-Glassberg|Arnon Glassberg]]
-**Families:** [[Families/Glassberg|Glassberg]]
 
 ## Biography
 Galil is the son of Izhak and Sonia Galssberg

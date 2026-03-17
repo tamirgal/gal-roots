@@ -9,10 +9,16 @@ sex: male
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1885
+**Born in:**
+**Families:** [[Families/Harari|Harari]]
+
 ## Family
 
 **Spouse:** [[People/Simha-Ambar-Harari|Simha Ambar Harari]]
-**Families:** [[Families/Harari|Harari]]
 
 ## Biography
 Selim Harari is born in [[Places/Syria]], in 1885

@@ -17,6 +17,12 @@ research_level: 1
 
 ![[attachments/pictures/Yohay RachelMoshe.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+
 ## Family
 
 **Spouse:** [[People/Moshe-Yohay|Moshe Yohay]]

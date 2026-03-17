@@ -20,11 +20,17 @@ research_level: 2
 
 ![[attachments/pictures/Mizrahi Mireille Cohenca.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1951
+**Born in:**
+**Families:** [[Families/Cohenca|Cohenca]], [[Families/Mizrahi|Mizrahi]]
+
 ## Family
 
 **Father:** [[People/Edwin-Cohenca|Edwin Cohenca]] | **Mother:** [[People/Claire-Abada-Cohenca|Claire Abada Cohenca]]
 **Spouse:** [[People/David-Mizrahi|David Mizrahi]]
-**Families:** [[Families/Cohenca|Cohenca]], [[Families/Mizrahi|Mizrahi]]
 
 ## Biography
 Mireille Cohenca, mariee en [[Places/Israel]] a Mizrahi. Elle travaille a la police des frontieres.

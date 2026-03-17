@@ -21,11 +21,17 @@ research_level: 2
 
 ![[attachments/pictures/Fuchs Moshe.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Fuchs|Fuchs]]
+
 ## Family
 
 **Spouse:** [[People/Regy-Nefoussi-Fuchs|Regy Nefoussi Fuchs]]
 **Children:** [[People/Lyat-Fuchs-Kalo|Lyat Fuchs Kalo]], [[People/Shay-Fuchs|Shay Fuchs]], [[People/Lirone-Fuchs|Lirone Fuchs]]
-**Families:** [[Families/Fuchs|Fuchs]]
 
 ## Biography
 Moshe Fuchs , married to Regy (Ruty) Nefoussi in [[Places/Israel]] , in 1973.

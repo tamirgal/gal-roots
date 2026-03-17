@@ -11,7 +11,7 @@ media:
   - "[[attachments/pictures/Witukievitz Ladys.jpg]]"
 children:
   - "[[People/Myriam-Witukiewicz]]"
-  - "[[People/Lauren-Witukiewicz]]"
+  - "[[People/Lauren-Witukiewicz-Carmeli]]"
   - "[[People/David-Witukiewicz]]"
 children_id:
   - ind00311
@@ -22,11 +22,17 @@ research_level: 1
 
 ![[attachments/pictures/Witukievitz Ladys.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1950-12-31
+**Born in:**
+**Families:** [[Families/Witukiewicz|Witukiewicz]]
+
 ## Family
 
 **Spouse:** [[People/Elise-Savdie-Witukiewicz|Elise Savdie Witukiewicz]]
-**Children:** [[People/Myriam-Witukiewicz|Myriam Witukiewicz]], [[People/Lauren-Witukiewicz|Lauren Witukiewicz]], [[People/David-Witukiewicz|David Witukiewicz]]
-**Families:** [[Families/Witukiewicz|Witukiewicz]]
+**Children:** [[People/Myriam-Witukiewicz|Myriam Witukiewicz]], [[People/Lauren-Witukiewicz-Carmeli|Lauren Witukiewicz Carmeli]], [[People/David-Witukiewicz|David Witukiewicz]]
 
 ## Biography
 

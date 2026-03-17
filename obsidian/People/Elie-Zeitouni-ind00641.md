@@ -16,13 +16,19 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Zeitouni|Zeitouni]]
+
 ## Family
 
 **Father:** [[People/Shlomo-Soly-Zeitouni|Shlomo (Soly) Zeitouni]] | **Mother:** [[People/Sarah-Abada-Zeitouni|Sarah (Abada) Zeitouni]]
 **Spouse:** [[People/Tova-Sofer-Zeitouni|Tova (Sofer) Zeitouni]]
 **Siblings:** [[People/Chen-Zeitouni|Chen Zeitouni]], [[People/Haim-Zeitouni-ind00639|Haim Zeitouni]]
 **Children:** [[People/Ido-Zeitouni|Ido Zeitouni]]
-**Families:** [[Families/Zeitouni|Zeitouni]]
 
 ## Biography
 

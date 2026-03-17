@@ -16,11 +16,17 @@ research_level: 1
 
 ![[attachments/pictures/Itshaki Gal.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1997-05-22
+**Born in:**
+**Families:** [[Families/Itshaki|Itshaki]]
+
 ## Family
 
 **Father:** [[People/Yosseph-Yossi-Itshaki|Yosseph (Yossi) Itshaki]] | **Mother:** [[People/Vered-Alfassi-Itshaki|Vered Alfassi Itshaki]]
 **Siblings:** [[People/Kineret-Itshaki|Kineret Itshaki]], [[People/Yuval-Itshaki|Yuval Itshaki]]
-**Families:** [[Families/Itshaki|Itshaki]]
 
 ## Biography
 

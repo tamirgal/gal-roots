@@ -32,13 +32,19 @@ research_level: 2
 
 ![[attachments/pictures/Israel Joseph.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Israel|Israel]]
+
 ## Family
 
 **Father:** [[People/Israel-Ezra-Israel|Israel Ezra Israel]] | **Mother:** [[People/Hamama-Sasson-Israel|Hamama Sasson Israel]]
 **Spouse:** [[People/Germaine-Stoliar-Israel|Germaine Stoliar Israel]]
 **Siblings:** [[People/Helene-Israel-Eliahou|Helene Israel Eliahou]], [[People/Ezra-Israel|Ezra Israel]], [[People/Marie-Israel-Bonan|Marie Israel Bonan]], [[People/Zaki-Israel|Zaki Israel]], [[People/Shaoul-Israel|Shaoul Israel]], [[People/Pauline-Israel-Wahiche|Pauline Israel Wahiche]], [[People/Clemence-Israel-Saphir|Clemence Israel Saphir]]
 **Children:** [[People/Allen-Israel|Allen Israel]], [[People/Nadine-Israel|Nadine Israel]], [[People/Leon-Israel|Leon Israel]]
-**Families:** [[Families/Israel|Israel]]
 
 ## Biography
 Joseph Israel, born , educated and married in [[Places/Egypt]]. In the early sixties , he emigrated with his family to the [[Places/USA]].

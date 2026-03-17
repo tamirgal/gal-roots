@@ -24,11 +24,17 @@ research_level: 2
 
 ![[attachments/pictures/Emam Attar 5.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1850
+**Born in:**
+**Families:** [[Families/Attar|Attar]]
+
 ## Family
 
 **Spouse:** [[People/Shimon-Tarzi-Attar|Shimon Tarzi Attar]]
 **Children:** [[People/Marietta-Attar-Sasson|Marietta Attar Sasson]], [[People/Aharon-Attar|Aharon Attar]], [[People/Nouzha-Attar-Betesh|Nouzha Attar Betesh]]
-**Families:** [[Families/Attar|Attar]]
 
 ## Biography
 Born in [[Places/Aleppo]] ([[Places/Syria]])..about 1850. .Widow,she emigrated to [[Places/Egypt]] in 1880, with her 3 children Her eldest girl is "Marietta" (Miriam in syrian) born in 1870, married to Ytshak Sasson in [[Places/Cairo]] 1885.. They are my grandpa and grandma. (Elie Patan)

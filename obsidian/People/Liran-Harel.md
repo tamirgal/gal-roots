@@ -10,11 +10,17 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1983-09-13
+**Born in:**
+**Families:** [[Families/Harel|Harel]]
+
 ## Family
 
 **Father:** [[People/Yaacov-Harel|Yaacov Harel]] | **Mother:** [[People/Ilana-Steiner-Harel|Ilana Steiner Harel]]
 **Siblings:** [[People/Tal-Harel|Tal Harel]]
-**Families:** [[Families/Harel|Harel]]
 
 ## Biography
 

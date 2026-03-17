@@ -10,11 +10,17 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1988-05-07
+**Born in:**
+**Families:** [[Families/Cohen|Cohen]]
+
 ## Family
 
 **Father:** [[People/Moshe-Cohen|Moshe Cohen]] | **Mother:** [[People/Leah-Friedman-Cohen|Leah Friedman Cohen]]
 **Siblings:** [[People/Tamar-Cohen|Tamar Cohen]], [[People/Allon-Cohen|Allon Cohen]]
-**Families:** [[Families/Cohen|Cohen]]
 
 ## Biography
 

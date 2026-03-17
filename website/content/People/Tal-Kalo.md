@@ -10,10 +10,16 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 2001
+**Born in:**
+**Families:** [[Families/Kalo|Kalo]]
+
 ## Family
 
 **Father:** [[People/Dror-Kalo|Dror Kalo]] | **Mother:** [[People/Lyat-Fuchs-Kalo|Lyat Fuchs Kalo]]
-**Families:** [[Families/Kalo|Kalo]]
 
 ## Biography
 

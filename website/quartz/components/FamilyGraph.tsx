@@ -114,6 +114,10 @@ export default ((opts?: Partial<FamilyGraphOptions>) => {
                 <input class="show-names-cb" type="checkbox" />
                 Names
               </label>
+              <label class="show-names-label">
+                <input class="hebrew-names-cb" type="checkbox" />
+                Hebrew
+              </label>
               <label>
                 Layout
                 <select class="layout-select">

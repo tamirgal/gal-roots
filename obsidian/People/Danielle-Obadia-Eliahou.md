@@ -22,11 +22,17 @@ research_level: 2
 
 ![[attachments/pictures/Eliahou Danielle.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1945-12-17
+**Born in:**
+**Families:** [[Families/Obadia|Obadia]], [[Families/Eliahou|Eliahou]]
+
 ## Family
 
 **Spouse:** [[People/Shaoul-Eliahou|Shaoul Eliahou]]
 **Children:** [[People/Alexandre-Eliahou|Alexandre Eliahou]], [[People/Ludivine-Eliahou|Ludivine Eliahou]]
-**Families:** [[Families/Obadia|Obadia]], [[Families/Eliahou|Eliahou]]
 
 ## Biography
 Danielle Obadia, nee a Biskra en Algerie le 17.12.1945 , mariee a Shaoul Eliahou le 28.12.1975, a la Synaguogue de La Duchere, a Lyon , [[Places/France]].

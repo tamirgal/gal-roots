@@ -10,11 +10,17 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1982-02-04
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Yacov-Abada|Yacov Abada]] | **Mother:** [[People/Esther-Yacobinsky-Abada|Esther Yacobinsky Abada]]
 **Siblings:** [[People/Einav-Abada-Avieli|Einav Abada Avieli]], [[People/Adi-Abada|Adi Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

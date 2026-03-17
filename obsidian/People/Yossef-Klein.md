@@ -10,11 +10,17 @@ sex: male
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1884
+**Born in:**
+**Families:** [[Families/Klein|Klein]]
+
 ## Family
 
 **Father:** [[People/Moshe-Klein|Moshe Klein]] | **Mother:** [[People/Rachel-Levy-Klein|Rachel Levy Klein]]
 **Siblings:** [[People/Shmuel-Klein|Shmuel Klein]], [[People/Herman-Haim-Klein|Herman Haim Klein]], [[People/Elchanan-Klein|Elchanan Klein]], [[People/Yehoshua-Yehuda-Klein|Yehoshua Yehuda Klein]], [[People/Zali-Klein|Zali Klein]], [[People/Sarah-Klein-1901|Sarah Klein]], [[People/Nathan-Klein|Nathan Klein]]
-**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 Yossef Klein, died in Nazi concentration camps in 1944

@@ -21,11 +21,17 @@ research_level: 1
 
 ![[attachments/pictures/Talker Tova 1.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Berkovitz|Berkovitz]], [[Families/Talker|Talker]]
+
 ## Family
 
 **Spouse:** [[People/Shmouel-Talker|Shmouel Talker]]
 **Children:** [[People/Lior-Talker|Lior Talker]], [[People/Lital-Talker|Lital Talker]], [[People/Almog-Talker|Almog Talker]]
-**Families:** [[Families/Berkovitz|Berkovitz]], [[Families/Talker|Talker]]
 
 ## Biography
 

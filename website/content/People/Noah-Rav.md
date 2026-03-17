@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/Rav Noah.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1999-08-01
+**Born in:**
+**Families:** [[Families/Rav|Rav]]
+
 ## Family
 
 **Father:** [[People/Nahoum-Rav|Nahoum Rav]] | **Mother:** [[People/Ronit-Cohen-Rav|Ronit Cohen Rav]]
 **Siblings:** [[People/Tomer-Rav|Tomer Rav]]
-**Families:** [[Families/Rav|Rav]]
 
 ## Biography
 

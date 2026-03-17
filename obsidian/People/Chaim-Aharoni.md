@@ -33,13 +33,19 @@ research_level: 2
 
 ![[attachments/pictures/passport_aharoni_chaim.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1951-12-19
+**Born in:**
+**Families:** [[Families/Aharoni|Aharoni]]
+
 ## Family
 
 **Father:** [[People/Zvi-Miklosh-Aharoni|Zvi Miklosh Aharoni]] | **Mother:** [[People/Miriam-Mermelstein-Aharoni|Miriam Mermelstein Aharoni]]
 **Spouse:** [[People/Judy-Mauer-Aharoni|Judy Mauer Aharoni]]
 **Siblings:** [[People/Batya-Aharoni-Weinberger|Batya Aharoni Weinberger]]
 **Children:** [[People/Rotem-Aharoni|Rotem Aharoni]], [[People/Maor-Aharoni|Maor Aharoni]], [[People/Shachar-Aharoni|Shachar Aharoni]], [[People/Hadar-Aharoni|Hadar Aharoni]], [[People/Shir-Aharoni|Shir Aharoni]], [[People/Gil-Aharoni|Gil Aharoni]]
-**Families:** [[Families/Aharoni|Aharoni]]
 
 ## Biography
 The Aharoni family lives in Kedumim, Israel, since 1983

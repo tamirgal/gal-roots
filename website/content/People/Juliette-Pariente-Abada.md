@@ -25,11 +25,17 @@ research_level: 2
 
 ![[attachments/pictures/Portrait Juliette.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1924-06-19
+**Born in:**
+**Families:** [[Families/Pariente|Pariente]], [[Families/Abada|Abada]]
+
 ## Family
 
 **Spouse:** [[People/David-Abada|David Abada]]
 **Children:** [[People/Saul-Abada-Ovdat|Saul Abada Ovdat]], [[People/Miriam-Abada-Harari|Miriam Abada Harari]], [[People/Yacov-Abada|Yacov Abada]], [[People/Avner-Abada-Ovdat|Avner Abada Ovdat]]
-**Families:** [[Families/Pariente|Pariente]], [[Families/Abada|Abada]]
 
 ## Biography
 Ma photo le jour du mariage.

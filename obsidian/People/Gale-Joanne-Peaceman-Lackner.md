@@ -28,13 +28,19 @@ research_level: 2
 
 ![[attachments/pictures/passport_peaceman_gail.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1953-09-25
+**Born in:**
+**Families:** [[Families/Peaceman|Peaceman]], [[Families/Lackner|Lackner]]
+
 ## Family
 
 **Father:** [[People/Howard-Peaceman|Howard Peaceman]] | **Mother:** [[People/Harriett-Klein-Peaceman|Harriett Klein Peaceman]]
 **Spouse:** [[People/Arthur-Lackner|Arthur Lackner]]
 **Siblings:** [[People/Amy-Mina-Peaceman-Schlundt|Amy Mina Peaceman Schlundt]], [[People/Matthew-David-Peaceman|Matthew David Peaceman]]
 **Children:** [[People/Corinne-Irene-Lackner|Corinne Irene Lackner]], [[People/David-Grant-Lackner|David Grant Lackner]]
-**Families:** [[Families/Peaceman|Peaceman]], [[Families/Lackner|Lackner]]
 
 ## Biography
 Lives in New-Jersy, [[Places/USA]].

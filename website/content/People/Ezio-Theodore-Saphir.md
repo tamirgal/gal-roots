@@ -15,10 +15,16 @@ research_level: 2
 
 ![[attachments/pictures/Saphir Ezio.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1917-02-02
+**Born in:**
+**Families:** [[Families/Saphir|Saphir]]
+
 ## Family
 
 **Spouse:** [[People/Clemence-Israel-Saphir|Clemence Israel Saphir]]
-**Families:** [[Families/Saphir|Saphir]]
 
 ## Biography
 Ezio Sapir, ne le 2 Fevrier 1917,... Marie a Clemence Israel le 9 Novembre 1965. Ils habitent a Bois-Colombes banlieue parisienne,... Decede le 28 Aout 1985.

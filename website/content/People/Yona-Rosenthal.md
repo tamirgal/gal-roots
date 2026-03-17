@@ -9,11 +9,17 @@ sex: male
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Rosenthal|Rosenthal]]
+
 ## Family
 
 **Father:** [[People/Ephraim-Rosenthal|Ephraim Rosenthal]] | **Mother:** [[People/Dvora-Bronstein-Rosenthal|Dvora Bronstein Rosenthal]]
 **Siblings:** [[People/Moshe-Rosenthal|Moshe Rosenthal]], [[People/Shoshana-Rosenthal|Shoshana Rosenthal]], [[People/Joseph-Rosenthal|Joseph Rosenthal]], [[People/Ronnie-Rosenthal|Ronnie Rosenthal]]
-**Families:** [[Families/Rosenthal|Rosenthal]]
 
 ## Biography
 Yona Rosenthal, was an Israely soldier, in the frontier guards (Mishmar Hagvoul). He died during his military service

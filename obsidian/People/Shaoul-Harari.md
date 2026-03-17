@@ -25,11 +25,17 @@ research_level: 1
 
 ![[attachments/pictures/Harari Shaoul.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1925
+**Born in:**
+**Families:** [[Families/Harari|Harari]]
+
 ## Family
 
 **Spouse:** [[People/Alice-Abada-Harari|Alice Abada Harari]]
 **Children:** [[People/Liliane-Harari|Liliane Harari]], [[People/Marco-Harari|Marco Harari]], [[People/Lina-Harari|Lina Harari]], [[People/Salomon-Harari|Salomon Harari]]
-**Families:** [[Families/Harari|Harari]]
 
 ## Biography
 

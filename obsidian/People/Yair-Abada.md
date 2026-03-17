@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/Abada Yair.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1999-04-12
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Moshe-Abada|Moshe Abada]] | **Mother:** [[People/Gili-Yashar-Abada|Gili Yashar Abada]]
 **Siblings:** [[People/Daniel-Abada|Daniel Abada]], [[People/Gay-Abada|Gay Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

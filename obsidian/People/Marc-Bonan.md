@@ -17,12 +17,18 @@ research_level: 1
 
 ![[attachments/pictures/Bonan passport Marc.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Bonan|Bonan]]
+
 ## Family
 
 **Father:** [[People/Israel-Isi-Bonan|Israel Isi Bonan]] | **Mother:** [[People/Sorana-Blanar-Bonan|Sorana Blanar Bonan]]
 **Spouse:** [[People/Camila-Gibran-Vieira|Camila Gibran Vieira]]
 **Siblings:** [[People/Jacques-Bonan|Jacques Bonan]]
-**Families:** [[Families/Bonan|Bonan]]
 
 ## Biography
 

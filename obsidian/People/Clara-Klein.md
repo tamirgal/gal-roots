@@ -22,11 +22,17 @@ research_level: 1
 
 ![[attachments/pictures/klein_clara.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Klein|Klein]]
+
 ## Family
 
 **Spouse:** [[People/David-Klein|David Klein]]
 **Children:** [[People/Harriett-Klein-Peaceman|Harriett Klein Peaceman]], [[People/Ruth-Klein-Peaceman|Ruth Klein Peaceman]], [[People/Phyllis-Hirschman-Newmark|Phyllis Hirschman Newmark]]
-**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 

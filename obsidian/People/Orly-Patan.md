@@ -14,11 +14,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Patan|Patan]]
+
 ## Family
 
 **Spouse:** [[People/Ilan-Patan|Ilan Patan]]
 **Children:** [[People/Ido-Patan|Ido Patan]], [[People/Nir-Patan|Nir Patan]]
-**Families:** [[Families/Patan|Patan]]
 
 ## Biography
 

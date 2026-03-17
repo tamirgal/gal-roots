@@ -22,11 +22,17 @@ research_level: 1
 
 ![[attachments/pictures/Cohen Lea.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1957-12-06
+**Born in:**
+**Families:** [[Families/Friedman|Friedman]], [[Families/Cohen|Cohen]]
+
 ## Family
 
 **Spouse:** [[People/Moshe-Cohen|Moshe Cohen]]
 **Children:** [[People/Tamar-Cohen|Tamar Cohen]], [[People/Erez-Cohen|Erez Cohen]], [[People/Allon-Cohen|Allon Cohen]]
-**Families:** [[Families/Friedman|Friedman]], [[Families/Cohen|Cohen]]
 
 ## Biography
 

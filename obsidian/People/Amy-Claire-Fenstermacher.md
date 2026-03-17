@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/phyllisfenster_amy.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1989-06-18
+**Born in:**
+**Families:** [[Families/Fenstermacher|Fenstermacher]]
+
 ## Family
 
 **Father:** [[People/Hans-Fenstermacher|Hans Fenstermacher]] | **Mother:** [[People/Janet-Ann-Hirschman-Fenstermacher|Janet Ann Hirschman Fenstermacher]]
 **Siblings:** [[People/Lucas-Daniel-Fenstermacher|Lucas Daniel Fenstermacher]], [[People/Samuel-Mark-Fenstermacher|Samuel Mark Fenstermacher]]
-**Families:** [[Families/Fenstermacher|Fenstermacher]]
 
 ## Biography
 

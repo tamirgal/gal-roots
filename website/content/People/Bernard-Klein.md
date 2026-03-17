@@ -10,11 +10,17 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1903
+**Born in:**
+**Families:** [[Families/Klein|Klein]]
+
 ## Family
 
 **Father:** [[People/Avraham-Izhak-Klein|Avraham-Izhak Klein]] | **Mother:** [[People/Hensha-Klein|Hensha Klein]]
 **Siblings:** [[People/Moshe-Israel-Klein|Moshe Israel Klein]], [[People/Antonia-Klein-Goldstein|Antonia Klein Goldstein]], [[People/David-Klein|David Klein]], [[People/Roza-Rezsi-Klein-Der|Roza (Rezsi) Klein Der]], [[People/Yehuda-Klein|Yehuda Klein]]
-**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 

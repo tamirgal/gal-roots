@@ -26,13 +26,19 @@ research_level: 1
 
 ![[attachments/pictures/Abada Ernest Zouzi.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1932-05
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Solimane-Abada|Solimane Abada]] | **Mother:** [[People/Linda-Ashkenazi-Abada|Linda Ashkenazi Abada]]
 **Spouse:** [[People/Frida-Sabato-Abada|Frida Sabato Abada]]
 **Siblings:** [[People/Allegra-Abada-Ventura|Allegra Abada Ventura]], [[People/David-Edouard-Abada|David Edouard Abada]], [[People/Alice-Abada-Harari|Alice Abada Harari]], [[People/Freddy-Ephraim-Abada-Alitsour|Freddy (Ephraim) Abada (Alitsour)]]
 **Children:** [[People/Linda-Abada-Adato|Linda Abada Adato]], [[People/Revital-Abada|Revital Abada]], [[People/Shlomit-Abada|Shlomit Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

@@ -14,11 +14,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Alon|Alon]], [[Families/Touena|Touena]]
+
 ## Family
 
 **Spouse:** [[People/Yacob-Touena|Yacob Touena]]
 **Children:** [[People/Alona-Touena|Alona Touena]], [[People/Tamar-Touena|Tamar Touena]]
-**Families:** [[Families/Alon|Alon]], [[Families/Touena|Touena]]
 
 ## Biography
 

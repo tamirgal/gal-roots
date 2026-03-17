@@ -22,11 +22,17 @@ research_level: 2
 
 ![[attachments/pictures/Itshaki Sharon 2.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1970-04-08
+**Born in:**
+**Families:** [[Families/Albanay|Albanay]], [[Families/Itshaki|Itshaki]]
+
 ## Family
 
 **Spouse:** [[People/Erez-Itshaki|Erez Itshaki]]
 **Children:** [[People/Sapir-Itshaki|Sapir Itshaki]], [[People/Eyal-Itshaki|Eyal Itshaki]]
-**Families:** [[Families/Albanay|Albanay]], [[Families/Itshaki|Itshaki]]
 
 ## Biography
 Sharon Albanay, married in [[Places/Israel]] to Erez Itshaki, on 1 October 1995.

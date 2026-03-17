@@ -16,10 +16,16 @@ research_level: 1
 
 ![[attachments/pictures/phyllisnewmark_harold.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1918-07-21
+**Born in:**
+**Families:** [[Families/Newmark|Newmark]]
+
 ## Family
 
 **Spouse:** [[People/Phyllis-Hirschman-Newmark|Phyllis Hirschman Newmark]]
-**Families:** [[Families/Newmark|Newmark]]
 
 ## Biography
 

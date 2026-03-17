@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/harel_tal.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1982-02-01
+**Born in:**
+**Families:** [[Families/Harel|Harel]]
+
 ## Family
 
 **Father:** [[People/Yaacov-Harel|Yaacov Harel]] | **Mother:** [[People/Ilana-Steiner-Harel|Ilana Steiner Harel]]
 **Siblings:** [[People/Liran-Harel|Liran Harel]]
-**Families:** [[Families/Harel|Harel]]
 
 ## Biography
 

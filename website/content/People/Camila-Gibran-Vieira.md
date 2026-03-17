@@ -13,10 +13,16 @@ research_level: 1
 
 ![[attachments/pictures/Bonan passport Camila.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Gibran|Gibran]], [[Families/Vieira|Vieira]]
+
 ## Family
 
 **Spouse:** [[People/Marc-Bonan|Marc Bonan]]
-**Families:** [[Families/Gibran|Gibran]], [[Families/Vieira|Vieira]]
 
 ## Biography
 

@@ -27,13 +27,19 @@ research_level: 2
 
 ![[attachments/pictures/Ovdat Saul passport.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1944-09-13
+**Born in:**
+**Families:** [[Families/Abada|Abada]], [[Families/Ovdat|Ovdat]]
+
 ## Family
 
 **Father:** [[People/David-Abada|David Abada]] | **Mother:** [[People/Juliette-Pariente-Abada|Juliette Pariente Abada]]
 **Spouse:** [[People/Beverly-M-Snarch-Ovdat|Beverly M. Snarch Ovdat]]
 **Siblings:** [[People/Miriam-Abada-Harari|Miriam Abada Harari]], [[People/Yacov-Abada|Yacov Abada]], [[People/Avner-Abada-Ovdat|Avner Abada Ovdat]]
 **Children:** [[People/Tamara-J-Ovdat-Lesser|Tamara J. Ovdat Lesser]], [[People/Alan-D-Ovdat|Alan D. Ovdat]]
-**Families:** [[Families/Abada|Abada]], [[Families/Ovdat|Ovdat]]
 
 ## Biography
 Born in [[Places/Cairo]] ([[Places/Egypt]]) on 13 September 1944, I emigrated to [[Places/Israel]] in 1949 with all my family. After my military service, I voyaged to [[Places/Canada]], where I got a business degree and an accounting diploma from CONCORDIA UNIVERSITY in [[Places/Montreal]] ([[Places/Canada]]). Married to Beverly M. Snarch in [[Places/Montreal]] on 13 September 1971 (on my birthday). We moved to [[Places/California]] ([[Places/USA]]) in April 1978. After many years with financial reporting and analysis, I ended up in Real Estate and managing my own investments.

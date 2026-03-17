@@ -9,11 +9,17 @@ sex: female
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Levy|Levy]]
+
 ## Family
 
 **Father:** [[People/Ezra-Levy|Ezra Levy]] | **Mother:** [[People/Aziza-Abed-Levy|Aziza (Abed) Levy]]
 **Siblings:** [[People/Nouri-Levy|Nouri Levy]], [[People/Nagy-Levy|Nagy Levy]], [[People/Loula-Levy|Loula Levy]], [[People/Nathan-Nazem-Levy|Nathan (Nazem) Levy]], [[People/Lea-Levy|Lea Levy]]
-**Families:** [[Families/Levy|Levy]]
 
 ## Biography
 

@@ -33,13 +33,19 @@ research_level: 2
 
 ![[attachments/pictures/rosenthal_dvora.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Bronstein|Bronstein]], [[Families/Rosenthal|Rosenthal]]
+
 ## Family
 
 **Father:** [[People/Moshe-Bronstein|Moshe Bronstein]] | **Mother:** [[People/Sarah-Bronstein|Sarah Bronstein]]
 **Spouse:** [[People/Ephraim-Rosenthal|Ephraim Rosenthal]]
 **Siblings:** [[People/Yehuda-Wolf-Farkas|Yehuda Wolf Farkas]], [[People/Yacov-Bronstein|Yacov Bronstein]]
 **Children:** [[People/Moshe-Rosenthal|Moshe Rosenthal]], [[People/Shoshana-Rosenthal|Shoshana Rosenthal]], [[People/Joseph-Rosenthal|Joseph Rosenthal]], [[People/Yona-Rosenthal|Yona Rosenthal]], [[People/Ronnie-Rosenthal|Ronnie Rosenthal]]
-**Families:** [[Families/Bronstein|Bronstein]], [[Families/Rosenthal|Rosenthal]]
 
 ## Biography
 Dvora Bronstein, emigrated to [[Places/Israel]] with her brother Yacov, before World War 2, by the " Hashomer Hatzayir." She lives with her family in [[Places/Haifa]].

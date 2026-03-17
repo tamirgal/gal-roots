@@ -29,11 +29,17 @@ research_level: 2
 
 ![[attachments/pictures/Kariv Itay.jpg]]
 
+## Details
+
+**Hebrew Name:** איתי קריב
+**Birthday:** 1958-10-28
+**Born in:**
+**Families:** [[Families/Kariv|Kariv]]
+
 ## Family
 
 **Spouse:** [[People/Anat-Goldstein-Kariv|Anat Goldstein Kariv]]
 **Children:** [[People/Tal-Kariv|Tal Kariv]], [[People/Tom-Kariv|Tom Kariv]], [[People/Bar-Kariv|Bar Kariv]], [[People/Gil-Kariv|Gil Kariv]]
-**Families:** [[Families/Kariv|Kariv]]
 
 ## Biography
 Itay Kariv , married to Naty Goldstein in [[Places/Israel]] , 12-7-1987.

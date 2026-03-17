@@ -10,11 +10,17 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1989-11-08
+**Born in:**
+**Families:** [[Families/Abadi|Abadi]]
+
 ## Family
 
 **Father:** [[People/Meyer-Abadi|Meyer Abadi]] | **Mother:** [[People/Nourit-Azoulay-Abadi|Nourit Azoulay Abadi]]
 **Siblings:** [[People/Eliran-Abadi|Eliran Abadi]], [[People/Avihu-Abadi|Avihu Abadi]]
-**Families:** [[Families/Abadi|Abadi]]
 
 ## Biography
 

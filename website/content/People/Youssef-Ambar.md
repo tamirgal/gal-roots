@@ -8,10 +8,16 @@ sex: male
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Ambar|Ambar]]
+
 ## Family
 
 **Spouse:** [[People/Toffaha-Sasson-Ambar|Toffaha Sasson Ambar]]
-**Families:** [[Families/Ambar|Ambar]]
 
 ## Biography
 

@@ -25,11 +25,17 @@ research_level: 2
 
 ![[attachments/pictures/fuchs_ahuva.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1951-03-27
+**Born in:**
+**Families:** [[Families/Gesthatter|Gesthatter]], [[Families/Fuchs|Fuchs]]
+
 ## Family
 
 **Spouse:** [[People/Shabetay-Fuchs|Shabetay Fuchs]]
 **Children:** [[People/Einat-Fuchs-Kelmus|Einat Fuchs Kelmus]], [[People/Tamar-Fuchs|Tamar Fuchs]], [[People/Aviad-Fuchs|Aviad Fuchs]]
-**Families:** [[Families/Gesthatter|Gesthatter]], [[Families/Fuchs|Fuchs]]
 
 ## Biography
 At Einat's wedding

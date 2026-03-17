@@ -16,13 +16,19 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Ridley|Ridley]]
+
 ## Family
 
 **Father:** [[People/Ferdinand-Ridley|Ferdinand Ridley]] | **Mother:** [[People/Paula-Clyne-Ridley|Paula Clyne Ridley]]
 **Spouse:** [[People/Jemima-French|Jemima French]]
 **Siblings:** [[People/Dominic-Ridley|Dominic Ridley]], [[People/Caroline-Ridley|Caroline Ridley]]
 **Children:** [[People/Meadow-Clyne|Meadow Clyne]]
-**Families:** [[Families/Ridley|Ridley]]
 
 ## Biography
 

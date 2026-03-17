@@ -20,11 +20,17 @@ research_level: 1
 
 ![[attachments/pictures/Rahamim Rafi.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Rahamim|Rahamim]]
+
 ## Family
 
 **Spouse:** [[People/Esther-Esty-Yohay-Rahamim|Esther (Esty) Yohay Rahamim]]
 **Children:** [[People/Roye-Rahamim|Roye Rahamim]], [[People/Hila-Rahamim|Hila Rahamim]]
-**Families:** [[Families/Rahamim|Rahamim]]
 
 ## Biography
 

@@ -18,11 +18,17 @@ research_level: 1
 
 ![[attachments/pictures/Abada Chantal.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1970-09-11
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Riri-Ernest-Abada|Riri Ernest Abada]] | **Mother:** [[People/Aimee-Abada|Aimee Abada]]
 **Siblings:** [[People/Eyal-Abada|Eyal Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

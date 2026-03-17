@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/passport_clyne_alexandral.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1975-01-03
+**Born in:**
+**Families:** [[Families/Clyne|Clyne]]
+
 ## Family
 
 **Father:** [[People/Charles-Clyne|Charles Clyne]] | **Mother:** [[People/Elizabeth-Heagney-Clyne|Elizabeth Heagney Clyne]]
 **Siblings:** [[People/Jonathan-Clyne|Jonathan Clyne]], [[People/Suzanne-Clyne|Suzanne Clyne]]
-**Families:** [[Families/Clyne|Clyne]]
 
 ## Biography
 

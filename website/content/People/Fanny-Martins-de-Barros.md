@@ -20,11 +20,17 @@ research_level: 1
 
 ![[attachments/pictures/MartdBar Fanny.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1975-12-08
+**Born in:**
+**Families:** [[Families/Martins|Martins]], [[Families/Barros|Barros]]
+
 ## Family
 
 **Father:** [[People/Andre-Martins-de-Barros|Andre Martins de Barros]] | **Mother:** [[People/Andree-Deddy-Saison-Martins-de-Barros|Andree (Deddy) Saison Martins de Barros]]
 **Siblings:** [[People/Cyril-Martins-de-Barros|Cyril Martins de Barros]]
-**Families:** [[Families/Martins|Martins]], [[Families/Barros|Barros]]
 
 ## Biography
 

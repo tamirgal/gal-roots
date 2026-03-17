@@ -32,13 +32,19 @@ research_level: 2
 
 ![[attachments/pictures/Aviva passport 3.jpg]]
 
+## Details
+
+**Hebrew Name:** אביבה פטאן גל
+**Birthday:** 1951-03-18
+**Born in:**
+**Families:** [[Families/Patan|Patan]], [[Families/Gal|Gal]]
+
 ## Family
 
 **Father:** [[People/Elie-Patan|Elie Patan]] | **Mother:** [[People/Mary-Abada-Patan|Mary Abada Patan]]
 **Spouse:** [[People/Joseph-Goldstein-Gal|Joseph Goldstein Gal]]
 **Siblings:** [[People/Ezra-Cesy-Patan|Ezra Cesy Patan]], [[People/Sami-Patan|Sami Patan]]
 **Children:** [[People/Asaf-Gal|Asaf Gal]], [[People/Tamir-Gal|Tamir Gal]]
-**Families:** [[Families/Patan|Patan]], [[Families/Gal|Gal]]
 
 ## Biography
 Aviva (Vicky) Patan Gal: Aviva (Vicky) Patan, daughter of Elie and Mary Patan was born (March 1951) in [[Places/Cairo]] [[Places/Egypt]]. In 1957, she immigrated with her family to [[Places/Israel]]. There, her mother Mary decided to change her daughter's name to a local one and Victoria became Aviva. Yet, her nickname is still today, Vicky. She grew up in [[Places/Ramat Gan]], Israel... and after her military service, she was graduated from the "TECHNION" our Polytechnic University in [[Places/Haifa]], where she studied Mathematics and Computers. There she met Joseph (Yossi) Gal, and married, in [[Places/Tel Aviv]], Israel on the 6th August 1974. They have 2 sons, Asaf and Tamir. She worked in several companies, as director of computer software programming departments. Actually, she holds a position of the IT Manager at "Unilever" an international company, in the food industry. Working hard, in full time job and big responsibilities, she finds the time to fulfill her hobby , where she feels relaxed , by painting and sculpting . If you want to see some of her paintings, click HERE If you want to see some of her sculptures, click HERE

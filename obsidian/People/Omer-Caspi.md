@@ -9,10 +9,16 @@ sex: male
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1967-02-25
+**Born in:**
+**Families:** [[Families/Caspi|Caspi]]
+
 ## Family
 
 **Spouse:** [[People/Ravit-Harari-Caspi|Ravit Harari Caspi]]
-**Families:** [[Families/Caspi|Caspi]]
 
 ## Biography
 Wedding of Omer Caspi and Ravit Harari in [[Places/Israel]] 26 August 2001

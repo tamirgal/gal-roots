@@ -15,11 +15,17 @@ children_id:
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1920
+**Born in:**
+**Families:** [[Families/Kaminski|Kaminski]]
+
 ## Family
 
 **Spouse:** [[People/Edith-Klein-Kaminski|Edith Klein Kaminski]]
 **Children:** [[People/Gabriela-Kaminski-Sleppin|Gabriela Kaminski Sleppin]], [[People/David-Kaminski|David Kaminski]]
-**Families:** [[Families/Kaminski|Kaminski]]
 
 ## Biography
 

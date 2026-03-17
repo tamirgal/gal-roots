@@ -24,13 +24,19 @@ research_level: 2
 
 ![[attachments/pictures/passport_glassberg_ofer.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1962-06-19
+**Born in:**
+**Families:** [[Families/Glassberg|Glassberg]]
+
 ## Family
 
 **Father:** [[People/Galil-Glassberg|Galil Glassberg]] | **Mother:** [[People/Tsipora-Zuckerberger-Glassberg|Tsipora Zuckerberger Glassberg]]
 **Spouse:** [[People/Ronit-Lublin-Glassberg|Ronit Lublin Glassberg]]
 **Siblings:** [[People/Arnon-Glassberg|Arnon Glassberg]]
 **Children:** [[People/Guy-Glassberg|Guy Glassberg]], [[People/Tal-Glassberg|Tal Glassberg]]
-**Families:** [[Families/Glassberg|Glassberg]]
 
 ## Biography
 Ofer is a Veterinar and works at Inpulse Dynamics in [[Places/Haifa]].

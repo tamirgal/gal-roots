@@ -10,11 +10,17 @@ sex: female
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1994-04-13
+**Born in:**
+**Families:** [[Families/Peleg|Peleg]]
+
 ## Family
 
 **Father:** [[People/Samuel-Shmoulik-Peleg|Samuel (Shmoulik) Peleg]] | **Mother:** [[People/Ety-Cohen-Peleg|Ety Cohen Peleg]]
 **Siblings:** [[People/Guy-Peleg|Guy Peleg]], [[People/Gali-Peleg|Gali Peleg]], [[People/Aviv-Peleg|Aviv Peleg]]
-**Families:** [[Families/Peleg|Peleg]]
 
 ## Biography
 

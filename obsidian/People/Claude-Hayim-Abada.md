@@ -30,13 +30,19 @@ research_level: 1
 
 ![[attachments/pictures/Abada Claude (Hayim).jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1935-10-08
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Shaoul-Abada-1889|Shaoul Abada]] | **Mother:** [[People/Regina-Malka-Abada|Regina Malka Abada]]
 **Spouse:** [[People/Ginette-Toueg-Abada|Ginette Toueg Abada]]
 **Siblings:** [[People/Esther-Abada-Nefoussi|Esther Abada Nefoussi]], [[People/Alice-Abada-Abadi|Alice Abada Abadi]], [[People/David-Abada|David Abada]], [[People/Hayim-Abada-ind00281|Hayim Abada]], [[People/Joseph-Abada|Joseph Abada]], [[People/Arlette-Abada-Savdie|Arlette Abada Savdie]], [[People/Mary-Abada-Patan|Mary Abada Patan]], [[People/Ernest-Nisso-Abada|Ernest (Nisso) Abada]]
 **Children:** [[People/Shaoul-Abada-1962|Shaoul Abada]], [[People/Ronit-Abada-Savdie|Ronit Abada Savdie]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

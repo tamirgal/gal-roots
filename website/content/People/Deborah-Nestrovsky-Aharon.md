@@ -14,11 +14,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Nestrovsky|Nestrovsky]], [[Families/Aharon|Aharon]]
+
 ## Family
 
 **Spouse:** [[People/Ernest-Aharon|Ernest Aharon]]
 **Children:** [[People/Jonathan-Aharon|Jonathan Aharon]], [[People/Sandra-Aharon|Sandra Aharon]]
-**Families:** [[Families/Nestrovsky|Nestrovsky]], [[Families/Aharon|Aharon]]
 
 ## Biography
 

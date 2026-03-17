@@ -30,13 +30,19 @@ research_level: 2
 
 ![[attachments/pictures/1988 wedding Rafi-Pnina 04.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1929-06-28
+**Born in:**
+**Families:** [[Families/Patan|Patan]]
+
 ## Family
 
 **Father:** [[People/Ezra-Patan|Ezra Patan]] | **Mother:** [[People/Victoria-Sasson-Patan|Victoria Sasson Patan]]
 **Spouse:** [[People/Ady-Kremer-Patan|Ady Kremer Patan]]
 **Siblings:** [[People/Elie-Patan|Elie Patan]], [[People/Miriam-Patan-Ravia|Miriam Patan Ravia]]
 **Children:** [[People/Ilan-Patan|Ilan Patan]], [[People/Raphael-Rafi-Patan|Raphael (Rafi) Patan]]
-**Families:** [[Families/Patan|Patan]]
 
 ## Biography
 PATAN ISAAC, born in [[Places/Cairo]], 28th June 1929…Graduated from the [[Places/Cairo]] University (Chemistry, pharmacy). In 1957, after the Suez canal war, he immigrated with all the family to [[Places/Israel]]. Married in [[Places/Tel Aviv]] to Ady Kremer, on 17th January 1960. Worked as a chemist in the "Koupat Holim" (the national health institution). Then he directed his own pharmacy. On the 22nd of March 1995, he died suddenly in his pharmacy, aged 66 years old.

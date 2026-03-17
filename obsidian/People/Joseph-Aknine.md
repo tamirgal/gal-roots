@@ -14,11 +14,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Aknine|Aknine]]
+
 ## Family
 
 **Spouse:** [[People/Camille-Nefoussi-Aknine|Camille Nefoussi Aknine]]
 **Children:** [[People/Rahel-Aknine|Rahel Aknine]], [[People/Bekhor-Aknine|Bekhor Aknine]]
-**Families:** [[Families/Aknine|Aknine]]
 
 ## Biography
 

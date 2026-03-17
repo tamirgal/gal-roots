@@ -13,10 +13,16 @@ research_level: 1
 
 ![[attachments/pictures/Sardass Leon.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Sardass|Sardass]]
+
 ## Family
 
 **Spouse:** [[People/Aimee-Abada-Sardass|Aimee Abada Sardass]]
-**Families:** [[Families/Sardass|Sardass]]
 
 ## Biography
 

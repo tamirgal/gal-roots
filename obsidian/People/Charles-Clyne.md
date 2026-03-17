@@ -26,13 +26,19 @@ research_level: 1
 
 ![[attachments/pictures/passport_clyne_charles.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1946-02-03
+**Born in:**
+**Families:** [[Families/Clyne|Clyne]]
+
 ## Family
 
 **Father:** [[People/Ondrej-Clyne|Ondrej Clyne]] | **Mother:** [[People/Ellen-Cooper-Clyne|Ellen Cooper Clyne]]
 **Spouse:** [[People/Elizabeth-Heagney-Clyne|Elizabeth Heagney Clyne]]
 **Siblings:** [[People/Paula-Clyne-Ridley|Paula Clyne Ridley]], [[People/Rachel-Clyne-Blake|Rachel Clyne Blake]]
 **Children:** [[People/Alexandra-Clyne|Alexandra Clyne]], [[People/Jonathan-Clyne|Jonathan Clyne]], [[People/Suzanne-Clyne|Suzanne Clyne]]
-**Families:** [[Families/Clyne|Clyne]]
 
 ## Biography
 

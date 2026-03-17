@@ -22,11 +22,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Ronen|Ronen]], [[Families/Sasson|Sasson]]
+
 ## Family
 
 **Spouse:** [[People/Nissim-Sasson|Nissim Sasson]]
 **Children:** [[People/Rahel-Sasson-1910|Rahel Sasson]], [[People/Habiba-Sasson-1912|Habiba Sasson]], [[People/Yossef-Sasson-1913|Yossef Sasson]], [[People/Vita-Sasson|Vita Sasson]], [[People/Esther-Sasson|Esther Sasson]], [[People/Yacov-Sasson|Yacov Sasson]]
-**Families:** [[Families/Ronen|Ronen]], [[Families/Sasson|Sasson]]
 
 ## Biography
 

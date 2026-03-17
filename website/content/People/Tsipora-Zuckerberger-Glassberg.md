@@ -26,13 +26,19 @@ research_level: 1
 
 ![[attachments/pictures/glassberg_tzipa.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1939-04-08
+**Born in:**
+**Families:** [[Families/Zuckerberger|Zuckerberger]], [[Families/Glassberg|Glassberg]]
+
 ## Family
 
 **Father:** [[People/Avigdor-Zuckerberger|Avigdor Zuckerberger]] | **Mother:** [[People/Shoshana-Smilovitz-Zuckerberger|Shoshana Smilovitz Zuckerberger]]
 **Spouse:** [[People/Galil-Glassberg|Galil Glassberg]]
 **Siblings:** [[People/Shabetay-Zuckerberger-Geva|Shabetay Zuckerberger Geva]]
 **Children:** [[People/Ofer-Glassberg|Ofer Glassberg]], [[People/Arnon-Glassberg|Arnon Glassberg]]
-**Families:** [[Families/Zuckerberger|Zuckerberger]], [[Families/Glassberg|Glassberg]]
 
 ## Biography
 

@@ -14,11 +14,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Ovdat|Ovdat]]
+
 ## Family
 
 **Spouse:** [[People/David-Abada-Ovdat|David (Abada) Ovdat]]
 **Children:** [[People/Tal-Ovdat|Tal Ovdat]], [[People/Haim-Ovdat|Haim Ovdat]]
-**Families:** [[Families/Ovdat|Ovdat]]
 
 ## Biography
 

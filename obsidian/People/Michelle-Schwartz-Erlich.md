@@ -27,12 +27,18 @@ research_level: 1
 
 ![[attachments/pictures/erlich_michelle.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1960
+**Born in:**
+**Families:** [[Families/Schwartz|Schwartz]], [[Families/Erlich|Erlich]]
+
 ## Family
 
 **Father:** [[People/Emil-Schwartz|Emil Schwartz]] | **Mother:** [[People/Sarah-Sandra-Farkas-Schwartz|Sarah (Sandra) Farkas Schwartz]]
 **Spouse:** [[People/Joseph-Erlich|Joseph Erlich]]
 **Children:** [[People/Max-Erlich|Max Erlich]], [[People/-Erlich|?? Erlich]]
-**Families:** [[Families/Schwartz|Schwartz]], [[Families/Erlich|Erlich]]
 
 ## Biography
 

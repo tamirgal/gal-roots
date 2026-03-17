@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/Hanan Hayim junior.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1989-12-06
+**Born in:**
+**Families:** [[Families/Hanan|Hanan]]
+
 ## Family
 
 **Father:** [[People/Moshe-Hanan|Moshe Hanan]] | **Mother:** [[People/Arlette-Wahba-Hanan|Arlette Wahba Hanan]]
 **Siblings:** [[People/Adi-Hanan|Adi Hanan]]
-**Families:** [[Families/Hanan|Hanan]]
 
 ## Biography
 

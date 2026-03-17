@@ -28,13 +28,19 @@ research_level: 2
 
 ![[attachments/pictures/Gina Uzan 2.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1962-05-29
+**Born in:**
+**Families:** [[Families/Savdie|Savdie]], [[Families/Uzan|Uzan]]
+
 ## Family
 
 **Father:** [[People/Salvator-Savdie|Salvator Savdie]] | **Mother:** [[People/Arlette-Abada-Savdie|Arlette Abada Savdie]]
 **Spouse:** [[People/Elie-Uzan|Elie Uzan]]
 **Siblings:** [[People/Jacky-Savdie|Jacky Savdie]], [[People/Elise-Savdie-Witukiewicz|Elise Savdie Witukiewicz]], [[People/Soly-Savdie|Soly Savdie]]
 **Children:** [[People/Elsa-Uzan|Elsa Uzan]], [[People/Lea-Uzan|Lea Uzan]]
-**Families:** [[Families/Savdie|Savdie]], [[Families/Uzan|Uzan]]
 
 ## Biography
 Gina et Elie Uzan sont divorces.

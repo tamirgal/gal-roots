@@ -26,13 +26,19 @@ research_level: 1
 
 ![[attachments/pictures/Yohay Rony 1.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1957-11-06
+**Born in:**
+**Families:** [[Families/Yohay|Yohay]]
+
 ## Family
 
 **Father:** [[People/Yossef-Yohay|Yossef Yohay]] | **Mother:** [[People/Edith-Ida-Abada-Yohay|Edith (Ida) Abada Yohay]]
 **Spouse:** [[People/Nily-Raykh-Yohay|Nily Raykh Yohay]]
 **Siblings:** [[People/Moshe-Yohay|Moshe Yohay]], [[People/Esther-Esty-Yohay-Rahamim|Esther (Esty) Yohay Rahamim]]
 **Children:** [[People/Shahar-Yohay|Shahar Yohay]], [[People/Adi-Yohay|Adi Yohay]]
-**Families:** [[Families/Yohay|Yohay]]
 
 ## Biography
 

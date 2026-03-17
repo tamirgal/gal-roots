@@ -13,12 +13,18 @@ sex: female
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1902
+**Born in:**
+**Families:** [[Families/Ambar|Ambar]], [[Families/Levy|Levy]]
+
 ## Family
 
 **Father:** [[People/Menashe-Ambar|Menashe Ambar]] | **Mother:** [[People/Farha-Sasson-Ambar|Farha Sasson Ambar]]
 **Spouse:** [[People/Marco-Leon-Levy|Marco Leon Levy]]
 **Siblings:** [[People/Saada-Ambar-Bolafi|Saada Ambar Bolafi]], [[People/Sasson-Ambar|Sasson Ambar]], [[People/Simha-Ambar-Harari|Simha Ambar Harari]], [[People/Ezra-Ambar|Ezra Ambar]], [[People/Jeanne-Hannah-Ambar-Shammass-Shemesh|Jeanne (Hannah) Ambar Shammass (Shemesh)]]
-**Families:** [[Families/Ambar|Ambar]], [[Families/Levy|Levy]]
 
 ## Biography
 

@@ -28,13 +28,19 @@ research_level: 1
 
 ![[attachments/pictures/Ilana seule.JPG]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1964-06-27
+**Born in:**
+**Families:** [[Families/Ravia|Ravia]], [[Families/Messoubi|Messoubi]]
+
 ## Family
 
 **Father:** [[People/Nissim-Ravia|Nissim Ravia]] | **Mother:** [[People/Miriam-Patan-Ravia|Miriam Patan Ravia]]
 **Spouse:** [[People/Edy-Messoubi|Edy Messoubi]]
 **Siblings:** [[People/Hayim-Ravia|Hayim Ravia]]
 **Children:** [[People/Mikhal-Messoubi|Mikhal Messoubi]], [[People/Ido-Messoubi|Ido Messoubi]], [[People/Tamar-Messoubi|Tamar Messoubi]]
-**Families:** [[Families/Ravia|Ravia]], [[Families/Messoubi|Messoubi]]
 
 ## Biography
 

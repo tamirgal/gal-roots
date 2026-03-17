@@ -9,6 +9,12 @@ sex: female
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+
 ## Family
 
 **Father:** [[People/Joseph-Aharon-1947|Joseph Aharon]] | **Mother:** [[People/Tova-Aharon|Tova Aharon]]

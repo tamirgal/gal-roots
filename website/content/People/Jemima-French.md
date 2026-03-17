@@ -12,11 +12,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/French|French]]
+
 ## Family
 
 **Spouse:** [[People/Francis-Ridley|Francis Ridley]]
 **Children:** [[People/Meadow-Clyne|Meadow Clyne]]
-**Families:** [[Families/French|French]]
 
 ## Biography
 

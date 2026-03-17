@@ -16,11 +16,17 @@ research_level: 1
 
 ![[attachments/pictures/Abada Elia.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1988-04-28
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Shaoul-Abada-1962|Shaoul Abada]] | **Mother:** [[People/Dalit-HarEl-Abada|Dalit HarEl Abada]]
 **Siblings:** [[People/Ouria-Abada|Ouria Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

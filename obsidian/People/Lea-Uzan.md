@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/Uzan Lea.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1988-07-07
+**Born in:**
+**Families:** [[Families/Uzan|Uzan]]
+
 ## Family
 
 **Father:** [[People/Elie-Uzan|Elie Uzan]] | **Mother:** [[People/Gina-Savdie-Uzan|Gina Savdie Uzan]]
 **Siblings:** [[People/Elsa-Uzan|Elsa Uzan]]
-**Families:** [[Families/Uzan|Uzan]]
 
 ## Biography
 

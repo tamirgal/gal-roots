@@ -17,11 +17,17 @@ research_level: 1
 
 ![[attachments/pictures/blake_charlotte.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1981-10-12
+**Born in:**
+**Families:** [[Families/Blake|Blake]]
+
 ## Family
 
 **Father:** [[People/David-Blake|David Blake]] | **Mother:** [[People/Rachel-Clyne-Blake|Rachel Clyne Blake]]
 **Siblings:** [[People/Victoria-Blake|Victoria Blake]], [[People/Rosanne-Blake|Rosanne Blake]]
-**Families:** [[Families/Blake|Blake]]
 
 ## Biography
 

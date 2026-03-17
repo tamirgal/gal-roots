@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/Brawn Amit.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1999
+**Born in:**
+**Families:** [[Families/Brawn|Brawn]]
+
 ## Family
 
 **Father:** [[People/Nir-Brawn|Nir Brawn]] | **Mother:** [[People/Elisabeth-Finegenblat-Brawn|Elisabeth Finegenblat Brawn]]
 **Siblings:** [[People/Ady-Brawn|Ady Brawn]], [[People/Ofry-Brawn|Ofry Brawn]], [[People/Idane-Brawn|Idane Brawn]]
-**Families:** [[Families/Brawn|Brawn]]
 
 ## Biography
 

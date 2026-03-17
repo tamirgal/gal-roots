@@ -17,11 +17,17 @@ research_level: 1
 
 ![[attachments/pictures/Saison Tamar.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1985
+**Born in:**
+**Families:** [[Families/Saison|Saison]]
+
 ## Family
 
 **Father:** [[People/Isaac-Saison|Isaac Saison]] | **Mother:** [[People/Toula-Saison|Toula Saison]]
 **Siblings:** [[People/Maya-Saison|Maya Saison]]
-**Families:** [[Families/Saison|Saison]]
 
 ## Biography
 

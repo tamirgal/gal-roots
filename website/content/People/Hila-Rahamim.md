@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/Rahamim Hila.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1994-10-05
+**Born in:**
+**Families:** [[Families/Rahamim|Rahamim]]
+
 ## Family
 
 **Father:** [[People/Raphael-Rafi-Rahamim|Raphael Rafi Rahamim]] | **Mother:** [[People/Esther-Esty-Yohay-Rahamim|Esther (Esty) Yohay Rahamim]]
 **Siblings:** [[People/Roye-Rahamim|Roye Rahamim]]
-**Families:** [[Families/Rahamim|Rahamim]]
 
 ## Biography
 

@@ -10,11 +10,17 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1987
+**Born in:**
+**Families:** [[Families/Fuchs|Fuchs]]
+
 ## Family
 
 **Father:** [[People/Moshe-Fuchs-ind00306|Moshe Fuchs]] | **Mother:** [[People/Regy-Nefoussi-Fuchs|Regy Nefoussi Fuchs]]
 **Siblings:** [[People/Lyat-Fuchs-Kalo|Lyat Fuchs Kalo]], [[People/Shay-Fuchs|Shay Fuchs]]
-**Families:** [[Families/Fuchs|Fuchs]]
 
 ## Biography
 

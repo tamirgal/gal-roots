@@ -21,11 +21,17 @@ research_level: 2
 
 ![[attachments/pictures/Cohen Florette.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Cohen|Cohen]]
+
 ## Family
 
 **Spouse:** [[People/Itshak-Zako-Cohen|Itshak (Zako) Cohen]]
 **Children:** [[People/Ety-Cohen-Peleg|Ety Cohen Peleg]], [[People/Ronit-Cohen-Rav|Ronit Cohen Rav]], [[People/Mikhal-Cohen-Einav|Mikhal Cohen Einav]]
-**Families:** [[Families/Cohen|Cohen]]
 
 ## Biography
 Florette, married to Itshak Cohen then divorced.

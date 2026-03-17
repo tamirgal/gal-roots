@@ -14,11 +14,17 @@ research_level: 1
 
 ![[attachments/pictures/Abada Esther (Touti).jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Yehezkel-Ernest-Abada|Yehezkel Ernest Abada]] | **Mother:** [[People/Claire-Mekayess-Abada|Claire Mekayess Abada]]
 **Siblings:** [[People/Viviane-Abada|Viviane Abada]], [[People/Moshe-Maurice-Abada|Moshe Maurice Abada]], [[People/Robert-Roby-Abada|Robert Roby Abada]], [[People/Albert-Abraham-Abada|Albert Abraham Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

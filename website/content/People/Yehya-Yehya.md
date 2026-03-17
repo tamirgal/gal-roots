@@ -8,10 +8,16 @@ sex: male
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Yehya|Yehya]]
+
 ## Family
 
 **Spouse:** [[People/Rebecca-Sasson-Yehya|Rebecca Sasson Yehya]]
-**Families:** [[Families/Yehya|Yehya]]
 
 ## Biography
 

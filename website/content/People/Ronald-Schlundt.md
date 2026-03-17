@@ -18,11 +18,17 @@ research_level: 2
 
 ![[attachments/pictures/harriet_jennifer_ronald_schlundt.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1947-06
+**Born in:**
+**Families:** [[Families/Schlundt|Schlundt]]
+
 ## Family
 
 **Spouse:** [[People/Amy-Mina-Peaceman-Schlundt|Amy Mina Peaceman Schlundt]]
 **Children:** [[People/Jennifer-Schlundt|Jennifer Schlundt]]
-**Families:** [[Families/Schlundt|Schlundt]]
 
 ## Biography
 Lives in Landstuhl, Germany

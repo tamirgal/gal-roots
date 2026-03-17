@@ -21,11 +21,17 @@ research_level: 1
 
 ![[attachments/pictures/Abada Shulamit.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1934-10-04
+**Born in:**
+**Families:** [[Families/Yoselewitsh|Yoselewitsh]], [[Families/Abada|Abada]]
+
 ## Family
 
 **Spouse:** [[People/Edouard-Dolly-Abada|Edouard (Dolly) Abada]]
 **Children:** [[People/Orly-Abada|Orly Abada]], [[People/Moshe-Abada|Moshe Abada]]
-**Families:** [[Families/Yoselewitsh|Yoselewitsh]], [[Families/Abada|Abada]]
 
 ## Biography
 

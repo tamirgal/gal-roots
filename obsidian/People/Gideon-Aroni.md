@@ -17,10 +17,16 @@ research_level: 1
 
 ![[attachments/pictures/aronigideon.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 2000-07-19
+**Born in:**
+**Families:** [[Families/Aroni|Aroni]]
+
 ## Family
 
 **Father:** [[People/Ben-Zion-Aroni|Ben-Zion Aroni]] | **Mother:** [[People/Roz-Kaldor-Aroni|Roz Kaldor Aroni]]
-**Families:** [[Families/Aroni|Aroni]]
 
 ## Biography
 

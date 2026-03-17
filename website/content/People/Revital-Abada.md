@@ -10,11 +10,17 @@ sex: female
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1972
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Ernest-Zouzi-Abada|Ernest Zouzi Abada]] | **Mother:** [[People/Frida-Sabato-Abada|Frida Sabato Abada]]
 **Siblings:** [[People/Linda-Abada-Adato|Linda Abada Adato]], [[People/Shlomit-Abada|Shlomit Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

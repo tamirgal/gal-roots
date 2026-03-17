@@ -8,10 +8,16 @@ sex: female
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Sasson|Sasson]]
+
 ## Family
 
 **Spouse:** [[People/Moussa-Moshe-Sasson|Moussa Moshe Sasson]]
-**Families:** [[Families/Sasson|Sasson]]
 
 ## Biography
 

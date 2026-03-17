@@ -21,11 +21,17 @@ research_level: 1
 
 ![[attachments/pictures/Zeitouni Soly.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Zeitouni|Zeitouni]]
+
 ## Family
 
 **Spouse:** [[People/Sarah-Abada-Zeitouni|Sarah (Abada) Zeitouni]]
 **Children:** [[People/Elie-Zeitouni-ind00641|Elie Zeitouni]], [[People/Chen-Zeitouni|Chen Zeitouni]], [[People/Haim-Zeitouni-ind00639|Haim Zeitouni]]
-**Families:** [[Families/Zeitouni|Zeitouni]]
 
 ## Biography
 

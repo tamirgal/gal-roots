@@ -22,11 +22,17 @@ research_level: 2
 
 ![[attachments/pictures/portrait Haim Brawn.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1936
+**Born in:**
+**Families:** [[Families/Brawn|Brawn]]
+
 ## Family
 
 **Spouse:** [[People/Lina-Nefoussi-Brawn|Lina Nefoussi Brawn]]
 **Children:** [[People/Nir-Brawn|Nir Brawn]], [[People/Iris-Brawn-Leker|Iris Brawn Leker]], [[People/Sharon-Brawn|Sharon Brawn]]
-**Families:** [[Families/Brawn|Brawn]]
 
 ## Biography
 Hayim Brawn, married to Lina Nefoussi, in [[Places/Israel]] in 1962.

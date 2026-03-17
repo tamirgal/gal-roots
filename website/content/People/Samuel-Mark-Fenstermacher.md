@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/phyllisfenster_samuel.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1994-03-17
+**Born in:**
+**Families:** [[Families/Mark|Mark]], [[Families/Fenstermacher|Fenstermacher]]
+
 ## Family
 
 **Father:** [[People/Hans-Fenstermacher|Hans Fenstermacher]] | **Mother:** [[People/Janet-Ann-Hirschman-Fenstermacher|Janet Ann Hirschman Fenstermacher]]
 **Siblings:** [[People/Amy-Claire-Fenstermacher|Amy Claire Fenstermacher]], [[People/Lucas-Daniel-Fenstermacher|Lucas Daniel Fenstermacher]]
-**Families:** [[Families/Mark|Mark]], [[Families/Fenstermacher|Fenstermacher]]
 
 ## Biography
 

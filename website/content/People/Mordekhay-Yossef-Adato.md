@@ -9,10 +9,16 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1970
+**Born in:**
+**Families:** [[Families/Adato|Adato]]
+
 ## Family
 
 **Spouse:** [[People/Linda-Abada-Adato|Linda Abada Adato]]
-**Families:** [[Families/Adato|Adato]]
 
 ## Biography
 

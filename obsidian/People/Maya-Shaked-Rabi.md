@@ -21,12 +21,18 @@ research_level: 2
 
 ![[attachments/pictures/shaked_maya__mexico.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1978-08-29
+**Born in:**
+**Families:** [[Families/Shaked|Shaked]], [[Families/Rabi|Rabi]]
+
 ## Family
 
 **Father:** [[People/Ytshak-Itsik-Shaked|Ytshak (Itsik) Shaked]] | **Mother:** [[People/Ronit-Kalkstein-Shaked|Ronit Kalkstein Shaked]]
 **Spouse:** [[People/Samuel-Rabi|Samuel Rabi]]
 **Siblings:** [[People/Tamar-Shaked|Tamar Shaked]], [[People/Ayala-Shaked|Ayala Shaked]]
-**Families:** [[Families/Shaked|Shaked]], [[Families/Rabi|Rabi]]
 
 ## Biography
 Maya is born in [[Places/Haifa]] (Israel)

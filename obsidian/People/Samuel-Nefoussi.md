@@ -30,13 +30,19 @@ research_level: 1
 
 ![[attachments/pictures/Nefoussi Samuel 2.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1912
+**Born in:**
+**Families:** [[Families/Nefoussi|Nefoussi]]
+
 ## Family
 
 **Father:** [[People/Elie-Nefoussi|Elie Nefoussi]] | **Mother:** [[People/Nefoussi|Nefoussi]]
 **Spouse:** [[People/Esther-Abada-Nefoussi|Esther Abada Nefoussi]]
 **Siblings:** [[People/Regine-Nefoussi-Brakha|Regine Nefoussi Brakha]], [[People/Camille-Nefoussi-Aknine|Camille Nefoussi Aknine]]
 **Children:** [[People/Lina-Nefoussi-Brawn|Lina Nefoussi Brawn]], [[People/Elie-Nefoussi-Niv|Elie Nefoussi Niv]], [[People/Shaoul-Nefoussi|Shaoul Nefoussi]], [[People/Regy-Nefoussi-Fuchs|Regy Nefoussi Fuchs]]
-**Families:** [[Families/Nefoussi|Nefoussi]]
 
 ## Biography
 

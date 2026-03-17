@@ -12,11 +12,17 @@ sex: male
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** עזרא סזי פטאן
+**Birthday:** 1953-01-01
+**Born in:**
+**Families:** [[Families/Patan|Patan]]
+
 ## Family
 
 **Father:** [[People/Elie-Patan|Elie Patan]] | **Mother:** [[People/Mary-Abada-Patan|Mary Abada Patan]]
 **Siblings:** [[People/Aviva-Vicky-Patan-Gal|Aviva (Vicky) Patan Gal]], [[People/Sami-Patan|Sami Patan]]
-**Families:** [[Families/Patan|Patan]]
 
 ## Biography
 Ezra (Cesy) Patan is born in [[Places/Cairo]], [[Places/Egypt]], on the First of January 1953. In 1957, he immigrated with the family to [[Places/Israel]],...in [[Places/Ramat Gan]].

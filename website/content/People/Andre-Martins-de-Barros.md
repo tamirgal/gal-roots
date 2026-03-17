@@ -24,11 +24,17 @@ research_level: 1
 
 ![[attachments/pictures/MartdBar Andre.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1942-11-15
+**Born in:**
+**Families:** [[Families/Martins|Martins]], [[Families/Barros|Barros]]
+
 ## Family
 
 **Spouse:** [[People/Andree-Deddy-Saison-Martins-de-Barros|Andree (Deddy) Saison Martins de Barros]]
 **Children:** [[People/Fanny-Martins-de-Barros|Fanny Martins de Barros]], [[People/Cyril-Martins-de-Barros|Cyril Martins de Barros]]
-**Families:** [[Families/Martins|Martins]], [[Families/Barros|Barros]]
 
 ## Biography
 

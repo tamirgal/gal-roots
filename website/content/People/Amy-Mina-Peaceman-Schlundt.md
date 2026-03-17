@@ -24,13 +24,19 @@ research_level: 2
 
 ![[attachments/pictures/amy_peaceman_schlundt.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1949-01-04
+**Born in:**
+**Families:** [[Families/Peaceman|Peaceman]], [[Families/Schlundt|Schlundt]]
+
 ## Family
 
 **Father:** [[People/Howard-Peaceman|Howard Peaceman]] | **Mother:** [[People/Harriett-Klein-Peaceman|Harriett Klein Peaceman]]
 **Spouse:** [[People/Ronald-Schlundt|Ronald Schlundt]]
 **Siblings:** [[People/Gale-Joanne-Peaceman-Lackner|Gale Joanne Peaceman Lackner]], [[People/Matthew-David-Peaceman|Matthew David Peaceman]]
 **Children:** [[People/Jennifer-Schlundt|Jennifer Schlundt]]
-**Families:** [[Families/Peaceman|Peaceman]], [[Families/Schlundt|Schlundt]]
 
 ## Biography
 Amy lives in Landstruhl, Germany. She is a teacher and works for the DOD in Germany.

@@ -19,11 +19,17 @@ research_level: 1
 
 ![[attachments/pictures/peaceman_harriet_howard_wedding.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Rabinowitz|Rabinowitz]], [[Families/Peaceman|Peaceman]]
+
 ## Family
 
 **Spouse:** [[People/Morris-Peaceman|Morris Peaceman]]
 **Children:** [[People/Howard-Peaceman|Howard Peaceman]], [[People/Donald-William-Peaceman|Donald William Peaceman]]
-**Families:** [[Families/Rabinowitz|Rabinowitz]], [[Families/Peaceman|Peaceman]]
 
 ## Biography
 

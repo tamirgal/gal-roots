@@ -19,11 +19,17 @@ research_level: 1
 
 ![[attachments/pictures/Wahiche Henri.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Wahiche|Wahiche]]
+
 ## Family
 
 **Spouse:** [[People/Pauline-Israel-Wahiche|Pauline Israel Wahiche]]
 **Children:** [[People/Marc-Alain-Wahiche|Marc Alain Wahiche]], [[People/Dominique-Wahiche|Dominique Wahiche]]
-**Families:** [[Families/Wahiche|Wahiche]]
 
 ## Biography
 

@@ -16,11 +16,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Spouse:** [[People/Elie-Abada|Elie Abada]]
 **Children:** [[People/Lital-Abada|Lital Abada]], [[People/Haim-Abada|Haim Abada]], [[People/Dana-Abada|Dana Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

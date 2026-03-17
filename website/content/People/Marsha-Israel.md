@@ -13,10 +13,16 @@ research_level: 1
 
 ![[attachments/pictures/IsraelMarshaPassport.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Israel|Israel]]
+
 ## Family
 
 **Spouse:** [[People/Allen-Israel|Allen Israel]]
-**Families:** [[Families/Israel|Israel]]
 
 ## Biography
 

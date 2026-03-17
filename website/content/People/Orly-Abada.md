@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/Abada Orly.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1959-01-28
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Edouard-Dolly-Abada|Edouard (Dolly) Abada]] | **Mother:** [[People/Shoulamit-Yoselewitsh-Abada|Shoulamit Yoselewitsh Abada]]
 **Siblings:** [[People/Moshe-Abada|Moshe Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

@@ -13,12 +13,18 @@ sex: male
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1948-07-26
+**Born in:**
+**Families:** [[Families/Aharon|Aharon]]
+
 ## Family
 
 **Father:** [[People/Arie-Leopold-Aharon|Arie Leopold Aharon]] | **Mother:** [[People/Anet-Aharon|Anet Aharon]]
 **Spouse:** [[People/Christine-Aharon|Christine Aharon]]
 **Siblings:** [[People/Leo-Aharon|Leo Aharon]], [[People/Suzan-Aharon-Reinolds|Suzan Aharon Reinolds]], [[People/Monique-Aharon-Preiss|Monique Aharon Preiss]]
-**Families:** [[Families/Aharon|Aharon]]
 
 ## Biography
 Peter, married to Christine,... with 2 sons,... (one of them killed in car accident ).

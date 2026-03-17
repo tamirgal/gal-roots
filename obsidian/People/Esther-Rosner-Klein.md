@@ -15,11 +15,17 @@ children_id:
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1912
+**Born in:**
+**Families:** [[Families/Rosner|Rosner]], [[Families/Klein|Klein]]
+
 ## Family
 
 **Spouse:** [[People/Yehoshua-Klein|Yehoshua Klein]]
 **Children:** [[People/Raphael-Klein|Raphael Klein]], [[People/Noah-Klein-Elias|Noah Klein Elias]]
-**Families:** [[Families/Rosner|Rosner]], [[Families/Klein|Klein]]
 
 ## Biography
 

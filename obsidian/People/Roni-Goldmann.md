@@ -19,13 +19,19 @@ children_id:
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1967-01-03
+**Born in:**
+**Families:** [[Families/Goldmann|Goldmann]]
+
 ## Family
 
 **Father:** [[People/Yonathan-Goldmann|Yonathan Goldmann]] | **Mother:** [[People/Rachel-Abadi-Goldmann|Rachel Abadi Goldmann]]
 **Spouse:** [[People/Efrat-Kessari-Goldmann|Efrat Kessari Goldmann]]
 **Siblings:** [[People/Guily-Goldmann|Guily Goldmann]]
 **Children:** [[People/Paz-Goldmann|Paz Goldmann]], [[People/Lital-Goldmann|Lital Goldmann]]
-**Families:** [[Families/Goldmann|Goldmann]]
 
 ## Biography
 Roni Goldmann, married to Efrat Kessari in [[Places/Israel]], 22 November 1995 , and divorced in June 1999.

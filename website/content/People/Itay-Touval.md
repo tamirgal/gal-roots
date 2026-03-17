@@ -9,11 +9,17 @@ sex: male
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Touval|Touval]]
+
 ## Family
 
 **Father:** [[People/Avi-Touena-Touval|Avi Touena Touval]] | **Mother:** [[People/Irit-Missika-Touval|Irit Missika Touval]]
 **Siblings:** [[People/Shahar-Touval|Shahar Touval]], [[People/Saguy-Touval|Saguy Touval]]
-**Families:** [[Families/Touval|Touval]]
 
 ## Biography
 

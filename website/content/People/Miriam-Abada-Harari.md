@@ -29,13 +29,19 @@ research_level: 2
 
 ![[attachments/pictures/Harari Miriam.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1947-07-16
+**Born in:**
+**Families:** [[Families/Abada|Abada]], [[Families/Harari|Harari]]
+
 ## Family
 
 **Father:** [[People/David-Abada|David Abada]] | **Mother:** [[People/Juliette-Pariente-Abada|Juliette Pariente Abada]]
 **Spouse:** [[People/Rafi-Harari|Rafi Harari]]
 **Siblings:** [[People/Saul-Abada-Ovdat|Saul Abada Ovdat]], [[People/Yacov-Abada|Yacov Abada]], [[People/Avner-Abada-Ovdat|Avner Abada Ovdat]]
 **Children:** [[People/Ravit-Harari-Caspi|Ravit Harari Caspi]], [[People/Erane-Harari|Erane Harari]], [[People/Rinat-Harari|Rinat Harari]]
-**Families:** [[Families/Abada|Abada]], [[Families/Harari|Harari]]
 
 ## Biography
 Wedding of Miriam Abada and Rafi Harari in [[Places/Israel]] 4 June 1970

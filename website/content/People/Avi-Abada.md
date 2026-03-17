@@ -30,13 +30,19 @@ research_level: 1
 
 ![[attachments/pictures/portrait Avi.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1962-10-20
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Ernest-Nisso-Abada|Ernest (Nisso) Abada]] | **Mother:** [[People/Liliane-Abada|Liliane Abada]]
 **Spouse:** [[People/Yael-Bar-El-Abada|Yael Bar El Abada]]
 **Siblings:** [[People/Esther-Titi-Abada-Levy|Esther (Titi) Abada Levy]]
 **Children:** [[People/Roye-Abada|Roye Abada]], [[People/Oded-Abada|Oded Abada]], [[People/Hadass-Abada|Hadass Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

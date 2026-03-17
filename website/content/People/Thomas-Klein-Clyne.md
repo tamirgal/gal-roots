@@ -17,13 +17,19 @@ children_id:
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1930
+**Born in:**
+**Families:** [[Families/Klein|Klein]], [[Families/Clyne|Clyne]]
+
 ## Family
 
 **Father:** [[People/Shimon-Klein|Shimon Klein]] | **Mother:** [[People/Yulanda-Weinberger-Klein|Yulanda Weinberger Klein]]
 **Spouse:** [[People/Roberta-Clyne|Roberta Clyne]]
 **Siblings:** [[People/Louis-Klein|Louis Klein]]
 **Children:** [[People/Felis-Clyne|Felis Clyne]]
-**Families:** [[Families/Klein|Klein]], [[Families/Clyne|Clyne]]
 
 ## Biography
 Thomas Klein lives in the [[Places/USA]]. Married and has children

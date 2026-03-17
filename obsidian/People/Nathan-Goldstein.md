@@ -19,11 +19,17 @@ research_level: 2
 
 ![[attachments/pictures/goldstein_nathan.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1926
+**Born in:**
+**Families:** [[Families/Goldstein|Goldstein]]
+
 ## Family
 
 **Father:** [[People/Joseph-Goldstein|Joseph Goldstein]] | **Mother:** [[People/Antonia-Klein-Goldstein|Antonia Klein Goldstein]]
 **Siblings:** [[People/Moshe-Miki-Goldstein|Moshe (Miki) Goldstein]], [[People/Baruch-Goldstein|Baruch Goldstein]]
-**Families:** [[Families/Goldstein|Goldstein]]
 
 ## Biography
 Nathan Goldstein, born in the village of [[Places/Uzhgorod]] ([[Places/Czechoslovakia]]). Durindg world war 2, he was deported with all jews of his village, to Nazi extermination camp in [[Places/Auschwitz]], where he died in 1944.

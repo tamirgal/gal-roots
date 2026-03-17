@@ -20,11 +20,17 @@ research_level: 2
 
 ![[attachments/pictures/Paul Mintz.JPG]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1954
+**Born in:**
+**Families:** [[Families/Mintz|Mintz]]
+
 ## Family
 
 **Spouse:** [[People/Solange-Israel-Mintz|Solange Israel Mintz]]
 **Children:** [[People/Rebecca-Mintz|Rebecca Mintz]], [[People/Leah-Mintz|Leah Mintz]]
-**Families:** [[Families/Mintz|Mintz]]
 
 ## Biography
 Paul Mintz,...married to Solange Israel on August 26, 1984, in bridgewater, [[Places/New Jersey]].

@@ -17,11 +17,17 @@ research_level: 1
 
 ![[attachments/pictures/Savdie Monique.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Haroche|Haroche]], [[Families/Savdie|Savdie]]
+
 ## Family
 
 **Spouse:** [[People/Jacky-Savdie|Jacky Savdie]]
 **Children:** [[People/Sandra-Savdie|Sandra Savdie]]
-**Families:** [[Families/Haroche|Haroche]], [[Families/Savdie|Savdie]]
 
 ## Biography
 

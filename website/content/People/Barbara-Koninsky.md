@@ -14,10 +14,16 @@ research_level: 1
 
 ![[attachments/pictures/Barbara.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Koninsky|Koninsky]]
+
 ## Family
 
 **Spouse:** [[People/Itshak-Zako-Cohen|Itshak (Zako) Cohen]]
-**Families:** [[Families/Koninsky|Koninsky]]
 
 ## Biography
 

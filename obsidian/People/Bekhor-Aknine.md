@@ -9,11 +9,17 @@ sex: male
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Aknine|Aknine]]
+
 ## Family
 
 **Father:** [[People/Joseph-Aknine|Joseph Aknine]] | **Mother:** [[People/Camille-Nefoussi-Aknine|Camille Nefoussi Aknine]]
 **Siblings:** [[People/Rahel-Aknine|Rahel Aknine]]
-**Families:** [[Families/Aknine|Aknine]]
 
 ## Biography
 

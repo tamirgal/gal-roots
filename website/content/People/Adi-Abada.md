@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/Abada Ady 1.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1977-08-26
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Yacov-Abada|Yacov Abada]] | **Mother:** [[People/Esther-Yacobinsky-Abada|Esther Yacobinsky Abada]]
 **Siblings:** [[People/Einav-Abada-Avieli|Einav Abada Avieli]], [[People/Omer-Abada|Omer Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

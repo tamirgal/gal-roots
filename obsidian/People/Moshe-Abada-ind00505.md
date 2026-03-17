@@ -9,11 +9,17 @@ sex: male
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Victor-Abada|Victor Abada]] | **Mother:** [[People/Fortunee-Hanan-Abada|Fortunee Hanan Abada]]
 **Siblings:** [[People/Esther-Ety-Abada|Esther Ety Abada]], [[People/Clara-Abada|Clara Abada]], [[People/Orly-Abada-ind00503|Orly Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

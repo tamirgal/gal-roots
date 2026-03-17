@@ -18,11 +18,17 @@ research_level: 1
 
 ![[attachments/pictures/Eliahou David BarMitzva.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1980-09-18
+**Born in:**
+**Families:** [[Families/Eliahou|Eliahou]]
+
 ## Family
 
 **Father:** [[People/Joseph-Eliahou|Joseph Eliahou]] | **Mother:** [[People/Laurette-Paula-Cohen-Eliahou|Laurette (Paula) Cohen Eliahou]]
 **Siblings:** [[People/Rachel-Eliahou|Rachel Eliahou]], [[People/Eric-Haim-Eliahou|Eric Haim Eliahou]]
-**Families:** [[Families/Eliahou|Eliahou]]
 
 ## Biography
 

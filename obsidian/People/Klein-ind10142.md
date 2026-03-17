@@ -16,6 +16,12 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+
 ## Family
 
 **Spouse:** [[People/Klein-ind10141|Klein]]

@@ -9,11 +9,17 @@ sex: female
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Haiman|Haiman]]
+
 ## Family
 
 **Father:** [[People/Avi-Haiman|Avi Haiman]] | **Mother:** [[People/Keren-Shimon-Haiman|Keren (Shimon) Haiman]]
 **Siblings:** [[People/Bar-Haiman|Bar Haiman]]
-**Families:** [[Families/Haiman|Haiman]]
 
 ## Biography
 

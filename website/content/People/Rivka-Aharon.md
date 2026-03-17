@@ -14,11 +14,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Aharon|Aharon]]
+
 ## Family
 
 **Spouse:** [[People/Mordechai-Aharon|Mordechai Aharon]]
 **Children:** [[People/Joseph-Aharon-1947|Joseph Aharon]], [[People/Lea-Aharon|Lea Aharon]]
-**Families:** [[Families/Aharon|Aharon]]
 
 ## Biography
 

@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/Abada Ouria.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1993-01-29
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Shaoul-Abada-1962|Shaoul Abada]] | **Mother:** [[People/Dalit-HarEl-Abada|Dalit HarEl Abada]]
 **Siblings:** [[People/Elia-Abada|Elia Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

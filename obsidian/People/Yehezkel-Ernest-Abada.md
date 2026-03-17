@@ -32,13 +32,19 @@ research_level: 2
 
 ![[attachments/pictures/Abada Yehezkel 2.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1927
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Moussa-Abada|Moussa Abada]] | **Mother:** [[People/Freha-Mekayess-Abada|Freha Mekayess Abada]]
 **Spouse:** [[People/Claire-Mekayess-Abada|Claire Mekayess Abada]]
 **Siblings:** [[People/Helene-Abada-Sasson|Helene Abada Sasson]], [[People/Esther-Abada|Esther Abada]], [[People/David-Doudou-Abada|David Doudou Abada]], [[People/Claire-Abada-Cohenca|Claire Abada Cohenca]], [[People/Jacques-Abada|Jacques Abada]], [[People/Victor-Abada|Victor Abada]], [[People/Edith-Ida-Abada-Yohay|Edith (Ida) Abada Yohay]], [[People/Felix-Abada|Felix Abada]]
 **Children:** [[People/Esther-Touti-Abada|Esther Touti Abada]], [[People/Viviane-Abada|Viviane Abada]], [[People/Moshe-Maurice-Abada|Moshe Maurice Abada]], [[People/Robert-Roby-Abada|Robert Roby Abada]], [[People/Albert-Abraham-Abada|Albert Abraham Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 Yehezkel (Ernest) Abada, est ne au [[Places/Cairo]] en 1927. Marie au [[Places/Cairo]] avec Claire Mekayess en 1950, ... Il travaillait a Fayed, dans la zone du canal de Suez,... L'armee anglaise y avait une quantite innombrable d'entrepots , ou elle emmagasinait tout ce dont elle avait besoin pendant la 2 eme guerre mondiale 1919-1945. Elle avait grandement besoin de main d'oeuvre civile , locale , pour gerer tout ce complexe, avant sa liquidation definitive . Apres la guerre de Suez, ils emigrent vers [[Places/Israel]] en 1957, avec leurs 4 enfants nes au [[Places/Cairo]], et s'installent a [[Places/Haifa]] ou est ne leur 5 eme enfant. Yehezkel meurt en 1963.

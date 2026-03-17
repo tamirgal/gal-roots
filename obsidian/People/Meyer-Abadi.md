@@ -27,13 +27,19 @@ research_level: 2
 
 ![[attachments/pictures/Abadi Meyer.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1944-06-25
+**Born in:**
+**Families:** [[Families/Abadi|Abadi]]
+
 ## Family
 
 **Father:** [[People/Robert-Abadi|Robert Abadi]] | **Mother:** [[People/Alice-Abada-Abadi|Alice Abada Abadi]]
 **Spouse:** [[People/Nourit-Azoulay-Abadi|Nourit Azoulay Abadi]]
 **Siblings:** [[People/Rachel-Abadi-Goldmann|Rachel Abadi Goldmann]]
 **Children:** [[People/Eliran-Abadi|Eliran Abadi]], [[People/Nathanel-Abadi|Nathanel Abadi]], [[People/Avihu-Abadi|Avihu Abadi]]
-**Families:** [[Families/Abadi|Abadi]]
 
 ## Biography
 Wedding of Meyer Abadi and Nourit Azoulay in [[Places/Israel]] 4 November 1987

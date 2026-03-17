@@ -23,13 +23,19 @@ research_level: 1
 
 ![[attachments/pictures/eyal_tsippi.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1959-05-29
+**Born in:**
+**Families:** [[Families/Steiner|Steiner]], [[Families/Eyal|Eyal]]
+
 ## Family
 
 **Father:** [[People/Zussia-Steiner|Zussia Steiner]] | **Mother:** [[People/Leah-Aharon-Steiner|Leah Aharon Steiner]]
 **Spouse:** [[People/Ariel-Eyal|Ariel Eyal]]
 **Siblings:** [[People/Ilana-Steiner-Harel|Ilana Steiner Harel]]
 **Children:** [[People/Liat-Eyal|Liat Eyal]]
-**Families:** [[Families/Steiner|Steiner]], [[Families/Eyal|Eyal]]
 
 ## Biography
 

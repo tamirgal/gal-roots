@@ -26,13 +26,19 @@ research_level: 1
 
 ![[attachments/pictures/Zeitouni Sara.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Zeitouni|Zeitouni]]
+
 ## Family
 
 **Father:** [[People/Hayim-Abada|Hayim Abada]] | **Mother:** [[People/Esther-Attiya-Abada|Esther Attiya Abada]]
 **Spouse:** [[People/Shlomo-Soly-Zeitouni|Shlomo (Soly) Zeitouni]]
 **Siblings:** [[People/Regina-Jina-Abada-Shimon|Regina (Jina) (Abada) Shimon]], [[People/David-Abada-Ovdat|David (Abada) Ovdat]], [[People/Herzl-Abada-Ovdat|Herzl (Abada) Ovdat]], [[People/Rivka-Abada|Rivka Abada]], [[People/Yosseph-Yossi-Abada-Ovdat|Yosseph (Yossi Abada) Ovdat]], [[People/Elie-Abada|Elie Abada]], [[People/Marcelle-Abada-Zeitouni|Marcelle (Abada) Zeitouni]]
 **Children:** [[People/Elie-Zeitouni-ind00641|Elie Zeitouni]], [[People/Chen-Zeitouni|Chen Zeitouni]], [[People/Haim-Zeitouni-ind00639|Haim Zeitouni]]
-**Families:** [[Families/Zeitouni|Zeitouni]]
 
 ## Biography
 

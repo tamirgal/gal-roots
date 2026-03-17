@@ -15,11 +15,17 @@ children_id:
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1943-12-18
+**Born in:**
+**Families:** [[Families/Yogev|Yogev]]
+
 ## Family
 
 **Spouse:** [[People/Irit-Hirsch-Yogev|Irit Hirsch Yogev]]
 **Children:** [[People/Maayan-Yogev|Maayan Yogev]], [[People/Eyal-Yogev|Eyal Yogev]]
-**Families:** [[Families/Yogev|Yogev]]
 
 ## Biography
 

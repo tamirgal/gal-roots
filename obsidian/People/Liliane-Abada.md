@@ -34,13 +34,19 @@ research_level: 2
 
 ![[attachments/pictures/Abada Liliane passport.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1935-09-03
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Albert-Abada|Albert Abada]] | **Mother:** [[People/Esther-Diwane-Abada|Esther Diwane Abada]]
 **Spouse:** [[People/Ernest-Nisso-Abada|Ernest (Nisso) Abada]]
 **Siblings:** [[People/Riri-Ernest-Abada|Riri Ernest Abada]], [[People/Louna-Abada|Louna Abada]]
 **Children:** [[People/Esther-Titi-Abada-Levy|Esther (Titi) Abada Levy]], [[People/Avi-Abada|Avi Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 Je suis nee a Port-Said ([[Places/Egypt]]), le 3 Septembre 1935. Mon enfance se passa a Ismaylia, ou mes parents dirigeaient un hotel modeste, le "Windsor",... plutot reconnu comme l'hotel de Mme Esther. Les hotes etaient surtout des commercants juifs,... mais aussi des anglais et australiens , qui sejournaient dans cette zone militaire du canal de Suez pendant la periode de la 2eme guerre mondiale. A la suite d'une penible maladie, ma maman mourut en 1948, a l'age de 39 ans, alors que moi l'ainee, je n'avais pas 13 ans. Avec ma soeur Louna, nous avons passe 2 annees dans un couvent catholique pour orphelins, a Port-Said,.. le "Saint Vincent de Paul". Mon pere se remaria avec Daisy Seroussi, et nous sommes retournees vivre a Ismaylia avec la famille. En 1956, je me suis mariee avec mon cousin Ernest (Nisso). Nous habitions au [[Places/Cairo]], tout pres de sa famille. Tout etait bien, la vie semblait calme. Fin 1956, les evenements de la guerre de Suez, vinrent ebranler et changer nos programmes et notre destin. L'hotel fut sequestre, mon pere et la famille furent internes, avec tous les juifs de la zone du canal de Suez. J'etais enceinte, et Nisso dut s'occuper de la liquidation et la vente hative de nos biens. C'est ainsi que nous avons quitte l'[[Places/Egypt]] en vitesse par le premier navire, (debut 1957), en vue de notre immgration en [[Places/Israel]], ou nous avons recommence notre nouvelle vie.

@@ -14,11 +14,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Mor|Mor]]
+
 ## Family
 
 **Spouse:** [[People/Corina-Kneiz-Mor|Corina Kneiz Mor]]
 **Children:** [[People/Anthony-Mor|Anthony Mor]], [[People/Milan-Mor|Milan Mor]]
-**Families:** [[Families/Mor|Mor]]
 
 ## Biography
 

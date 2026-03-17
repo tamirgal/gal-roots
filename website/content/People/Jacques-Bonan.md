@@ -18,11 +18,17 @@ research_level: 2
 
 ![[attachments/pictures/BonanPasspJacques.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1976-01-30
+**Born in:**
+**Families:** [[Families/Bonan|Bonan]]
+
 ## Family
 
 **Father:** [[People/Israel-Isi-Bonan|Israel Isi Bonan]] | **Mother:** [[People/Sorana-Blanar-Bonan|Sorana Blanar Bonan]]
 **Siblings:** [[People/Marc-Bonan|Marc Bonan]]
-**Families:** [[Families/Bonan|Bonan]]
 
 ## Biography
 I was born in [[Places/Pennsylvania]], [[Places/USA]], (January 30 1976)

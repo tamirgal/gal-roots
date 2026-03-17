@@ -8,10 +8,16 @@ sex: female
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Yakoel|Yakoel]], [[Families/Hanan|Hanan]]
+
 ## Family
 
 **Spouse:** [[People/Hayim-Vicky-Hanan|Hayim (Vicky) Hanan]]
-**Families:** [[Families/Yakoel|Yakoel]], [[Families/Hanan|Hanan]]
 
 ## Biography
 

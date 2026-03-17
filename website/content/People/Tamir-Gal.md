@@ -38,13 +38,19 @@ research_level: 2
 
 ![[attachments/pictures/02_passport_tamir.jpg]]
 
+## Details
+
+**Hebrew Name:** תמיר גל
+**Birthday:** 1979-02-16
+**Born in:** [[Places/Haifa]]
+**Families:** [[Families/Gal|Gal]]
+
 ## Family
 
 **Father:** [[People/Joseph-Goldstein-Gal|Joseph Goldstein Gal]] | **Mother:** [[People/Aviva-Vicky-Patan-Gal|Aviva (Vicky) Patan Gal]]
 **Spouse:** [[People/Efrat-Glicksman-Gal|Efrat Glicksman Gal]]
 **Siblings:** [[People/Asaf-Gal|Asaf Gal]]
 **Children:** [[People/Shaked-Gal|Shaked Gal]], [[People/Nadav-Gal|Nadav Gal]], [[People/Mika-Gal|Mika Gal]]
-**Families:** [[Families/Gal|Gal]]
 
 ## Biography
 Tamir Gal was born in [[Places/Haifa]], Israel (16 February 1979), and raised in [[Places/Nofit]]. After his military service, he studied Computer Science in the Inter Disciplinary Center [[Places/Herzliya]]. Married to Efrat Gliksman in [[Places/Nofit]] on 27 May 2011. He currently lives in [[Places/Herzliya]], and works at Compass-EOS, an Israeli startup developing electro optical communication devices.

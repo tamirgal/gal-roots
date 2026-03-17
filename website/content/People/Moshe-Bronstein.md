@@ -16,11 +16,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Bronstein|Bronstein]]
+
 ## Family
 
 **Spouse:** [[People/Sarah-Bronstein|Sarah Bronstein]]
 **Children:** [[People/Yehuda-Wolf-Farkas|Yehuda Wolf Farkas]], [[People/Yacov-Bronstein|Yacov Bronstein]], [[People/Dvora-Bronstein-Rosenthal|Dvora Bronstein Rosenthal]]
-**Families:** [[Families/Bronstein|Bronstein]]
 
 ## Biography
 We don't know anything about Moshe Bronstein and his family. We also asumme his name was Moshe and he lived and died in a small town called Mervesive

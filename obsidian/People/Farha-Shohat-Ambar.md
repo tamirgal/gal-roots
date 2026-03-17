@@ -9,10 +9,16 @@ sex: female
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1902
+**Born in:**
+**Families:** [[Families/Shohat|Shohat]], [[Families/Ambar|Ambar]]
+
 ## Family
 
 **Spouse:** [[People/Sasson-Ambar|Sasson Ambar]]
-**Families:** [[Families/Shohat|Shohat]], [[Families/Ambar|Ambar]]
 
 ## Biography
 

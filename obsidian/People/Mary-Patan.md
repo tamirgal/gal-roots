@@ -18,11 +18,17 @@ research_level: 2
 
 ![[attachments/pictures/Mary White Bknd.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1990-04-07
+**Born in:**
+**Families:** [[Families/Patan|Patan]]
+
 ## Family
 
 **Father:** [[People/Sami-Patan|Sami Patan]] | **Mother:** [[People/Rahel-Talker-Patan|Rahel Talker Patan]]
 **Siblings:** [[People/Omri-Patan|Omri Patan]], [[People/Noam-Patan|Noam Patan]], [[People/Maayane-Patan|Maayane Patan]]
-**Families:** [[Families/Patan|Patan]]
 
 ## Biography
 Here I am eleven.

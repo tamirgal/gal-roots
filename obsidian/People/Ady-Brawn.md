@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/Brawn Ady.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1987
+**Born in:**
+**Families:** [[Families/Brawn|Brawn]]
+
 ## Family
 
 **Father:** [[People/Nir-Brawn|Nir Brawn]] | **Mother:** [[People/Elisabeth-Finegenblat-Brawn|Elisabeth Finegenblat Brawn]]
 **Siblings:** [[People/Ofry-Brawn|Ofry Brawn]], [[People/Idane-Brawn|Idane Brawn]], [[People/Amit-Brawn|Amit Brawn]]
-**Families:** [[Families/Brawn|Brawn]]
 
 ## Biography
 

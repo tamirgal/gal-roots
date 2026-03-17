@@ -10,10 +10,16 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 2000
+**Born in:**
+**Families:** [[Families/Bornstein|Bornstein]]
+
 ## Family
 
 **Father:** [[People/Amir-Bornstein|Amir Bornstein]] | **Mother:** [[People/Keren-Niv-Bornstein|Keren Niv Bornstein]]
-**Families:** [[Families/Bornstein|Bornstein]]
 
 ## Biography
 

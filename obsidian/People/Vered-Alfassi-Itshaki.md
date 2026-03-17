@@ -24,11 +24,17 @@ research_level: 2
 
 ![[attachments/pictures/Itshaki Vered.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1969-09-08
+**Born in:**
+**Families:** [[Families/Alfassi|Alfassi]], [[Families/Itshaki|Itshaki]]
+
 ## Family
 
 **Spouse:** [[People/Yosseph-Yossi-Itshaki|Yosseph (Yossi) Itshaki]]
 **Children:** [[People/Kineret-Itshaki|Kineret Itshaki]], [[People/Gal-Itshaki|Gal Itshaki]], [[People/Yuval-Itshaki|Yuval Itshaki]]
-**Families:** [[Families/Alfassi|Alfassi]], [[Families/Itshaki|Itshaki]]
 
 ## Biography
 Vered Alfassi, married in [[Places/Israel]] to Yosseph Itshaki, on 5 July 1989.

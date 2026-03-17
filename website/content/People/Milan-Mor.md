@@ -16,11 +16,17 @@ research_level: 1
 
 ![[attachments/pictures/milaan_mor.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 2004-10-15
+**Born in:**
+**Families:** [[Families/Mor|Mor]]
+
 ## Family
 
 **Father:** [[People/Itzhak-Mor|Itzhak Mor]] | **Mother:** [[People/Corina-Kneiz-Mor|Corina Kneiz Mor]]
 **Siblings:** [[People/Anthony-Mor|Anthony Mor]]
-**Families:** [[Families/Mor|Mor]]
 
 ## Biography
 

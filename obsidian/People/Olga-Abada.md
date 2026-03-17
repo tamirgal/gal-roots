@@ -19,11 +19,17 @@ research_level: 1
 
 ![[attachments/pictures/Abada Olga.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1928
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Spouse:** [[People/Joseph-Abada|Joseph Abada]]
 **Children:** [[People/Rina-Abada-Guttmann|Rina Abada Guttmann]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

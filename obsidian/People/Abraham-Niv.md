@@ -10,11 +10,17 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1999
+**Born in:**
+**Families:** [[Families/Niv|Niv]]
+
 ## Family
 
 **Father:** [[People/Shemer-Niv|Shemer Niv]] | **Mother:** [[People/Sarit-Niv|Sarit Niv]]
 **Siblings:** [[People/Israel-Dor-Niv|Israel Dor Niv]], [[People/Nahmann-Niv|Nahmann Niv]], [[People/Nathan-Niv|Nathan Niv]], [[People/Noa-Niv|Noa Niv]], [[People/Ayala-Niv|Ayala Niv]]
-**Families:** [[Families/Niv|Niv]]
 
 ## Biography
 

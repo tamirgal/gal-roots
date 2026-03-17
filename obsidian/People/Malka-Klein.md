@@ -14,11 +14,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Klein|Klein]]
+
 ## Family
 
 **Spouse:** [[People/Shmuel-Klein|Shmuel Klein]]
 **Children:** [[People/Shimon-Klein|Shimon Klein]], [[People/Naphtali-Klein|Naphtali Klein]]
-**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 

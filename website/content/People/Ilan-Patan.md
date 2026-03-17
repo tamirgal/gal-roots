@@ -26,13 +26,19 @@ research_level: 1
 
 ![[attachments/pictures/Patan Ilan.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1962-07-01
+**Born in:**
+**Families:** [[Families/Patan|Patan]]
+
 ## Family
 
 **Father:** [[People/Isaac-Patan|Isaac Patan]] | **Mother:** [[People/Ady-Kremer-Patan|Ady Kremer Patan]]
 **Spouse:** [[People/Orly-Patan|Orly Patan]]
 **Siblings:** [[People/Raphael-Rafi-Patan|Raphael (Rafi) Patan]]
 **Children:** [[People/Ido-Patan|Ido Patan]], [[People/Nir-Patan|Nir Patan]]
-**Families:** [[Families/Patan|Patan]]
 
 ## Biography
 

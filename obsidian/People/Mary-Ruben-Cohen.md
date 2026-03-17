@@ -26,11 +26,17 @@ research_level: 1
 
 ![[attachments/pictures/Cohen Mary 1964.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1936-07-01
+**Born in:**
+**Families:** [[Families/Cohen|Cohen]]
+
 ## Family
 
 **Spouse:** [[People/David-Cohen|David Cohen]]
 **Children:** [[People/Moshe-Cohen|Moshe Cohen]], [[People/Esther-Etty-Cohen-Laniado|Esther (Etty) Cohen Laniado]], [[People/Rony-Cohen|Rony Cohen]]
-**Families:** [[Families/Cohen|Cohen]]
 
 ## Biography
 

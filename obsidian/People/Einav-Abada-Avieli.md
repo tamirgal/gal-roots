@@ -13,12 +13,18 @@ sex: female
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1973-05-17
+**Born in:**
+**Families:** [[Families/Abada|Abada]], [[Families/Avieli|Avieli]]
+
 ## Family
 
 **Father:** [[People/Yacov-Abada|Yacov Abada]] | **Mother:** [[People/Esther-Yacobinsky-Abada|Esther Yacobinsky Abada]]
 **Spouse:** [[People/Amit-Avieli|Amit Avieli]]
 **Siblings:** [[People/Adi-Abada|Adi Abada]], [[People/Omer-Abada|Omer Abada]]
-**Families:** [[Families/Abada|Abada]], [[Families/Avieli|Avieli]]
 
 ## Biography
 

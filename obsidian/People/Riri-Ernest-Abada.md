@@ -27,13 +27,19 @@ research_level: 1
 
 ![[attachments/pictures/Abada Riri 2.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1937-02-18
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Albert-Abada|Albert Abada]] | **Mother:** [[People/Esther-Diwane-Abada|Esther Diwane Abada]]
 **Spouse:** [[People/Aimee-Abada|Aimee Abada]]
 **Siblings:** [[People/Liliane-Abada|Liliane Abada]], [[People/Louna-Abada|Louna Abada]]
 **Children:** [[People/Chantal-Abada|Chantal Abada]], [[People/Eyal-Abada|Eyal Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

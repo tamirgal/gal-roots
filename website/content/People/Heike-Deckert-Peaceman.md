@@ -22,11 +22,17 @@ research_level: 2
 
 ![[attachments/pictures/peaceheike.jpe]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1963-05-23
+**Born in:**
+**Families:** [[Families/Deckert|Deckert]], [[Families/Peaceman|Peaceman]]
+
 ## Family
 
 **Spouse:** [[People/Matthew-David-Peaceman|Matthew David Peaceman]]
 **Children:** [[People/Hannah-Lisa-Peaceman|Hannah Lisa Peaceman]], [[People/Joshua-Henry-Peaceman|Joshua Henry Peaceman]]
-**Families:** [[Families/Deckert|Deckert]], [[Families/Peaceman|Peaceman]]
 
 ## Biography
 Lives in Maintz, Germany and a Professor at the Frankfurt University.

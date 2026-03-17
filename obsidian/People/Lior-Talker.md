@@ -14,11 +14,17 @@ research_level: 1
 
 ![[attachments/pictures/Talker Lior.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Talker|Talker]]
+
 ## Family
 
 **Father:** [[People/Shmouel-Talker|Shmouel Talker]] | **Mother:** [[People/Tova-Berkovitz-Talker|Tova Berkovitz Talker]]
 **Siblings:** [[People/Lital-Talker|Lital Talker]], [[People/Almog-Talker|Almog Talker]]
-**Families:** [[Families/Talker|Talker]]
 
 ## Biography
 

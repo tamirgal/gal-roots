@@ -26,13 +26,19 @@ research_level: 1
 
 ![[attachments/pictures/Rahamim Esty Yohay.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1963
+**Born in:**
+**Families:** [[Families/Yohay|Yohay]], [[Families/Rahamim|Rahamim]]
+
 ## Family
 
 **Father:** [[People/Yossef-Yohay|Yossef Yohay]] | **Mother:** [[People/Edith-Ida-Abada-Yohay|Edith (Ida) Abada Yohay]]
 **Spouse:** [[People/Raphael-Rafi-Rahamim|Raphael Rafi Rahamim]]
 **Siblings:** [[People/Rony-Yehoshua-Yohay|Rony Yehoshua Yohay]], [[People/Moshe-Yohay|Moshe Yohay]]
 **Children:** [[People/Roye-Rahamim|Roye Rahamim]], [[People/Hila-Rahamim|Hila Rahamim]]
-**Families:** [[Families/Yohay|Yohay]], [[Families/Rahamim|Rahamim]]
 
 ## Biography
 

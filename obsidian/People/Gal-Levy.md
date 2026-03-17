@@ -17,11 +17,17 @@ research_level: 1
 
 ![[attachments/pictures/Levy Gal.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1989-08-04
+**Born in:**
+**Families:** [[Families/Levy|Levy]]
+
 ## Family
 
 **Father:** [[People/Bension-Bensi-Levy|Bension Bensi Levy]] | **Mother:** [[People/Esther-Titi-Abada-Levy|Esther (Titi) Abada Levy]]
 **Siblings:** [[People/Eyal-Levy|Eyal Levy]]
-**Families:** [[Families/Levy|Levy]]
 
 ## Biography
 

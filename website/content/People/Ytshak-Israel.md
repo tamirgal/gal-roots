@@ -10,11 +10,17 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1955
+**Born in:**
+**Families:** [[Families/Israel|Israel]]
+
 ## Family
 
 **Father:** [[People/Shaoul-Israel|Shaoul Israel]] | **Mother:** [[People/Pauline-Cohen-Israel|Pauline Cohen Israel]]
 **Siblings:** [[People/Aimee-Israel-Pelletier|Aimee Israel Pelletier]], [[People/Solange-Israel-Mintz|Solange Israel Mintz]], [[People/Solomon-Israel|Solomon Israel]]
-**Families:** [[Families/Israel|Israel]]
 
 ## Biography
 

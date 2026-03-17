@@ -18,12 +18,18 @@ research_level: 1
 
 ![[attachments/pictures/Abada Victor.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Menashe-Abada|Menashe Abada]] | **Mother:** [[People/Gorgia-Danous-Abada|Gorgia Danous Abada]]
 **Spouse:** [[People/Denise-Sardass-Abada|Denise Sardass Abada]]
 **Siblings:** [[People/Arlette-Allegra-Abada-Zakoto|Arlette (Allegra) Abada Zakoto]], [[People/Aimee-Abada-Sardass|Aimee Abada Sardass]], [[People/Elie-Lili-Abada-Ronen|Elie (Lili) Abada Ronen]], [[People/Edouard-Dolly-Abada|Edouard (Dolly) Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

@@ -17,13 +17,19 @@ children_id:
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1885
+**Born in:**
+**Families:** [[Families/Goldstein|Goldstein]]
+
 ## Family
 
 **Father:** [[People/Moshe-Goldstein|Moshe Goldstein]] | **Mother:** [[People/Savta-Goldstein-Klein|"Savta" Goldstein Klein]]
 **Spouse:** [[People/Helena-Schwartz-Goldstein|Helena Schwartz Goldstein]]
 **Siblings:** [[People/Joseph-Goldstein|Joseph Goldstein]]
 **Children:** [[People/Unknown-Goldstein|Unknown Goldstein]]
-**Families:** [[Families/Goldstein|Goldstein]]
 
 ## Biography
 Born in [[Places/Uzhgorod]] and left to live in [[Places/Budapest]]. As far as we know, he was killed by a bomb in [[Places/Budapest]].

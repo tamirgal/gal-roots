@@ -27,13 +27,19 @@ research_level: 1
 
 ![[attachments/pictures/Savdie Ronit.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1967-10-02
+**Born in:**
+**Families:** [[Families/Abada|Abada]], [[Families/Savdie|Savdie]]
+
 ## Family
 
 **Father:** [[People/Claude-Hayim-Abada|Claude (Hayim) Abada]] | **Mother:** [[People/Ginette-Toueg-Abada|Ginette Toueg Abada]]
 **Spouse:** [[People/Soly-Savdie|Soly Savdie]]
 **Siblings:** [[People/Shaoul-Abada-1962|Shaoul Abada]]
 **Children:** [[People/Dan-Savdie|Dan Savdie]], [[People/Yoav-Savdie|Yoav Savdie]]
-**Families:** [[Families/Abada|Abada]], [[Families/Savdie|Savdie]]
 
 ## Biography
 

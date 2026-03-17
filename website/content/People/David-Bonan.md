@@ -15,11 +15,17 @@ research_level: 2
 
 ![[attachments/pictures/BonanPasspDavid.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1976
+**Born in:**
+**Families:** [[Families/Bonan|Bonan]]
+
 ## Family
 
 **Father:** [[People/Leon-Oni-Bonan|Leon Oni Bonan]] | **Mother:** [[People/Agnes-Bonan|Agnes Bonan]]
 **Siblings:** [[People/Michelle-Bonan-Hamill|Michelle Bonan Hamill]]
-**Families:** [[Families/Bonan|Bonan]]
 
 ## Biography
 David Bonan, born October 4 , 1976.

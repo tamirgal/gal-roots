@@ -14,10 +14,16 @@ research_level: 1
 
 ![[attachments/pictures/samurl_rabi_passport.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1978-08-24
+**Born in:**
+**Families:** [[Families/Rabi|Rabi]]
+
 ## Family
 
 **Spouse:** [[People/Maya-Shaked-Rabi|Maya Shaked Rabi]]
-**Families:** [[Families/Rabi|Rabi]]
 
 ## Biography
 

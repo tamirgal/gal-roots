@@ -10,11 +10,17 @@ sex: female
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1945-04-01
+**Born in:**
+**Families:** [[Families/Fuchs|Fuchs]]
+
 ## Family
 
 **Father:** [[People/Moshe-Fuchs|Moshe Fuchs]] | **Mother:** [[People/Ahouva-Aharon-Fuchs|Ahouva Aharon Fuchs]]
 **Siblings:** [[People/Shabetay-Fuchs|Shabetay Fuchs]]
-**Families:** [[Families/Fuchs|Fuchs]]
 
 ## Biography
 

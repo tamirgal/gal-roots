@@ -26,13 +26,19 @@ research_level: 1
 
 ![[attachments/pictures/geva_shabi.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1945-07-20
+**Born in:**
+**Families:** [[Families/Zuckerberger|Zuckerberger]], [[Families/Geva|Geva]]
+
 ## Family
 
 **Father:** [[People/Avigdor-Zuckerberger|Avigdor Zuckerberger]] | **Mother:** [[People/Shoshana-Smilovitz-Zuckerberger|Shoshana Smilovitz Zuckerberger]]
 **Spouse:** [[People/Tsipora-Geva|Tsipora Geva]]
 **Siblings:** [[People/Tsipora-Zuckerberger-Glassberg|Tsipora Zuckerberger Glassberg]]
 **Children:** [[People/Liran-Geva|Liran Geva]], [[People/Eyal-Geva|Eyal Geva]], [[People/Adi-Geva|Adi Geva]]
-**Families:** [[Families/Zuckerberger|Zuckerberger]], [[Families/Geva|Geva]]
 
 ## Biography
 

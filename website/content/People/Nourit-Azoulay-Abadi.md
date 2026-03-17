@@ -23,11 +23,17 @@ research_level: 2
 
 ![[attachments/pictures/Nourit Abadi & son.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1951-09-28
+**Born in:**
+**Families:** [[Families/Azoulay|Azoulay]], [[Families/Abadi|Abadi]]
+
 ## Family
 
 **Spouse:** [[People/Meyer-Abadi|Meyer Abadi]]
 **Children:** [[People/Eliran-Abadi|Eliran Abadi]], [[People/Nathanel-Abadi|Nathanel Abadi]], [[People/Avihu-Abadi|Avihu Abadi]]
-**Families:** [[Families/Azoulay|Azoulay]], [[Families/Abadi|Abadi]]
 
 ## Biography
 Wedding of Nourit Azoulay and Meyer Abadi in [[Places/Israel]] 4 November 1987

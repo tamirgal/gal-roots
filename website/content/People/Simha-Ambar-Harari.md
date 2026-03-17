@@ -13,12 +13,18 @@ sex: female
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1894
+**Born in:**
+**Families:** [[Families/Ambar|Ambar]], [[Families/Harari|Harari]]
+
 ## Family
 
 **Father:** [[People/Menashe-Ambar|Menashe Ambar]] | **Mother:** [[People/Farha-Sasson-Ambar|Farha Sasson Ambar]]
 **Spouse:** [[People/Selim-Harari|Selim Harari]]
 **Siblings:** [[People/Saada-Ambar-Bolafi|Saada Ambar Bolafi]], [[People/Sasson-Ambar|Sasson Ambar]], [[People/Ezra-Ambar|Ezra Ambar]], [[People/Jeanne-Hannah-Ambar-Shammass-Shemesh|Jeanne (Hannah) Ambar Shammass (Shemesh)]], [[People/Rachel-Ambar-Levy|Rachel Ambar Levy]]
-**Families:** [[Families/Ambar|Ambar]], [[Families/Harari|Harari]]
 
 ## Biography
 

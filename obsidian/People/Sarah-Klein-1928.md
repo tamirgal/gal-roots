@@ -10,11 +10,17 @@ sex: female
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1928
+**Born in:**
+**Families:** [[Families/Klein|Klein]]
+
 ## Family
 
 **Father:** [[People/Herman-Haim-Klein|Herman Haim Klein]] | **Mother:** [[People/Feige-Klein|Feige Klein]]
 **Siblings:** [[People/Mordechay-Klein|Mordechay Klein]], [[People/Chana-Klein|Chana Klein]], [[People/Esther-Klein|Esther Klein]]
-**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 Sarah perished in Nazi concentration camps

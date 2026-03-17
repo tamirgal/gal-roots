@@ -25,13 +25,19 @@ research_level: 1
 
 ![[attachments/pictures/harel_ilana.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1955-05-04
+**Born in:**
+**Families:** [[Families/Steiner|Steiner]], [[Families/Harel|Harel]]
+
 ## Family
 
 **Father:** [[People/Zussia-Steiner|Zussia Steiner]] | **Mother:** [[People/Leah-Aharon-Steiner|Leah Aharon Steiner]]
 **Spouse:** [[People/Yaacov-Harel|Yaacov Harel]]
 **Siblings:** [[People/Tsipora-Steiner-Eyal|Tsipora Steiner Eyal]]
 **Children:** [[People/Tal-Harel|Tal Harel]], [[People/Liran-Harel|Liran Harel]]
-**Families:** [[Families/Steiner|Steiner]], [[Families/Harel|Harel]]
 
 ## Biography
 

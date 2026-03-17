@@ -18,11 +18,17 @@ research_level: 1
 
 ![[attachments/pictures/Messoubi Mikhal 2.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1997-08-03
+**Born in:**
+**Families:** [[Families/Messoubi|Messoubi]]
+
 ## Family
 
 **Father:** [[People/Edy-Messoubi|Edy Messoubi]] | **Mother:** [[People/Ilana-Ravia-Messoubi|Ilana Ravia Messoubi]]
 **Siblings:** [[People/Ido-Messoubi|Ido Messoubi]], [[People/Tamar-Messoubi|Tamar Messoubi]]
-**Families:** [[Families/Messoubi|Messoubi]]
 
 ## Biography
 

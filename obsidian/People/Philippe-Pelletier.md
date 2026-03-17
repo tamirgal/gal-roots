@@ -21,11 +21,17 @@ research_level: 2
 
 ![[attachments/pictures/Philippe Pelletier.JPG]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1947-09-21
+**Born in:**
+**Families:** [[Families/Pelletier|Pelletier]]
+
 ## Family
 
 **Spouse:** [[People/Aimee-Israel-Pelletier|Aimee Israel Pelletier]]
 **Children:** [[People/Pauline-Pelletier|Pauline Pelletier]], [[People/Chloe-Madeleine-Pelletier|Chloe Madeleine Pelletier]]
-**Families:** [[Families/Pelletier|Pelletier]]
 
 ## Biography
 Philippe Pelletier, born in Salem, Massachussetts, September 21, 1947. His parents are : Joseph Theodore Pelletier, born in Brunswick ([[Places/Canada]]), and Madeleine Boucher, born in Salem Massachussetts. Brothers and sisters : Roland, Laurel, Marc and Patrick

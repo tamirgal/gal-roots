@@ -9,11 +9,17 @@ sex: male
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/David-Doudou-Abada|David Doudou Abada]] | **Mother:** [[People/Juliette-Hanan-Abada|Juliette Hanan Abada]]
 **Siblings:** [[People/Yacov-Abada-ind00494|Yacov Abada]], [[People/Yehezkel-Heizy-Abada|Yehezkel Heizy Abada]], [[People/Rami-Abada|Rami Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 marie et vit a Ofakim

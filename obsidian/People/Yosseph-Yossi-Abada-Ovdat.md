@@ -28,13 +28,19 @@ research_level: 1
 
 ![[attachments/pictures/Abada Yossi.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Ovdat|Ovdat]]
+
 ## Family
 
 **Father:** [[People/Hayim-Abada|Hayim Abada]] | **Mother:** [[People/Esther-Attiya-Abada|Esther Attiya Abada]]
 **Spouse:** [[People/Mikhal-Abargel-Ovdat|Mikhal (Abargel) Ovdat]]
 **Siblings:** [[People/Regina-Jina-Abada-Shimon|Regina (Jina) (Abada) Shimon]], [[People/David-Abada-Ovdat|David (Abada) Ovdat]], [[People/Herzl-Abada-Ovdat|Herzl (Abada) Ovdat]], [[People/Rivka-Abada|Rivka Abada]], [[People/Sarah-Abada-Zeitouni|Sarah (Abada) Zeitouni]], [[People/Elie-Abada|Elie Abada]], [[People/Marcelle-Abada-Zeitouni|Marcelle (Abada) Zeitouni]]
 **Children:** [[People/Chen-Ovdat|Chen Ovdat]], [[People/Danielle-Ovdat|Danielle Ovdat]], [[People/May-Ovdat|May Ovdat]]
-**Families:** [[Families/Ovdat|Ovdat]]
 
 ## Biography
 

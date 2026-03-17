@@ -18,11 +18,17 @@ research_level: 1
 
 ![[attachments/pictures/Kariv Ben.jpg]]
 
+## Details
+
+**Hebrew Name:** בר קריב
+**Birthday:** 1995-02-25
+**Born in:**
+**Families:** [[Families/Kariv|Kariv]]
+
 ## Family
 
 **Father:** [[People/Itay-Kariv|Itay Kariv]] | **Mother:** [[People/Anat-Goldstein-Kariv|Anat Goldstein Kariv]]
 **Siblings:** [[People/Tal-Kariv|Tal Kariv]], [[People/Tom-Kariv|Tom Kariv]], [[People/Gil-Kariv|Gil Kariv]]
-**Families:** [[Families/Kariv|Kariv]]
 
 ## Biography
 

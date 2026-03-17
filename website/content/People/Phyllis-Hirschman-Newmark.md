@@ -34,13 +34,19 @@ research_level: 1
 
 ![[attachments/pictures/phyllisnewmark.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1931-11-27
+**Born in:**
+**Families:** [[Families/Hirschman|Hirschman]], [[Families/Newmark|Newmark]]
+
 ## Family
 
 **Father:** [[People/David-Klein|David Klein]] | **Mother:** [[People/Clara-Klein|Clara Klein]]
 **Spouse:** [[People/Howard-Hirschman|Howard Hirschman]], [[People/Harold-Newmark|Harold Newmark]]
 **Siblings:** [[People/Harriett-Klein-Peaceman|Harriett Klein Peaceman]], [[People/Ruth-Klein-Peaceman|Ruth Klein Peaceman]]
 **Children:** [[People/Ellen-Mina-Hirschman-Miller|Ellen Mina Hirschman Miller]], [[People/Dale-Linda-Hirschman|Dale Linda Hirschman]], [[People/Janet-Ann-Hirschman-Fenstermacher|Janet Ann Hirschman Fenstermacher]]
-**Families:** [[Families/Hirschman|Hirschman]], [[Families/Newmark|Newmark]]
 
 ## Biography
 

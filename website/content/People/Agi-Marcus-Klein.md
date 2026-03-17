@@ -22,11 +22,17 @@ research_level: 2
 
 ![[attachments/pictures/klein_agi_2.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Klein|Klein]]
+
 ## Family
 
 **Spouse:** [[People/Albert-Bella-Klein|Albert (Bella) Klein]]
 **Children:** [[People/Gabriel-Klein-1949|Gabriel Klein]], [[People/Andrei-Klein|Andrei Klein]]
-**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 Currently lives in [[Places/Nahariya]], Israel.

@@ -24,11 +24,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Spouse:** [[People/Yehezkel-Abada|Yehezkel Abada]]
 **Children:** [[People/Shaoul-Abada-1889|Shaoul Abada]], [[People/Daoud-Abada|Daoud Abada]], [[People/Moussa-Abada|Moussa Abada]], [[People/Menashe-Abada|Menashe Abada]], [[People/Abdallah-Abada|Abdallah Abada]], [[People/Solimane-Abada|Solimane Abada]], [[People/Albert-Abada|Albert Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

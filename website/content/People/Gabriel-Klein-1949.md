@@ -21,13 +21,19 @@ children_id:
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1949-04-15
+**Born in:**
+**Families:** [[Families/Klein|Klein]]
+
 ## Family
 
 **Father:** [[People/Albert-Bella-Klein|Albert (Bella) Klein]] | **Mother:** [[People/Agi-Marcus-Klein|Agi Marcus Klein]]
 **Spouse:** [[People/Liuba-Klein|Liuba Klein]]
 **Siblings:** [[People/Andrei-Klein|Andrei Klein]]
 **Children:** [[People/Mark-Klein|Mark Klein]], [[People/Einat-Klein|Einat Klein]], [[People/Danny-Klein|Danny Klein]]
-**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 

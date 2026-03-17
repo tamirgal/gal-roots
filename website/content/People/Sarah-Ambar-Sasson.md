@@ -18,11 +18,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Ambar|Ambar]], [[Families/Sasson|Sasson]]
+
 ## Family
 
 **Spouse:** [[People/David-Sasson|David Sasson]]
 **Children:** [[People/Rahel-Sasson-1922|Rahel Sasson]], [[People/Khalifa-Sasson-1924|Khalifa Sasson]], [[People/Abraham-Sasson|Abraham Sasson]], [[People/Yossef-Sasson-1930|Yossef Sasson]]
-**Families:** [[Families/Ambar|Ambar]], [[Families/Sasson|Sasson]]
 
 ## Biography
 

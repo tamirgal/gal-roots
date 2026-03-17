@@ -13,10 +13,16 @@ research_level: 1
 
 ![[attachments/pictures/Abada Denise.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Sardass|Sardass]], [[Families/Abada|Abada]]
+
 ## Family
 
 **Spouse:** [[People/Victor-Abada-ind00327|Victor Abada]]
-**Families:** [[Families/Sardass|Sardass]], [[Families/Abada|Abada]]
 
 ## Biography
 

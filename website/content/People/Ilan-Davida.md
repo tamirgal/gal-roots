@@ -12,11 +12,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Davida|Davida]]
+
 ## Family
 
 **Spouse:** [[People/Maya-Shimon-Davida|Maya (Shimon) Davida]]
 **Children:** [[People/Noah-Davida|Noah Davida]]
-**Families:** [[Families/Davida|Davida]]
 
 ## Biography
 

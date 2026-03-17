@@ -10,11 +10,17 @@ sex: female
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1981-12-15
+**Born in:**
+**Families:** [[Families/Eliahou|Eliahou]]
+
 ## Family
 
 **Father:** [[People/Shaoul-Eliahou|Shaoul Eliahou]] | **Mother:** [[People/Danielle-Obadia-Eliahou|Danielle Obadia Eliahou]]
 **Siblings:** [[People/Alexandre-Eliahou|Alexandre Eliahou]]
-**Families:** [[Families/Eliahou|Eliahou]]
 
 ## Biography
 Ludivine est nee a Boulogne

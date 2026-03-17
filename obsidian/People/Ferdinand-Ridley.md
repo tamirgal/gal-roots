@@ -21,11 +21,17 @@ research_level: 1
 
 ![[attachments/pictures/passport_ridley_ferdinand.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Ridley|Ridley]]
+
 ## Family
 
 **Spouse:** [[People/Paula-Clyne-Ridley|Paula Clyne Ridley]]
 **Children:** [[People/Francis-Ridley|Francis Ridley]], [[People/Dominic-Ridley|Dominic Ridley]], [[People/Caroline-Ridley|Caroline Ridley]]
-**Families:** [[Families/Ridley|Ridley]]
 
 ## Biography
 

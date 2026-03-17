@@ -12,11 +12,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Clyne|Clyne]]
+
 ## Family
 
 **Spouse:** [[People/Thomas-Klein-Clyne|Thomas Klein Clyne]]
 **Children:** [[People/Felis-Clyne|Felis Clyne]]
-**Families:** [[Families/Clyne|Clyne]]
 
 ## Biography
 

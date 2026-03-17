@@ -14,11 +14,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Sadote|Sadote]]
+
 ## Family
 
 **Spouse:** [[People/Gabriela-Kaminski-Sleppin|Gabriela Kaminski Sleppin]]
 **Children:** [[People/Revital-Sadote|Revital Sadote]], [[People/Shirit-Sadote|Shirit Sadote]]
-**Families:** [[Families/Sadote|Sadote]]
 
 ## Biography
 

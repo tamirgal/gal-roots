@@ -23,13 +23,19 @@ children_id:
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1900
+**Born in:**
+**Families:** [[Families/Sasson|Sasson]]
+
 ## Family
 
 **Father:** [[People/Youssef-Sasson|Youssef Sasson]] | **Mother:** [[People/Rachel-Sasson|Rachel Sasson]]
 **Spouse:** [[People/Sarah-Ambar-Sasson|Sarah Ambar Sasson]]
 **Siblings:** [[People/Bekhora-Sasson-Ezra|Bekhora Sasson Ezra]], [[People/Nissim-Sasson|Nissim Sasson]], [[People/Regina-Sasson|Regina Sasson]], [[People/Moussa-Moshe-Sasson|Moussa Moshe Sasson]], [[People/Rebecca-Sasson-Yehya|Rebecca Sasson Yehya]], [[People/Semha-Sasson-Cohen|Semha Sasson Cohen]]
 **Children:** [[People/Rahel-Sasson-1922|Rahel Sasson]], [[People/Khalifa-Sasson-1924|Khalifa Sasson]], [[People/Abraham-Sasson|Abraham Sasson]], [[People/Yossef-Sasson-1930|Yossef Sasson]]
-**Families:** [[Families/Sasson|Sasson]]
 
 ## Biography
 

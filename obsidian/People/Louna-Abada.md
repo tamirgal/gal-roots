@@ -19,11 +19,17 @@ research_level: 1
 
 ![[attachments/pictures/Abada Luna 1.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1938-10-18
+**Born in:**
+**Families:** [[Families/Abada|Abada]]
+
 ## Family
 
 **Father:** [[People/Albert-Abada|Albert Abada]] | **Mother:** [[People/Esther-Diwane-Abada|Esther Diwane Abada]]
 **Siblings:** [[People/Liliane-Abada|Liliane Abada]], [[People/Riri-Ernest-Abada|Riri Ernest Abada]]
-**Families:** [[Families/Abada|Abada]]
 
 ## Biography
 

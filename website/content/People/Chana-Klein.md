@@ -10,11 +10,17 @@ sex: female
 research_level: 2
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1924
+**Born in:**
+**Families:** [[Families/Klein|Klein]]
+
 ## Family
 
 **Father:** [[People/Herman-Haim-Klein|Herman Haim Klein]] | **Mother:** [[People/Feige-Klein|Feige Klein]]
 **Siblings:** [[People/Mordechay-Klein|Mordechay Klein]], [[People/Esther-Klein|Esther Klein]], [[People/Sarah-Klein-1928|Sarah Klein]]
-**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 Chana was married and had children. All the family perished in Nazi concentration camps

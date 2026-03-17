@@ -25,11 +25,17 @@ research_level: 1
 
 ![[attachments/pictures/Israel Germaine.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Stoliar|Stoliar]], [[Families/Israel|Israel]]
+
 ## Family
 
 **Spouse:** [[People/Joseph-Israel|Joseph Israel]]
 **Children:** [[People/Allen-Israel|Allen Israel]], [[People/Nadine-Israel|Nadine Israel]], [[People/Leon-Israel|Leon Israel]]
-**Families:** [[Families/Stoliar|Stoliar]], [[Families/Israel|Israel]]
 
 ## Biography
 

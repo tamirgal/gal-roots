@@ -28,13 +28,19 @@ research_level: 1
 
 ![[attachments/pictures/Ravia Hayim 2.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1961-01-09
+**Born in:**
+**Families:** [[Families/Ravia|Ravia]]
+
 ## Family
 
 **Father:** [[People/Nissim-Ravia|Nissim Ravia]] | **Mother:** [[People/Miriam-Patan-Ravia|Miriam Patan Ravia]]
 **Spouse:** [[People/Hadass-Tsour-Ravia|Hadass Tsour Ravia]]
 **Siblings:** [[People/Ilana-Ravia-Messoubi|Ilana Ravia Messoubi]]
 **Children:** [[People/Gal-Ravia|Gal Ravia]], [[People/Itay-Ravia|Itay Ravia]], [[People/Niv-Ravia|Niv Ravia]]
-**Families:** [[Families/Ravia|Ravia]]
 
 ## Biography
 

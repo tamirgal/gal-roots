@@ -16,11 +16,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Bronstein|Bronstein]]
+
 ## Family
 
 **Spouse:** [[People/Moshe-Bronstein|Moshe Bronstein]]
 **Children:** [[People/Yehuda-Wolf-Farkas|Yehuda Wolf Farkas]], [[People/Yacov-Bronstein|Yacov Bronstein]], [[People/Dvora-Bronstein-Rosenthal|Dvora Bronstein Rosenthal]]
-**Families:** [[Families/Bronstein|Bronstein]]
 
 ## Biography
 

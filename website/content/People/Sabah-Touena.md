@@ -16,11 +16,17 @@ children_id:
 research_level: 0
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Touena|Touena]]
+
 ## Family
 
 **Spouse:** [[People/Nina-Halztshy-Touena|Nina Halztshy Touena]]
 **Children:** [[People/Hagit-Touena-Mayraz|Hagit Touena Mayraz]], [[People/Avi-Touena-Touval|Avi Touena Touval]], [[People/Yacob-Touena|Yacob Touena]]
-**Families:** [[Families/Touena|Touena]]
 
 ## Biography
 

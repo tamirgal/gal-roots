@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/fuchs_aviad.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1986-03-01
+**Born in:**
+**Families:** [[Families/Fuchs|Fuchs]]
+
 ## Family
 
 **Father:** [[People/Shabetay-Fuchs|Shabetay Fuchs]] | **Mother:** [[People/Ahuva-Gesthatter-Fuchs|Ahuva Gesthatter Fuchs]]
 **Siblings:** [[People/Einat-Fuchs-Kelmus|Einat Fuchs Kelmus]], [[People/Tamar-Fuchs|Tamar Fuchs]]
-**Families:** [[Families/Fuchs|Fuchs]]
 
 ## Biography
 

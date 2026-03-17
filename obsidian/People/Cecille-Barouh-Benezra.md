@@ -23,12 +23,18 @@ research_level: 2
 
 ![[attachments/pictures/Benezra Cecille.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1971-11-24
+**Born in:**
+**Families:** [[Families/Barouh|Barouh]], [[Families/Benezra|Benezra]]
+
 ## Family
 
 **Father:** [[People/Maurice-Barouh|Maurice Barouh]] | **Mother:** [[People/Marlene-Saison-Barouh|Marlene Saison Barouh]]
 **Spouse:** [[People/Alexandre-Benezra|Alexandre Benezra]]
 **Siblings:** [[People/Frederic-Barouh|Frederic Barouh]]
-**Families:** [[Families/Barouh|Barouh]], [[Families/Benezra|Benezra]]
 
 ## Biography
 Fille de Maurice et Marlene Barouh, Cecile est nee le 24 Novembre 1971 en region parisienne. Commencant ses etudes a Lesigny, elle les poursuit a Paris , et termine sa these de docteur en pharmacie en 1996. Mariee le 16 Avril 2000, avec Alexandre Benezra. Ils habitent et travaillent a Paris.

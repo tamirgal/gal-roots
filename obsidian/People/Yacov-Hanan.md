@@ -32,13 +32,19 @@ research_level: 2
 
 ![[attachments/pictures/Hanan Yacov 2.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1953-03-20
+**Born in:**
+**Families:** [[Families/Hanan|Hanan]]
+
 ## Family
 
 **Father:** [[People/Hayim-Vicky-Hanan|Hayim (Vicky) Hanan]] | **Mother:** [[People/Rosette-Rosy-Cohen-Hanan|Rosette (Rosy) Cohen Hanan]]
 **Spouse:** [[People/Ruty-Bayn-Hanan|Ruty Bayn Hanan]]
 **Siblings:** [[People/Moshe-Hanan|Moshe Hanan]]
 **Children:** [[People/Vered-Hanan|Vered Hanan]], [[People/Tahel-Hanan|Tahel Hanan]], [[People/Hagay-Hanan|Hagay Hanan]]
-**Families:** [[Families/Hanan|Hanan]]
 
 ## Biography
 Yacov Hanan, married to Ruty Bayn, 1 August 1978. Ruty is the daughter of [[Places/Israel]] and Malka Bayn.

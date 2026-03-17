@@ -15,10 +15,16 @@ research_level: 1
 
 ![[attachments/pictures/Guiladi Eden.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1998-08-19
+**Born in:**
+**Families:** [[Families/Guiladi|Guiladi]]
+
 ## Family
 
 **Father:** [[People/David-Doudy-Guiladi|David (Doudy) Guiladi]] | **Mother:** [[People/Keren-Itshaki-Guiladi|Keren Itshaki Guiladi]]
-**Families:** [[Families/Guiladi|Guiladi]]
 
 ## Biography
 

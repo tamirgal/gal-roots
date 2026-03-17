@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/Hanan Hagay.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1988-09-11
+**Born in:**
+**Families:** [[Families/Hanan|Hanan]]
+
 ## Family
 
 **Father:** [[People/Yacov-Hanan|Yacov Hanan]] | **Mother:** [[People/Ruty-Bayn-Hanan|Ruty Bayn Hanan]]
 **Siblings:** [[People/Vered-Hanan|Vered Hanan]], [[People/Tahel-Hanan|Tahel Hanan]]
-**Families:** [[Families/Hanan|Hanan]]
 
 ## Biography
 

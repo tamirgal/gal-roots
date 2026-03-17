@@ -25,13 +25,19 @@ research_level: 2
 
 ![[attachments/pictures/cowan_caren.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1953-09-07
+**Born in:**
+**Families:** [[Families/Peaceman|Peaceman]], [[Families/Cowan|Cowan]]
+
 ## Family
 
 **Father:** [[People/Donald-William-Peaceman|Donald William Peaceman]] | **Mother:** [[People/Ruth-Klein-Peaceman|Ruth Klein Peaceman]]
 **Spouse:** [[People/David-Mark-Cowan|David Mark Cowan]]
 **Siblings:** [[People/Alan-Mark-Peaceman|Alan Mark Peaceman]]
 **Children:** [[People/Michael-Aaron-Cowan|Michael Aaron Cowan]], [[People/Steven-Jay-Cowan|Steven Jay Cowan]]
-**Families:** [[Families/Peaceman|Peaceman]], [[Families/Cowan|Cowan]]
 
 ## Biography
 Lives in Huston, [[Places/Texas]].

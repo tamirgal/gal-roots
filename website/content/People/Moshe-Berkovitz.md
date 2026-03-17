@@ -20,11 +20,17 @@ research_level: 1
 
 ![[attachments/pictures/Berkovitz Moshe.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Berkovitz|Berkovitz]]
+
 ## Family
 
 **Spouse:** [[People/Batsheba-Talker-Berkovitz|Batsheba Talker Berkovitz]]
 **Children:** [[People/Eliran-Berkovitz|Eliran Berkovitz]], [[People/Shiran-Berkovitz|Shiran Berkovitz]]
-**Families:** [[Families/Berkovitz|Berkovitz]]
 
 ## Biography
 

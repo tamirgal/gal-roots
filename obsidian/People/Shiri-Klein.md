@@ -10,11 +10,17 @@ sex: female
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 2002-06-26
+**Born in:**
+**Families:** [[Families/Klein|Klein]]
+
 ## Family
 
 **Father:** [[People/Mark-Klein|Mark Klein]] | **Mother:** [[People/Liora-Mashapour-Klein|Liora Mashapour Klein]]
 **Siblings:** [[People/Roee-Klein|Roee Klein]]
-**Families:** [[Families/Klein|Klein]]
 
 ## Biography
 

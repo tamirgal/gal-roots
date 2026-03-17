@@ -15,10 +15,16 @@ research_level: 2
 
 ![[attachments/pictures/harriet_jennifer_ronald_schlundt.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1984-06-10
+**Born in:**
+**Families:** [[Families/Schlundt|Schlundt]]
+
 ## Family
 
 **Father:** [[People/Ronald-Schlundt|Ronald Schlundt]] | **Mother:** [[People/Amy-Mina-Peaceman-Schlundt|Amy Mina Peaceman Schlundt]]
-**Families:** [[Families/Schlundt|Schlundt]]
 
 ## Biography
 Jennifer is currently living in Homburg, Germany and studying Medicine at the University Hospital since September 2003.

@@ -22,11 +22,17 @@ research_level: 1
 
 ![[attachments/pictures/Abada Mikhal.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 
+**Born in:**
+**Families:** [[Families/Ovdat|Ovdat]]
+
 ## Family
 
 **Spouse:** [[People/Yosseph-Yossi-Abada-Ovdat|Yosseph (Yossi Abada) Ovdat]]
 **Children:** [[People/Chen-Ovdat|Chen Ovdat]], [[People/Danielle-Ovdat|Danielle Ovdat]], [[People/May-Ovdat|May Ovdat]]
-**Families:** [[Families/Ovdat|Ovdat]]
 
 ## Biography
 

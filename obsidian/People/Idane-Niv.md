@@ -10,11 +10,17 @@ sex: male
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1991
+**Born in:**
+**Families:** [[Families/Niv|Niv]]
+
 ## Family
 
 **Father:** [[People/Amir-Niv|Amir Niv]] | **Mother:** [[People/Osnat-Niv|Osnat Niv]]
 **Siblings:** [[People/Sapyr-Niv|Sapyr Niv]], [[People/Shany-Niv|Shany Niv]]
-**Families:** [[Families/Niv|Niv]]
 
 ## Biography
 

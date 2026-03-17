@@ -10,11 +10,17 @@ sex: female
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 2002
+**Born in:**
+**Families:** [[Families/Niv|Niv]]
+
 ## Family
 
 **Father:** [[People/Shemer-Niv|Shemer Niv]] | **Mother:** [[People/Sarit-Niv|Sarit Niv]]
 **Siblings:** [[People/Israel-Dor-Niv|Israel Dor Niv]], [[People/Nahmann-Niv|Nahmann Niv]], [[People/Nathan-Niv|Nathan Niv]], [[People/Abraham-Niv|Abraham Niv]], [[People/Noa-Niv|Noa Niv]]
-**Families:** [[Families/Niv|Niv]]
 
 ## Biography
 

@@ -13,11 +13,17 @@ children_id:
 research_level: 1
 ---
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1926-04-26
+**Born in:**
+**Families:** [[Families/Weissenberg|Weissenberg]], [[Families/Aharon|Aharon]]
+
 ## Family
 
 **Spouse:** [[People/Mordechay-Aharon|Mordechay Aharon]]
 **Children:** [[People/Ernest-Aharon|Ernest Aharon]]
-**Families:** [[Families/Weissenberg|Weissenberg]], [[Families/Aharon|Aharon]]
 
 ## Biography
 

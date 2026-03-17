@@ -28,12 +28,18 @@ research_level: 1
 
 ![[attachments/pictures/Eliahou Celine.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1947-03-27
+**Born in:**
+**Families:** [[Families/Bonan|Bonan]], [[Families/Eliahou|Eliahou]]
+
 ## Family
 
 **Father:** [[People/Zaki-Bonan|Zaki Bonan]] | **Mother:** [[People/Marie-Israel-Bonan|Marie Israel Bonan]]
 **Spouse:** [[People/Elie-Eliahou|Elie Eliahou]]
 **Siblings:** [[People/Leon-Oni-Bonan|Leon Oni Bonan]], [[People/Israel-Isi-Bonan|Israel Isi Bonan]]
-**Families:** [[Families/Bonan|Bonan]], [[Families/Eliahou|Eliahou]]
 
 ## Biography
 

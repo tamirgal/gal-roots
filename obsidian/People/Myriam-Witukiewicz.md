@@ -15,11 +15,17 @@ research_level: 1
 
 ![[attachments/pictures/Witukievitz Miriam.jpg]]
 
+## Details
+
+**Hebrew Name:** 
+**Birthday:** 1978-04-04
+**Born in:**
+**Families:** [[Families/Witukiewicz|Witukiewicz]]
+
 ## Family
 
 **Father:** [[People/Ladys-Witukiewicz|Ladys Witukiewicz]] | **Mother:** [[People/Elise-Savdie-Witukiewicz|Elise Savdie Witukiewicz]]
-**Siblings:** [[People/Lauren-Witukiewicz|Lauren Witukiewicz]], [[People/David-Witukiewicz|David Witukiewicz]]
-**Families:** [[Families/Witukiewicz|Witukiewicz]]
+**Siblings:** [[People/Lauren-Witukiewicz-Carmeli|Lauren Witukiewicz Carmeli]], [[People/David-Witukiewicz|David Witukiewicz]]
 
 ## Biography
 
