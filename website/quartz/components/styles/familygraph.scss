@@ -101,6 +101,30 @@
       }
     }
 
+    & > .graph-close-btn {
+      display: none;
+
+      @media (max-width: 768px) {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: fixed;
+        top: 0.75rem;
+        left: 0.75rem;
+        z-index: 10001;
+        width: 36px;
+        height: 36px;
+        border-radius: 50%;
+        border: none;
+        background: var(--light);
+        color: var(--dark);
+        font-size: 1.1rem;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+        cursor: pointer;
+        -webkit-tap-highlight-color: transparent;
+      }
+    }
+
     & > .global-graph-toolbar {
       display: flex;
       flex-direction: row;
@@ -369,5 +393,70 @@
     margin: 0.2rem 0;
     border: none;
     border-top: 1px solid var(--lightgray);
+  }
+}
+
+.graph-share-dialog {
+  position: fixed;
+  inset: 0;
+  z-index: 100001;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+
+  .graph-share-dialog-box {
+    background: var(--light);
+    border-radius: 10px;
+    padding: 1.2rem;
+    width: min(90vw, 500px);
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+
+    p {
+      margin: 0;
+      font-weight: 600;
+    }
+
+    input {
+      width: 100%;
+      padding: 0.5rem;
+      border: 1px solid var(--lightgray);
+      border-radius: 5px;
+      font-size: 0.8rem;
+      box-sizing: border-box;
+    }
+
+    button {
+      align-self: flex-end;
+      padding: 0.4rem 1rem;
+      border: 1px solid var(--lightgray);
+      border-radius: 5px;
+      background: var(--light);
+      cursor: pointer;
+    }
+  }
+}
+
+.graph-toast {
+  position: fixed;
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%) translateY(1rem);
+  background: var(--dark);
+  color: var(--light);
+  padding: 0.6rem 1.2rem;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  z-index: 100000;
+  opacity: 0;
+  transition: opacity 0.3s, transform 0.3s;
+  pointer-events: none;
+
+  &.visible {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
   }
 }

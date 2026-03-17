@@ -91,6 +91,7 @@ export default ((opts?: Partial<FamilyGraphOptions>) => {
         </div>
         <div class="global-graph-outer">
           <div class="global-graph-container" data-cfg={JSON.stringify(globalGraph)}></div>
+          <button class="graph-close-btn" type="button" aria-label="Close graph">✕</button>
           <div class="global-graph-toolbar">
             <div class="sheet-handle">
               <div class="sheet-handle-bar"></div>
@@ -144,6 +145,9 @@ export default ((opts?: Partial<FamilyGraphOptions>) => {
                 </button>
                 <button class="reset-btn" type="button" title="Reset view">
                   ↺
+                </button>
+                <button class="share-btn" type="button" title="Share this view">
+                  🔗
                 </button>
                 <div class="family-direction">
                   <button class="dir-btn" data-dir="up" type="button">

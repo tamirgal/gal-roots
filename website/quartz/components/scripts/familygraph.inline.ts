@@ -26,6 +26,25 @@ import {
   pathToRoot,
 } from "../../util/path"
 import { FamilyGraphConfig } from "../FamilyGraph"
+import { compressToEncodedURIComponent, decompressFromEncodedURIComponent } from "lz-string"
+
+interface GraphSnapshot {
+  c: string
+  d: number
+  r: string
+  l: string
+  n: boolean
+  h: boolean
+  z: [number, number, number]
+  hd?: string[]
+  p: [string, number, number][]
+}
+
+interface NodeSnapshot {
+  positions: [string, number, number][]
+  hidden: string[]
+  zoom: [number, number, number]
+}
 
 let familyDataPromise: Promise<FamilyIndexMap> | null = null
 function getFamilyData(): Promise<FamilyIndexMap> {
@@ -247,6 +266,8 @@ type GraphHandle = {
   applyLayout: (name: string) => void
   setShowNames: (on: boolean) => void
   setHebrew: (on: boolean) => void
+  getSnapshot: () => NodeSnapshot
+  restoreSnapshot: (snap: NodeSnapshot) => void
 }
 
 let lastClickTime = 0
@@ -261,6 +282,7 @@ async function renderFamilyGraph(
     depth?: number
     direction?: Direction
     onRecenter?: (newCenter: SimpleSlug) => void
+    onShare?: () => void
   },
 ): Promise<GraphHandle> {
   const slug = simplifySlug(fullSlug)
@@ -268,7 +290,7 @@ async function renderFamilyGraph(
   const familyData = await getFamilyData()
   const entry = familyData[center]
   if (!entry) {
-    return { cleanup: () => {}, fitToView: () => {}, resetView: () => {}, applyLayout: () => {}, setShowNames: () => {}, setHebrew: () => {} }
+    return { cleanup: () => {}, fitToView: () => {}, resetView: () => {}, applyLayout: () => {}, setShowNames: () => {}, setHebrew: () => {}, getSnapshot: () => ({ positions: [], hidden: [], zoom: [0, 0, 1] }), restoreSnapshot: () => {} }
   }
 
   removeAllChildren(graph)
@@ -310,8 +332,8 @@ async function renderFamilyGraph(
 
   const graphData = { nodes, links: graphLinks }
 
-  const width = graph.offsetWidth
-  const height = Math.max(graph.offsetHeight, 250)
+  let width = graph.offsetWidth
+  let height = Math.max(graph.offsetHeight, 250)
   const isTouchDevice = "ontouchstart" in window || navigator.maxTouchPoints > 0
   const hitPadding = isTouchDevice ? 8 : 0
 
@@ -513,6 +535,25 @@ async function renderFamilyGraph(
   const stage = app.stage
   stage.interactive = false
 
+  let resizeTimer: ReturnType<typeof setTimeout> | null = null
+  const resizeObserver = new ResizeObserver(() => {
+    if (resizeTimer) clearTimeout(resizeTimer)
+    resizeTimer = setTimeout(() => {
+      const newW = graph.offsetWidth
+      const newH = Math.max(graph.offsetHeight, 250)
+      if (newW === width && newH === height) return
+      width = newW
+      height = newH
+      app.renderer.resize(width, height)
+      zoomBehavior.extent([
+        [0, 0],
+        [width, height],
+      ])
+      renderPixiFromD3()
+    }, 150)
+  })
+  resizeObserver.observe(graph)
+
   const labelsContainer = new Container<Text>({ zIndex: 3, isRenderGroup: true })
   const selectionRingContainer = new Container<Graphics>({ zIndex: 2.5, isRenderGroup: true })
   const nodesContainer = new Container<Graphics>({ zIndex: 2, isRenderGroup: true })
@@ -589,6 +630,7 @@ async function renderFamilyGraph(
   }
 
   const onRecenter = options?.onRecenter
+  const onShare = options?.onShare
 
   let currentTransform = zoomIdentity
 
@@ -1057,6 +1099,10 @@ async function renderFamilyGraph(
     menuItem("Show siblings", () => showSiblings(nodeId))
     divider()
     menuItem("Hide node", () => hideNode(nodeId))
+    if (isGlobal && onShare) {
+      divider()
+      menuItem("Share this view", () => onShare())
+    }
 
     document.body.appendChild(menu)
     contextMenu = menu
@@ -1720,6 +1766,8 @@ async function renderFamilyGraph(
     cleanup: () => {
       closeContextMenu()
       stopAnimation = true
+      resizeObserver.disconnect()
+      if (resizeTimer) clearTimeout(resizeTimer)
       document.removeEventListener("keydown", onKeyDown)
       app.canvas.removeEventListener("mousedown", onRectMouseDown, true)
       window.removeEventListener("mousemove", onRectMouseMove)
@@ -1737,6 +1785,43 @@ async function renderFamilyGraph(
     },
     setShowNames,
     setHebrew,
+    getSnapshot: (): NodeSnapshot => {
+      const positions: [string, number, number][] = []
+      for (const n of nodeRenderData) {
+        if (hiddenNodes.has(n.simulationData.id)) continue
+        const x = n.simulationData.x ?? 0
+        const y = n.simulationData.y ?? 0
+        positions.push([n.simulationData.id, Math.round(x), Math.round(y)])
+      }
+      return {
+        positions,
+        hidden: [...hiddenNodes],
+        zoom: [
+          Math.round(currentTransform.x),
+          Math.round(currentTransform.y),
+          Math.round(currentTransform.k * 1000) / 1000,
+        ],
+      }
+    },
+    restoreSnapshot: (snap: NodeSnapshot) => {
+      for (const id of snap.hidden) {
+        hiddenNodes.add(id)
+      }
+      applyVisibility()
+      for (const [id, x, y] of snap.positions) {
+        const nd = graphData.nodes.find((n) => n.id === id)
+        if (nd) {
+          nd.x = x
+          nd.y = y
+          nd.fx = x
+          nd.fy = y
+        }
+      }
+      simulation.alpha(0).stop()
+      const [zx, zy, zk] = snap.zoom
+      const t = zoomIdentity.translate(zx, zy).scale(zk)
+      applyTransform(t)
+    },
   }
 }
 
@@ -1797,6 +1882,129 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   let currentCenter: SimpleSlug = currentSlug
   let currentShowNames = false
   let currentHebrew = false
+  let currentLayout = "force"
+
+  function showToast(message: string) {
+    const existing = document.querySelector(".graph-toast")
+    if (existing) existing.remove()
+    const toast = document.createElement("div")
+    toast.className = "graph-toast"
+    toast.textContent = message
+    document.body.appendChild(toast)
+    requestAnimationFrame(() => toast.classList.add("visible"))
+    setTimeout(() => {
+      toast.classList.remove("visible")
+      setTimeout(() => toast.remove(), 300)
+    }, 2000)
+  }
+
+  function copyToClipboard(text: string): boolean {
+    try {
+      const ta = document.createElement("textarea")
+      ta.value = text
+      ta.style.position = "fixed"
+      ta.style.left = "-9999px"
+      ta.style.top = "-9999px"
+      ta.style.opacity = "0"
+      document.body.appendChild(ta)
+      ta.focus()
+      ta.select()
+      ta.setSelectionRange(0, text.length)
+      const ok = document.execCommand("copy")
+      ta.remove()
+      return ok
+    } catch {
+      return false
+    }
+  }
+
+  function shareOrCopy(shareUrl: string) {
+    if (navigator.clipboard?.writeText) {
+      navigator.clipboard.writeText(shareUrl).then(
+        () => showToast("Link copied to clipboard"),
+        () => {
+          if (copyToClipboard(shareUrl)) showToast("Link copied to clipboard")
+          else showUrlDialog(shareUrl)
+        },
+      )
+    } else if (copyToClipboard(shareUrl)) {
+      showToast("Link copied to clipboard")
+    } else {
+      showUrlDialog(shareUrl)
+    }
+  }
+
+  function showUrlDialog(shareUrl: string) {
+    const existing = document.querySelector(".graph-share-dialog")
+    if (existing) existing.remove()
+    const overlay = document.createElement("div")
+    overlay.className = "graph-share-dialog"
+    const box = document.createElement("div")
+    box.className = "graph-share-dialog-box"
+    const label = document.createElement("p")
+    label.textContent = "Copy this link:"
+    const input = document.createElement("input")
+    input.type = "text"
+    input.value = shareUrl
+    input.readOnly = true
+    input.addEventListener("focus", () => input.select())
+    const closeBtn = document.createElement("button")
+    closeBtn.type = "button"
+    closeBtn.textContent = "Close"
+    closeBtn.addEventListener("click", () => overlay.remove())
+    overlay.addEventListener("click", (e) => {
+      if (e.target === overlay) overlay.remove()
+    })
+    box.appendChild(label)
+    box.appendChild(input)
+    box.appendChild(closeBtn)
+    overlay.appendChild(box)
+    document.body.appendChild(overlay)
+    input.focus()
+    input.select()
+  }
+
+  function captureAndShare() {
+    const snap = globalGraphHandles[0]?.getSnapshot()
+    if (!snap) return
+    const state: GraphSnapshot = {
+      c: currentCenter,
+      d: currentDepth,
+      r: currentDirection === "up" ? "u" : currentDirection === "down" ? "d" : "b",
+      l: currentLayout,
+      n: currentShowNames,
+      h: currentHebrew,
+      z: snap.zoom,
+      p: snap.positions,
+    }
+    if (snap.hidden.length > 0) state.hd = snap.hidden
+    const compressed = compressToEncodedURIComponent(JSON.stringify(state))
+    const url = new URL(window.location.href)
+    url.hash = "g=" + compressed
+    const shareUrl = url.toString()
+    history.replaceState(null, "", url.toString())
+
+    const isTouch = "ontouchstart" in window
+    if (isTouch && navigator.share) {
+      navigator.share({ title: "Family Graph", url: shareUrl }).catch(() => {
+        shareOrCopy(shareUrl)
+      })
+    } else {
+      shareOrCopy(shareUrl)
+    }
+  }
+
+  function parseHashState(): GraphSnapshot | null {
+    const hash = window.location.hash
+    if (!hash.startsWith("#g=")) return null
+    try {
+      const json = decompressFromEncodedURIComponent(hash.slice(3))
+      if (!json) return null
+      return JSON.parse(json) as GraphSnapshot
+    } catch {
+      return null
+    }
+  }
 
   function syncShowNames() {
     if (currentShowNames) {
@@ -1823,6 +2031,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
             depth: currentDepth,
             direction: currentDirection,
             onRecenter: recenterGraph,
+            onShare: captureAndShare,
           }),
         )
       }
@@ -1844,6 +2053,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
             depth: currentDepth,
             direction: currentDirection,
             onRecenter: recenterGraph,
+            onShare: captureAndShare,
           }),
         )
       }
@@ -1891,6 +2101,13 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
       if (state === "minimized") updateSheetSummary()
     }
 
+    const graphContainer = toolbar.closest(".global-graph-outer")?.querySelector(".global-graph-container")
+    graphContainer?.addEventListener("click", () => {
+      if (sheetState === "expanded") {
+        setSheetState("minimized")
+      }
+    })
+
     handle.addEventListener("click", () => {
       if (sheetState === "minimized") setSheetState("expanded")
       else if (sheetState === "expanded") setSheetState("minimized")
@@ -1923,26 +2140,36 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     }, { passive: true })
   }
 
-  async function renderGlobalGraph() {
-    currentCenter = currentSlug
-    currentDepth = 2
-    currentDirection = "both"
-    currentShowNames = false
-    currentHebrew = false
+  async function renderGlobalGraph(snapshot?: GraphSnapshot | null) {
+    const restoring = snapshot != null
+    if (restoring) {
+      currentCenter = snapshot.c as SimpleSlug
+      currentDepth = snapshot.d
+      currentDirection = snapshot.r === "u" ? "up" : snapshot.r === "d" ? "down" : "both"
+      currentLayout = snapshot.l || "force"
+      currentShowNames = snapshot.n
+      currentHebrew = snapshot.h
+    } else {
+      currentCenter = currentSlug
+      currentDepth = 2
+      currentDirection = "both"
+      currentLayout = "force"
+      currentShowNames = false
+      currentHebrew = false
+    }
 
     const depthSel = containers[0]?.querySelector(".family-depth") as HTMLSelectElement
-    if (depthSel) {
-      depthSel.value = "2"
-      currentDepth = 2
-    }
+    if (depthSel) depthSel.value = String(currentDepth >= 999 ? 999 : currentDepth)
     const dirBtns = containers[0]?.querySelectorAll(".dir-btn")
     dirBtns?.forEach((btn) => {
-      btn.classList.toggle("active", btn.getAttribute("data-dir") === "both")
+      btn.classList.toggle("active", btn.getAttribute("data-dir") === currentDirection)
     })
     const showNamesCb = containers[0]?.querySelector(".show-names-cb") as HTMLInputElement
-    if (showNamesCb) showNamesCb.checked = false
+    if (showNamesCb) showNamesCb.checked = currentShowNames
     const hebrewCbReset = containers[0]?.querySelector(".hebrew-names-cb") as HTMLInputElement
-    if (hebrewCbReset) hebrewCbReset.checked = false
+    if (hebrewCbReset) hebrewCbReset.checked = currentHebrew
+    const layoutSel = containers[0]?.querySelector(".layout-select") as HTMLSelectElement
+    if (layoutSel) layoutSel.value = currentLayout
 
     for (const container of containers) {
       container.classList.add("active")
@@ -1951,6 +2178,9 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
 
       const graphContainer = container.querySelector(".global-graph-container") as HTMLElement
       registerEscapeHandler(container, hideGlobalGraph)
+
+      const closeBtn = container.querySelector(".graph-close-btn")
+      closeBtn?.addEventListener("click", hideGlobalGraph)
 
       const searchInput = container.querySelector(".family-search") as HTMLInputElement
       let resultsDiv: HTMLDivElement | null = null
@@ -2046,6 +2276,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
 
       const layoutSelect = container.querySelector(".layout-select") as HTMLSelectElement | null
       layoutSelect?.addEventListener("change", () => {
+        currentLayout = layoutSelect.value
         for (const h of globalGraphHandles) h.applyLayout(layoutSelect.value)
       })
 
@@ -2053,6 +2284,9 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
       resetBtn?.addEventListener("click", () => {
         for (const h of globalGraphHandles) h.resetView()
       })
+
+      const shareBtn = container.querySelector(".share-btn")
+      shareBtn?.addEventListener("click", () => captureAndShare())
 
       const toolbar = container.querySelector(".global-graph-toolbar") as HTMLElement | null
       if (toolbar) initBottomSheet(toolbar)
@@ -2064,11 +2298,27 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
             depth: currentDepth,
             direction: currentDirection,
             onRecenter: recenterGraph,
+            onShare: captureAndShare,
           }),
         )
       }
 
       updateSheetSummary()
+    }
+
+    if (restoring) {
+      if (currentLayout !== "force") {
+        for (const h of globalGraphHandles) h.applyLayout(currentLayout)
+      }
+      syncShowNames()
+      syncHebrew()
+      const nodeSnap: NodeSnapshot = {
+        positions: snapshot.p,
+        hidden: snapshot.hd ?? [],
+        zoom: snapshot.z,
+      }
+      for (const h of globalGraphHandles) h.restoreSnapshot(nodeSnap)
+      history.replaceState(null, "", window.location.pathname + window.location.search)
     }
   }
 
@@ -2106,4 +2356,9 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     cleanupLocalGraphs()
     cleanupGlobalGraphs()
   })
+
+  const hashState = parseHashState()
+  if (hashState) {
+    void renderGlobalGraph(hashState)
+  }
 })
