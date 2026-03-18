@@ -1,3 +1,40 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+article.rtl {
+  direction: rtl;
+  text-align: right;
+
+  h1, h2, h3, h4, h5, h6,
+  p, li, blockquote, td, th {
+    direction: rtl;
+    text-align: right;
+  }
+
+  blockquote {
+    border-left: none;
+    border-right: 3px solid var(--gray);
+    padding-left: 0;
+    padding-right: 1em;
+  }
+
+  table {
+    direction: rtl;
+  }
+
+  // LTR override for Latin/French text blocks
+  .ltr, [lang="en"], [lang="fr"] {
+    direction: ltr;
+    text-align: left;
+  }
+
+  // Keep images and embeds centered
+  img {
+    display: inline-block;
+  }
+
+  // Lists
+  ul, ol {
+    padding-left: 0;
+    padding-right: 2em;
+  }
+}
