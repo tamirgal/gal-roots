@@ -15,7 +15,7 @@ sex: male
 media:
   - "[[attachments/pictures/02_passport_tamir.jpg]]"
   - "[[attachments/pictures/tamir_seul.jpg]]"
-  - "[[attachments/pictures/assaftamir1.jpg]]"
+  - "[[attachments/pictures/AssafTamir1.jpg]]"
   - "[[attachments/pictures/assaftamir_2_copy.jpg]]"
   - "[[attachments/pictures/Five generations.jpg]]"
   - "[[attachments/pictures/nofit_1988.jpg]]"
@@ -59,7 +59,7 @@ Tamir Gal was born in [[Places/Haifa]], Israel (16 February 1979), and raised in
 
 ![[attachments/pictures/tamir_seul.jpg]]
 
-![[attachments/pictures/assaftamir1.jpg]]
+![[attachments/pictures/AssafTamir1.jpg]]
 *Deux freres ... enfants*
 
 ![[attachments/pictures/assaftamir_2_copy.jpg]]

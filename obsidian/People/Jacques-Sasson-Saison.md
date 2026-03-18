@@ -17,7 +17,7 @@ media:
   - "[[attachments/pictures/Sasson Jacques family.jpg]]"
   - "[[attachments/pictures/Saison Jacques & petitfils.jpg]]"
   - "[[attachments/pictures/SASSON family6.jpg]]"
-  - "[[attachments/pictures/SASSON family3.jpg]]"
+  - "[[attachments/pictures/SASSON family3.JPG]]"
   - "[[attachments/pictures/Sasson Jacques.jpg]]"
   - "[[attachments/pictures/Jacques Sasson 1940.jpg]]"
   - "[[attachments/pictures/mariage Leonie Jacques 2.jpg]]"
@@ -69,7 +69,7 @@ Jacques Sasson, ne a [[Places/Luxor]] ([[Places/Egypt]]) en 1898 . En 1957, il e
 ![[attachments/pictures/SASSON family6.jpg]]
 *C'etait il y a longtemps,...a [[Places/Luxor]] en 1919.Mais toujours elegant , et bien habille avec ma cravate papillon,.. un mouchoir de soie blanche saillant de la poche de mon veston, le tarbouche legerement incline sur ma tete,...et mon chasse mouche a la main.*
 
-![[attachments/pictures/SASSON family3.jpg]]
+![[attachments/pictures/SASSON family3.JPG]]
 *Mes parents, mes soeurs et mon petit frere. A [[Places/Luxor]] en 1915.*
 
 ![[attachments/pictures/Sasson Jacques.jpg]]

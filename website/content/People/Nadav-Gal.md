@@ -10,16 +10,16 @@ mother_id: ind00654
 born: "2014-04-21"
 sex: male
 media:
-  - "[[attachments/pictures/nadav13.jpg]]"
-  - "[[attachments/pictures/nadav02.jpg]]"
-  - "[[attachments/pictures/nadav03.jpg]]"
-  - "[[attachments/pictures/nadav11.jpg]]"
-  - "[[attachments/pictures/nadav13.jpg]]"
+  - "[[attachments/pictures/Nadav13.jpg]]"
+  - "[[attachments/pictures/Nadav02.jpg]]"
+  - "[[attachments/pictures/Nadav03.jpg]]"
+  - "[[attachments/pictures/Nadav11.jpg]]"
+  - "[[attachments/pictures/Nadav13.jpg]]"
   - "[[attachments/pictures/7generationsenglish.jpg]]"
 research_level: 2
 ---
 
-![[attachments/pictures/nadav13.jpg]]
+![[attachments/pictures/Nadav13.jpg]]
 
 ## Details
 
@@ -38,12 +38,12 @@ Nadav Gal ,... born in [[Places/Haifa]] , Israel date : 21.April 2014 hour : 23.
 
 ## Photos
 
-![[attachments/pictures/nadav02.jpg]]
+![[attachments/pictures/Nadav02.jpg]]
 
-![[attachments/pictures/nadav03.jpg]]
+![[attachments/pictures/Nadav03.jpg]]
 
-![[attachments/pictures/nadav11.jpg]]
+![[attachments/pictures/Nadav11.jpg]]
 
-![[attachments/pictures/nadav13.jpg]]
+![[attachments/pictures/Nadav13.jpg]]
 
 ![[attachments/pictures/7generationsenglish.jpg]]

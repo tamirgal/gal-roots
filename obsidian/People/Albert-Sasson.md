@@ -22,7 +22,7 @@ media:
   - "[[attachments/pictures/Port Said 05.jpg]]"
   - "[[attachments/pictures/SASSON family6.jpg]]"
   - "[[attachments/pictures/SASSON family 1--11.JPG]]"
-  - "[[attachments/pictures/SASSON family3.jpg]]"
+  - "[[attachments/pictures/SASSON family3.JPG]]"
   - "[[attachments/pictures/Albert Esther Maurice 1931.jpg]]"
   - "[[attachments/pictures/mariage Albert Emilie.jpg]]"
 research_level: 2
@@ -68,7 +68,7 @@ ALBERT (Abraham) SASSON, born in [[Places/Luxor]], the 24th of October 1909…Ma
 
 ![[attachments/pictures/SASSON family 1--11.JPG]]
 
-![[attachments/pictures/SASSON family3.jpg]]
+![[attachments/pictures/SASSON family3.JPG]]
 
 ![[attachments/pictures/Albert Esther Maurice 1931.jpg]]
 
