@@ -1,6 +1,8 @@
 import { SimpleSlug, FullSlug, joinSegments, simplifySlug } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 import { write } from "./helpers"
+import fs from "fs"
+import path from "path"
 
 export interface FamilyEntry {
   name: string
@@ -33,6 +35,15 @@ export const FamilyIndex: QuartzEmitterPlugin = () => ({
   async *emit(ctx, content) {
     const index: FamilyIndexMap = {}
 
+    const attachmentCaseMap = new Map<string, string>()
+    const picsDir = path.join(ctx.argv.directory, "attachments", "pictures")
+    try {
+      for (const fname of fs.readdirSync(picsDir)) {
+        const rel = "attachments/pictures/" + fname
+        attachmentCaseMap.set(rel.toLowerCase(), rel)
+      }
+    } catch { /* directory may not exist */ }
+
     for (const [_tree, file] of content) {
       const fm = file.data.frontmatter
       if (!fm?.cr_id) continue
@@ -58,7 +69,9 @@ export const FamilyIndex: QuartzEmitterPlugin = () => ({
         const firstMedia = mediaRaw[0]
         const mediaMatch = firstMedia.match(/^\[\[([^\]|]+)(?:\|[^\]]*)?\]\]$/)
         if (mediaMatch) {
-          portrait = mediaMatch[1].trim()
+          const rawPath = mediaMatch[1].trim()
+          const resolved = attachmentCaseMap.get(rawPath.toLowerCase())
+          portrait = resolved ?? rawPath
         }
       }
 
